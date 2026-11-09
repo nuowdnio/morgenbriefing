@@ -16,6 +16,13 @@
     }
   }
 
+  function startUrl(hostname, pathname) {
+    const owner = /^([a-z0-9-]+)\.github\.io$/i.exec(hostname || "");
+    const repo = /^\/([A-Za-z0-9._-]+)/.exec(pathname || "");
+    if (!owner || !repo) return null;
+    return "https://github.com/" + owner[1] + "/" + repo[1] + "/actions/workflows/briefing.yml";
+  }
+
   function visibleStories(stories, offTopics) {
     return stories
       .filter(function (story) { return !offTopics.has(story.topic); })
@@ -217,6 +224,12 @@
       document.getElementById("theme").textContent = dark ? "Hell" : "Dunkel";
     }
 
+    const restart = startUrl(window.location.hostname, window.location.pathname);
+    if (restart) {
+      document.getElementById("restart-link").href = restart;
+      document.getElementById("restart").hidden = false;
+    }
+
     setTheme(read(THEME_KEY));
     document.getElementById("theme").addEventListener("click", function () {
       const next = document.getElementById("theme").textContent === "Dunkel" ? "dark" : "light";
@@ -248,5 +261,5 @@
     }).catch(showError);
   }
 
-  return { safeUrl: safeUrl, visibleStories: visibleStories, splitTop: splitTop, start: start };
+  return { safeUrl: safeUrl, startUrl: startUrl, visibleStories: visibleStories, splitTop: splitTop, start: start };
 });

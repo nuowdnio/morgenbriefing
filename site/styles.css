@@ -95,6 +95,9 @@ button, select { font: inherit; color: inherit; }
 
 .empty { padding: 2rem 0; color: var(--muted); }
 .footer { margin-top: 2rem; padding-top: 1rem; border-top: 3px solid var(--ink); font-size: .92rem; }
+.restart { margin: 0 0 1rem; }
+.restart a { display: inline-block; min-height: 44px; padding: .55rem 0; font-weight: 600; }
+.restart .meta { display: block; margin: 0; }
 .footer label { font-weight: 600; margin-right: .5rem; }
 .footer select { min-height: 44px; padding: .3rem .5rem; background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; }
 .footer summary { cursor: pointer; padding: .7rem 0; min-height: 44px; }

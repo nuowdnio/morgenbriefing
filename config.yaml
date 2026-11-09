@@ -30,6 +30,9 @@ settings:
   request_timeout_seconds: 20
   max_feed_bytes: 5000000
 
+mail:
+  topics: []                  # leer = alle Themen, sonst z. B. [deutschland, weltpolitik, klima]
+
 ranking:
   sources: 3.0                # mehrere unabhängige Quellen zählen am stärksten
   regions: 1.5                # Berichte aus mehreren Weltregionen

@@ -1,6 +1,6 @@
 const test = require("node:test");
 const assert = require("node:assert");
-const { safeUrl, visibleStories, splitTop } = require("../site/app.js");
+const { safeUrl, startUrl, visibleStories, splitTop } = require("../site/app.js");
 
 const stories = [
   { rank: 3, topic: "sport" },
@@ -29,4 +29,9 @@ test("nur http(s)-Links sind erlaubt", () => {
   assert.strictEqual(safeUrl("data:text/html,x"), null);
   assert.strictEqual(safeUrl("kein link"), null);
   assert.strictEqual(safeUrl("https://example.org/a"), "https://example.org/a");
+});
+
+test("der Startlink führt zum Ablauf des eigenen Repositorys", () => {
+  assert.strictEqual(startUrl("nuowdnio.github.io", "/morgenbriefing/"), "https://github.com/nuowdnio/morgenbriefing/actions/workflows/briefing.yml");
+  assert.strictEqual(startUrl("127.0.0.1", "/"), null);
 });

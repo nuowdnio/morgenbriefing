@@ -6,6 +6,21 @@ Erstellt jeden Morgen automatisch ein deutschsprachiges News-Briefing aus seriö
 - Dein Computer muss morgens nicht eingeschaltet sein.
 - Themen schaltest du direkt auf der Seite an und ab. Die Auswahl merkt sich dein Browser.
 
+## Briefing von Hand starten
+
+1. Öffne [Briefing starten](../../actions/workflows/briefing.yml) oder tippe auf der Webseite ganz unten auf **Briefing jetzt neu erstellen**.
+2. Tippe auf **Run workflow** und dann auf den grünen Knopf **Run workflow**.
+
+Nach etwa fünf Minuten ist das neue Briefing online und in deinem Postfach. Möchtest du keine Mail, nimm vor dem Start das Häkchen bei „Briefing auch per Mail schicken“ heraus.
+
+## Die Mail am Morgen
+
+Jeden Morgen gegen 6 Uhr schickt dir GitHub das Briefing an die Adresse deines GitHub-Kontos. Technisch legt das Programm dafür im Reiter **Issues** einen Eintrag an und erwähnt dich darin.
+
+- Kommt keine Mail: Prüfe den Spam-Ordner und unter [Notifications](https://github.com/settings/notifications), ob **Email** bei „Participating, @mentions and custom“ aktiv ist.
+- Nur bestimmte Themen: In `config.yaml` bei `mail` zum Beispiel `topics: [deutschland, weltpolitik, klima]` eintragen. Die Themen-IDs stehen weiter unten in derselben Datei.
+- Die Themenschalter gelten nur auf der Webseite, nicht in der Mail.
+
 ## Einrichten (etwa 10 Minuten, am besten am Computer)
 
 ### 1. Projekt zu GitHub bringen
@@ -33,7 +48,7 @@ Wichtig: Der Ordner `.github` muss mit hochgeladen werden. Auf dem Mac blendest 
 ### 4. Erstes Briefing starten
 
 1. Öffne den Reiter **Actions**.
-2. Klicke links auf **Tägliches Briefing**.
+2. Klicke links auf **Briefing starten**.
 3. Klicke rechts auf **Run workflow** und bestätige.
 
 Der erste Lauf dauert länger, weil die Sprachmodelle geladen werden. Ist er grün, findest du die Adresse unter **Settings → Pages**. Sie sieht so aus: `https://DEINNAME.github.io/morgenbriefing/`. Speichere sie am Handy als Lesezeichen oder auf dem Startbildschirm.
@@ -66,14 +81,9 @@ Landet eine Meldung öfter im falschen Thema, ergänze passende Wörter bei `key
 
 ### Uhrzeit
 
-In `.github/workflows/briefing.yml` stehen unter `cron` zwei Zeiten in **UTC**: eine Hauptzeit und eine Reserve.
+Das Briefing startet um 05:40 Uhr deutscher Zeit, auch nach der Zeitumstellung. GitHub startet geplante Läufe manchmal verspätet, die Mail kann also auch etwas später kommen.
 
-| cron | Winter (MEZ) | Sommer (MESZ) |
-|---|---|---|
-| `17 2 * * *` | 03:17 Uhr | 04:17 Uhr |
-| `7 4 * * *` | 05:07 Uhr | 06:07 Uhr |
-
-Die erste Zahl sind die Minuten, die zweite die Stunde. GitHub startet geplante Läufe manchmal verspätet, plane deshalb Puffer ein.
+Für eine andere Zeit passt du in `.github/workflows/briefing.yml` die drei `cron`-Zeilen an und bei `--not-before` die früheste Uhrzeit. Die erste Zahl sind die Minuten, die zweite die Stunde in **UTC** (im Winter eine, im Sommer zwei Stunden hinter Deutschland).
 
 ### Namen und Begriffe
 

@@ -1,17 +1,25 @@
-name: Tägliches Briefing
+name: Briefing starten
 
 on:
   schedule:
-    # Zeiten in UTC. 02:17 UTC = 03:17 Uhr (Winter) bzw. 04:17 Uhr (Sommer) in Deutschland.
-    - cron: "17 2 * * *"
-    # Reserve, falls GitHub den ersten Lauf verspätet oder auslässt.
-    - cron: "7 4 * * *"
+    # Ziel: Start um 05:40 Uhr deutscher Zeit, damit die Mail gegen 6 Uhr da ist.
+    # GitHub rechnet in UTC. Das Programm wählt selbst den richtigen Lauf,
+    # deshalb stimmt die Zeit auch nach der Zeitumstellung. Der letzte Eintrag ist die Reserve.
+    - cron: "40 3 * * *"
+    - cron: "40 4 * * *"
+    - cron: "40 5 * * *"
   workflow_dispatch:
+    inputs:
+      mail:
+        description: "Briefing auch per Mail schicken"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
   pages: write
   id-token: write
+  issues: write
 
 concurrency:
   group: briefing
@@ -21,6 +29,8 @@ jobs:
   build:
     runs-on: ubuntu-24.04
     timeout-minutes: 60
+    outputs:
+      built: ${{ steps.briefing.outputs.built }}
     steps:
       - uses: actions/checkout@v7
 
@@ -49,10 +59,11 @@ jobs:
           node --test tests/app.test.js
 
       - name: Briefing erstellen
+        id: briefing
         run: |
           export FASTEMBED_CACHE_PATH="$HOME/.cache/fastembed"
           if [ "${{ github.event_name }}" = "schedule" ]; then
-            python -m briefing.main --skip-if-today
+            python -m briefing.main --skip-if-today --not-before 05:00
           else
             python -m briefing.main
           fi
@@ -83,3 +94,29 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v5
+
+  mail:
+    needs: [build, deploy]
+    if: needs.build.outputs.built == 'true' && (github.event_name == 'schedule' || inputs.mail)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - run: pip install PyYAML==6.0.3
+
+      - name: Briefing als Mail verschicken
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.event.repository.name }}
+        run: |
+          python -m briefing.mail_issue --owner "$OWNER" --repo "$REPO" --title-file /tmp/title.txt --body-file /tmp/body.md
+          gh label create briefing --color 1747b5 --description "Tägliches Briefing" --force
+          gh issue create --title "$(cat /tmp/title.txt)" --body-file /tmp/body.md --label briefing
