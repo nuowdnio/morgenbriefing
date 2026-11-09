@@ -56,6 +56,8 @@ Unter **Actions → Quellen prüfen → Run workflow** testest du alle eingetrag
 
 Andere Sprachen als Deutsch und Englisch sind möglich: `language` entsprechend setzen. Das passende Modell wird automatisch geladen.
 
+Aktiv sind nur Medien ohne Bezahlschranke. Einträge mit `paywall: true` lassen sich nicht einschalten, das Programm bricht sonst mit einer Fehlermeldung ab. Einzelne Bezahlartikel werden zusätzlich über Muster in `exclude` aussortiert.
+
 ### Themen
 
 Auf der Webseite wählst du Themen per Schalter an und ab. Neue Themen legst du in `config.yaml` unter `topics` an. Das Thema `weltpolitik` muss bleiben, weil es als Auffangthema dient.
@@ -98,7 +100,8 @@ Standard ist Argos Translate. Unter **Actions → Übersetzer vergleichen → Ru
 ## Grenzen
 
 - Maschinelle Übersetzungen können holprig sein. Bei wichtigen Details zählt der verlinkte Originalartikel.
-- Die Meldungen sind nur so vollständig wie die Kurzbeschreibungen in den Feeds. Volltexte werden bewusst nicht gespeichert.
+- „Mehr dazu“ zeigt, was die Feeds über die Kurzfassung hinaus enthalten, je Quelle bis zu 700 Zeichen (`max_detail_chars`). Komplette Artikel fremder Medien werden bewusst nicht gespeichert, der volle Text ist immer einen Tipp entfernt über den Link zum Original.
+- Ob ein Medium frei lesbar ist, ist in `config.yaml` je Quelle festgelegt und wird nicht bei jedem Artikel geprüft. Führt ein Medium später eine Bezahlschranke ein, setze dort `enabled: false` und `paywall: true`.
 - Mit einem kostenlosen Konto ist die Seite öffentlich erreichbar. Suchmaschinen werden zwar ausgesperrt, trotzdem solltest du den Link nicht weitergeben, weil die Seite übersetzte Kurztexte fremder Medien enthält.
 
 ## Wenn etwas nicht klappt

@@ -66,7 +66,27 @@
     else badges.append(element("span", "", sourceLabel(story.source_count)));
     if (story.machine_translated) badges.append(element("span", "", "Maschinell übersetzt"));
     article.append(badges);
+    if (story.details && story.details.length) {
+      const more = element("details", "more");
+      more.append(element("summary", "", "Mehr dazu"));
+      story.details.forEach(function (detail) {
+        const block = element("div", "more-item");
+        block.append(element("p", "more-source", detail.source + " · " + detail.country));
+        if (detail.title) block.append(element("p", "more-title", detail.title));
+        if (detail.text && detail.text.length) block.append(element("p", "more-text", detail.text.join(" ")));
+        const detailHref = safeUrl(detail.url);
+        if (detailHref) {
+          const full = element("a", "more-link", "Ganzen Artikel bei " + detail.source + " lesen");
+          full.href = detailHref;
+          full.rel = "noopener noreferrer nofollow";
+          block.append(full);
+        }
+        more.append(block);
+      });
+      article.append(more);
+    }
     const links = element("p", "links");
+    links.append(element("span", "links-label", "Ganzer Artikel: "));
     (story.links || []).forEach(function (link) {
       const href = safeUrl(link.url);
       if (!href) return;

@@ -17,6 +17,7 @@ class Source:
     weight: float = 1.0
     enabled: bool = True
     topic_lock: str | None = None
+    paywall: bool = False
 
 
 @dataclass
@@ -51,6 +52,7 @@ class Story:
     title: str = ""
     summary: list[str] = field(default_factory=list)
     machine_translated: bool = False
+    details: list[dict] = field(default_factory=list)
 
     @property
     def source_ids(self) -> set[str]:

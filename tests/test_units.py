@@ -1,3 +1,5 @@
+import random
+
 import numpy as np
 import pytest
 
@@ -197,3 +199,77 @@ def test_glossary_retries_when_placeholder_is_damaged():
 def test_glossary_skips_same_language():
     inner = EchoTranslator()
     assert glossary(inner).translate("Merz sprach", "de", "de") == "Merz sprach" and not inner.calls
+
+
+# Ausklappen
+
+def test_details_add_only_new_text_and_are_capped():
+    from briefing.pipeline import build_details
+
+    rng = random.Random(7)
+    sentences = ["Der " + " ".join("".join(rng.choice("bdfgklmnprst") + rng.choice("aeiou") for _ in range(3)) for _ in range(7)) + "." for _ in range(200)]
+    long_text = " ".join(sentences)
+    article = make_article("Titel eins", long_text, source=make_source("a", language="en"), url="https://a.org/1")
+    story = Story([article])
+    shown = {sentences[0]}
+    details = build_details(story, article, shown, {"target_language": "de", "max_detail_chars": 300}, EchoTranslator())
+    assert len(details) == 1 and details[0]["title"] == ""
+    assert sum(len(t) for t in details[0]["text"]) < 300 + 6 * len(details[0]["text"])
+    assert not any(sentences[0] in t for t in details[0]["text"])
+    assert details[0]["machine_translated"] is True
+
+
+def test_details_skip_entry_without_new_content():
+    from briefing.pipeline import build_details
+
+    article = make_article("Titel", "Nur dieser Satz steht in dem kurzen Feed drin.", url="https://a.org/1")
+    details = build_details(Story([article]), article, {"Nur dieser Satz steht in dem kurzen Feed drin."},
+                            {"target_language": "de"}, EchoTranslator())
+    assert details == []
+
+
+def test_details_list_other_sources_and_drop_bad_links():
+    from briefing.pipeline import build_details
+
+    main = make_article("Titel eins", source=make_source("a", language="de", weight=2), url="https://a.org/1")
+    other = make_article("Anderer Titel", "Hier steht eine ganz andere Beschreibung des Ereignisses.", source=make_source("b"), url="https://b.org/2")
+    bad = make_article("Boese", "Text mit schlechtem Link zum Ausprobieren hier.", source=make_source("c"), url="javascript:alert(1)")
+    details = build_details(Story([main, other, bad]), main, set(), {"target_language": "de"}, EchoTranslator())
+    assert [d["source"] for d in details] == ["B"] and details[0]["title"] == "[de] Anderer Titel"
+
+
+# Bezahlschranken
+def test_enabled_source_with_paywall_is_rejected():
+    from briefing.config import ConfigError, validate
+
+    source = {"id": "x", "url": "https://x.org/f", "region": "europa", "enabled": True, "paywall": True}
+    config = {"topics": [{"id": "weltpolitik"}], "sources": [source]}
+    with pytest.raises(ConfigError):
+        validate(config)
+
+
+def test_shipped_config_has_no_active_paywall_source():
+    from pathlib import Path
+
+    from briefing.config import build_sources, load_config
+
+    config = load_config(Path(__file__).resolve().parents[1] / "config.yaml")
+    active = build_sources(config)
+    assert len(active) >= config["settings"]["min_sources_ok"]
+    assert not any(source.paywall for source in active)
+
+
+def test_paywalled_articles_are_filtered_by_marker():
+    from pathlib import Path
+
+    import yaml
+
+    rules = yaml.safe_load((Path(__file__).resolve().parents[1] / "config.yaml").read_text(encoding="utf-8"))["exclude"]
+    paid = [make_article("Ein Test (g+)", url="https://g.de/1"), make_article("Bericht", url="https://x.org/plus/2")]
+    free = make_article("Ein Test", url="https://g.de/3")
+    assert apply_exclusions(paid + [free], rules) == [free]
+
+
+def test_truncated_sentences_are_not_used():
+    article = make_article("Titel", "Der Bericht beschreibt den Start einer langen Debatte über...", source=make_source(language="de"))
+    assert select_sentences(Story([article]), "Titel", "de", 3, 480) == ([], None)

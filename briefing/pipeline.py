@@ -14,7 +14,8 @@ from .filters import apply_exclusions, deduplicate, within_window
 from .models import Article, Source, SourceStatus, Story
 from .output import status_to_dict, story_to_dict, write_briefing
 from .rank import score_story, select_stories
-from .summarize import pick_headline, select_sentences
+from .summarize import detail_sentences, pick_headline, select_sentences
+from .textutil import normalize_title, safe_url
 from .topics import TopicClassifier
 from .translate import TranslationError, Translator
 
@@ -48,6 +49,39 @@ def build_stories(articles: list[Article], config: dict, embedder: Embedder, now
     )
 
 
+def build_details(story: Story, headline: Article, shown: set[str], settings: dict, translator: Translator) -> list[dict]:
+    """Inhalt zum Ausklappen: was die einzelnen Feeds über die Kurzfassung hinaus enthalten."""
+    target = settings["target_language"]
+    limit = int(settings.get("max_detail_chars", 700))
+    details: list[dict] = []
+    seen_urls: set[str] = set()
+    for article in sorted(story.articles, key=lambda a: a.source.weight, reverse=True):
+        url = safe_url(article.url)
+        if not url or url in seen_urls:
+            continue
+        seen_urls.add(url)
+        language = article.source.language
+        extra = detail_sentences(article, shown, limit)
+        same_title = normalize_title(article.title) == normalize_title(headline.title)
+        if same_title and not extra:
+            continue
+        try:
+            title = "" if same_title else translator.translate(article.title, language, target)
+            text = [translator.translate(sentence, language, target) for sentence in extra]
+        except Exception as error:
+            log.warning("Zusatztext übersprungen (%s): %s", article.url, error)
+            continue
+        details.append({
+            "source": article.source.name,
+            "country": article.source.country,
+            "url": url,
+            "title": title,
+            "text": text,
+            "machine_translated": language != target,
+        })
+    return details
+
+
 def localize(stories: list[Story], settings: dict, translator: Translator) -> list[Story]:
     """Übersetzt nur ausgewählte Meldungen; misslungene Meldungen entfallen."""
     target = settings["target_language"]
@@ -66,6 +100,7 @@ def localize(stories: list[Story], settings: dict, translator: Translator) -> li
             log.warning("Übersetzung übersprungen (%s): %s", headline.url, error)
             continue
         story.machine_translated = translated
+        story.details = build_details(story, headline, set(sentences), settings, translator)
         finished.append(story)
     return finished
 

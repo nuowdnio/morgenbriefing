@@ -20,6 +20,11 @@ class Candidate:
     weight: float
 
 
+def _is_complete(sentence: str) -> bool:
+    """Vom Feed abgeschnittene Sätze enden meist mit Auslassungspunkten."""
+    return sentence[-1] in '.!?"“”' and not sentence.endswith("...")
+
+
 def pick_headline(story: Story, target: str) -> Article:
     """Bevorzugt eine Originalzeile in der Zielsprache, dann die stärkste Quelle."""
     return max(
@@ -32,7 +37,7 @@ def _candidates(story: Story) -> list[Candidate]:
     found: list[Candidate] = []
     for article in sorted(story.articles, key=lambda a: a.source.weight, reverse=True):
         for sentence in split_sentences(article.description):
-            if MIN_CHARS <= len(sentence) <= MAX_CHARS and sentence[-1] in '.!?"“”…':
+            if MIN_CHARS <= len(sentence) <= MAX_CHARS and _is_complete(sentence):
                 found.append(Candidate(sentence, article.source.language, article.source.weight))
     return found
 
@@ -44,6 +49,22 @@ def _preferred_language(candidates: list[Candidate], target: str) -> str | None:
     if any(c.language == target for c in candidates):
         return target
     return Counter(c.language for c in candidates).most_common(1)[0][0]
+
+
+def detail_sentences(article: Article, exclude: set[str], max_chars: int) -> list[str]:
+    """Weitere Feed-Sätze einer Quelle, gekappt, damit keine Volltexte entstehen."""
+    found: list[str] = []
+    used = 0
+    for sentence in split_sentences(article.description):
+        if not _is_complete(sentence):
+            continue
+        if sentence in exclude or any(jaccard(sentence, other) > DUPLICATE_LIMIT for other in [*exclude, *found]):
+            continue
+        if used + len(sentence) > max_chars:
+            break
+        found.append(sentence)
+        used += len(sentence)
+    return found
 
 
 def select_sentences(story: Story, headline: str, target: str, max_sentences: int, max_chars: int) -> tuple[list[str], str | None]:

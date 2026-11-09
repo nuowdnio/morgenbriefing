@@ -39,6 +39,7 @@ def story_to_dict(story: Story, rank: int) -> dict[str, Any]:
         "region_count": len(story.regions),
         "published": story.newest.isoformat(),
         "links": links,
+        "details": story.details,
     }
 
 

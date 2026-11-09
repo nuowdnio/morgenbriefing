@@ -39,6 +39,8 @@ def validate(config: dict[str, Any]) -> None:
         seen.add(source_id)
         if raw.get("region") not in ALLOWED_REGIONS:
             raise ConfigError(f"Quelle {source_id}: unbekannte Region {raw.get('region')!r}")
+        if raw.get("enabled", True) and raw.get("paywall"):
+            raise ConfigError(f"Quelle {source_id}: hat eine Bezahlschranke und darf nicht aktiv sein.")
         lock = raw.get("topic_lock")
         if lock and lock not in topic_ids:
             raise ConfigError(f"Quelle {source_id}: unbekanntes Thema {lock!r}")
