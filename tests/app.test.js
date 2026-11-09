@@ -1,6 +1,6 @@
 const test = require("node:test");
 const assert = require("node:assert");
-const { safeUrl, startUrl, visibleStories, splitTop } = require("../site/app.js");
+const { safeUrl, startUrl, visibleStories, splitTop, formatNumber, formatChange, sparkPoints } = require("../site/app.js");
 
 const stories = [
   { rank: 3, topic: "sport" },
@@ -34,4 +34,17 @@ test("nur http(s)-Links sind erlaubt", () => {
 test("der Startlink führt zum Ablauf des eigenen Repositorys", () => {
   assert.strictEqual(startUrl("nuowdnio.github.io", "/morgenbriefing/"), "https://github.com/nuowdnio/morgenbriefing/actions/workflows/briefing.yml");
   assert.strictEqual(startUrl("127.0.0.1", "/"), null);
+});
+
+test("Kurse und Veränderungen im deutschen Format", () => {
+  assert.strictEqual(formatNumber(24312.4, 0), "24.312");
+  assert.strictEqual(formatNumber(1.08234, 4), "1,0823");
+  assert.strictEqual(formatChange(1.234, false), "+1,2 %");
+  assert.strictEqual(formatChange(-0.05, true), "−0,05 Pp.");
+  assert.strictEqual(formatChange(null, false), "–");
+});
+
+test("die Kurve füllt die Fläche von unten nach oben", () => {
+  assert.strictEqual(sparkPoints([1, 2, 3], 10, 10), "0.0,10.0 5.0,5.0 10.0,0.0");
+  assert.strictEqual(sparkPoints([5], 10, 10), "");
 });

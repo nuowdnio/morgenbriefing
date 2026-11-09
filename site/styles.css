@@ -7,6 +7,8 @@
   --rule: #cbd3dc;
   --accent: #1747b5;
   --warn: #8a4b00;
+  --up: #0b6b3a;
+  --down: #b3261e;
   --font-display: "Iowan Old Style", "Palatino Linotype", Palatino, Charter, Georgia, serif;
   --font-body: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   color-scheme: light;
@@ -20,6 +22,8 @@
     --rule: #2e3a47;
     --accent: #8db0ff;
     --warn: #f0b566;
+    --up: #5fd08f;
+    --down: #ff8a80;
     color-scheme: dark;
   }
 }
@@ -31,6 +35,8 @@
   --rule: #2e3a47;
   --accent: #8db0ff;
   --warn: #f0b566;
+  --up: #5fd08f;
+  --down: #ff8a80;
   color-scheme: dark;
 }
 
@@ -102,6 +108,46 @@ button, select { font: inherit; color: inherit; }
 .footer select { min-height: 44px; padding: .3rem .5rem; background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; }
 .footer summary { cursor: pointer; padding: .7rem 0; min-height: 44px; }
 .footer ul { margin: 0; padding-left: 1.1rem; color: var(--muted); }
+
+/* Börse & Märkte */
+.market-summary { margin: .7rem 0 0; font-size: 1.05rem; }
+.market-head { font-size: 1.15rem; margin-top: 1.4rem; }
+.table-wrap { overflow-x: auto; margin-top: .5rem; }
+.quotes { width: 100%; border-collapse: collapse; font-size: .92rem; }
+.quotes th, .quotes td { padding: .45rem .35rem; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
+.quotes thead th { color: var(--muted); font-weight: 600; font-size: .8rem; }
+.quotes tbody th { font-weight: 600; min-width: 7.5rem; overflow-wrap: normal; hyphens: auto; }
+.quotes .num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.quote-name { display: block; }
+.quote-sub { display: inline-block; margin-left: .4rem; color: var(--muted); font-size: .8rem; font-weight: 400; }
+.quotes .quote-sub { display: block; margin-left: 0; }
+.quote-sub.block { display: block; margin: .15rem 0 0; }
+.change-up { color: var(--up); }
+.change-down { color: var(--down); }
+.change-flat { color: var(--muted); }
+.spark-col { width: 84px; padding-right: 0 !important; }
+.spark { width: 80px; height: 24px; display: block; }
+.spark polyline { fill: none; stroke-width: 1.5; stroke-linejoin: round; stroke-linecap: round; }
+.spark-up polyline { stroke: var(--up); }
+.spark-down polyline { stroke: var(--down); }
+.spark-flat polyline { stroke: var(--muted); }
+.watch, .trends, .reasons, .related { list-style: none; margin: 0; padding: 0; }
+.watch-item, .trend-item { padding: .8rem 0; border-bottom: 1px solid var(--rule); }
+.watch-head, .watch-figures, .trend-line { margin: 0; }
+.watch-figures { margin-top: .2rem; font-size: .92rem; font-variant-numeric: tabular-nums; }
+.watch-figures .num { margin-right: .7rem; font-weight: 600; }
+.reasons { margin-top: .35rem; }
+.reasons li { position: relative; padding-left: 1rem; font-size: .95rem; }
+.reasons li::before { content: "•"; position: absolute; left: 0; color: var(--accent); }
+.related li { margin-top: .25rem; font-size: .9rem; }
+.related a { display: inline-block; padding: .2rem 0; }
+.trend-line { margin-top: .2rem; font-size: .95rem; }
+.trend-hot { color: var(--accent); font-weight: 600; }
+@media (max-width: 30rem) {
+  .quotes { font-size: .85rem; }
+  .quotes .col-1m, .spark-col { display: none; }
+  .quotes th, .quotes td { padding: .45rem .25rem; }
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .chip { transition: background-color .12s; }

@@ -79,6 +79,18 @@ Auf der Webseite wählst du Themen per Schalter an und ab. Neue Themen legst du 
 
 Landet eine Meldung öfter im falschen Thema, ergänze passende Wörter bei `keywords`.
 
+### Börse & Märkte
+
+Am Ende des Briefings (Webseite und Mail) steht ein Börsenteil. Auf der Webseite schaltest du ihn mit dem Schalter **Börse & Märkte** an und ab.
+
+- **Kurse:** DAX, MDAX, Euro Stoxx 50, S&P 500, Nasdaq 100, Nikkei, Hang Seng, Euro/Dollar, Gold, Brent-Öl, die Rendite zehnjähriger US-Anleihen und Bitcoin. Gezeigt werden Stand, Veränderung zum Vortag, über einen Monat und seit Jahresbeginn, dazu der Trend (Lage zur 50- und 200-Tage-Linie) und eine Kurve der letzten drei Monate.
+- **Unternehmen im Blick:** Aus einer Liste von gut 35 großen Unternehmen erscheinen die auffälligsten. Ausgewählt wird nach ungewöhnlich starken Kursbewegungen (gemessen an der üblichen Schwankung der Aktie), neuen Jahreshochs oder -tiefs, starken Monatsbewegungen und Erwähnungen in den heutigen Nachrichten. Zu jedem Unternehmen steht der Grund, bei Erwähnungen mit Link zur Meldung.
+- **Trends:** Themen wie KI, Chips, Rüstung, Zölle, Zinsen, Energie oder Elektroautos. Gezählt wird, wie oft sie heute in den Nachrichten vorkommen, verglichen mit den letzten 7 Briefings, und wie sich die passenden Aktien im letzten Monat entwickelt haben.
+
+Anpassen in `config.yaml` unter `markets`: Unternehmen bei `companies` ergänzen oder streichen (Kürzel wie bei finance.yahoo.com), Trendthemen bei `trends`. Den ganzen Teil schaltest du mit `enabled: false` ab, nur in der Mail mit `markets: false` unter `mail`.
+
+Die Kurse kommen ohne Schlüssel von der frei abrufbaren Chart-Schnittstelle von Yahoo Finance, etwa 50 Abrufe pro Tag. Sie sind verzögert und ohne Gewähr. Fällt der Abruf aus, fehlt nur der Börsenteil, das übrige Briefing erscheint normal. Keine Anlageberatung.
+
 ### Uhrzeit
 
 Das Briefing startet um 05:40 Uhr deutscher Zeit, auch nach der Zeitumstellung. GitHub startet geplante Läufe manchmal verspätet, die Mail kann also auch etwas später kommen.

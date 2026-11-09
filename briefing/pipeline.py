@@ -11,6 +11,7 @@ from .cluster import cluster_articles
 from .embed import Embedder
 from .fetch import fetch_all
 from .filters import apply_exclusions, deduplicate, within_window
+from .markets import Fetcher, build_markets
 from .models import Article, Source, SourceStatus, Story
 from .output import status_to_dict, story_to_dict, write_briefing
 from .rank import score_story, select_stories
@@ -105,8 +106,21 @@ def localize(stories: list[Story], settings: dict, translator: Translator) -> li
     return finished
 
 
+def markets_section(config: dict, articles: list[Article], stories: list[Story], output_dir: Path,
+                    today, fetch: Fetcher | None = None) -> dict[str, Any] | None:
+    """Börsenteil; ein Fehler hier darf das Nachrichten-Briefing nie verhindern."""
+    if not (config.get("markets") or {}).get("enabled"):
+        return None
+    try:
+        return build_markets(config, articles, stories, output_dir, today, fetch)
+    except Exception as error:
+        log.warning("Börsenteil übersprungen: %s", error)
+        return {"available": False, "source": "", "failed": []}
+
+
 def run_pipeline(config: dict, sources: list[Source], translator: Translator, embedder: Embedder,
-                 output_dir: Path, now: datetime | None = None, warnings: list[str] | None = None) -> dict[str, Any]:
+                 output_dir: Path, now: datetime | None = None, warnings: list[str] | None = None,
+                 market_fetch: Fetcher | None = None) -> dict[str, Any]:
     now = now or datetime.now(timezone.utc)
     settings = config["settings"]
     target = settings["target_language"]
@@ -142,6 +156,9 @@ def run_pipeline(config: dict, sources: list[Source], translator: Translator, em
         "stories": [story_to_dict(story, rank) for rank, story in enumerate(stories, start=1)],
         "sources": [status_to_dict(status) for status in statuses],
     }
+    markets = markets_section(config, prepared, stories, output_dir, local_now.date(), market_fetch)
+    if markets is not None:
+        payload["markets"] = markets
     write_briefing(output_dir, local_now.date(), payload, int(settings["archive_days"]))
     return payload
 

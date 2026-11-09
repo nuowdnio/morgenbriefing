@@ -1,6 +1,7 @@
 """Lädt und prüft config.yaml."""
 from __future__ import annotations
 
+import re
 from pathlib import Path
 from typing import Any
 
@@ -46,6 +47,31 @@ def validate(config: dict[str, Any]) -> None:
             raise ConfigError(f"Quelle {source_id}: unbekanntes Thema {lock!r}")
         if not str(raw.get("url", "")).startswith(("https://", "http://")):
             raise ConfigError(f"Quelle {source_id}: ungültige Adresse")
+    validate_markets(config.get("markets") or {})
+
+
+def validate_markets(markets: dict[str, Any]) -> None:
+    if not markets.get("enabled"):
+        return
+    symbols: set[str] = set()
+    for entry in [e for g in markets.get("groups") or [] for e in g.get("items") or []] + (markets.get("companies") or []):
+        if not entry.get("symbol") or not entry.get("name"):
+            raise ConfigError("Börse: jeder Wert braucht symbol und name.")
+        if entry["symbol"] in symbols:
+            raise ConfigError(f"Börse: Kürzel doppelt: {entry['symbol']}")
+        symbols.add(entry["symbol"])
+        if entry.get("pattern"):
+            try:
+                re.compile(entry["pattern"])
+            except re.error as error:
+                raise ConfigError(f"Börse: ungültiges pattern bei {entry['name']}: {error}") from error
+    trend_ids = [t.get("id") for t in markets.get("trends") or []]
+    if len(trend_ids) != len(set(trend_ids)):
+        raise ConfigError("Börse: Trend-IDs müssen eindeutig sein.")
+    for trend in markets.get("trends") or []:
+        unknown = [s for s in trend.get("symbols") or [] if s not in symbols]
+        if unknown:
+            raise ConfigError(f"Börse: Trend {trend.get('id')} nennt unbekannte Kürzel {unknown}")
 
 
 def build_sources(config: dict[str, Any], include_disabled: bool = False) -> list[Source]:

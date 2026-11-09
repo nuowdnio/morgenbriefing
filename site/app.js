@@ -6,6 +6,8 @@
 })(typeof window !== "undefined" ? window : globalThis, function () {
   const STORAGE_KEY = "briefing.topics.off";
   const THEME_KEY = "briefing.theme";
+  const MARKETS_ID = "maerkte";
+  const SVG_NS = "http://www.w3.org/2000/svg";
 
   function safeUrl(value) {
     try {
@@ -31,6 +33,33 @@
 
   function splitTop(stories, topCount) {
     return { top: stories.slice(0, topCount), rest: stories.slice(topCount) };
+  }
+
+
+  function formatNumber(value, decimals) {
+    return Number(value).toLocaleString("de-DE", { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
+  }
+
+  function formatChange(value, absolute) {
+    if (value === null || value === undefined) return "–";
+    const sign = value > 0 ? "+" : value < 0 ? "−" : "±";
+    return sign + formatNumber(Math.abs(value), absolute ? 2 : 1) + (absolute ? " Pp." : " %");
+  }
+
+  function sparkPoints(values, width, height) {
+    if (!values || values.length < 2) return "";
+    const min = Math.min.apply(null, values);
+    const max = Math.max.apply(null, values);
+    const span = max - min || 1;
+    return values.map(function (value, index) {
+      const x = (index / (values.length - 1)) * width;
+      const y = height - ((value - min) / span) * height;
+      return x.toFixed(1) + "," + y.toFixed(1);
+    }).join(" ");
+  }
+
+  function direction(value) {
+    return value > 0 ? "up" : value < 0 ? "down" : "flat";
   }
 
   function read(key) {
@@ -107,6 +136,156 @@
     return article;
   }
 
+  function sparkline(values) {
+    const svg = document.createElementNS(SVG_NS, "svg");
+    svg.setAttribute("viewBox", "0 0 80 24");
+    svg.setAttribute("class", "spark spark-" + direction(values[values.length - 1] - values[0]));
+    svg.setAttribute("aria-hidden", "true");
+    const line = document.createElementNS(SVG_NS, "polyline");
+    line.setAttribute("points", sparkPoints(values, 80, 22));
+    line.setAttribute("transform", "translate(0 1)");
+    svg.append(line);
+    return svg;
+  }
+
+  function changeCell(tag, value, absolute) {
+    const parts = tag.split(" ");
+    return element(parts[0], ["num change change-" + direction(value || 0)].concat(parts.slice(1)).join(" "), formatChange(value, absolute));
+  }
+
+  function priceText(item) {
+    return (formatNumber(item.price, item.decimals) + " " + (item.unit || "")).trim();
+  }
+
+  function quoteTable(items, withSpark) {
+    const table = element("table", "quotes");
+    const head = element("tr");
+    ["Wert", "Stand", "Tag", "1 Monat", "lfd. Jahr"].forEach(function (label, index) {
+      const cell = element("th", (index ? "num" : "") + (index === 3 ? " col-1m" : ""), label);
+      cell.scope = "col";
+      head.append(cell);
+    });
+    if (withSpark) head.append(element("th", "spark-col", "3 Monate"));
+    const thead = element("thead");
+    thead.append(head);
+    table.append(thead);
+    const body = element("tbody");
+    items.forEach(function (item) {
+      const absolute = item.kind === "yield";
+      const row = element("tr");
+      const name = element("th", "");
+      name.scope = "row";
+      name.append(element("span", "quote-name", item.name));
+      if (item.trend || item.sector) name.append(element("span", "quote-sub", item.sector || item.trend));
+      row.append(name, element("td", "num", priceText(item)),
+        changeCell("td", item.change_1d, absolute), changeCell("td col-1m", item.change_1m, absolute),
+        changeCell("td", item.change_ytd, absolute));
+      if (withSpark) {
+        const cell = element("td", "spark-col");
+        if (item.spark && item.spark.length > 1) cell.append(sparkline(item.spark));
+        row.append(cell);
+      }
+      body.append(row);
+    });
+    table.append(body);
+    return table;
+  }
+
+  function storyLinks(stories) {
+    const list = element("ul", "related");
+    (stories || []).forEach(function (story) {
+      const href = safeUrl(story.url);
+      if (!href) return;
+      const item = element("li");
+      const anchor = element("a", "", story.title);
+      anchor.href = href;
+      anchor.rel = "noopener noreferrer nofollow";
+      item.append(anchor);
+      list.append(item);
+    });
+    return list;
+  }
+
+  function renderMarkets(markets) {
+    const section = element("section", "section markets");
+    section.id = "maerkte";
+    section.append(element("h2", "", "Börse & Märkte"));
+    if (!markets.available) {
+      section.append(element("p", "empty", "Kursdaten waren heute nicht abrufbar. Die Nachrichten oben sind vollständig."));
+      return section;
+    }
+    if (markets.summary) section.append(element("p", "market-summary", markets.summary));
+    if (markets.as_of) {
+      section.append(element("p", "meta", "Letzte Kurse vom " + new Date(markets.as_of + "T12:00:00Z").toLocaleDateString("de-DE",
+        { timeZone: "Europe/Berlin", weekday: "long", day: "numeric", month: "long" }) +
+        ". „Tag“ = Veränderung zur vorherigen Sitzung."));
+    }
+    (markets.groups || []).forEach(function (group) {
+      section.append(element("h3", "market-head", group.label));
+      const wrap = element("div", "table-wrap");
+      wrap.append(quoteTable(group.items, true));
+      section.append(wrap);
+    });
+
+    if (markets.watch && markets.watch.length) {
+      section.append(element("h3", "market-head", "Unternehmen im Blick"));
+      section.append(element("p", "meta", "Ausgewählt nach ungewöhnlichen Kursbewegungen, Jahreshochs und -tiefs und Erwähnungen in den heutigen Nachrichten."));
+      const list = element("ul", "watch");
+      markets.watch.forEach(function (item) {
+        const card = element("li", "watch-item");
+        const head = element("p", "watch-head");
+        head.append(element("strong", "", item.name), element("span", "quote-sub", item.sector));
+        card.append(head);
+        const figures = element("p", "watch-figures");
+        figures.append(element("span", "num", priceText(item)), element("span", "", "Tag "),
+          changeCell("span", item.change_1d, false), element("span", "", " · Monat "),
+          changeCell("span", item.change_1m, false));
+        card.append(figures);
+        const reasons = element("ul", "reasons");
+        (item.reasons || []).forEach(function (reason) { reasons.append(element("li", "", reason)); });
+        card.append(reasons);
+        if (item.stories && item.stories.length) card.append(storyLinks(item.stories));
+        list.append(card);
+      });
+      section.append(list);
+    }
+
+    if (markets.trends && markets.trends.length) {
+      section.append(element("h3", "market-head", "Trends"));
+      section.append(element("p", "meta", "Wie oft ein Thema heute in den Nachrichten vorkommt (verglichen mit den letzten 7 Tagen) und wie sich passende Aktien im letzten Monat entwickelt haben."));
+      const list = element("ul", "trends");
+      markets.trends.forEach(function (trend) {
+        const item = element("li", "trend-item");
+        item.append(element("strong", "", trend.label));
+        let news = trend.mentions === 0 ? "Heute keine Artikel" : trend.mentions === 1 ? "1 Artikel heute" : trend.mentions + " Artikel heute";
+        if (trend.direction) news += " – " + trend.direction + " (Ø " + formatNumber(trend.average, 1) + ")";
+        item.append(element("p", "trend-line trend-" + (trend.direction === "mehr als üblich" ? "hot" : "normal"), news));
+        if (trend.basket_1m !== null && trend.basket_1m !== undefined) {
+          const market = element("p", "trend-line");
+          market.append(element("span", "", "Passende Werte im Monat: "), changeCell("span", trend.basket_1m, false));
+          const members = (trend.members || []).map(function (m) { return m.name + " " + formatChange(m.change_1m, false); });
+          if (members.length) market.append(element("span", "quote-sub block", members.join(" · ")));
+          item.append(market);
+        }
+        if (trend.stories && trend.stories.length) item.append(storyLinks(trend.stories));
+        list.append(item);
+      });
+      section.append(list);
+    }
+
+    if (markets.companies && markets.companies.length) {
+      const all = element("details", "more");
+      all.append(element("summary", "", "Alle beobachteten Unternehmen (" + markets.companies.length + ")"));
+      const wrap = element("div", "table-wrap");
+      wrap.append(quoteTable(markets.companies, false));
+      all.append(wrap);
+      section.append(all);
+    }
+    const failed = markets.failed && markets.failed.length ? " Heute ohne Kurs: " + markets.failed.join(", ") + "." : "";
+    section.append(element("p", "note", "Quelle: " + markets.source + ". Keine Anlageberatung." + failed));
+    return section;
+  }
+
   function start() {
     const state = { off: loadOffTopics(), data: null };
     const content = document.getElementById("content");
@@ -132,6 +311,20 @@
         });
         holder.append(chip);
       });
+      if (state.data.markets) {
+        const chip = element("button", "chip", "Börse & Märkte");
+        chip.type = "button";
+        chip.id = "topic-" + MARKETS_ID;
+        chip.setAttribute("aria-pressed", String(!state.off.has(MARKETS_ID)));
+        chip.addEventListener("click", function () {
+          if (state.off.has(MARKETS_ID)) state.off.delete(MARKETS_ID);
+          else state.off.add(MARKETS_ID);
+          persist();
+          renderChips();
+          renderStories();
+        });
+        holder.append(chip);
+      }
     }
 
     function renderStories() {
@@ -139,8 +332,10 @@
       const labels = Object.fromEntries(data.topics.map(function (t) { return [t.id, t.label]; }));
       const visible = visibleStories(data.stories, state.off);
       content.replaceChildren();
+      const showMarkets = data.markets && !state.off.has(MARKETS_ID);
       if (!visible.length) {
         content.append(element("p", "empty", "Keine Meldungen. Wähle oben mindestens ein Thema aus."));
+        if (showMarkets) content.append(renderMarkets(data.markets));
         return;
       }
       const parts = splitTop(visible, data.top_count);
@@ -168,6 +363,7 @@
         section.append(items);
         content.append(section);
       });
+      if (showMarkets) content.append(renderMarkets(data.markets));
     }
 
     function renderMeta() {
@@ -244,6 +440,7 @@
     });
     document.getElementById("none").addEventListener("click", function () {
       state.data.topics.forEach(function (topic) { state.off.add(topic.id); });
+      state.off.add(MARKETS_ID);
       persist();
       renderChips();
       renderStories();
@@ -261,5 +458,8 @@
     }).catch(showError);
   }
 
-  return { safeUrl: safeUrl, startUrl: startUrl, visibleStories: visibleStories, splitTop: splitTop, start: start };
+  return {
+    safeUrl: safeUrl, startUrl: startUrl, visibleStories: visibleStories, splitTop: splitTop,
+    formatNumber: formatNumber, formatChange: formatChange, sparkPoints: sparkPoints, start: start,
+  };
 });
