@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T12:00:17.703771+00:00",
+ "generated_at": "2026-11-09T12:04:27.351568+00:00",
  "window_hours": 24,
  "top_count": 5,
  "translator": "Argos Translate",
@@ -56,7 +56,7 @@
    "summary": [
     "Nvidia-Chef Jensen Huang ist das Gesicht des KI-Booms.",
     "Nvidia-CEO Huang gerät wegen einer Affäre mit einer mutmaßlich chinesischen Spionin unter Druck.",
-    "Nvidia-Chef Huang soll laut Berichten ins Visier einer mutmaßlichen Spionin geraten sein."
+    "Nvidia-Chef Jensen Huang soll nach US-Geheimdienstinformationen eine romantische Beziehung zu einer chinesischen Spionin unterhalten haben."
    ],
    "machine_translated": false,
    "single_source": false,
@@ -69,12 +69,6 @@
      "country": "Deutschland",
      "ownership": "öffentlich-rechtlich",
      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-affaere-china-spionage-aktien-100.html"
-    },
-    {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/huang-nvidia-chef-spionage-china-100.html"
     },
     {
      "source": "Al Jazeera",
@@ -155,16 +149,6 @@
      "machine_translated": false
     },
     {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/huang-nvidia-chef-spionage-china-100.html",
-     "title": "Nvidia-Chef Huang räumt Affäre mit mutmaßlicher Spionin ein",
-     "text": [
-      "Huang gestand, eine Affäre mit ihr gehabt zu haben: \"Ich war meiner Frau untreu.\""
-     ],
-     "machine_translated": false
-    },
-    {
      "source": "Al Jazeera",
      "country": "Katar",
      "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
@@ -211,8 +195,8 @@
      "url": "https://www.dawn.com/news/2043245/nvidia-probes-whether-ceo-huang-was-target-of-foreign-spying-as-he-admits-affair",
      "title": "Nvidia untersucht, ob CEO Huang Ziel ausländischer Spionage war, als er eine Affäre zugibt",
      "text": [
-      "Nvidia sagte am Montag, sein Vorstand habe untersucht, ob CEO Jensen Huang das Ziel einer ausländischen Geheimdienstaktion gewesen sei, nachdem ein Medienbericht behauptet hatte, er habe eine enge Beziehung zu einer chinesischen Geschäftsfrau, die Informationen an Peking weitergegeben habe.",
-      "Huang sagte in einer Nachricht an die Mitarbeiter, dass er seiner Frau untreu gewesen sei und \"volle Verantwortung\" für sein Handeln übernommen habe, während Nvidia sagte, der CEO sei entschlossen, das Unternehmen ohne Unterbrechung weiter zu führen."
+      "Nvidia sagte am Montag, dass sein Vorstand prüfte, ob CEO Jensen Huang das Ziel einer ausländischen Geheimdienstaktion gewesen sei, nachdem ein Medienbericht behauptet hatte, er habe eine enge Beziehung zu einer chinesischen Geschäftsfrau, die Informationen an Peking weiterleitete.",
+      "Huang sagte in einer Nachricht an die Mitarbeiter, dass er seiner Frau untreu gewesen sei und \"die volle Verantwortung\" für sein Handeln übernommen habe, während Nvidia sagte, der CEO sei entschlossen, das Unternehmen ohne Unterbrechung weiter zu führen."
      ],
      "machine_translated": true
     },
@@ -272,9 +256,7 @@
      "country": "Deutschland",
      "url": "https://www.golem.de/news/jensen-huang-nvidia-chef-wird-verhaeltnis-mit-chinesischer-spionin-vorgeworfen-2611-214969.html",
      "title": "Jensen Huang: Nvidia-Chef wird Verhältnis mit chinesischer Spionin vorgeworfen",
-     "text": [
-      "Nvidia-Chef Jensen Huang soll nach US-Geheimdienstinformationen eine romantische Beziehung zu einer chinesischen Spionin unterhalten haben."
-     ],
+     "text": [],
      "machine_translated": false
     }
    ]
@@ -282,7 +264,7 @@
   {
    "rank": 2,
    "topic": "weltpolitik",
-   "title": "Trump sagt, dass die USA den Iran-Krieg \"gewonnen\" haben, da Rubio keine Fortschritte bei den Gesprächen meldet",
+   "title": "Trump sagt, dass die USA den Iran-Krieg „gewonnen haben, da Rubio keine Fortschritte bei den Gesprächen meldet",
    "summary": [
     "WASHINGTON/KAIRO, 8. November (Reuters) – US-Präsident Donald Trump sagte am Sonntag, es sei höchst unwahrscheinlich, dass er neue Angriffe auf den Iran anordnen würde, solange die Gespräche zur Beendigung des Konflikts voranschreiten, obwohl beide Länder berichteten, dass die Schifffahrt in oder in der Nähe der Straße von Hormuz getroffen worden sei.",
     "Araghchi sagte am Montag, dass der US-Präsident \"eindeutig anerkennt, dass die große Mehrheit der Amerikaner von Israel angewidert ist\".",
@@ -329,7 +311,7 @@
      "source": "Dawn",
      "country": "Pakistan",
      "url": "https://www.dawn.com/news/2043269/iran-war-highly-unlikely-to-resume-but-decision-depends-on-whether-tehran-signs-very-strong-deal-trump",
-     "title": "Iran Krieg 'sehr unwahrscheinlich' wieder aufzunehmen, aber die Entscheidung hängt davon ab, ob Teheran unterzeichnet 'sehr stark' deal: Trump",
+     "title": "Iran Krieg \"sehr unwahrscheinlich\" wieder aufzunehmen, aber die Entscheidung hängt davon ab, ob Teheran unterzeichnet \"sehr stark\" deal: Trump",
      "text": [
       "US-Präsident Donald Trump zweifelte an erneuten Kämpfen mit dem Iran und sagte CNN, es sei \"sehr unwahrscheinlich\", vor einem Treffen mit dem Vermittler Katars Premierminister am Montag.",
       "Trump hat gedroht, die Streiks in den letzten Wochen wieder aufzunehmen, wobei US-Medienberichte darauf hindeuten, dass die Feindseligkeiten nach den Zwischenwahlen am vergangenen Dienstag wieder aufgenommen werden könnten.",
@@ -514,7 +496,7 @@
      "title": "COP31 eröffnet mit Führern unter Druck, um die Klimakrise zu bewältigen",
      "text": [
       "Die COP31-Klimagespräche begannen am Montag mit einem frühen Kampf um Geld, als der Chef der Vereinten Nationen die Weltführer aufforderte, nach einem Jahr verheerender Wetterextreme \"ernsthaft\" über die Bewältigung der Krise zu werden.",
-      "Antonio Guterres plädierte, als Tausende von Teilnehmern auf ein weitläufiges Messezentrum in der türkischen Mittelmeerstadt Antalya zur jährlichen zweiwöchigen Klimakonferenz der Vereinten Nationen kamen.",
+      "Antonio Guterres plädierte, als Tausende von Teilnehmern auf ein weitläufiges Expo-Zentrum in der türkischen Mittelmeerstadt Antalya zur jährlichen zweiwöchigen Klimakonferenz der Vereinten Nationen kamen.",
       "Der Gipfel kommt nach einem Jahr der Bestrafung von Hitzewellen in Europa, großen Waldbränden in Indonesien und katastrophalen Überschwemmungen in Nepal, wobei ein außergewöhnlich starkes El-Nino-Wetterphänomen mehr Klimachaos anheizt.",
       "\"Wir sind in ein neues Zeitalter der Klimaextreme eingetreten\", sagte Guterres in einer Erklärung."
      ],
@@ -714,7 +696,7 @@
      "url": "https://www.dawn.com/news/2043266/trump-says-he-was-only-kidding-about-naming-ufc-ceo-as-white-house-press-secretary",
      "title": "Trump sagt, er war \"nur ein Scherz\" über die Benennung UFC CEO als White House Press Secretary",
      "text": [
-      "US-Präsident Donald Trump sagte am Sonntag, er sei \"nur ein Scherz\", als er den Chief Executive Officer der Ultimate Fighting Championship (UFC) Dana vorschlug. White könnte sein nächster Pressesprecher des Weißen Hauses werden, nachdem ein Social-Media-Post einen Tag zuvor Spekulationen über die Rekrutierung seines lebhaften Verbündeten ausgelöst und einen kämpferischen Ansatz im Umgang mit Demokraten signalisiert hatte, während sie sich darauf vorbereiteten, die Kontrolle über den Kongress zu übernehmen.",
+      "US-Präsident Donald Trump sagte am Sonntag, er sei \"nur ein Scherz\", als er den Chief Executive Officer der Ultimate Fighting Championship (UFC) Dana vorschlug White könnte sein nächster Pressesprecher des Weißen Hauses werden, nachdem ein Social-Media-Post einen Tag zuvor Spekulationen über die Rekrutierung seines lebhaften Verbündeten ausgelöst und einen kämpferischen Ansatz im Umgang mit Demokraten signalisiert hatte, während sie sich darauf vorbereiteten, die Kontrolle über den Kongress zu übernehmen.",
       "Trump sagte White, ein prominenter Unterstützer, \"liebt die Idee\", den Job anzunehmen, bestand aber darauf, dass er die Aussicht nicht ernst genommen hatte, und beschrieb den Vorschlag als \"nur ein bisschen Spaß\"."
      ],
      "machine_translated": true
@@ -758,7 +740,7 @@
      "text": [
       "Die Bitte ist der klarste Schritt von Hasina, um ihren Plan zur Rückkehr nach Bangladesch im Dezember umzusetzen, mehr als zwei Jahre nachdem ein tödlicher Aufstand ihre lange Herrschaft beendet hatte, was die Aussicht auf neue politische und rechtliche Spannungen in einem Land erhöht, in dem ihre Partei jetzt verboten ist.",
       "Sie hat Reuters gesagt, dass sie plant, zurückzukehren, um vor einem Gericht zu kapitulieren, und ihre Helfer sagten am Montag, dass das Datum bekannt gegeben würde, sobald verschiedene Formalitäten abgeschlossen seien.",
-      "Bangladeschs Kriegsverbrechergericht verurteilte sie im November letzten Jahres in ihrer Abwesenheit zum Tode, weil sie eine tödliche Razzia gegen den von Studenten geführten Aufstand angeordnet hatte, obwohl sie die Vorwürfe aus dem Exil bestritt."
+      "Bangladeschs Kriegsverbrechergericht verurteilte sie im November letzten Jahres in ihrer Abwesenheit zum Tode, weil sie eine tödliche Razzia gegen den von Studenten angeführten Aufstand angeordnet hatte, obwohl sie die Vorwürfe aus dem Exil bestritt."
      ],
      "machine_translated": true
     }
@@ -794,7 +776,7 @@
      "title": "",
      "text": [
       "In Kolkata marschierten am Donnerstag hunderte Christen gegen die organisierten Angriffe auf ihren Glauben.",
-      "Im vergangenen Monat gab es in Zentral-Delhi ein Muster der Verunglimpfung und Verfolgung: 700 muslimische Häuser in drei Kolonien wurden abgerissen und 717 Familien zwangsweise in die Außenbezirke verlegt.",
+      "Im vergangenen Monat gab es in Zentral-Delhi ein Muster der Verunglimpfung und Verfolgung: 700 muslimische Häuser in drei Kolonien wurden abgerissen und 717 Familien zwangsweise in die Außenbezirke gebracht.",
       "Durch Fürsprache gerettet, steht das Hauptziel - eine weitere Moschee, die als Kulturerbestruktur aufgeführt ist - mitten in den Trümmern.",
       "Mr. Modis Schweigen während seiner Herrschaft der Angst zeigt seine Unterstützung des Hasses.",
       "Tatsächlich werden mit der BJP verbundene Bürgerwehrleute, die feindliche Reden halten und Hassverbrechen begehen, von der Partei mit einer höheren Station belohnt."
@@ -827,6 +809,102 @@
   },
   {
    "rank": 13,
+   "topic": "deutschland",
+   "title": "Das sind Ilse Aigners Stärken und Schwächen",
+   "summary": [
+    "Die Union ist sich einig: Ilse Aigner soll die erste Bundespräsidentin werden.",
+    "Mit Ilse Aigner wird nicht nur erstmals eine Frau Bundespräsidentin – sondern auch ein neuer Politikertypus.",
+    "Sie gilt als bodenständig und herzlich."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 1,
+   "published": "2026-11-09T11:16:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/ilse-aigner-bundespraesidentenwahl-102.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Ilse-Aigner-wird-Bundespraesidentin/!6228290/"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/politik/deutschland/ilse-aigner-bundespraesidentenwahl-102.html",
+     "title": "",
+     "text": [
+      "Eine Lautsprecherin ist sie nicht.",
+      "Ein Porträt."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Ilse-Aigner-wird-Bundespraesidentin/!6228290/",
+     "title": "Ilse Aigner wird Bundespräsidentin: Eine von uns",
+     "text": [
+      "Die Erwartungen jedenfalls sind groß."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 14,
+   "topic": "klima",
+   "title": "Q&A: Was ist der Belém-Antalya-Mechanismus für einen „gerechten Übergang?",
+   "summary": [],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T08:00:00+00:00",
+   "links": [
+    {
+     "source": "Carbon Brief",
+     "country": "Großbritannien",
+     "ownership": "gemeinnützig",
+     "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 15,
+   "topic": "wirtschaft",
+   "title": "Verstecktes gepanzertes Gewölbe in einem Haus in Peña gefunden, das mit Darlehen der Ueno Bank gebaut wurde",
+   "summary": [
+    "Paraguayische Staatsanwälte und Polizei durchsuchten am Sonntag eine Residenz des ehemaligen Präsidenten Santiago Peña in Ciervo Cuá im Bezirk San Bernardino, etwa 50 Kilometer von Asunción entfernt, die mit Darlehen der Ueno Bank gebaut wurde.",
+    "Die Staatsanwaltschaft bestätigte die Durchsuchung, obwohl in ihrer Erklärung das Gewölbe, dessen Inhalt unbekannt ist, nicht erwähnt wurde.",
+    "Laut den Zeitungen ABC Color und Última Hora fanden sie ein gepanzertes Gewölbe hinter einer falschen Mauer, das sie nicht öffnen konnten."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T10:57:00+00:00",
+   "links": [
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "ownership": "privat",
+     "url": "https://en.mercopress.com/2026/11/09/hidden-armoured-vault-found-in-a-pena-home-built-with-ueno-bank-loans?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 16,
    "topic": "europa",
    "title": "Todesschütze von Krakau ist tot",
    "summary": [
@@ -894,51 +972,7 @@
    ]
   },
   {
-   "rank": 14,
-   "topic": "klima",
-   "title": "Q&A: Was ist der Belém-Antalya-Mechanismus für einen „gerechten Übergang?",
-   "summary": [],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T08:00:00+00:00",
-   "links": [
-    {
-     "source": "Carbon Brief",
-     "country": "Großbritannien",
-     "ownership": "gemeinnützig",
-     "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 15,
-   "topic": "wirtschaft",
-   "title": "Verstecktes gepanzertes Gewölbe in einem Haus in Peña gefunden, das mit Darlehen der Ueno Bank gebaut wurde",
-   "summary": [
-    "Paraguayische Staatsanwälte und Polizei durchsuchten am Sonntag eine Residenz des ehemaligen Präsidenten Santiago Peña in Ciervo Cuá im Bezirk San Bernardino, etwa 50 Kilometer von Asunción entfernt, die mit Darlehen der Ueno Bank gebaut wurde.",
-    "Die Staatsanwaltschaft bestätigte die Durchsuchung, obwohl in ihrer Erklärung das Gewölbe, dessen Inhalt unbekannt ist, nicht erwähnt wurde.",
-    "Laut den Zeitungen ABC Color und Última Hora fanden sie ein gepanzertes Gewölbe hinter einer falschen Mauer, das sie nicht öffnen konnten."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T10:57:00+00:00",
-   "links": [
-    {
-     "source": "MercoPress",
-     "country": "Uruguay",
-     "ownership": "privat",
-     "url": "https://en.mercopress.com/2026/11/09/hidden-armoured-vault-found-in-a-pena-home-built-with-ueno-bank-loans?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 16,
+   "rank": 17,
    "topic": "europa",
    "title": "Auf dem Versuch, wahre Besitzer zu finden, zeigt das Pariser Musee D'Orsay Kunst, die von Nazis geplündert wurde",
    "summary": [
@@ -961,7 +995,7 @@
    "details": []
   },
   {
-   "rank": 17,
+   "rank": 18,
    "topic": "klima",
    "title": "COP31-Gipfelführer fordern die Welt auf, sich beim Klima „schneller zu bewegen",
    "summary": [
@@ -983,7 +1017,7 @@
    "details": []
   },
   {
-   "rank": 18,
+   "rank": 19,
    "topic": "gesundheit",
    "title": "Russland: HIV breitet sich über Risikogruppen in 27 Regionen hinaus aus, sagen Epidemiologen",
    "summary": [
@@ -1006,11 +1040,11 @@
    "details": []
   },
   {
-   "rank": 19,
+   "rank": 20,
    "topic": "technologie",
    "title": "Warum wendet sich eine südkoreanische Stadt an ein US-College, um KI zu überlisten?",
    "summary": [
-    "Durch Bürgerbeteiligung und liberale Bildung hoffen südkoreanische Pädagogen, \"das Gewebe unserer Demokratie ruhig zu nähen ... bevor es sich irreparabel auflöst\"."
+    "Durch Bürgerbeteiligung und liberale Bildung hoffen südkoreanische Pädagogen, \"im Stillen das Gewebe unserer Demokratie zu nähen ... bevor es sich irreparabel auflöst\"."
    ],
    "machine_translated": true,
    "single_source": true,
@@ -1028,7 +1062,29 @@
    "details": []
   },
   {
-   "rank": 20,
+   "rank": 21,
+   "topic": "sport",
+   "title": "Fagans Understudy Bruce nannte Brisbanes neuen Senior Coach",
+   "summary": [
+    "Brisbane geht inhouse, um seinen Nachfolger des dreimaligen Premiership-Siegertrainers Chris Fagan zu wählen, da Cameron Bruce das Rennen um den geschätzten Job gewinnt."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T08:26:56+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-09/afl-cameron-bruce-brisbane-lions-new-senior-coach/107365956"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 22,
    "topic": "europa",
    "title": "Zufällig vor Ort: Wie Ärzte in Krakau Schlimmeres verhinderten",
    "summary": [
@@ -1051,29 +1107,7 @@
    "details": []
   },
   {
-   "rank": 21,
-   "topic": "sport",
-   "title": "Fagans Understudy Bruce nannte Brisbanes neuen Senior Coach",
-   "summary": [
-    "Brisbane geht intern, um seinen Nachfolger des dreimaligen Premiership-Siegertrainers Chris Fagan zu wählen, da Cameron Bruce das Rennen um den geschätzten Job gewinnt."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T08:26:56+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-09/afl-cameron-bruce-brisbane-lions-new-senior-coach/107365956"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 22,
+   "rank": 23,
    "topic": "klima",
    "title": "Lahore bleibt die am stärksten verschmutzte Großstadt der Welt, da AQI 600 überschreitet",
    "summary": [
@@ -1102,17 +1136,17 @@
      "title": "",
      "text": [
       "LAHORE: Lahore wurde am Montag als die am stärksten verschmutzte Großstadt der Welt eingestuft, da der Luftqualitätsindex (AQI) laut IQAir 590 erreichte.",
-      "Eine separate historische Lesung auf der Plattform zeigte jedoch einen Stundenindex von 647, wodurch die Stadt in die gefährliche Kategorie eingestuft wurde.",
+      "Eine separate historische Lektüre auf der Plattform zeigte jedoch einen Stundenindex von 647, wodurch die Stadt in die gefährliche Kategorie eingestuft wurde.",
       "Die IQAir Live-Weltrangliste der Großstädte von 9 bis 10 Uhr am 9. November platzierte Lahore an der Spitze, gefolgt von Ulaanbaatar mit einem AQI von 177, Delhi mit 174, Kolkata mit 173 und Sarajevo mit 170.",
       "Das Ranking zeigte, dass Lahores Verschmutzungsgrad mehr als dreimal so hoch war wie der der zweitplatzierten Stadt.",
-      "Die historische Luftqualitätsgrafik der Plattform zeigte separat eine stündliche Anzeige von 647 für Lahore im gleichen Zeitraum."
+      "Die historische Luftqualitätskurve der Plattform zeigte separat eine stündliche Anzeige von 647 für Lahore im gleichen Zeitraum."
      ],
      "machine_translated": true
     }
    ]
   },
   {
-   "rank": 23,
+   "rank": 24,
    "topic": "sport",
    "title": "Greenes Ex-Teamkollege sagt, er habe Giants mit Cats Move verlassen",
    "summary": [
@@ -1134,7 +1168,7 @@
    "details": []
   },
   {
-   "rank": 24,
+   "rank": 25,
    "topic": "klima",
    "title": "Welche Länder und Industrien emittieren die meisten Treibhausgase?",
    "summary": [
@@ -1157,35 +1191,12 @@
    "details": []
   },
   {
-   "rank": 25,
-   "topic": "deutschland",
-   "title": "Wie die Bethke-Brüder dreimal DDR-Grenzer austricksten",
-   "summary": [
-    "1975, 1983 und 1989: Dreimal gelang den Bethke-Brüdern eine Flucht aus der DDR.",
-    "Wie Ingo, Holger und Egbert Bethke es geschafft haben, die Grenze zur BRD zu überwinden."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T09:31:00+00:00",
-   "links": [
-    {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/politik/deutschland/ddr-flucht-berliner-mauer-bethke-brueder-100.html"
-    }
-   ],
-   "details": []
-  },
-  {
    "rank": 26,
    "topic": "wirtschaft",
-   "title": "Wasser strömt in nahegelegene Arbeitsbereiche nach dem Zusammenbruch der Gesteinsmasse am Tarbela-Damm",
+   "title": "Wasser strömt in nahe gelegene Arbeitsbereiche nach dem Zusammenbruch der Gesteinsmasse am Tarbela-Damm",
    "summary": [
     "Wapda sagte, dass die Entwässerungsarbeiten am im Bau befindlichen Kraftwerk ebenfalls begonnen hätten.",
-    "In einer Erklärung sagte Wapda, dass Wasser in das im Bau befindliche Kraftwerksgebiet und einen Tunnel des T-5-Projekts eingedrungen sei, nachdem eine schwache Gesteinsmasse während der Ausgrabungsarbeiten zusammengebrochen sei, was die Evakuierung von Arbeitern zur Folge hatte.",
+    "In einer Erklärung sagte Wapda, dass Wasser in das im Bau befindliche Kraftwerksgebiet und einen Tunnel des T-5-Projekts eingedrungen sei, nachdem eine schwache Gesteinsmasse während der Ausgrabungsarbeiten zusammengebrochen war, was die Evakuierung von Arbeitern zur Folge hatte.",
     "Das fünfte Erweiterungsprojekt hat eine installierte Leistung von 1.530 MW."
    ],
    "machine_translated": true,
@@ -1211,7 +1222,7 @@
       "SWABI: Eine Gesteinsmasse brach am Montag auf der Baustelle des Tarbela Dam 5th Extension Project (T-5) zusammen und verursachte einen Wasserschub, der in nahe gelegene Arbeitsbereiche eindrang, sagte die Water and Power Development Authority (Wapda).",
       "Nach dem Zusammenbruch wurde ein Notfall ausgerufen; die Bauarbeiten wurden eingestellt und die Arbeiter wurden angewiesen, in sicherere Gebiete zu ziehen.",
       "Bei dem Vorfall wurde jedoch kein Verlust von Menschenleben gemeldet.",
-      "Die Behörde sagte, der Vorfall ereignete sich während der Ausgrabung des 2. Bench-Verbindungstunnels, als der Zusammenbruch Wasser aus der Ansauggrube in den Tunnel- und Kraftwerksbereich eindrang."
+      "Die Behörde sagte, der Vorfall ereignete sich während der Ausgrabung des 2. Bench-Verbindungstunnels, als der Zusammenbruch Wasser aus der Ansauggrube in den Tunnel und das Kraftwerksgebiet eindrang."
      ],
      "machine_translated": true
     }
@@ -1219,22 +1230,23 @@
   },
   {
    "rank": 27,
-   "topic": "klima",
-   "title": "Daten zum Klimawandel im Überblick",
+   "topic": "deutschland",
+   "title": "Wie die Bethke-Brüder dreimal DDR-Grenzer austricksten",
    "summary": [
-    "Temperaturen, Emissionen und Meeresspiegel: Grafiken zeigen wichtige Daten zum Klimawandel im Überblick - und wie Deutschland beim Ausbau erneuerbarer Energien vorankommt."
+    "1975, 1983 und 1989: Dreimal gelang den Bethke-Brüdern eine Flucht aus der DDR.",
+    "Wie Ingo, Holger und Egbert Bethke es geschafft haben, die Grenze zur BRD zu überwinden."
    ],
    "machine_translated": false,
    "single_source": true,
    "source_count": 1,
    "region_count": 1,
-   "published": "2026-11-09T09:21:00+00:00",
+   "published": "2026-11-09T09:31:00+00:00",
    "links": [
     {
      "source": "ZDFheute",
      "country": "Deutschland",
      "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/politik/klimawandel-deutschland-welt-folgen-daten-100.html"
+     "url": "https://www.zdfheute.de/politik/deutschland/ddr-flucht-berliner-mauer-bethke-brueder-100.html"
     }
    ],
    "details": []
@@ -1307,23 +1319,22 @@
   },
   {
    "rank": 31,
-   "topic": "deutschland",
-   "title": "Suche nach Lisa: Vermisste 13-Jährige ist tot",
+   "topic": "klima",
+   "title": "Daten zum Klimawandel im Überblick",
    "summary": [
-    "In Brandenburg wurde eine Leiche gefunden, bei der es sich um die vermisste 13-jährige Lisa aus Berlin-Marzahn handeln soll.",
-    "Der mutmaßliche Täter wurde schwerverletzt gefasst."
+    "Temperaturen, Emissionen und Meeresspiegel: Grafiken zeigen wichtige Daten zum Klimawandel im Überblick - und wie Deutschland beim Ausbau erneuerbarer Energien vorankommt."
    ],
    "machine_translated": false,
    "single_source": true,
    "source_count": 1,
    "region_count": 1,
-   "published": "2026-11-09T09:15:00+00:00",
+   "published": "2026-11-09T09:21:00+00:00",
    "links": [
     {
      "source": "ZDFheute",
      "country": "Deutschland",
      "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/panorama/kriminalitaet/schuelerin-berlin-leiche-gefunden-100.html"
+     "url": "https://www.zdfheute.de/politik/klimawandel-deutschland-welt-folgen-daten-100.html"
     }
    ],
    "details": []
@@ -1352,10 +1363,33 @@
   },
   {
    "rank": 33,
+   "topic": "deutschland",
+   "title": "Suche nach Lisa: Vermisste 13-Jährige ist tot",
+   "summary": [
+    "In Brandenburg wurde eine Leiche gefunden, bei der es sich um die vermisste 13-jährige Lisa aus Berlin-Marzahn handeln soll.",
+    "Der mutmaßliche Täter wurde schwerverletzt gefasst."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T09:15:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/panorama/kriminalitaet/schuelerin-berlin-leiche-gefunden-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 34,
    "topic": "technologie",
    "title": "Das weltweit größte Telekommunikationsunternehmen steht vor Gericht und das Ergebnis hat globale Auswirkungen",
    "summary": [
-    "Huawei, das weltweit größte Telekommunikationsunternehmen, steht in New York vor Gericht und wird beschuldigt, amerikanische Technologie gestohlen und US-Sanktionen ausgewichen zu haben."
+    "Huawei, das weltweit größte Telekommunikationsunternehmen, steht in New York vor Gericht und wird beschuldigt, amerikanische Technologie gestohlen und US-Sanktionen umgangen zu haben."
    ],
    "machine_translated": true,
    "single_source": true,
@@ -1368,29 +1402,6 @@
      "country": "USA",
      "ownership": "gemeinnützig",
      "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 34,
-   "topic": "deutschland",
-   "title": "Dröge zu Merz’ COP-Absage: \"Ein wirklich schlechtes Signal\"",
-   "summary": [
-    "Grünen-Fraktionschefin Katharina Dröge kritisiert Bundeskanzler Merz für sein Fernbleiben bei der Weltklimakonferenz.",
-    "Sie fordert mehr Einsatz beim Ausstieg aus fossiler Energie."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T08:01:00+00:00",
-   "links": [
-    {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/politik/deutschland/cop-31-klima-konferenz-merz-fossile-energie-droege-100.html"
     }
    ],
    "details": []
@@ -1424,7 +1435,7 @@
      "url": "https://www.dawn.com/news/2043198/high-cost-of-crumbling-infrastructure-in-karachi",
      "title": "",
      "text": [
-      "Muhammad Ali verlässt seine Baloch Colony eine Stunde vor seiner 8-Uhr-Schicht in einer SITE-Pharmafabrik.",
+      "Muhammad Ali verlässt seine Baloch Colony eine Stunde vor seiner 8-Uhr-Schicht in einer SITE-Arzneierei.",
       "Während er 14 Kilometer über den Karsaz-Korridor in 15 Minuten nach Nazimabad fahren kann, dauert die letzte 6 km lange Fahrt zu seiner Fabrik doppelt so lange, erstickt durch Schlaglöcher und Stillstand.",
       "Gegenüber der Stadt im Industriegebiet Korangi verliert der Raffineriearbeiter Ishtiaq Ali täglich vier Stunden an öffentliche Verkehrsmittel, die endlose Bauten und kaputte Straßen befahren.",
       "Die Belastung wird von den Arbeitern nicht allein empfunden."
@@ -1457,6 +1468,29 @@
   },
   {
    "rank": 37,
+   "topic": "deutschland",
+   "title": "Dröge zu Merz’ COP-Absage: \"Ein wirklich schlechtes Signal\"",
+   "summary": [
+    "Grünen-Fraktionschefin Katharina Dröge kritisiert Bundeskanzler Merz für sein Fernbleiben bei der Weltklimakonferenz.",
+    "Sie fordert mehr Einsatz beim Ausstieg aus fossiler Energie."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T08:01:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/cop-31-klima-konferenz-merz-fossile-energie-droege-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 38,
    "topic": "klima",
    "title": "Hitzewellen in Punjab bedrohen Landwirtschaft, Ernährungssicherheit: UN",
    "summary": [
@@ -1491,7 +1525,7 @@
    ]
   },
   {
-   "rank": 38,
+   "rank": 39,
    "topic": "sport",
    "title": "Alcaraz senkt Shelton im Finale, um den Titel des ersten Paris Masters zu gewinnen",
    "summary": [
@@ -1513,7 +1547,7 @@
    "details": []
   },
   {
-   "rank": 39,
+   "rank": 40,
    "topic": "technologie",
    "title": "Apps, die Sie vom endlosen Zyklus des Doomscrolling ablenken",
    "summary": [
@@ -1535,11 +1569,11 @@
    "details": []
   },
   {
-   "rank": 40,
+   "rank": 41,
    "topic": "technologie",
    "title": "Wenn snap es specs immer noch lächerlich teuer sind, sind sie auch viel bequemer als früher.",
    "summary": [
-    "Snap's specs, die sich seit vielen jahren in der entwicklung befinden, werden diesen herbst auf den markt kommen."
+    "Snap's specs, die seit vielen jahren in der entwicklung sind, werden diesen herbst auf den markt kommen."
    ],
    "machine_translated": true,
    "single_source": true,
@@ -1566,29 +1600,6 @@
      "machine_translated": true
     }
    ]
-  },
-  {
-   "rank": 41,
-   "topic": "europa",
-   "title": "Direktmarketing in Galerien und Bars: Berliner Regal-Zar Rafael Horzon will Supersenator werden",
-   "summary": [
-    "Der Deutschlandfunk frönt einer Obsession mit Sportlerinnen aus der DDR, die musikästhetisch ärgerlich ist.",
-    "Aber immerhin gibt’s in der Paris Bar gute Pommes."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T11:00:00+00:00",
-   "links": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Direktmarketing-in-Galerien-und-Bars/!6228578/"
-    }
-   ],
-   "details": []
   },
   {
    "rank": 42,
@@ -1618,7 +1629,7 @@
    "title": "PM erhöht Jugendkreditbetrag, senkt Mindestaltersgrenze",
    "summary": [
     "Nach Angaben des Büros des Premierministers wurde in diesem Jahr ein Betrag von 292 Milliarden Rs für die Auszahlung von Darlehen an die Jugend im Rahmen dieser Programme bereitgestellt.",
-    "LAHORE: Premierminister Shehbaz Sharif hat die Grenze für Privatkredite im Rahmen der Programme für Jugendwirtschaft und Landwirtschaft erhöht und die Mindestaltersgrenze gesenkt, damit auch 18-Jährige das Programm in Anspruch nehmen können.",
+    "LAHORE: Premierminister Shehbaz Sharif hat die Grenze für Privatkredite im Rahmen der Programme für junge Unternehmen und Landwirtschaft erhöht und die Mindestaltersgrenze gesenkt, damit auch 18-Jährige das Programm in Anspruch nehmen können.",
     "Es wird geschätzt, dass Rs292 Milliarden an 266.700 Empfänger im Geschäftsjahr 2026-27 ausgezahlt werden."
    ],
    "machine_translated": true,
@@ -1641,8 +1652,8 @@
      "url": "https://www.dawn.com/news/2043142/pm-raises-youth-loan-amount-lowers-minimum-age-limit",
      "title": "",
      "text": [
-      "Als Vorsitzender eines Treffens zur Überprüfung des Fortschritts und der Umsetzung der Jugendgeschäfts- und Landwirtschaftskreditprogramme des Premierministers am Sonntag ordnete der Premierminister an, dass das persönliche Kreditlimit von 7,5 Millionen Rs auf 25 Millionen Rs erhöht werden sollte, was in einfachen Raten zur Verfügung gestellt würde.",
-      "Persönliches Darlehenslimit auf 25 Mio. Rs erhöht; Schema erweitert, um 18-Jährige PM Shehbaz zu umfassen, schätzte die Bemühungen von Finanzminister Muhammad Aurangzeb und seinem Team und erwog verschiedene Maßnahmen, um die Jugend zu stärken, ihnen Geschäftsmöglichkeiten zu bieten und ihre Beteiligung am Agrarsektor zu erhöhen."
+      "Der Premierminister leitete am Sonntag ein Treffen zur Überprüfung des Fortschritts und der Umsetzung der Jugendgeschäfts- und Landwirtschaftskreditprogramme des Premierministers und wies an, dass das persönliche Kreditlimit von 7,5 Millionen Rs auf 25 Millionen Rs erhöht werden sollte, was in einfachen Raten zur Verfügung gestellt würde.",
+      "Persönliches Darlehenslimit wurde auf 25 Mio. Rs erhöht; Das Programm wurde auf 18-jährige PM Shehbaz erweitert und würdigte die Bemühungen von Finanzminister Muhammad Aurangzeb und seinem Team und erwog verschiedene Maßnahmen, um die Jugend zu stärken, ihnen Geschäftsmöglichkeiten zu bieten und ihre Beteiligung am Agrarsektor zu erhöhen."
      ],
      "machine_translated": true
     }
@@ -1650,6 +1661,29 @@
   },
   {
    "rank": 44,
+   "topic": "europa",
+   "title": "Direktmarketing in Galerien und Bars: Berliner Regal-Zar Rafael Horzon will Supersenator werden",
+   "summary": [
+    "Der Deutschlandfunk frönt einer Obsession mit Sportlerinnen aus der DDR, die musikästhetisch ärgerlich ist.",
+    "Aber immerhin gibt’s in der Paris Bar gute Pommes."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T11:00:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Direktmarketing-in-Galerien-und-Bars/!6228578/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 45,
    "topic": "technologie",
    "title": "Koordinierte Störungen verfolgen weltweit Netze. Hier ist, wie Forscher das Rätsel gelöst haben.",
    "summary": [
@@ -1669,39 +1703,6 @@
     }
    ],
    "details": []
-  },
-  {
-   "rank": 45,
-   "topic": "wirtschaft",
-   "title": "Nasa sucht Astronauten: Das sind die Job-Voraussetzungen",
-   "summary": [
-    "Wer von einem Flug zu Mond oder Mars träumt, kann sich jetzt bei der Nasa bewerben: Die Raumfahrtbehörde sucht neue Astronauten."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T09:58:00+00:00",
-   "links": [
-    {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nasa-astronaut-job-suche-100.html"
-    }
-   ],
-   "details": [
-    {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nasa-astronaut-job-suche-100.html",
-     "title": "",
-     "text": [
-      "Es gibt aber einen Haken."
-     ],
-     "machine_translated": false
-    }
-   ]
   },
   {
    "rank": 46,
@@ -1738,7 +1739,7 @@
      "url": "https://www.dawn.com/news/2043280/i-stand-with-my-brother-david-warner-says-usman-khawajas-sandpapergate-claims-100pc-accurate",
      "title": "",
      "text": [
-      "David Warner unterstützte die Behauptungen des ehemaligen Teamkollegen Usman Khawaja, dass das gesamte australische Team am Montag in dem \"Sandpapergate\" -Skandal 2018 als \"100 Prozent genau\" war.",
+      "David Warner unterstützte die Behauptungen des ehemaligen Teamkollegen Usman Khawaja, dass das gesamte australische Team am Montag in dem \"Sandpapergate\"-Skandal 2018 als \"100 Prozent genau\" war.",
       "Warner, einer von drei spielern, die zusammen mit steve smith und cameron bancroft wegen der kontroverse um ballmanipulation in kapstadt verboten wurden, sagte, er stehe \"bei meinem bruder\" khawaja.",
       "\"Es ist acht Jahre her, dass ich zu diesem Thema gesprochen habe\", sagte der ehemalige Opener auf Instagram.",
       "Sehen Sie sich diesen Beitrag auf Instagram an: „Uzzie, ich werfe meine volle Unterstützung hinter Sie.",
@@ -1765,8 +1766,41 @@
   },
   {
    "rank": 47,
+   "topic": "wirtschaft",
+   "title": "Nasa sucht Astronauten: Das sind die Job-Voraussetzungen",
+   "summary": [
+    "Wer von einem Flug zu Mond oder Mars träumt, kann sich jetzt bei der Nasa bewerben: Die Raumfahrtbehörde sucht neue Astronauten."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T09:58:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nasa-astronaut-job-suche-100.html"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nasa-astronaut-job-suche-100.html",
+     "title": "",
+     "text": [
+      "Es gibt aber einen Haken."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 48,
    "topic": "sport",
-   "title": "Labuschagne streicht aus Aussie Kader für Neuseeland Tests",
+   "title": "Labuschagne aus Aussie Kader für Neuseeland Tests gestrichen",
    "summary": [
     "Australiens Selektoren-Vorsitzender bestätigt die Auslassung von Marnus Labuschagne nach einem verlängerten Lean-Run auf Testebene."
    ],
@@ -1786,7 +1820,7 @@
    "details": []
   },
   {
-   "rank": 48,
+   "rank": 49,
    "topic": "technologie",
    "title": "Sequoia-Partner sind angeblich blind, als Roelof Botha dem SpaceX-Board beitrat",
    "summary": [
@@ -1803,29 +1837,6 @@
      "country": "USA",
      "ownership": "privat",
      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 49,
-   "topic": "wirtschaft",
-   "title": "KI: Kollege oder Konkurrent für Junge?",
-   "summary": [
-    "Berufseinsteiger haben es durch KI besonders schwer - aber nicht in allen Jobs.",
-    "So das Ergebnis einer ifo-Analyse, die Berufe, Altersgruppen und Abhängigkeiten von KI vergleicht."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T08:53:00+00:00",
-   "links": [
-    {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/wirtschaft/ki-arbeitsmarkt-ifo-analyse-berufseinsteiger-100.html"
     }
    ],
    "details": []
@@ -1870,23 +1881,23 @@
   },
   {
    "rank": 51,
-   "topic": "europa",
-   "title": "Alternative Bäckerei in Frankreich: Kleine Brötchen, große Freiheit",
+   "topic": "wirtschaft",
+   "title": "KI: Kollege oder Konkurrent für Junge?",
    "summary": [
-    "Im südfranzösischen Dorf Castelsagrat stellt eine anarchistische Genossenschaft das Brot her.",
-    "Wie arbeitet es sich in so einem Unternehmen?"
+    "Berufseinsteiger haben es durch KI besonders schwer - aber nicht in allen Jobs.",
+    "So das Ergebnis einer ifo-Analyse, die Berufe, Altersgruppen und Abhängigkeiten von KI vergleicht."
    ],
    "machine_translated": false,
    "single_source": true,
    "source_count": 1,
    "region_count": 1,
-   "published": "2026-11-09T09:22:00+00:00",
+   "published": "2026-11-09T08:53:00+00:00",
    "links": [
     {
-     "source": "taz",
+     "source": "ZDFheute",
      "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Alternative-Baeckerei-in-Frankreich/!6222213/"
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/wirtschaft/ki-arbeitsmarkt-ifo-analyse-berufseinsteiger-100.html"
     }
    ],
    "details": []
@@ -1930,6 +1941,29 @@
   },
   {
    "rank": 53,
+   "topic": "europa",
+   "title": "Alternative Bäckerei in Frankreich: Kleine Brötchen, große Freiheit",
+   "summary": [
+    "Im südfranzösischen Dorf Castelsagrat stellt eine anarchistische Genossenschaft das Brot her.",
+    "Wie arbeitet es sich in so einem Unternehmen?"
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T09:22:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Alternative-Baeckerei-in-Frankreich/!6222213/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 54,
    "topic": "gesundheit",
    "title": "Aktuelle Pressemitteilungen des ZDF",
    "summary": [],
@@ -1937,7 +1971,7 @@
    "single_source": true,
    "source_count": 1,
    "region_count": 1,
-   "published": "2026-11-09T11:59:19+00:00",
+   "published": "2026-11-09T12:03:54+00:00",
    "links": [
     {
      "source": "ZDFheute",
@@ -1949,7 +1983,7 @@
    "details": []
   },
   {
-   "rank": 54,
+   "rank": 55,
    "topic": "gesundheit",
    "title": "Khyber Pakhtunkhwa, Gilgit-Baltistan vereinbaren, alte Grenzstreitigkeiten beizulegen",
    "summary": [
@@ -1977,14 +2011,14 @@
      "url": "https://www.dawn.com/news/2043155/khyber-pakhtunkhwa-gilgit-baltistan-agree-to-settle-old-boundary-disputes",
      "title": "",
      "text": [
-      "KP-Gouverneur Faisal Karim Kundi und GB-Chefminister Amjad Hussain treffen sich in Islamabad.—Dawn GILGIT/MANSEHRA: In einem Schritt zur Lösung jahrzehntelanger territorialer Probleme haben Gilgit-Baltistan-Chefminister Amjad Hussain und Khyber Pakhtunkhwa-Gouverneur Faisal Karim Kundi vereinbart, Verhandlungen zur Beilegung von Grenzstreitigkeiten zwischen den beiden Regionen einzuleiten, einschließlich derjenigen, die Shandur Top, Babusar Top und Gebiete rund um die Dämme Diamer-Bhasha und Dassu betreffen."
+      "KP-Gouverneur Faisal Karim Kundi und GB-Chefminister Amjad Hussain treffen sich in Islamabad.—Dawn GILGIT/MANSEHRA: Um jahrzehntelange territoriale Probleme zu lösen, haben Gilgit-Baltistan-Chefminister Amjad Hussain und Khyber Pakhtunkhwa-Gouverneur Faisal Karim Kundi vereinbart, Verhandlungen zur Beilegung von Grenzstreitigkeiten zwischen den beiden Regionen einzuleiten, einschließlich derjenigen, die Shandur Top, Babusar Top und Gebiete rund um die Dämme Diamer-Bhasha und Dassu betreffen."
      ],
      "machine_translated": true
     }
    ]
   },
   {
-   "rank": 55,
+   "rank": 56,
    "topic": "deutschland",
    "title": "Kritik des deutschen Einfamilienhauses: Formen des Lebens",
    "summary": [
@@ -2002,29 +2036,6 @@
      "country": "Deutschland",
      "ownership": "Genossenschaft",
      "url": "https://taz.de/Kritik-des-deutschen-Einfamilienhauses/!6224258/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 56,
-   "topic": "deutschland",
-   "title": "Aktivisten hissen Palästinenser-Flagge vor dem Reichstag",
-   "summary": [
-    "Statt Schwarz-Rot-Gold wehte am Sonntagvormittag kurzfristig die palästinensische Flagge vor dem Berliner Reichstag.",
-    "Eine Aktivistengruppe bekannte sich zu der Aktion."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-08T20:37:34+00:00",
-   "links": [
-    {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/politik/deutschland/palaestinenser-flagge-reichstag-100.html"
     }
    ],
    "details": []
@@ -2101,9 +2112,9 @@
   {
    "rank": 60,
    "topic": "gesundheit",
-   "title": "Mexiko fängt angeblichen Kartellzellenführer in Betrieb, der durch DEA-Geheimdienste unterstützt wird",
+   "title": "Mexiko fängt angebliche Kartellzellenführer in Betrieb unterstützt von DEA Intelligenz",
    "summary": [
-    "MEXIKO-STADT, 8. November (Reuters) - Mexikanische Behörden sagten am Sonntag, sie hätten einen angeblichen Führer der \"Los Rs\"-Fraktion des Kartells der neuen Generation Jalisco in einer Operation im Bundesstaat Jalisco verhaftet, die durch Geheimdienstinformationen der US Drug Enforcement Administration unterstützt wurde."
+    "MEXIKO-STADT, 8. November (Reuters) - Mexikanische Behörden sagten am Sonntag, sie verhafteten einen angeblichen Führer der \"Los Rs\" -Fraktion des Jalisco New Generation Cartel, in einer Operation im Bundesstaat Jalisco, die durch Geheimdienstinformationen der US Drug Enforcement Administration unterstützt wurde."
    ],
    "machine_translated": true,
    "single_source": true,
