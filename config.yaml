@@ -1,0 +1,163 @@
+# Einstellungen für dein Morgenbriefing. Änderungen gelten ab dem nächsten Lauf.
+# Anleitung: siehe README.md
+
+settings:
+  timezone: Europe/Berlin
+  lookback_hours: 24          # Meldungen der letzten X Stunden
+  stale_after_hours: 72       # Feed gilt als veraltet, wenn der neueste Eintrag älter ist
+  max_items_per_source: 40
+  max_stories_per_topic: 8
+  max_stories_total: 60
+  top_count: 5
+  archive_days: 30
+  max_summary_sentences: 3
+  max_summary_chars: 480
+
+  # Schutz: Fällt zu viel aus, bricht der Lauf ab und das letzte Briefing bleibt online.
+  min_sources_ok: 6
+  min_stories: 12
+
+  # Gruppierung gleicher Ereignisse: höher = strenger.
+  embedding_model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+  similarity_threshold: 0.62
+  fallback_similarity_threshold: 0.35   # nur falls das Modell nicht geladen werden kann
+
+  translator: argos           # argos oder opus (siehe README, Abschnitt Übersetzer)
+  target_language: de
+
+  user_agent: "MorgenbriefingBot/1.0 (privater RSS-Leser)"
+  request_timeout_seconds: 20
+  max_feed_bytes: 5000000
+
+ranking:
+  sources: 3.0                # mehrere unabhängige Quellen zählen am stärksten
+  regions: 1.5                # Berichte aus mehreren Weltregionen
+  recency: 1.0
+  source_weight: 1.0
+  recency_half_life_hours: 12
+  diversity_penalty: 0.18     # bremst Regionen, die im Briefing schon häufig vorkommen
+
+exclude:
+  title_patterns:
+    - '^Anzeige\b'
+    - '^Live\b'
+    - '\+\+\+'
+    - 'Liveticker'
+    - 'Live-?[Bb]log'
+    - 'as it happened'
+    - 'Latest news bulletin'
+    - 'Books in brief'
+    - 'Briefing Chat'
+    - '^Daily briefing'
+    - '^Photos?:'
+    - '^Watch:'
+    - '^Video:'
+    - '^Schlagzeilen$'
+  url_patterns:
+    - '/video/'
+    - '/videos/'
+    - '/liveblog/'
+    - '/live/'
+    - '/opinions?/'
+    - '/opinionista/'
+    - '/meinung/'
+    - '/gallery/'
+    - '/newsticker/'
+    - '/podcasts?/'
+    - '/ratgeber/'
+    - '-blog-[0-9]+\.html'
+
+# Reihenfolge = Reihenfolge auf der Seite. "weight" dämpft Themen für die Top 5.
+topics:
+  - id: deutschland
+    label: Deutschland
+    weight: 1.0
+    description: Bundesregierung Bundestag deutsche Politik Parteien Länder Gesellschaft in Deutschland
+    path_hints: ['/politik/deutschland/', '/deutschland/', '/inland/']
+    keywords: [Bundestag, Bundesregierung, Bundeskanzler, Bundesrat, Merz, Klingbeil, Pistorius, Bundeswehr, AfD, CDU, CSU, SPD, Grüne, Berlin, Bayern, Sachsen, Hessen, Germany, German, Deutschland, deutsche, deutschen, Bundespräsident]
+  - id: europa
+    label: Europa
+    weight: 1.0
+    description: Europäische Union EU Kommission europäische Staaten Frankreich Polen Italien Spanien Großbritannien
+    path_hints: ['/europa/', '/europe/', '/eu/']
+    keywords: [EU, Brüssel, Brussels, Europäische Union, European Union, European Commission, von der Leyen, Frankreich, France, Polen, Poland, Italien, Italy, Spanien, Spain, Niederlande, Netherlands, Großbritannien, Britain, UK, Krakau, Kraków, Amsterdam, Paris]
+  - id: weltpolitik
+    label: Weltpolitik
+    weight: 1.0
+    description: internationale Politik Krieg Konflikte Diplomatie Wahlen USA Russland Ukraine China Naher Osten Regierung
+    path_hints: ['/international/', '/world/', '/news/world']
+    keywords: [Trump, Putin, Selenskyj, Zelensky, Ukraine, Russia, Russland, Iran, Israel, Gaza, Hamas, Netanyahu, Eisenkot, China, Xi, UN, UNO, NATO, Nato, election, Wahl, Friedensgespräche, peace talks, ceasefire, Waffenruhe, Kongress, Congress, Midterms, midterm]
+  - id: wirtschaft
+    label: Wirtschaft & Finanzen
+    weight: 0.95
+    description: Wirtschaft Finanzen Börse Unternehmen Inflation Zinsen Handel Banken Energiepreise Konjunktur
+    path_hints: ['/wirtschaft/', '/economy/', '/business/', '/finanzen/', '/unternehmen/', '/politik/konjunktur']
+    keywords: [Inflation, Zinsen, interest rate, EZB, ECB, Fed, Börse, stock market, shares, Aktie, GDP, BIP, Konjunktur, Haushalt, budget, Bank, Zoll, Zölle, tariff, tariffs, Ölpreis, oil price, OPEC, Exporte, exports, Insolvenz, bankruptcy]
+  - id: wissenschaft
+    label: Wissenschaft
+    weight: 0.9
+    description: Forschung Studie Wissenschaft Physik Biologie Astronomie Raumfahrt Archäologie
+    path_hints: ['/wissen/', '/science/', '/wissenschaft/']
+    keywords: [Studie, study, Forschende, researchers, scientists, Wissenschaftler, NASA, ESA, Raumfahrt, Astronomie, astronomers, genome, Physik, physics, Archäologie, fossil]
+  - id: technologie
+    label: Technologie & KI
+    weight: 0.9
+    description: Technologie künstliche Intelligenz Software Chips Internet Cybersicherheit Digitalisierung
+    path_hints: ['/technology/', '/technik/', '/digital/', '/tech/']
+    keywords: [KI, AI, künstliche Intelligenz, artificial intelligence, OpenAI, Anthropic, Google, Microsoft, Apple, Nvidia, Huawei, Chip, chips, chipmaker, semiconductor, Software, Hacker, Cyberangriff, cyberattack, Datenleck, Startup, startup]
+  - id: klima
+    label: Klima & Umwelt
+    weight: 1.0
+    description: Klimawandel Klimakonferenz Umwelt Erderwärmung Emissionen Energiewende Artenschutz Wetterextreme
+    path_hints: ['/klima/', '/climate/', '/environment/', '/umwelt/']
+    keywords: [COP31, Klimakonferenz, climate summit, Klima, climate, Emissionen, emissions, CO2, fossil fuels, fossile, Erderwärmung, global warming, El Niño, Umwelt, Paris Agreement, Pariser Abkommen, Antalya]
+  - id: gesundheit
+    label: Gesundheit
+    weight: 0.9
+    description: Gesundheit Medizin Krankheit Krankenkasse Medikament Impfung Krankenhaus Pflege WHO
+    path_hints: ['/gesundheit/', '/health/', '/medizin/']
+    keywords: [Krankenkasse, Krankenhaus, hospital, Medizin, medicine, Krebs, cancer, Impfung, vaccine, WHO, FDA, Patienten, patients, Medikament, drug, Pflege, HIV, Virus, virus, Alzheimer]
+  - id: kultur
+    label: Kultur
+    weight: 0.7
+    description: Kultur Kunst Museum Film Theater Literatur Musik Ausstellung
+    path_hints: ['/kultur/', '/culture/', '/arts/', '/feuilleton/']
+    keywords: [Museum, Ausstellung, exhibition, Film, film, Theater, Roman, novel, Festival, festival, Oper, opera, Kunst, Künstler, artist]
+  - id: sport
+    label: Sport
+    weight: 0.55
+    description: Sport Fußball Bundesliga Tennis Formel 1 Olympia Spiel Trainer Meisterschaft
+    path_hints: ['/sport/', '/sports/']
+    keywords: [Bundesliga, Champions League, La Liga, Premier League, FIFA, UEFA, Formel 1, Formula 1, F1, Tennis, ATP, WTA, Olympia, Olympics, Trainer, coach, Fußball, football]
+
+# Zuerst aktiv: Diese Feeds lieferten bei der Einrichtung aktuelle Meldungen.
+# region: deutschland, europa, nordamerika, lateinamerika, afrika, nahost, asien, ozeanien
+# weight: Vertrauen/Relevanz, 0.5 bis 1.5.  topic_lock: Fachquelle für ein festes Thema.
+sources:
+  - {id: zdf, name: ZDFheute, url: 'https://www.zdfheute.de/rss/zdf/nachrichten', country: Deutschland, region: deutschland, language: de, ownership: öffentlich-rechtlich, weight: 1.3, enabled: true}
+  - {id: tagesspiegel, name: Tagesspiegel, url: 'https://www.tagesspiegel.de/contentexport/feed/home', country: Deutschland, region: deutschland, language: de, ownership: privat, weight: 1.1, enabled: true}
+  - {id: taz, name: taz, url: 'https://taz.de/!p4608;rss/', country: Deutschland, region: deutschland, language: de, ownership: Genossenschaft, weight: 1.0, enabled: true}
+  - {id: wiwo, name: WirtschaftsWoche, url: 'https://feeds.cms.wiwo.de/rss/schlagzeilen', country: Deutschland, region: deutschland, language: de, ownership: privat, weight: 1.0, enabled: true, topic_lock: wirtschaft}
+  - {id: golem, name: Golem, url: 'https://rss.golem.de/rss.php?feed=RSS2.0', country: Deutschland, region: deutschland, language: de, ownership: privat, weight: 0.8, enabled: true, topic_lock: technologie}
+  - {id: euronews, name: Euronews, url: 'https://www.euronews.com/rss?level=theme&name=news', country: Frankreich, region: europa, language: en, ownership: privat, weight: 1.0, enabled: true}
+  - {id: nature, name: Nature, url: 'https://www.nature.com/nature.rss', country: Großbritannien, region: europa, language: en, ownership: Wissenschaftsverlag, weight: 1.2, enabled: true, topic_lock: wissenschaft}
+  - {id: carbonbrief, name: Carbon Brief, url: 'https://www.carbonbrief.org/feed/', country: Großbritannien, region: europa, language: en, ownership: gemeinnützig, weight: 1.1, enabled: true, topic_lock: klima}
+  - {id: npr, name: NPR, url: 'https://feeds.npr.org/1004/rss.xml', country: USA, region: nordamerika, language: en, ownership: gemeinnützig, weight: 1.2, enabled: true}
+  - {id: stat, name: STAT, url: 'https://www.statnews.com/feed/', country: USA, region: nordamerika, language: en, ownership: privat, weight: 1.0, enabled: true, topic_lock: gesundheit}
+  - {id: techcrunch, name: TechCrunch, url: 'https://techcrunch.com/feed/', country: USA, region: nordamerika, language: en, ownership: privat, weight: 0.8, enabled: true, topic_lock: technologie}
+  - {id: aljazeera, name: Al Jazeera, url: 'https://www.aljazeera.com/xml/rss/all.xml', country: Katar, region: nahost, language: en, ownership: staatlich finanziert, weight: 1.1, enabled: true}
+  - {id: mercopress, name: MercoPress, url: 'https://en.mercopress.com/rss/', country: Uruguay, region: lateinamerika, language: en, ownership: privat, weight: 1.0, enabled: true}
+  - {id: dailymaverick, name: Daily Maverick, url: 'https://www.dailymaverick.co.za/dmrss/', country: Südafrika, region: afrika, language: en, ownership: privat, weight: 1.0, enabled: true}
+  - {id: allafrica, name: allAfrica, url: 'https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf', country: Südafrika, region: afrika, language: en, ownership: privat, weight: 0.8, enabled: true}
+  - {id: scmp, name: South China Morning Post, url: 'https://www.scmp.com/rss/91/feed', country: Hongkong, region: asien, language: en, ownership: privat (Alibaba), weight: 1.0, enabled: true}
+  - {id: dawn, name: Dawn, url: 'https://www.dawn.com/feeds/home', country: Pakistan, region: asien, language: en, ownership: privat, weight: 1.0, enabled: true}
+  - {id: abc_au, name: ABC News Australia, url: 'https://www.abc.net.au/news/feed/2942460/rss.xml', country: Australien, region: ozeanien, language: en, ownership: öffentlich-rechtlich, weight: 1.0, enabled: true}
+
+  # Noch nicht geprüft. Aktion "Quellen prüfen" starten und bei Erfolg enabled: true setzen.
+  - {id: tagesschau, name: tagesschau, url: 'https://www.tagesschau.de/xml/rss2/', country: Deutschland, region: deutschland, language: de, ownership: öffentlich-rechtlich, weight: 1.3, enabled: false}
+  - {id: dw, name: Deutsche Welle, url: 'https://rss.dw.com/rdf/rss-de-all', country: Deutschland, region: deutschland, language: de, ownership: staatlich finanziert, weight: 1.1, enabled: false}
+  - {id: heise, name: heise, url: 'https://www.heise.de/rss/heise-top-atom.xml', country: Deutschland, region: deutschland, language: de, ownership: privat, weight: 1.0, enabled: false, topic_lock: technologie}
+  - {id: bbc, name: BBC News, url: 'https://feeds.bbci.co.uk/news/world/rss.xml', country: Großbritannien, region: europa, language: en, ownership: öffentlich-rechtlich, weight: 1.3, enabled: false}
+  - {id: guardian, name: The Guardian, url: 'https://www.theguardian.com/world/rss', country: Großbritannien, region: europa, language: en, ownership: Stiftung, weight: 1.2, enabled: false}
+  - {id: france24, name: France 24, url: 'https://www.france24.com/en/rss', country: Frankreich, region: europa, language: en, ownership: staatlich finanziert, weight: 1.0, enabled: false}
+  - {id: hindu, name: The Hindu, url: 'https://www.thehindu.com/news/international/feeder/default.rss', country: Indien, region: asien, language: en, ownership: privat, weight: 1.0, enabled: false}

@@ -1,0 +1,30 @@
+# Glossar für die maschinelle Übersetzung.
+# keep: Namen und Begriffe, die unverändert bleiben sollen.
+# replace: wird nach der Übersetzung ersetzt (links falsch, rechts richtig).
+
+keep:
+  - Merz
+  - Pistorius
+  - Klingbeil
+  - von der Leyen
+  - Trump
+  - Selenskyj
+  - Zelensky
+  - Netanyahu
+  - Eisenkot
+  - Al Jazeera
+  - Hamas
+  - Hezbollah
+  - OpenAI
+  - Anthropic
+  - Nvidia
+  - Huawei
+  - COP31
+  - NATO
+  - OPEC
+
+replace:
+  "Zelensky": "Selenskyj"
+  "Netanyahu": "Netanjahu"
+  "Hezbollah": "Hisbollah"
+  "Kiew-Region": "Region Kiew"

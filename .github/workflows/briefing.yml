@@ -1,0 +1,85 @@
+name: Tägliches Briefing
+
+on:
+  schedule:
+    # Zeiten in UTC. 02:17 UTC = 03:17 Uhr (Winter) bzw. 04:17 Uhr (Sommer) in Deutschland.
+    - cron: "17 2 * * *"
+    # Reserve, falls GitHub den ersten Lauf verspätet oder auslässt.
+    - cron: "7 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: briefing
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Modelle aus dem Zwischenspeicher laden
+        uses: actions/cache@v6
+        with:
+          path: |
+            ~/.local/share/argos-translate
+            ~/.cache/fastembed
+          key: modelle-v1-${{ hashFiles('requirements.txt') }}
+          restore-keys: modelle-v1-
+
+      - name: Programme installieren
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements.txt
+
+      - name: Tests
+        run: |
+          python -m pytest -q
+          node --test tests/app.test.js
+
+      - name: Briefing erstellen
+        run: |
+          export FASTEMBED_CACHE_PATH="$HOME/.cache/fastembed"
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python -m briefing.main --skip-if-today
+          else
+            python -m briefing.main
+          fi
+
+      - name: Archiv speichern
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data
+          if git diff --cached --quiet; then
+            echo "Keine neuen Daten."
+          else
+            git commit -m "Briefing $(date -u +%F)"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-24.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

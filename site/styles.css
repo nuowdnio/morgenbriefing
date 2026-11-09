@@ -1,0 +1,95 @@
+/* Layout: eine ruhige Lesespalte wie eine Morgenzeitung, Top-Meldungen mit Rangziffern. */
+:root {
+  --paper: #eef1f4;
+  --surface: #ffffff;
+  --ink: #16202b;
+  --muted: #566372;
+  --rule: #cbd3dc;
+  --accent: #1747b5;
+  --warn: #8a4b00;
+  --font-display: "Iowan Old Style", "Palatino Linotype", Palatino, Charter, Georgia, serif;
+  --font-body: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #10161d;
+    --surface: #18212b;
+    --ink: #e7ecf1;
+    --muted: #9dabb9;
+    --rule: #2e3a47;
+    --accent: #8db0ff;
+    --warn: #f0b566;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #10161d;
+  --surface: #18212b;
+  --ink: #e7ecf1;
+  --muted: #9dabb9;
+  --rule: #2e3a47;
+  --accent: #8db0ff;
+  --warn: #f0b566;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0 auto;
+  max-width: 42rem;
+  padding: 0 1.1rem 3rem;
+  background: var(--paper);
+  color: var(--ink);
+  font: 1.0625rem/1.55 var(--font-body);
+  overflow-wrap: anywhere;
+}
+h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; }
+a { color: var(--accent); }
+button, select { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+.masthead { padding: 1.4rem 0 1rem; border-bottom: 3px solid var(--ink); }
+.masthead-row, .controls-head { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+.brand { margin: 0; font-size: .85rem; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; }
+.masthead h1 { font-size: clamp(1.9rem, 8vw, 2.7rem); line-height: 1.12; margin-top: .4rem; }
+.meta { margin: .35rem 0 0; color: var(--muted); font-size: .9rem; }
+.note { margin: .7rem 0 0; color: var(--muted); font-size: .85rem; }
+.quiet { background: none; border: 1px solid var(--rule); border-radius: 6px; padding: .45rem .7rem; min-height: 44px; cursor: pointer; font-size: .9rem; }
+
+.controls { padding: 1rem 0 .9rem; border-bottom: 1px solid var(--rule); }
+.controls h2 { font-size: 1.15rem; }
+.controls-actions { display: flex; gap: .4rem; }
+.chips { display: flex; flex-wrap: wrap; gap: .45rem; margin-top: .7rem; }
+.chip {
+  min-height: 44px; padding: .4rem .8rem; border-radius: 6px; cursor: pointer;
+  border: 1px solid var(--rule); background: transparent; color: var(--muted);
+  font-size: .95rem; text-decoration: line-through;
+}
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--paper); font-weight: 600; text-decoration: none; }
+
+.section { padding-top: 1.6rem; }
+.section > h2 { font-size: 1.45rem; padding-bottom: .4rem; border-bottom: 1px solid var(--ink); }
+.top-list { list-style: none; margin: 0; padding: 0; counter-reset: rank; }
+.top-list > li { display: grid; grid-template-columns: 2.4rem minmax(0, 1fr); column-gap: .5rem; counter-increment: rank; }
+.top-list > li::before { content: counter(rank); font: 700 2.1rem/1.2 var(--font-display); color: var(--accent); padding-top: .8rem; }
+.story { padding: .95rem 0 1rem; }
+.top-list .story, .stories .story { border-bottom: 1px solid var(--rule); }
+.stories { list-style: none; margin: 0; padding: 0; }
+.story h3 { font-size: 1.24rem; line-height: 1.25; }
+.summary { margin: .45rem 0 0; }
+.badges { display: flex; flex-wrap: wrap; gap: .3rem .9rem; margin: .55rem 0 0; color: var(--muted); font-size: .84rem; }
+.badge-single { color: var(--warn); font-weight: 600; }
+.links { margin: .35rem 0 0; font-size: .9rem; }
+.links a { display: inline-block; padding: .3rem .7rem .3rem 0; }
+
+.empty { padding: 2rem 0; color: var(--muted); }
+.footer { margin-top: 2rem; padding-top: 1rem; border-top: 3px solid var(--ink); font-size: .92rem; }
+.footer label { font-weight: 600; margin-right: .5rem; }
+.footer select { min-height: 44px; padding: .3rem .5rem; background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; }
+.footer summary { cursor: pointer; padding: .7rem 0; min-height: 44px; }
+.footer ul { margin: 0; padding-left: 1.1rem; color: var(--muted); }
+
+@media (prefers-reduced-motion: no-preference) {
+  .chip { transition: background-color .12s; }
+}

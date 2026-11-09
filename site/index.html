@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; connect-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'none'">
+  <title>Morgenbriefing</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-row">
+      <p class="brand">Morgenbriefing</p>
+      <button id="theme" class="quiet" type="button">Dunkel</button>
+    </div>
+    <h1 id="date">Wird geladen</h1>
+    <p id="stand" class="meta"></p>
+    <p id="mt-note" class="note">Texte aus fremdsprachigen Quellen sind maschinell übersetzt und können Fehler enthalten. Maßgeblich sind die verlinkten Originale.</p>
+  </header>
+
+  <nav class="controls" aria-label="Themen auswählen">
+    <div class="controls-head">
+      <h2>Themen</h2>
+      <div class="controls-actions">
+        <button id="all" class="quiet" type="button">Alle</button>
+        <button id="none" class="quiet" type="button">Keine</button>
+      </div>
+    </div>
+    <div id="topics" class="chips"></div>
+  </nav>
+
+  <main id="content">
+    <noscript><p class="empty">Diese Seite braucht JavaScript für die Themenauswahl.</p></noscript>
+  </main>
+
+  <footer class="footer">
+    <label for="archive">Archiv</label>
+    <select id="archive"></select>
+    <p id="source-problems" class="meta"></p>
+    <details>
+      <summary id="source-summary">Quellen</summary>
+      <ul id="source-list"></ul>
+    </details>
+  </footer>
+</body>
+</html>

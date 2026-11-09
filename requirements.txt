@@ -1,0 +1,10 @@
+argostranslate==1.11.0
+fastembed==0.9.1
+feedparser==6.0.14
+numpy==2.5.4
+PyYAML==6.0.3
+requests==2.34.2
+scikit-learn==1.9.1
+sentencepiece==0.2.3
+transformers==5.22.2
+pytest
