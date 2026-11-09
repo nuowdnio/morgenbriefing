@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T11:39:16.283283+00:00",
+ "generated_at": "2026-11-09T11:50:35.433441+00:00",
  "window_hours": 24,
  "top_count": 5,
  "translator": "Argos Translate",
@@ -55,12 +55,12 @@
    "title": "Warum die Affäre des Nvidia-Chefs politisch brisant ist",
    "summary": [
     "Nvidia-Chef Jensen Huang ist das Gesicht des KI-Booms.",
-    "Seine Affäre mit einer Frau, die eine Spionin sein könnte, birgt politischen Zündstoff.",
+    "Nvidia-CEO Huang gerät wegen einer Affäre mit einer mutmaßlich chinesischen Spionin unter Druck.",
     "Nvidia-Chef Huang soll laut Berichten ins Visier einer mutmaßlichen Spionin geraten sein."
    ],
    "machine_translated": false,
    "single_source": false,
-   "source_count": 10,
+   "source_count": 8,
    "region_count": 6,
    "published": "2026-11-09T11:27:00+00:00",
    "links": [
@@ -77,12 +77,6 @@
      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/huang-nvidia-chef-spionage-china-100.html"
     },
     {
-     "source": "Tagesspiegel",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.tagesspiegel.de/wirtschaft/affare-mit-nvidia-chef-huang-was-ist-uber-die-mutmassliche-chinesische-spionin-bekannt-16260596.html"
-    },
-    {
      "source": "Al Jazeera",
      "country": "Katar",
      "ownership": "staatlich finanziert",
@@ -93,12 +87,6 @@
      "country": "Frankreich",
      "ownership": "privat",
      "url": "https://www.euronews.com/2026/11/09/who-is-alice-huang-the-alleged-chinese-spy-linked-to-nvidias-jensen-huang"
-    },
-    {
-     "source": "WirtschaftsWoche",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.wiwo.de/technologie/digitale-welt/chip-riese-nvidia-chef-hatte-affaere-mit-moeglicher-chinesischer-spionin/100268299.html"
     },
     {
      "source": "Euronews",
@@ -154,52 +142,147 @@
      "ownership": "privat",
      "url": "https://www.golem.de/news/jensen-huang-nvidia-chef-wird-verhaeltnis-mit-chinesischer-spionin-vorgeworfen-2611-214969.html"
     }
-   ]
-  },
-  {
-   "rank": 2,
-   "topic": "europa",
-   "title": "Schüsse in Krakau: Schütze im Krankenhaus gestorben",
-   "summary": [
-    "Der Täter der Schusswaffenattacke von Krakau ist tot.",
-    "Er starb am Montagmorgen an seinen Verletzungen im Krankenhaus."
    ],
-   "machine_translated": false,
-   "single_source": false,
-   "source_count": 4,
-   "region_count": 4,
-   "published": "2026-11-09T11:43:32+00:00",
-   "links": [
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-affaere-china-spionage-aktien-100.html",
+     "title": "",
+     "text": [
+      "Die Aktie des Unternehmens bricht ein - der Vorfall betrifft Anleger und Politik."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/huang-nvidia-chef-spionage-china-100.html",
+     "title": "Nvidia-Chef Huang räumt Affäre mit mutmaßlicher Spionin ein",
+     "text": [
+      "Huang gestand, eine Affäre mit ihr gehabt zu haben: \"Ich war meiner Frau untreu.\""
+     ],
+     "machine_translated": false
+    },
     {
      "source": "Al Jazeera",
      "country": "Katar",
-     "ownership": "staatlich finanziert",
-     "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss"
+     "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+     "title": "Warum steht Jensen Huang von Nvidia im Mittelpunkt eines Spionageskandals zwischen den USA und China?",
+     "text": [
+      "Vorwürfe, die den CEO mit chinesischen Geheimdiensten verbinden, erschüttern die Märkte mit einem Rückgang der Chiphersteller-Aktien um mehr als 4 Prozent."
+     ],
+     "machine_translated": true
     },
     {
-     "source": "Daily Maverick",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://www.dailymaverick.co.za/article/2026-11-09-krakow-mass-shooting-assailant-dies-in-hospital-polish-police-say/"
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/09/who-is-alice-huang-the-alleged-chinese-spy-linked-to-nvidias-jensen-huang",
+     "title": "Wer ist Alice Huang, der angebliche chinesische Spion, der mit Jensen Huang von Nvidia verbunden ist?",
+     "text": [
+      "Filmmaterial zeigt Nvidia CEO Jensen Huang neben Alice Huang, einer chinesischen Geschäftsfrau im Zentrum einer angeblichen chinesischen Geheimdienstoperation, die auf ihn abzielt."
+     ],
+     "machine_translated": true
     },
     {
-     "source": "South China Morning Post",
-     "country": "Hongkong",
-     "ownership": "privat (Alibaba)",
-     "url": "https://www.scmp.com/news/world/europe/article/3373776/gunman-who-killed-6-polish-city-square-dies-hospital"
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/09/trump-calls-nvidia-chief-jensen-huang-an-honorable-guy-amid-spy-allegations",
+     "title": "Trump nennt Nvidia-Chef Jensen Huang einen \"ehrenwerten Kerl\" unter Spionagevorwürfen",
+     "text": [
+      "US-Präsident Donald Trump hat Nvidia CEO Jensen Huang nach Berichten verteidigt, dass er eine intime Beziehung zu einer Geschäftsfrau hatte, die verdächtigt wird, für den chinesischen Geheimdienst zu arbeiten.",
+      "Trump sagte, Huang sei ein \"ehrenhafter Kerl\"."
+     ],
+     "machine_translated": true
     },
     {
      "source": "taz",
      "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Schuesse-in-Krakau/!6228546/"
+     "url": "https://taz.de/Agententhriller-um-KI-Boom/!6228548/",
+     "title": "Agententhriller um KI-Boom: Nvidia-Chef hatte Affäre mit möglicher chinesischer Spionin",
+     "text": [
+      "Seine Affäre mit einer Frau, die eine Spionin sein könnte, birgt politischen Zündstoff."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043245/nvidia-probes-whether-ceo-huang-was-target-of-foreign-spying-as-he-admits-affair",
+     "title": "Nvidia untersucht, ob CEO Huang Ziel ausländischer Spionage war, als er eine Affäre zugibt",
+     "text": [
+      "Nvidia sagte am Montag, dass sein Vorstand prüfte, ob CEO Jensen Huang das Ziel einer ausländischen Geheimdienstaktion gewesen sei, nachdem ein Medienbericht behauptet hatte, er habe eine enge Beziehung zu einer chinesischen Geschäftsfrau, die Informationen an Peking weiterleitete.",
+      "Huang sagte in einer Nachricht an die Mitarbeiter, dass er seiner Frau untreu gewesen sei und \"die volle Verantwortung\" für sein Handeln übernommen habe, während Nvidia sagte, der CEO sei entschlossen, das Unternehmen ohne Unterbrechung weiter zu führen."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-09-nvidia-probes-whether-ceo-huang-was-target-of-foreign-spying-as-he-admits-affair/",
+     "title": "Nvidia untersucht, ob CEO Huang Ziel ausländischer Spionage war, als er eine Affäre zugibt",
+     "text": [
+      "Nvidia NVDA.O sagte am Sonntag, dass sein Vorstand prüfte, ob CEO Jensen Huang das Ziel einer ausländischen Geheimdienstaktion gewesen war, nachdem ein Medienbericht behauptet hatte, er habe eine enge Beziehung zu einer chinesischen Geschäftsfrau, die Informationen an Peking weiterleitete."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/09/nvidia-investigates-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-following-alleged",
+     "title": "Nvidia untersucht seinen eigenen CEO Jensen Huang wegen Affäre mit angeblichem chinesischen Spion",
+     "text": [
+      "Jensen Huang, CEO des US-Tech-Giganten Nvidia, wird vom Vorstand des Unternehmens untersucht, nachdem berichtet wurde, dass Huang das \"Ziel ausländischer Geheimdienstbemühungen\" sei.",
+      "Huang gab zu, eine intime beziehung zu einem geschäftsführer zu haben, der angeblich im namen chinas spioniert hat."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Golem",
+     "country": "Deutschland",
+     "url": "https://www.golem.de/news/spionage-affaere-jensen-huang-entschuldigt-sich-fuer-affaere-und-will-nvidia-chef-bleiben-2611-214974.html",
+     "title": "Spionage-Affäre: Jensen Huang entschuldigt sich für Affäre und will Nvidia-Chef bleiben",
+     "text": [
+      "Jensen Huang hat sich in einer öffentlichen Nachricht für seine Affäre entschuldigt - und versichert, dass er seine Familie, sein Land und Nvidia liebe."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+     "title": "Ist Jensen Huangs Job auf der Linie? Jeffrey Sonnenfeld von Yale schätzt, dass es \"etwa 50-50\" ist",
+     "text": [
+      "Der Vorstand von Nvidia untersucht Jensen Huang wegen seiner Beziehung zu einem mutmaßlichen chinesischen Spion, und Jeffrey Sonnenfeld von Yale hält es für einen Münzwurf, ob Huang als CEO bleibt."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+     "title": "Nvidia wird die Beziehung von CEO Jensen Huang zu einem möglichen chinesischen Spion untersuchen",
+     "text": [
+      "In einem memo an die firma gab huang zu, dass er eine affäre hatte."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Golem",
+     "country": "Deutschland",
+     "url": "https://www.golem.de/news/jensen-huang-nvidia-chef-wird-verhaeltnis-mit-chinesischer-spionin-vorgeworfen-2611-214969.html",
+     "title": "Jensen Huang: Nvidia-Chef wird Verhältnis mit chinesischer Spionin vorgeworfen",
+     "text": [
+      "Nvidia-Chef Jensen Huang soll nach US-Geheimdienstinformationen eine romantische Beziehung zu einer chinesischen Spionin unterhalten haben."
+     ],
+     "machine_translated": false
     }
    ]
   },
   {
-   "rank": 3,
+   "rank": 2,
    "topic": "weltpolitik",
-   "title": "Trump sagt, dass die USA den Iran-Krieg \"gewonnen\" haben, da Rubio keine Fortschritte bei den Gesprächen meldet",
+   "title": "Trump sagt, dass die USA den Iran-Krieg „gewonnen haben, da Rubio keine Fortschritte bei den Gesprächen meldet",
    "summary": [
     "WASHINGTON/KAIRO, 8. November (Reuters) – US-Präsident Donald Trump sagte am Sonntag, es sei höchst unwahrscheinlich, dass er neue Angriffe auf den Iran anordnen würde, solange die Gespräche zur Beendigung des Konflikts voranschreiten, obwohl beide Länder berichteten, dass die Schifffahrt in oder in der Nähe der Straße von Hormuz getroffen worden sei.",
     "Araghchi sagte am Montag, dass der US-Präsident \"eindeutig anerkennt, dass die große Mehrheit der Amerikaner von Israel angewidert ist\".",
@@ -229,10 +312,45 @@
      "ownership": "privat",
      "url": "https://www.dailymaverick.co.za/article/2026-11-08-trump-says-he-is-highly-unlikely-to-order-iran-strikes-if-talks-progress/"
     }
+   ],
+   "details": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks",
+     "title": "",
+     "text": [
+      "Der US-Präsident sagte, dass erneute Angriffe unwahrscheinlich seien, es sei denn, Teheran habe keine Einigung erzielt, da die US-Streitkräfte die Insel Qeshm in der Straße von Hormuz trafen.",
+      "Der Iran sagte, Washington müsse die Sanktionen und die Blockade vor allen Gesprächen beenden, während Rubio keine Fortschritte meldete."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043269/iran-war-highly-unlikely-to-resume-but-decision-depends-on-whether-tehran-signs-very-strong-deal-trump",
+     "title": "Iran Krieg \"sehr unwahrscheinlich\" wieder aufzunehmen, aber die Entscheidung hängt davon ab, ob Teheran unterzeichnet \"sehr stark\" deal: Trump",
+     "text": [
+      "US-Präsident Donald Trump zweifelte an erneuten Kämpfen mit dem Iran und sagte CNN, es sei \"sehr unwahrscheinlich\", vor einem Treffen mit dem Vermittler Katars Premierminister am Montag.",
+      "Trump hat gedroht, die Streiks in den letzten Wochen wieder aufzunehmen, wobei US-Medienberichte darauf hindeuten, dass die Feindseligkeiten nach den Zwischenwahlen am vergangenen Dienstag wieder aufgenommen werden könnten.",
+      "Der Präsident sagte CNN in einem Interview am Sonntag, dass erneute Kämpfe \"sehr unwahrscheinlich\" seien, warnte aber, dass seine Entscheidung \"darauf ankommt, ob sie eine sehr starke Vereinbarung unterzeichnen oder nicht.\"",
+      "\"Ich würde es wenn nötig tun, aber wir haben sie wirklich hart getroffen.\"",
+      "Ich habe sie so hart getroffen."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-08-trump-says-he-is-highly-unlikely-to-order-iran-strikes-if-talks-progress/",
+     "title": "Trump sagt, dass es sehr unwahrscheinlich ist, dass er Iran-Streiks anordnet, wenn die Gespräche vorankommen",
+     "text": [],
+     "machine_translated": true
+    }
    ]
   },
   {
-   "rank": 4,
+   "rank": 3,
    "topic": "weltpolitik",
    "title": "Nach einer erfolgreichen Reise nach Uruguay geht Papst Leo nach Argentinien",
    "summary": [
@@ -263,61 +381,197 @@
      "ownership": "privat",
      "url": "https://en.mercopress.com/2026/11/08/leo-xiv-leaves-uruguay-urging-catholics-to-reach-out-to-those-who-have-drifted-away?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
     }
+   ],
+   "details": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/08/pope-leo-xiv-ends-his-visit-to-uruguay-with-a-tribute-to-women-before-departing-to-argenti",
+     "title": "Papst Leo XIV. beendet seinen Besuch in Uruguay mit einer Hommage an Frauen, bevor er nach Argentinien reist",
+     "text": [
+      "Zehntausende Menschen packten Floridas Hauptplatz für die Messe unter strahlend blauem Himmel, einige liefen mehrere Kilometer, um den Ort zu erreichen.",
+      "Die Stadt hat eine Bevölkerung von etwa 40.000, aber der Vatikan schätzte 50.000."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "url": "https://en.mercopress.com/2026/11/08/leo-xiv-leaves-uruguay-urging-catholics-to-reach-out-to-those-who-have-drifted-away?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "title": "Leo XIV verlässt Uruguay und drängt die Katholiken, sich an \"diejenigen zu wenden, die weggezogen sind\"",
+     "text": [],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "topic": "gesundheit",
+   "title": "Schüsse in Krakau: Schütze im Krankenhaus gestorben",
+   "summary": [
+    "Der Täter der Schusswaffenattacke von Krakau ist tot.",
+    "Er starb am Montagmorgen an seinen Verletzungen im Krankenhaus."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 3,
+   "region_count": 3,
+   "published": "2026-11-09T11:43:32+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss"
+    },
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-09-krakow-mass-shooting-assailant-dies-in-hospital-polish-police-say/"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Schuesse-in-Krakau/!6228546/"
+    }
+   ],
+   "details": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss",
+     "title": "Polen Massenerschießung Angreifer stirbt im Krankenhaus, sagt die Polizei",
+     "text": [
+      "Verdächtiger erschossen von der Polizei und verhaftet Minuten, nachdem Schüsse auf Menschen im Zentrum von Krakau eröffnet."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-09-krakow-mass-shooting-assailant-dies-in-hospital-polish-police-say/",
+     "title": "Krakau Massenerschießung Angreifer stirbt im Krankenhaus, polnische Polizei sagt",
+     "text": [
+      "Ein junger bewaffneter Mann, der am Samstag in Krakau sechs Menschen bei einer beispiellosen polnischen Massenerschießung getötet hat, ist im Krankenhaus gestorben, sagte die Polizei am Montag."
+     ],
+     "machine_translated": true
+    }
    ]
   },
   {
    "rank": 5,
    "topic": "klima",
-   "title": "COP31-Gipfelführer fordern die Welt auf, sich beim Klima \"schneller zu bewegen\"",
+   "title": "Gegengipfel zur COP31 in Antalya: Die Klimakonferenz der anderen",
    "summary": [
-    "Die Führer des COP31-Klimagipfels forderten die Welt auf, den Kampf gegen die globale Erwärmung zu beschleunigen, da steigende Temperaturen und eine zunehmende Anzahl klimabedingter Katastrophen Leben und die Weltwirtschaft bedrohen, da das Jahrestreffen am Montag in der Türkei begann.",
-    "\"Wir sind in ein neues Zeitalter der Klimaextreme eingetreten\", sagte Guterres in einer Erklärung.",
-    "Die COP30 endete mit einem Abkommen, in dem fossile Brennstoffe nicht explizit erwähnt wurden, nachdem die ölproduzierenden Länder sich der Sprache widersetzt hatten."
+    "Parallel zur COP31 kommen in Antalya Gewerkschafter und Klimaaktivisten zusammen.",
+    "Wer verhandelt, wie Beschlüsse entstehen und worüber die Staaten in Antalya streiten: Die wichtigsten Fragen und Antworten zur COP31.",
+    "Warum die Ansprüche an die Weltklimakonferenz in Antalya trotzdem hoch sein sollten."
    ],
-   "machine_translated": true,
+   "machine_translated": false,
    "single_source": false,
-   "source_count": 4,
-   "region_count": 2,
-   "published": "2026-11-09T11:43:28+00:00",
+   "source_count": 3,
+   "region_count": 3,
+   "published": "2026-11-09T11:46:50+00:00",
    "links": [
-    {
-     "source": "Daily Maverick",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://www.dailymaverick.co.za/article/2026-11-09-cop31-summit-leaders-urge-world-to-move-faster-on-climate/"
-    },
     {
      "source": "Dawn",
      "country": "Pakistan",
      "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043267/un-chief-urges-leaders-to-get-serious-as-cop31-set-to-open"
+     "url": "https://www.dawn.com/news/2043267/cop31-opens-with-leaders-under-pressure-to-tackle-climate-crisis"
     },
     {
-     "source": "South China Morning Post",
-     "country": "Hongkong",
-     "ownership": "privat (Alibaba)",
-     "url": "https://www.scmp.com/news/world/article/3373785/cop31-leaders-urge-world-accelerate-fight-against-global-warming"
-    },
-    {
-     "source": "allAfrica",
-     "country": "Südafrika",
+     "source": "Premium Times",
+     "country": "Nigeria",
      "ownership": "privat",
-     "url": "https://allafrica.com/stories/202611090187.html"
+     "url": "https://www.premiumtimesng.com/news/923883-analysis-cop31-puts-climate-finance-fossil-fuel-transition-energy-ambitions-to-test.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Gegengipfel-zur-COP31-in-Antalya/!6228385/"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/COP31-geht-los/!6228383/"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Potenzial-der-COP-31/!6228032/"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043267/cop31-opens-with-leaders-under-pressure-to-tackle-climate-crisis",
+     "title": "COP31 eröffnet mit Führern unter Druck, um die Klimakrise zu bewältigen",
+     "text": [
+      "Die COP31-Klimagespräche begannen am Montag mit einem frühen Kampf um Geld, als der Chef der Vereinten Nationen die Weltführer aufforderte, nach einem Jahr verheerender Wetterextreme \"ernsthaft\" über die Bewältigung der Krise zu werden.",
+      "Antonio Guterres plädierte, als Tausende von Teilnehmern auf ein weitläufiges Expo-Zentrum in der türkischen Mittelmeerstadt Antalya zur jährlichen zweiwöchigen Klimakonferenz der Vereinten Nationen kamen.",
+      "Der Gipfel kommt nach einem Jahr der Bestrafung von Hitzewellen in Europa, großen Waldbränden in Indonesien und katastrophalen Überschwemmungen in Nepal, wobei ein außergewöhnlich starkes El-Nino-Wetterphänomen mehr Klimachaos anheizt.",
+      "\"Wir sind in ein neues Zeitalter der Klimaextreme eingetreten\", sagte Guterres in einer Erklärung."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Premium Times",
+     "country": "Nigeria",
+     "url": "https://www.premiumtimesng.com/news/923883-analysis-cop31-puts-climate-finance-fossil-fuel-transition-energy-ambitions-to-test.html",
+     "title": "COP31 stellt Klimafinanzierung, Energiewende und Energieambitionen auf den Prüfstand",
+     "text": [
+      "Der COP31-Gipfel kommt zu einem kritischen Zeitpunkt, da die Länder zunehmend unter Druck stehen, die Treibhausgasemissionen zu reduzieren und Investitionen in saubere Energie zu beschleunigen."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Gegengipfel-zur-COP31-in-Antalya/!6228385/",
+     "title": "",
+     "text": [
+      "Ihr Gegengipfel soll Klimagerechtigkeit und Demokratie verbinden."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/COP31-geht-los/!6228383/",
+     "title": "COP31 geht los: Wie funktioniert ein Klimagipfel?",
+     "text": [],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Potenzial-der-COP-31/!6228032/",
+     "title": "Potenzial der COP 31: Die zerstörerische Welt birgt Chancen fürs Klima",
+     "text": [
+      "Klimaschutz steht weltweit unter dem Druck rechter Politik."
+     ],
+     "machine_translated": false
     }
    ]
   },
   {
    "rank": 6,
    "topic": "weltpolitik",
-   "title": "Außenpolitik: Trump erwartet Treffen mit Putin und Xi bei Apec-Gipfel in China",
+   "title": "Qatar PM zu treffen Trump: Was ist die neueste auf US-Iran Verhandlungen?",
    "summary": [
-    "Beim Apec-Gipfel in Shenzhen will Donald Trump Wladimir Putin und Xi Jinping treffen.",
-    "Thema sollen Atomabrüstung, Iran und die Ukraine sein."
+    "Der Iran hat einen zweitägigen Vorschlag vorgelegt, der mit katarischen Vermittlern entwickelt wurde und den Washington prüft.",
+    "US-Präsident Donald Trump sagte, er würde sich möglicherweise mit Wladimir Putin und Xi Jinping in China treffen, um über die \"Nuklearisierung\" und die Beendigung des Iran-Krieges zu diskutieren."
    ],
-   "machine_translated": false,
+   "machine_translated": true,
    "single_source": false,
-   "source_count": 3,
-   "region_count": 3,
+   "source_count": 2,
+   "region_count": 2,
    "published": "2026-11-09T09:27:35+00:00",
    "links": [
     {
@@ -327,85 +581,66 @@
      "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss"
     },
     {
-     "source": "WirtschaftsWoche",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.wiwo.de/politik/ausland/apec-gipfel-in-china-donald-trump-erwartet-treffen-mit-putin-und-xi/100268337.html"
-    },
-    {
      "source": "Euronews",
      "country": "Frankreich",
      "ownership": "privat",
      "url": "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w"
     }
-   ]
-  },
-  {
-   "rank": 7,
-   "topic": "weltpolitik",
-   "title": "Ein Witz oder Test? Warum Trump Dana White von UFC als Pressesprecherin in Umlauf brachte",
-   "summary": [
-    "Trump sagte White, ein prominenter Unterstützer, \"liebt die Idee\", den Job anzunehmen, bestand aber darauf, dass er die Aussicht nicht ernst genommen hatte, und beschrieb die...",
-    "White, der die UFC seit mehr als zwei Jahrzehnten leitet, ist ein enger Trump-Verbündeter und hat dazu beigetragen, Unterstützung für seine Präsidentschaftskampagne 2024 zu mobilisieren.",
-    "White ist ein enger Freund von Trump und hat ihn als Präsident unterstützt, aber nie eine Regierungsposition innegehabt."
    ],
-   "machine_translated": true,
-   "single_source": false,
-   "source_count": 3,
-   "region_count": 2,
-   "published": "2026-11-09T08:58:43+00:00",
-   "links": [
+   "details": [
     {
-     "source": "Al Jazeera",
-     "country": "Katar",
-     "ownership": "staatlich finanziert",
-     "url": "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss"
-    },
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043266/trump-says-he-was-only-kidding-about-naming-ufc-ceo-as-white-house-press-secretary"
-    },
-    {
-     "source": "South China Morning Post",
-     "country": "Hongkong",
-     "ownership": "privat (Alibaba)",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373723/trump-says-only-kidding-about-naming-ufcs-dana-white-press-secretary"
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w",
+     "title": "US-Präsident Donald Trump will nächste Woche Putin und Xi in China treffen",
+     "text": [],
+     "machine_translated": true
     }
    ]
   },
   {
-   "rank": 8,
-   "topic": "wissenschaft",
-   "title": "COP31 startet, während der Planet vor einer bevorstehenden Überschreitung des 1,5 °C-Klimaziels steht",
+   "rank": 7,
+   "topic": "wirtschaft",
+   "title": "Wie ein Bankzusammenbruch Millionen in der Schwebe ließ und Paraguays Präsidenten stürzte",
    "summary": [
-    "Nature, Online veröffentlicht am 09. November 2026; doi:10.1038/d41586-026-03631-wWW-Wissenschaftler sagen, dass Regierungen sich zur Kohlendioxidentfernung verpflichten müssen, wenn die Welt die Temperaturen wieder auf sicherere Grenzen bringen soll.",
-    "\"Aber wir haben genug, auch innerhalb des Pariser Abkommens, mit dem, was wir bereits vereinbart haben.\"",
-    "\"Ich denke, dass wir keine größere Aufwertung der Minderungsziele erwarten\", sagte Grace Fu bei den jährlichen UN-Gesprächen in der Türkei."
+    "Für fast drei Millionen Paraguayer begann der 3. November mit einer Nachricht auf ihren Telefonbildschirmen: \"Wir können Ihr Gleichgewicht nicht anzeigen.\"",
+    "Der Zusammenbruch einer Bank in Paraguay ließ Millionen aus ihrem Geld heraussperren, stürzte den Präsidenten und enthüllte ein Netz politischer und finanzieller Verbindungen.",
+    "Früh am Morgen übernahm die Zentralbank von Paraguay die Ueno Bank wegen eines kritischen Solvenzproblems und fror ihre Einlagen ein."
    ],
    "machine_translated": true,
    "single_source": false,
    "source_count": 2,
    "region_count": 2,
-   "published": "2026-11-09T02:24:57+00:00",
+   "published": "2026-11-09T06:20:44+00:00",
    "links": [
     {
-     "source": "Nature",
-     "country": "Großbritannien",
-     "ownership": "Wissenschaftsverlag",
-     "url": "https://www.nature.com/articles/d41586-026-03631-w"
+     "source": "NPR",
+     "country": "USA",
+     "ownership": "gemeinnützig",
+     "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno"
     },
     {
-     "source": "South China Morning Post",
-     "country": "Hongkong",
-     "ownership": "privat (Alibaba)",
-     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373729/singapore-minister-says-cop31-has-enough-work-without-new-targets"
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "ownership": "privat",
+     "url": "https://en.mercopress.com/2026/11/09/lost-savings-and-broken-trust-life-for-those-hit-by-ueno-bank-s-closure?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+    }
+   ],
+   "details": [
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "url": "https://en.mercopress.com/2026/11/09/lost-savings-and-broken-trust-life-for-those-hit-by-ueno-bank-s-closure?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "title": "Verlorene Ersparnisse und gebrochenes Vertrauen: Leben für diejenigen, die von der Schließung der Ueno Bank betroffen sind",
+     "text": [
+      "Eine Woche später, nachdem Präsident Santiago Peña aus dem Amt entfernt wurde und sich in Untersuchungshaft befand, haben viele der Betroffenen immer noch keinen Zugang zu ihrem Geld und sagen, dass sie auch das Vertrauen in die Institutionen des Landes verloren haben."
+     ],
+     "machine_translated": true
     }
    ]
   },
   {
-   "rank": 9,
+   "rank": 8,
    "topic": "weltpolitik",
    "title": "Trump bezeichnet eigenen Abschiebekurs als \"zu hart\"",
    "summary": [
@@ -430,6 +665,60 @@
      "ownership": "staatlich finanziert",
      "url": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss"
     }
+   ],
+   "details": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "url": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss",
+     "title": "Trump sagt seine Einwanderungspolitik \"zu hart\" für die Wähler",
+     "text": [
+      "Trump räumt ein, dass einige Wähler mit dem umstrittenen Abschiebeversuch seiner Regierung unzufrieden waren."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "topic": "weltpolitik",
+   "title": "Ein Witz oder Test? Warum Trump Dana White von UFC als Pressesprecherin in Umlauf brachte",
+   "summary": [
+    "White, der die UFC seit mehr als zwei Jahrzehnten leitet, ist ein enger Trump-Verbündeter und hat dazu beigetragen, Unterstützung für seine Präsidentschaftskampagne 2024 zu mobilisieren.",
+    "White ist ein enger Freund von Trump und hat ihn als Präsident unterstützt, aber nie eine Regierungsposition innegehabt.",
+    "Trump sagte, White würde ihn am Montag im Weißen Haus besuchen, fügte aber hinzu, dass das Treffen aus anderen Gründen geplant sei."
+   ],
+   "machine_translated": true,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-09T08:58:43+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss"
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043266/trump-says-he-was-only-kidding-about-naming-ufc-ceo-as-white-house-press-secretary"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043266/trump-says-he-was-only-kidding-about-naming-ufc-ceo-as-white-house-press-secretary",
+     "title": "Trump sagt, er war \"nur ein Scherz\" über die Benennung UFC CEO als White House Press Secretary",
+     "text": [
+      "US-Präsident Donald Trump sagte am Sonntag, er sei \"nur ein Scherz\", als er den Chief Executive Officer der Ultimate Fighting Championship (UFC) Dana vorschlug White könnte sein nächster Pressesprecher des Weißen Hauses werden, nachdem ein Social-Media-Post einen Tag zuvor Spekulationen über die Rekrutierung seines lebhaften Verbündeten ausgelöst und einen kämpferischen Ansatz im Umgang mit Demokraten signalisiert hatte, während sie sich darauf vorbereiteten, die Kontrolle über den Kongress zu übernehmen.",
+      "Trump sagte White, ein prominenter Unterstützer, \"liebt die Idee\", den Job anzunehmen, bestand aber darauf, dass er die Aussicht nicht ernst genommen hatte, und beschrieb den Vorschlag als \"nur ein bisschen Spaß\"."
+     ],
+     "machine_translated": true
+    }
    ]
   },
   {
@@ -438,12 +727,12 @@
    "title": "Premierministerin Sheikh Hasina sucht Reisepass im Zeichen des Rückkehrplans von Bangladesch",
    "summary": [
     "Hasina, die seit zwei Jahren in Indien lebt, hat versprochen, im Dezember nach Bangladesch zurückzukehren.",
-    "Die ehemalige bangladeschische Premierministerin Sheikh Hasina beantragte am Montag einen neuen Reisepass und Personalausweis, damit sie aus dem selbst auferlegten Exil in Indien zurückkehren kann, so ein Brief von Reuters, ihre erste derartige Mitteilung seit ihrer Flucht im Jahr 2024.",
+    "Die ehemalige bangladeschische Premierministerin Sheikh Hasina beantragte am Montag einen neuen Reisepass und Personalausweis, damit sie aus dem selbst auferlegten Exil in Indien zurückkehren kann, so ein Brief von Reuters, ihre erste derartige Kommunikation seit ihrer Flucht im Jahr 2024.",
     "Hasinas Awami League Party war die größte des Landes, bevor sie nach ihrem Sturz verboten wurde."
    ],
    "machine_translated": true,
    "single_source": false,
-   "source_count": 3,
+   "source_count": 2,
    "region_count": 2,
    "published": "2026-11-09T08:24:38+00:00",
    "links": [
@@ -458,154 +747,68 @@
      "country": "Pakistan",
      "ownership": "privat",
      "url": "https://www.dawn.com/news/2043265/sheikh-hasina-seeks-new-passport-in-clearest-sign-of-plans-to-return-to-bangladesh"
-    },
+    }
+   ],
+   "details": [
     {
-     "source": "South China Morning Post",
-     "country": "Hongkong",
-     "ownership": "privat (Alibaba)",
-     "url": "https://www.scmp.com/news/asia/south-asia/article/3373754/ex-bangladesh-leader-hasina-applies-passport-signal-shes-ready-homecoming"
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043265/sheikh-hasina-seeks-new-passport-in-clearest-sign-of-plans-to-return-to-bangladesh",
+     "title": "Sheikh Hasina sucht einen neuen Pass als deutlichstes Zeichen für Pläne, nach Bangladesch zurückzukehren",
+     "text": [
+      "Die Bitte ist der klarste Schritt von Hasina, um ihren Plan zur Rückkehr nach Bangladesch im Dezember umzusetzen, mehr als zwei Jahre nachdem ein tödlicher Aufstand ihre lange Herrschaft beendet hatte, was die Aussicht auf neue politische und rechtliche Spannungen in einem Land erhöht, in dem ihre Partei jetzt verboten ist.",
+      "Sie hat Reuters gesagt, dass sie plant, zurückzukehren, um vor einem Gericht zu kapitulieren, und ihre Helfer sagten am Montag, dass das Datum bekannt gegeben würde, sobald verschiedene Formalitäten abgeschlossen seien.",
+      "Bangladeschs Kriegsverbrechergericht verurteilte sie im November letzten Jahres in ihrer Abwesenheit zum Tode, weil sie eine tödliche Razzia gegen den von Studenten angeführten Aufstand angeordnet hatte, obwohl sie die Vorwürfe aus dem Exil bestritt."
+     ],
+     "machine_translated": true
     }
    ]
   },
   {
    "rank": 11,
-   "topic": "wirtschaft",
-   "title": "Wie ein Bankzusammenbruch Millionen in der Schwebe ließ und Paraguays Präsidenten stürzte",
+   "topic": "weltpolitik",
+   "title": "Rabid Modi",
    "summary": [
-    "Für fast drei Millionen Paraguayer begann der 3. November mit einer Nachricht auf ihren Telefonbildschirmen: \"Wir können Ihr Gleichgewicht nicht anzeigen.\"",
-    "Der Zusammenbruch einer Bank in Paraguay ließ Millionen von ihrem Geld ausschließen, stürzte den Präsidenten und enthüllte ein Netz politischer und finanzieller Verbindungen.",
-    "Früh am Morgen übernahm die Zentralbank von Paraguay die Ueno Bank wegen eines kritischen Solvenzproblems und fror ihre Einlagen ein."
+    "Im Indien von Premierminister Narendra Modi werden Minderheiten entweder als Infiltratoren oder als Feinde im eigenen Haus dargestellt.",
+    "Indien ist eine Lektion für den Rest der Welt, um Führer weise zu wählen.",
+    "India Hate Lab hat 60 Vorfälle von Vandalismus und Angriffen auf Pastoren und Gebetskongregationen unter dem Vorwand illegaler Konvertierungen seit der Machtübernahme der BJP in Westbengalen aufgezeichnet."
    ],
    "machine_translated": true,
-   "single_source": false,
-   "source_count": 2,
-   "region_count": 2,
-   "published": "2026-11-09T06:20:44+00:00",
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T11:44:37+00:00",
    "links": [
     {
-     "source": "NPR",
-     "country": "USA",
-     "ownership": "gemeinnützig",
-     "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno"
-    },
-    {
-     "source": "MercoPress",
-     "country": "Uruguay",
+     "source": "Dawn",
+     "country": "Pakistan",
      "ownership": "privat",
-     "url": "https://en.mercopress.com/2026/11/09/lost-savings-and-broken-trust-life-for-those-hit-by-ueno-bank-s-closure?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+     "url": "https://www.dawn.com/news/2043205/rabid-modi"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043205/rabid-modi",
+     "title": "",
+     "text": [
+      "In Kolkata marschierten am Donnerstag hunderte Christen gegen die organisierten Angriffe auf ihren Glauben.",
+      "Im vergangenen Monat gab es in Zentral-Delhi ein Muster der Verunglimpfung und Verfolgung: 700 muslimische Häuser in drei Kolonien wurden abgerissen und 717 Familien zwangsweise in die Außenbezirke gebracht.",
+      "Durch Fürsprache gerettet, steht das Hauptziel - eine weitere Moschee, die als Kulturerbestruktur aufgeführt ist - mitten in den Trümmern.",
+      "Mr. Modis Schweigen während seiner Herrschaft der Angst zeigt seine Unterstützung des Hasses.",
+      "Tatsächlich werden mit der BJP verbundene Bürgerwehrleute, die feindliche Reden halten und Hassverbrechen begehen, von der Partei mit einer höheren Station belohnt."
+     ],
+     "machine_translated": true
     }
    ]
   },
   {
    "rank": 12,
-   "topic": "deutschland",
-   "title": "Wie funktioniert die Wahl der Bundespräsidentin?: So kann Ilse Aigner erste Frau im Staate werden",
-   "summary": [
-    "Hoffentlich ist die Wahl des neuen 007 einfacher.",
-    "Was sind die Regeln für die Wahl des Staatsoberhauptes?",
-    "Erstmals soll es eine Frau und CSU-Politikerin werden."
-   ],
-   "machine_translated": false,
-   "single_source": false,
-   "source_count": 3,
-   "region_count": 1,
-   "published": "2026-11-09T11:06:00+00:00",
-   "links": [
-    {
-     "source": "Tagesspiegel",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.tagesspiegel.de/politik/wie-funktioniert-die-wahl-der-bundesprasidentin-so-kann-ilse-aigner-erste-frau-im-staate-werden-16255722.html"
-    },
-    {
-     "source": "WirtschaftsWoche",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.wiwo.de/politik/deutschland/bundespraesidentenwahl-kandidatin-mit-besten-chancen-cdu-will-aigner-nominieren/100268314.html"
-    },
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Ilse-Aigner-wird-Bundespraesidentin/!6228290/"
-    },
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Bundespraesidentin-Bond-Boehmermann/!6228452/"
-    }
-   ]
-  },
-  {
-   "rank": 13,
-   "topic": "wirtschaft",
-   "title": "KI: Kollege oder Konkurrent für Junge?",
-   "summary": [
-    "Auf dem Arbeitsmarkt gibt es laut Ifo eine erste auffällige Entwicklung.",
-    "Dieser bleibt bislang überraschend aus.",
-    "Etliche Fachleute sehen KI als eine epochale Entwicklung, die Arbeitswelt und Gesellschaft fundamental verändern wird."
-   ],
-   "machine_translated": false,
-   "single_source": false,
-   "source_count": 3,
-   "region_count": 1,
-   "published": "2026-11-09T10:14:36+00:00",
-   "links": [
-    {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/wirtschaft/ki-arbeitsmarkt-ifo-analyse-berufseinsteiger-100.html"
-    },
-    {
-     "source": "Tagesspiegel",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.tagesspiegel.de/wirtschaft/dpa-ersetzbar-am-arbeitsplatz-ifo-ki-effekt-am-arbeitsmarkt-berufseinsteiger-leiden-16259773.html"
-    },
-    {
-     "source": "WirtschaftsWoche",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.wiwo.de/erfolg/jobsuche/ki-am-arbeitsmarkt-ifo-aeussert-sich-zu-den-ki-effekten-am-arbeitsmarkt-berufseinsteiger-leiden/100268400.html"
-    }
-   ]
-  },
-  {
-   "rank": 14,
-   "topic": "weltpolitik",
-   "title": "Regierungsbildung in Israel: Netanjahus Rivale bekommt seine Chance",
-   "summary": [
-    "Israels Oppositionsführer Eisenkot erhält den Auftrag zur Regierungsbildung.",
-    "Seine Suche nach einer Mehrheit ähnelt aber einer Quadratur des Kreises."
-   ],
-   "machine_translated": false,
-   "single_source": false,
-   "source_count": 2,
-   "region_count": 2,
-   "published": "2026-11-08T22:47:54+00:00",
-   "links": [
-    {
-     "source": "South China Morning Post",
-     "country": "Hongkong",
-     "ownership": "privat (Alibaba)",
-     "url": "https://www.scmp.com/news/world/middle-east/article/3373722/israels-president-herzog-gives-gadi-eisenkot-first-chance-form-next-government"
-    },
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Regierungsbildung-in-Israel/!6228378/"
-    }
-   ]
-  },
-  {
-   "rank": 15,
    "topic": "weltpolitik",
    "title": "1982-Veteranenparade in London, während die Falklandinseln die Gefallenen am Gedenksonntag ehren",
    "summary": [
-    "Die Falklandinseln-Gemeinde würdigte am Sonntag in Stanley diejenigen, die ihr Leben in Konflikten beim Sonntagsgottesdienst verloren, während in London viele britische Veteranen des Krieges 1982 bei den wichtigsten Gedenkfeierlichkeiten vorgeführt wurden."
+    "Die Falkland-Inseln-Gemeinde würdigte am Sonntag in Stanley diejenigen, die ihr Leben in Konflikten beim Sonntagsgottesdienst verloren, während in London viele britische Veteranen des Krieges 1982 bei den wichtigsten Gedenkfeierlichkeiten vorgeführt wurden."
    ],
    "machine_translated": true,
    "single_source": true,
@@ -619,105 +822,11 @@
      "ownership": "privat",
      "url": "https://en.mercopress.com/2026/11/09/1982-veterans-parade-in-london-as-the-falklands-honour-the-fallen-on-remembrance-sunday?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
     }
-   ]
-  },
-  {
-   "rank": 16,
-   "topic": "europa",
-   "title": "Zufällig vor Ort: Wie Ärzte in Krakau Schlimmeres verhinderten",
-   "summary": [
-    "Als sie die Schüsse in Krakau hörten, eilten die beiden Chirurgen den Verletzten sofort zu Hilfe.",
-    "Sie kommen vom Familienessen, als Schüsse fallen: Sofort eilen zwei Chirurgen auf dem Krakauer Marktplatz den Verletzten zu Hilfe.",
-    "Damit retteten sie vermutlich Leben."
    ],
-   "machine_translated": false,
-   "single_source": false,
-   "source_count": 2,
-   "region_count": 1,
-   "published": "2026-11-09T11:26:00+00:00",
-   "links": [
-    {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/panorama/kriminalitaet/krakau-attentat-aerzte-chirurgen-helfer-100.html"
-    },
-    {
-     "source": "Tagesspiegel",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.tagesspiegel.de/internationales/dpa-zwei-chirurgen-waren-beim-anschlag-von-krakau-zufallig-vor-ort--und-leisteten-erste-hilfe-16259980.html"
-    }
-   ]
+   "details": []
   },
   {
-   "rank": 17,
-   "topic": "wirtschaft",
-   "title": "Verstecktes gepanzertes Gewölbe in einem Haus in Peña gefunden, das mit Darlehen der Ueno Bank gebaut wurde",
-   "summary": [
-    "Paraguayische Staatsanwälte und Polizei durchsuchten am Sonntag eine Residenz des ehemaligen Präsidenten Santiago Peña in Ciervo Cuá im Bezirk San Bernardino, etwa 50 Kilometer von Asunción entfernt, die mit Darlehen der Ueno Bank gebaut wurde.",
-    "Die Staatsanwaltschaft bestätigte die Durchsuchung, obwohl in ihrer Erklärung das Gewölbe, dessen Inhalt unbekannt ist, nicht erwähnt wurde.",
-    "Laut den Zeitungen ABC Color und Última Hora fanden sie ein gepanzertes Gewölbe hinter einer falschen Mauer, das sie nicht öffnen konnten."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T10:57:00+00:00",
-   "links": [
-    {
-     "source": "MercoPress",
-     "country": "Uruguay",
-     "ownership": "privat",
-     "url": "https://en.mercopress.com/2026/11/09/hidden-armoured-vault-found-in-a-pena-home-built-with-ueno-bank-loans?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-    }
-   ]
-  },
-  {
-   "rank": 18,
-   "topic": "klima",
-   "title": "Q&A: Was ist der Belém-Antalya-Mechanismus für einen „gerechten Übergang?",
-   "summary": [
-    "Eines der wichtigsten erwarteten Ergebnisse des bevorstehenden COP31-Klimagipfels in Antalya, Türkei, ist der Start einer..."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T08:00:00+00:00",
-   "links": [
-    {
-     "source": "Carbon Brief",
-     "country": "Großbritannien",
-     "ownership": "gemeinnützig",
-     "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition"
-    }
-   ]
-  },
-  {
-   "rank": 19,
-   "topic": "europa",
-   "title": "Auf dem Versuch, wahre Besitzer zu finden, zeigt das Pariser Musee D'Orsay Kunst, die von Nazis geplündert wurde",
-   "summary": [
-    "Eine neue Dauerausstellung im Pariser Musee d'Orsay zeigt Kunstwerke, die im Verdacht stehen, während des Zweiten Weltkriegs in Frankreich von Nazis geplündert worden zu sein.",
-    "Experten versuchen, die wahren Besitzer oder ihre Nachkommen zu finden."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-08T22:04:09+00:00",
-   "links": [
-    {
-     "source": "NPR",
-     "country": "USA",
-     "ownership": "gemeinnützig",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis"
-    }
-   ]
-  },
-  {
-   "rank": 20,
+   "rank": 13,
    "topic": "europa",
    "title": "Todesschütze von Krakau ist tot",
    "summary": [
@@ -749,31 +858,132 @@
      "ownership": "Genossenschaft",
      "url": "https://taz.de/Schusswaffenangriff-in-Krakau/!6228372/"
     }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/politik/ausland/anschlag-krakau-taeter-zustand-100.html",
+     "title": "",
+     "text": [
+      "Um alle zu beantworten, müsste zunächst derjenige vor dem Tod gerettet werden, der anderen Menschen das Leben nahm."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Anschlag-in-Polen/!6228466/",
+     "title": "Anschlag in Polen: Aus der Mitte der Gesellschaft",
+     "text": [
+      "Dass der Täter ein Landsmann ist, macht es nicht leichter."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Schusswaffenangriff-in-Krakau/!6228372/",
+     "title": "Schusswaffenangriff in Krakau: Rechtsextremist tötet mindestens 6 Menschen",
+     "text": [
+      "Mindestens 6 Menschen sterben.",
+      "Schon jetzt ist klar: Der Täter hatte rechtsextreme Ansichten."
+     ],
+     "machine_translated": false
+    }
    ]
   },
   {
-   "rank": 21,
-   "topic": "technologie",
-   "title": "Warum wendet sich eine südkoreanische Stadt an ein US-College, um KI zu überlisten?",
+   "rank": 14,
+   "topic": "klima",
+   "title": "Q&A: Was ist der Belém-Antalya-Mechanismus für einen „gerechten Übergang?",
+   "summary": [],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T08:00:00+00:00",
+   "links": [
+    {
+     "source": "Carbon Brief",
+     "country": "Großbritannien",
+     "ownership": "gemeinnützig",
+     "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 15,
+   "topic": "wirtschaft",
+   "title": "Verstecktes gepanzertes Gewölbe in einem Haus in Peña gefunden, das mit Darlehen der Ueno Bank gebaut wurde",
    "summary": [
-    "Durch Bürgerbeteiligung und liberale Bildung hoffen südkoreanische Pädagogen, \"das Gefüge unserer Demokratie still zu nähen ... bevor es sich irreparabel auflöst\"."
+    "Paraguayische Staatsanwälte und Polizei durchsuchten am Sonntag eine Residenz des ehemaligen Präsidenten Santiago Peña in Ciervo Cuá im Bezirk San Bernardino, etwa 50 Kilometer von Asunción entfernt, die mit Darlehen der Ueno Bank gebaut wurde.",
+    "Die Staatsanwaltschaft bestätigte die Durchsuchung, obwohl in ihrer Erklärung das Gewölbe, dessen Inhalt unbekannt ist, nicht erwähnt wurde.",
+    "Laut den Zeitungen ABC Color und Última Hora fanden sie ein gepanzertes Gewölbe hinter einer falschen Mauer, das sie nicht öffnen konnten."
    ],
    "machine_translated": true,
    "single_source": true,
    "source_count": 1,
    "region_count": 1,
-   "published": "2026-11-09T10:47:00+00:00",
+   "published": "2026-11-09T10:57:00+00:00",
+   "links": [
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "ownership": "privat",
+     "url": "https://en.mercopress.com/2026/11/09/hidden-armoured-vault-found-in-a-pena-home-built-with-ueno-bank-loans?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 16,
+   "topic": "europa",
+   "title": "Auf dem Versuch, wahre Besitzer zu finden, zeigt das Pariser Musee D'Orsay Kunst, die von Nazis geplündert wurde",
+   "summary": [
+    "Eine neue Dauerausstellung im Pariser Musee d'Orsay zeigt Kunstwerke, die im Verdacht stehen, während des Zweiten Weltkriegs in Frankreich von Nazis geplündert worden zu sein.",
+    "Experten versuchen, die wahren Besitzer oder ihre Nachkommen zu finden."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-08T22:04:09+00:00",
    "links": [
     {
      "source": "NPR",
      "country": "USA",
      "ownership": "gemeinnützig",
-     "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai"
+     "url": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis"
     }
-   ]
+   ],
+   "details": []
   },
   {
-   "rank": 22,
+   "rank": 17,
+   "topic": "klima",
+   "title": "COP31-Gipfelführer fordern die Welt auf, sich beim Klima „schneller zu bewegen",
+   "summary": [
+    "Die Führer des COP31-Klimagipfels forderten die Welt auf, den Kampf gegen die globale Erwärmung zu beschleunigen, da steigende Temperaturen und eine zunehmende Anzahl klimabedingter Katastrophen Leben und die Weltwirtschaft bedrohen, da das Jahrestreffen am Montag in der Türkei begann."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T11:43:28+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-09-cop31-summit-leaders-urge-world-to-move-faster-on-climate/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 18,
    "topic": "gesundheit",
    "title": "Russland: HIV breitet sich über Risikogruppen in 27 Regionen hinaus aus, sagen Epidemiologen",
    "summary": [
@@ -792,38 +1002,56 @@
      "ownership": "privat",
      "url": "https://www.euronews.com/2026/11/09/russia-hiv-spreads-beyond-risk-groups-in-27-regions-epidemiologists-say"
     }
-   ]
+   ],
+   "details": []
   },
   {
-   "rank": 23,
-   "topic": "deutschland",
-   "title": "Antisemitismus in Berlin: Erzbischof fordert stärkeren Schutz jüdischen Lebens",
+   "rank": 19,
+   "topic": "technologie",
+   "title": "Warum wendet sich eine südkoreanische Stadt an ein US-College, um KI zu überlisten?",
    "summary": [
-    "Der Berliner Erzbischof beschreibt die Situation von Jüdinnen und Juden in Deutschland als „besorgniserregend“ - vor allem in der Hauptstadt.",
-    "Mit persönlichen Geschichten aus Israel, Palästina und Deutschland bringt der „HörBus Nahost“ den Konflikt auf Berliner Schulhöfe und schafft Raum für Empathie."
+    "Durch Bürgerbeteiligung und liberale Bildung hoffen südkoreanische Pädagogen, \"im Stillen das Gewebe unserer Demokratie zu nähen ... bevor es sich irreparabel auflöst\"."
    ],
-   "machine_translated": false,
-   "single_source": false,
-   "source_count": 2,
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
    "region_count": 1,
-   "published": "2026-11-09T07:38:46+00:00",
+   "published": "2026-11-09T10:47:00+00:00",
    "links": [
     {
-     "source": "Tagesspiegel",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.tagesspiegel.de/berlin/dpa-antisemitismus-in-berlin-erzbischof-fordert-starkeren-schutz-judischen-lebens-16259736.html"
-    },
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Sprechen-ueber-Nahost-in-Berlin/!6227029/"
+     "source": "NPR",
+     "country": "USA",
+     "ownership": "gemeinnützig",
+     "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai"
     }
-   ]
+   ],
+   "details": []
   },
   {
-   "rank": 24,
+   "rank": 20,
+   "topic": "europa",
+   "title": "Zufällig vor Ort: Wie Ärzte in Krakau Schlimmeres verhinderten",
+   "summary": [
+    "Sie kommen vom Familienessen, als Schüsse fallen: Sofort eilen zwei Chirurgen auf dem Krakauer Marktplatz den Verletzten zu Hilfe.",
+    "Damit retteten sie vermutlich Leben."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T11:26:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/panorama/kriminalitaet/krakau-attentat-aerzte-chirurgen-helfer-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 21,
    "topic": "sport",
    "title": "Fagans Understudy Bruce nannte Brisbanes neuen Senior Coach",
    "summary": [
@@ -841,631 +1069,11 @@
      "ownership": "öffentlich-rechtlich",
      "url": "https://www.abc.net.au/news/2026-11-09/afl-cameron-bruce-brisbane-lions-new-senior-coach/107365956"
     }
-   ]
-  },
-  {
-   "rank": 25,
-   "topic": "klima",
-   "title": "Welche Länder und Industrien emittieren die meisten Treibhausgase?",
-   "summary": [
-    "Die USA haben das meiste CO2 in der Geschichte emittiert; China ist jetzt der größte Emittent.",
-    "Hier ist, wer die globalen Emissionen antreibt."
    ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T07:21:37+00:00",
-   "links": [
-    {
-     "source": "Al Jazeera",
-     "country": "Katar",
-     "ownership": "staatlich finanziert",
-     "url": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss"
-    }
-   ]
+   "details": []
   },
   {
-   "rank": 26,
-   "topic": "sport",
-   "title": "Mindestens sieben Tote, mehr als 100 Verletzte, als zwei Züge südlich von Kairo kollidieren",
-   "summary": [
-    "Der Unfall ereignete sich etwa 52 Kilometer südlich von Kairo, als ein Zug an der Rückseite eines anderen anschlug und einer entgleiste.",
-    "[DW] Ein Zug entgleist, nachdem er mit einem anderen Zug südlich von Kairo kollidiert war, wobei die Behörden mehrere Todesfälle bestätigten und sagten, dass mehr als 100 Passagiere verletzt wurden.",
-    "Über 50 Krankenwagen wurden am Tatort eingesetzt."
-   ],
-   "machine_translated": true,
-   "single_source": false,
-   "source_count": 2,
-   "region_count": 2,
-   "published": "2026-11-09T05:39:15+00:00",
-   "links": [
-    {
-     "source": "Euronews",
-     "country": "Frankreich",
-     "ownership": "privat",
-     "url": "https://www.euronews.com/2026/11/08/at-least-four-dead-88-injured-as-two-trains-collide-south-of-cairo"
-    },
-    {
-     "source": "allAfrica",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://allafrica.com/stories/202611090086.html"
-    }
-   ]
-  },
-  {
-   "rank": 27,
-   "topic": "wirtschaft",
-   "title": "Banken: Unicredit will Anfang 2027 bei Commerzbank durchstarten",
-   "summary": [
-    "UniCredit will im ersten Quartal 2027 bei der Commerzbank die Kontrolle übernehmen.",
-    "Schon in wenigen Wochen will die italienische Unicredit bei der Commerzbank das Sagen haben.",
-    "Unicredit-Chef Orcel hat genaue Pläne."
-   ],
-   "machine_translated": false,
-   "single_source": false,
-   "source_count": 2,
-   "region_count": 1,
-   "published": "2026-11-09T11:25:00+00:00",
-   "links": [
-    {
-     "source": "Tagesspiegel",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.tagesspiegel.de/wirtschaft/dpa-banken-unicredit-will-anfang-2027-bei-commerzbank-durchstarten-16259826.html"
-    },
-    {
-     "source": "WirtschaftsWoche",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.wiwo.de/unternehmen/banken/bankenfusion-unicredit-will-im-ersten-quartal-bei-commerzbank-durchregieren/100268342.html"
-    }
-   ]
-  },
-  {
-   "rank": 28,
-   "topic": "wirtschaft",
-   "title": "Künstliche Intelligenz: Telekom verdoppelt KI-Rechenleistung in München",
-   "summary": [
-    "Die KI-Fabrik der Telekom in München war schon kurz nach dem Start voll ausgelastet.",
-    "Nun investiert der Konzern knapp eine weitere Viertelmilliarde Euro.",
-    "Aus der Politik kommt deutlicher Rückenwind."
-   ],
-   "machine_translated": false,
-   "single_source": false,
-   "source_count": 2,
-   "region_count": 1,
-   "published": "2026-11-09T11:05:00+00:00",
-   "links": [
-    {
-     "source": "Tagesspiegel",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.tagesspiegel.de/gesellschaft/medien/dpa-kunstliche-intelligenz-telekom-verdoppelt-ki-rechenleistung-in-munchen-16260624.html"
-    },
-    {
-     "source": "WirtschaftsWoche",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-deutsche-telekom-erweitert-ihr-ki-rechenzentrum/100268392.html"
-    }
-   ]
-  },
-  {
-   "rank": 29,
-   "topic": "sport",
-   "title": "Warner sagt, dass Khawajas Behauptung, der Ball sei zu 100 Prozent korrekt",
-   "summary": [
-    "David Warner wirft seine volle Unterstützung hinter seinen Kindheitsfreund Usman Khawaja, während er Cricket Australias Untersuchung der Ballmanipulation zuschlägt."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T07:38:18+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-09/cricket-warner-backs-khawaja-ball-tampering-claims-slams-probe/107365778"
-    }
-   ]
-  },
-  {
-   "rank": 30,
-   "topic": "wirtschaft",
-   "title": "Umkämpfter Telko-Markt: Vodafone baut in Deutschland rund 2.300 Stellen ab",
-   "summary": [
-    "Vodafone streicht fast jeden fünften Arbeitsplatz in Deutschland.",
-    "Der Konzern begründet den Einschnitt mit einem Markt, der sich grundlegend verändert."
-   ],
-   "machine_translated": false,
-   "single_source": false,
-   "source_count": 2,
-   "region_count": 1,
-   "published": "2026-11-09T10:36:00+00:00",
-   "links": [
-    {
-     "source": "Tagesspiegel",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.tagesspiegel.de/gesellschaft/medien/dpa-umkampfter-telko-markt-vodafone-baut-in-deutschland-rund-2300-stellen-ab-16260098.html"
-    },
-    {
-     "source": "WirtschaftsWoche",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.wiwo.de/unternehmen/dienstleister/vodafone-netzanbieter-baut-in-deutschland-mehr-als-2000-jobs-ab/100268428.html"
-    }
-   ]
-  },
-  {
-   "rank": 31,
-   "topic": "deutschland",
-   "title": "Wie Israels Trennmauer mit der Berliner Mauer verglichen wird",
-   "summary": [
-    "Wie Israels Mauer, Checkpoints und Genehmigungen die Palästinenser im besetzten Westjordanland teilen und Bauern vom Land abschneiden."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T06:32:18+00:00",
-   "links": [
-    {
-     "source": "Al Jazeera",
-     "country": "Katar",
-     "ownership": "staatlich finanziert",
-     "url": "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss"
-    }
-   ]
-  },
-  {
-   "rank": 32,
-   "topic": "gesundheit",
-   "title": "STAT+: CVS-Split löst sein grundlegendes Problem nicht",
-   "summary": [
-    "Die Aufteilung von CVS in zwei Teile löst sein grundlegendes Problem nicht, schreibt Judi Health CEO A.J."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T09:30:00+00:00",
-   "links": [
-    {
-     "source": "STAT",
-     "country": "USA",
-     "ownership": "privat",
-     "url": "https://www.statnews.com/2026/11/09/cvs-health-split-pbm-conflict-examined-anthony-loiacono-judi-health/?utm_campaign=rss"
-    }
-   ]
-  },
-  {
-   "rank": 33,
-   "topic": "sport",
-   "title": "Greenes Ex-Teamkollege sagt, er habe Giants mit Cats Move verlassen",
-   "summary": [
-    "Joe Fonti zielt auf seinen ehemaligen Skipper nach seinem Übertritt zu Geelong, während die Giants versuchen, eine Vielzahl verlorener Erfahrungen auszugleichen."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T06:12:45+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-09/afl-toby-greene-abandoned-giants-says-ex-teammate/107365274"
-    }
-   ]
-  },
-  {
-   "rank": 34,
-   "topic": "gesundheit",
-   "title": "Leber-Experten schließlich einig, was akut-auf-chronische Leberversagen ist",
-   "summary": [
-    "\"Patienten leiden unter dieser Bedingung, die jeder seine eigene Art zu definieren hat.\""
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T09:30:00+00:00",
-   "links": [
-    {
-     "source": "STAT",
-     "country": "USA",
-     "ownership": "privat",
-     "url": "https://www.statnews.com/2026/11/09/acute-on-chronic-liver-failure-new-definition/?utm_campaign=rss"
-    }
-   ]
-  },
-  {
-   "rank": 35,
-   "topic": "klima",
-   "title": "Turkiye treibt die Elektrifizierung an die Spitze der Klimaagenda, da COP31 eröffnet werden soll",
-   "summary": [
-    "Ankara will bis 2035 35 Prozent des weltweiten Energiebedarfs mit Strom decken."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T05:02:19+00:00",
-   "links": [
-    {
-     "source": "Al Jazeera",
-     "country": "Katar",
-     "ownership": "staatlich finanziert",
-     "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss"
-    }
-   ]
-  },
-  {
-   "rank": 36,
-   "topic": "gesundheit",
-   "title": "STAT +: Demokraten beginnen zu fragen: Wie weit können wir im Gesundheitswesen gehen?",
-   "summary": [
-    "Viele in der Partei drängen darauf, dass demokratische Gesetzgeber im Gesundheitswesen groß werden, aber ihre Träume können in die Realität abstürzen."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T09:30:00+00:00",
-   "links": [
-    {
-     "source": "STAT",
-     "country": "USA",
-     "ownership": "privat",
-     "url": "https://www.statnews.com/2026/11/09/democrat-healthcare-agenda-new-lawmakers-weigh-popular-vs-possible/?utm_campaign=rss"
-    }
-   ]
-  },
-  {
-   "rank": 37,
-   "topic": "sport",
-   "title": "Leniu übergab Zwei-Match-Verbot, nachdem er Geldgeste an Schiedsrichter gemacht hatte",
-   "summary": [
-    "Der Samoa-Star wird suspendiert, nachdem er seine Frustration über die Niederlage seiner Mannschaft gegen Australien im Halbfinale der Rugby League World Cup gezeigt hat."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T04:23:17+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-09/rugby-league-world-cup-leniu-banned-referee-money-gesture/107364806"
-    }
-   ]
-  },
-  {
-   "rank": 38,
-   "topic": "klima",
-   "title": "Ägypten kündigt neue Entdeckung eines mediterranen Gasfeldes an, die auf 200 Milliarden Kubikfuß geschätzt wird",
-   "summary": [
-    "Das Erdölministerium führte die positiven Ergebnisse auf höhere Investitions- und Explorationsaktivitäten zurück, wobei ein besseres Investitionsklima und Fortschritte bei der Begleichung überfälliger Zahlungen an ausländische Unternehmen im Energiesektor festgestellt wurden."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-08T12:23:43+00:00",
-   "links": [
-    {
-     "source": "Euronews",
-     "country": "Frankreich",
-     "ownership": "privat",
-     "url": "https://www.euronews.com/2026/11/08/egypt-announces-new-mediterranean-gas-field-discovery-estimated-at-200-billion-cubic-feet"
-    }
-   ]
-  },
-  {
-   "rank": 39,
-   "topic": "gesundheit",
-   "title": "KI-Chatbots sind keine Therapeuten. Aber können sie endlich Männer dazu bringen, sich zu öffnen?",
-   "summary": [
-    "KI-Chatbots sind unvollkommene Therapeuten.",
-    "Aber können sie endlich Männer zum Reden bringen?"
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T09:30:00+00:00",
-   "links": [
-    {
-     "source": "STAT",
-     "country": "USA",
-     "ownership": "privat",
-     "url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/?utm_campaign=rss"
-    }
-   ]
-  },
-  {
-   "rank": 40,
-   "topic": "sport",
-   "title": "Glücklos Test hoffnungsvoll Morris setzt Horrorverletzung auf Party laufen",
-   "summary": [
-    "Lance Morris' Warten auf ein Testdebüt soll verlängert werden, nachdem er sich bei einem sozialen Ereignis nach dem Zusammenstoß Westaustraliens gegen England verletzt hatte."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T03:24:12+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-09/cricket-lance-morris-injures-hand-at-party-western-australia/107364454"
-    }
-   ]
-  },
-  {
-   "rank": 41,
-   "topic": "technologie",
-   "title": "Tesla erweitert Robotaxi-Service nach San Antonio",
-   "summary": [
-    "Dies wird die vierte texanische Stadt sein, in der Tesla Robotaxis starten wird."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T11:30:24+00:00",
-   "links": [
-    {
-     "source": "TechCrunch",
-     "country": "USA",
-     "ownership": "privat",
-     "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"
-    }
-   ]
-  },
-  {
-   "rank": 42,
-   "topic": "wissenschaft",
-   "title": "Der Super El Niño ist mehr als ein Klimaschock – er ist auch ein Gesundheitsschock",
-   "summary": [
-    "Natur, online veröffentlicht: 09 November 2026; doi:10.1038/d41586-026-03628-5 Nahrungsmittelknappheit und Krankheitsausbrüche sind zu erwarten und müssen gemeinsam angegangen werden."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T00:00:00+00:00",
-   "links": [
-    {
-     "source": "Nature",
-     "country": "Großbritannien",
-     "ownership": "Wissenschaftsverlag",
-     "url": "https://www.nature.com/articles/d41586-026-03628-5"
-    }
-   ]
-  },
-  {
-   "rank": 43,
-   "topic": "deutschland",
-   "title": "Wie die Bethke-Brüder dreimal DDR-Grenzer austricksten",
-   "summary": [
-    "1975, 1983 und 1989: Dreimal gelang den Bethke-Brüdern eine Flucht aus der DDR.",
-    "Wie Ingo, Holger und Egbert Bethke es geschafft haben, die Grenze zur BRD zu überwinden."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T09:31:00+00:00",
-   "links": [
-    {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/politik/deutschland/ddr-flucht-berliner-mauer-bethke-brueder-100.html"
-    }
-   ]
-  },
-  {
-   "rank": 44,
-   "topic": "wissenschaft",
-   "title": "KI hat Mathematik verändert - so sind wir hierher gekommen",
-   "summary": [
-    "Natur, online veröffentlicht: 09 November 2026; doi:10.1038/d41586-026-03627-6 Die Geschichte, wie Mathematik die Welt regierte und die künstlichen Intelligenzmodelle schuf, die menschliche Mathematiker übertreffen könnten."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T00:00:00+00:00",
-   "links": [
-    {
-     "source": "Nature",
-     "country": "Großbritannien",
-     "ownership": "Wissenschaftsverlag",
-     "url": "https://www.nature.com/articles/d41586-026-03627-6"
-    }
-   ]
-  },
-  {
-   "rank": 45,
-   "topic": "klima",
-   "title": "Daten zum Klimawandel im Überblick",
-   "summary": [
-    "Temperaturen, Emissionen und Meeresspiegel: Grafiken zeigen wichtige Daten zum Klimawandel im Überblick - und wie Deutschland beim Ausbau erneuerbarer Energien vorankommt."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T09:21:00+00:00",
-   "links": [
-    {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/politik/klimawandel-deutschland-welt-folgen-daten-100.html"
-    }
-   ]
-  },
-  {
-   "rank": 46,
-   "topic": "sport",
-   "title": "Alcaraz senkt Shelton im Finale, um den Titel des ersten Paris Masters zu gewinnen",
-   "summary": [
-    "Carlos Alcaraz gewinnt zum ersten Mal in seiner Karriere das schwer fassbare Paris Masters und holt sich seinen fünften Titelgewinn des Kalenderjahres."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T02:17:59+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-09/tennis-carlos-alcaraz-beats-ben-shelton-paris-masters-final/107364040"
-    }
-   ]
-  },
-  {
-   "rank": 47,
-   "topic": "technologie",
-   "title": "Das weltweit größte Telekommunikationsunternehmen steht vor Gericht und das Ergebnis hat globale Auswirkungen",
-   "summary": [
-    "Huawei, das weltweit größte Telekommunikationsunternehmen, steht in New York vor Gericht und wird beschuldigt, amerikanische Technologie gestohlen und US-Sanktionen umgangen zu haben."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-08T22:04:13+00:00",
-   "links": [
-    {
-     "source": "NPR",
-     "country": "USA",
-     "ownership": "gemeinnützig",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications"
-    }
-   ]
-  },
-  {
-   "rank": 48,
-   "topic": "deutschland",
-   "title": "Dröge zu Merz’ COP-Absage: \"Ein wirklich schlechtes Signal\"",
-   "summary": [
-    "Grünen-Fraktionschefin Katharina Dröge kritisiert Bundeskanzler Merz für sein Fernbleiben bei der Weltklimakonferenz.",
-    "Sie fordert mehr Einsatz beim Ausstieg aus fossiler Energie."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T08:01:00+00:00",
-   "links": [
-    {
-     "source": "ZDFheute",
-     "country": "Deutschland",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.zdfheute.de/politik/deutschland/cop-31-klima-konferenz-merz-fossile-energie-droege-100.html"
-    }
-   ]
-  },
-  {
-   "rank": 49,
-   "topic": "wirtschaft",
-   "title": "Liberia: Was ist in den USA $ 1,538 Milliarden 2027 Haushalt?",
-   "summary": [
-    "[Liberian Investigator] MONROVIA -- Präsident Joseph Nyuma Boakai schickte der Legislative am Freitag ein Budget von 1,538 Milliarden US-Dollar, das größte Liberia, das jemals vorgeschlagen wurde.",
-    "[New Dawn] MONROVIA -- Präsident Joseph Nyuma Boakai hat der 55. Legislaturbehörde einen Entwurf des Staatshaushalts für das Geschäftsjahr 2027 in Höhe von 1,538 Milliarden US-Dollar vorgelegt, der erhöhte Investitionen in das Gesundheitswesen, die Bildung, die Infrastruktur, die Stärkung der Jugend und die Entschädigung des öffentlichen Sektors vorschlägt."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T11:04:33+00:00",
-   "links": [
-    {
-     "source": "allAfrica",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://allafrica.com/stories/202611090249.html"
-    },
-    {
-     "source": "allAfrica",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://allafrica.com/stories/202611090245.html"
-    },
-    {
-     "source": "allAfrica",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://allafrica.com/stories/202611090239.html"
-    },
-    {
-     "source": "allAfrica",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://allafrica.com/stories/202611090155.html"
-    }
-   ]
-  },
-  {
-   "rank": 50,
-   "topic": "sport",
-   "title": "Trainer Aloisi überwacht atemberaubende Kapitulation im Titelrennen der chinesischen Super League",
-   "summary": [
-    "Mit nur einem Punkt aus den letzten vier Spielen, um die CSL-Krone zu gewinnen, verliert Trainer Aloisis Chengdu Rongcheng jedes Spiel und bläst einen 14-Punkte-Vorsprung im Heimspiel."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T02:12:12+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-09/chinese-super-league-john-aloisi-oversees-stunning-capitulation/107364010"
-    }
-   ]
-  },
-  {
-   "rank": 51,
-   "topic": "gesundheit",
-   "title": "Das Überleben nach einem plötzlichen Herzstillstand verbesserte sich trotz Training von Umstehenden und Notfallhelfern nicht",
-   "summary": [
-    "Eine neue Studie ergab, dass sich das Überleben nach einem plötzlichen Herzstillstand mit dem Vorschulung von Respondern nicht verbessert hat - aber die Forscher sind nicht bereit, die Tür für die Möglichkeit zu schließen."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-08T22:15:00+00:00",
-   "links": [
-    {
-     "source": "STAT",
-     "country": "USA",
-     "ownership": "privat",
-     "url": "https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss"
-    }
-   ]
-  },
-  {
-   "rank": 52,
+   "rank": 22,
    "topic": "klima",
    "title": "Lahore bleibt die am stärksten verschmutzte Großstadt der Welt, da AQI 600 überschreitet",
    "summary": [
@@ -1485,14 +1093,98 @@
      "ownership": "privat",
      "url": "https://www.dawn.com/news/2043255/lahore-remains-worlds-most-polluted-major-city-as-aqi-crosses-600"
     }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043255/lahore-remains-worlds-most-polluted-major-city-as-aqi-crosses-600",
+     "title": "",
+     "text": [
+      "LAHORE: Lahore wurde am Montag als die am stärksten verschmutzte Großstadt der Welt eingestuft, da der Luftqualitätsindex (AQI) laut IQAir 590 erreichte.",
+      "Eine separate historische Lektüre auf der Plattform zeigte jedoch einen Stundenindex von 647, wodurch die Stadt in die gefährliche Kategorie eingestuft wurde.",
+      "Die IQAir Live-Weltrangliste der Großstädte von 9 bis 10 Uhr am 9. November platzierte Lahore an der Spitze, gefolgt von Ulaanbaatar mit einem AQI von 177, Delhi mit 174, Kolkata mit 173 und Sarajevo mit 170.",
+      "Das Ranking zeigte, dass Lahores Verschmutzungsgrad mehr als dreimal so hoch war wie der der zweitplatzierten Stadt.",
+      "Die historische Luftqualitätskurve der Plattform zeigte separat eine stündliche Anzeige von 647 für Lahore im gleichen Zeitraum."
+     ],
+     "machine_translated": true
+    }
    ]
   },
   {
-   "rank": 53,
+   "rank": 23,
+   "topic": "sport",
+   "title": "Warner sagt, Khawajas Behauptung zur Manipulation von Ball sei \"100 Prozent korrekt\"",
+   "summary": [
+    "David Warner wirft seine volle Unterstützung hinter seinen Freund aus Kindertagen, Usman Khawaja, während er Cricket Australias Untersuchung der Ballmanipulation zuschlägt."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T07:38:18+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-09/cricket-warner-backs-khawaja-ball-tampering-claims-slams-probe/107365778"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 24,
+   "topic": "klima",
+   "title": "Welche Länder und Industrien emittieren die meisten Treibhausgase?",
+   "summary": [
+    "Die USA haben das meiste CO2 in der Geschichte emittiert; China ist jetzt der größte Emittent.",
+    "Hier ist, wer die globalen Emissionen antreibt."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T07:21:37+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 25,
+   "topic": "deutschland",
+   "title": "Wie die Bethke-Brüder dreimal DDR-Grenzer austricksten",
+   "summary": [
+    "1975, 1983 und 1989: Dreimal gelang den Bethke-Brüdern eine Flucht aus der DDR.",
+    "Wie Ingo, Holger und Egbert Bethke es geschafft haben, die Grenze zur BRD zu überwinden."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T09:31:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/ddr-flucht-berliner-mauer-bethke-brueder-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 26,
    "topic": "wirtschaft",
    "title": "Wasser strömt in nahe gelegene Arbeitsbereiche nach dem Zusammenbruch der Gesteinsmasse am Tarbela-Damm",
    "summary": [
-    "Wapda sagte, die Entwässerungsarbeiten am im Bau befindlichen Kraftwerk hätten ebenfalls begonnen.",
+    "Wapda sagte, dass die Entwässerungsarbeiten am im Bau befindlichen Kraftwerk ebenfalls begonnen hätten.",
     "In einer Erklärung sagte Wapda, dass Wasser in das im Bau befindliche Kraftwerksgebiet und einen Tunnel des T-5-Projekts eingedrungen sei, nachdem eine schwache Gesteinsmasse während der Ausgrabungsarbeiten zusammengebrochen war, was die Evakuierung von Arbeitern zur Folge hatte.",
     "Es sagte weiter, es habe keine Verletzungen oder Verluste von Menschenleben unter den Arbeitskräften gegeben."
    ],
@@ -1508,12 +1200,322 @@
      "ownership": "privat",
      "url": "https://www.dawn.com/news/2043275/water-surges-into-nearby-work-areas-after-rock-mass-collapse-at-tarbela-dam"
     }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043275/water-surges-into-nearby-work-areas-after-rock-mass-collapse-at-tarbela-dam",
+     "title": "",
+     "text": [
+      "SWABI: Eine Gesteinsmasse brach am Montag auf der Baustelle des Tarbela Dam 5th Extension Project (T-5) zusammen und verursachte einen Wasserschub, der in nahe gelegene Arbeitsbereiche eindrang, sagte die Water and Power Development Authority (Wapda).",
+      "Nach dem Zusammenbruch wurde ein Notfall ausgerufen; die Bauarbeiten wurden eingestellt und die Arbeiter wurden angewiesen, in sicherere Gebiete zu ziehen.",
+      "Bei dem Vorfall wurde jedoch kein Verlust von Menschenleben gemeldet.",
+      "Die Behörde sagte, der Vorfall ereignete sich während der Ausgrabung des 2. Bench-Verbindungstunnels, als der Zusammenbruch Wasser aus der Ansauggrube in den Tunnel und das Kraftwerksgebiet eindrang."
+     ],
+     "machine_translated": true
+    }
    ]
   },
   {
-   "rank": 54,
+   "rank": 27,
+   "topic": "klima",
+   "title": "Daten zum Klimawandel im Überblick",
+   "summary": [
+    "Temperaturen, Emissionen und Meeresspiegel: Grafiken zeigen wichtige Daten zum Klimawandel im Überblick - und wie Deutschland beim Ausbau erneuerbarer Energien vorankommt."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T09:21:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/klimawandel-deutschland-welt-folgen-daten-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 28,
+   "topic": "sport",
+   "title": "Greenes Ex-Teamkollege sagt, er habe Giants mit Cats Move verlassen",
+   "summary": [
+    "Joe Fonti zielt auf seinen ehemaligen Skipper nach seinem Übertritt zu Geelong, während die Giants versuchen, eine Vielzahl verlorener Erfahrungen auszugleichen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T06:12:45+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-09/afl-toby-greene-abandoned-giants-says-ex-teammate/107365274"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 29,
    "topic": "technologie",
-   "title": "Apps, um Sie vom endlosen Zyklus des Doomscrolling abzulenken",
+   "title": "Tesla erweitert Robotaxi-Service nach San Antonio",
+   "summary": [
+    "Dies wird die vierte texanische Stadt sein, in der Tesla Robotaxis starten wird."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T11:30:24+00:00",
+   "links": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 30,
+   "topic": "deutschland",
+   "title": "Wie Israels Trennmauer mit der Berliner Mauer verglichen wird",
+   "summary": [
+    "Wie Israels Mauer, Checkpoints und Genehmigungen die Palästinenser im besetzten Westjordanland teilen und Bauern vom Land abschneiden."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T06:32:18+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 31,
+   "topic": "deutschland",
+   "title": "Suche nach Lisa: Vermisste 13-Jährige ist tot",
+   "summary": [
+    "In Brandenburg wurde eine Leiche gefunden, bei der es sich um die vermisste 13-jährige Lisa aus Berlin-Marzahn handeln soll.",
+    "Der mutmaßliche Täter wurde schwerverletzt gefasst."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T09:15:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/panorama/kriminalitaet/schuelerin-berlin-leiche-gefunden-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 32,
+   "topic": "klima",
+   "title": "Ägypten kündigt neue Entdeckung eines mediterranen Gasfeldes an, die auf 200 Milliarden Kubikfuß geschätzt wird",
+   "summary": [
+    "Das Erdölministerium führte die positiven Ergebnisse auf höhere Investitions- und Explorationsaktivitäten zurück, wobei ein besseres Investitionsklima und Fortschritte bei der Begleichung überfälliger Zahlungen an ausländische Unternehmen im Energiesektor festgestellt wurden."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-08T12:23:43+00:00",
+   "links": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/08/egypt-announces-new-mediterranean-gas-field-discovery-estimated-at-200-billion-cubic-feet"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 33,
+   "topic": "technologie",
+   "title": "Das weltweit größte Telekommunikationsunternehmen steht vor Gericht und das Ergebnis hat globale Auswirkungen",
+   "summary": [
+    "Huawei, das weltweit größte Telekommunikationsunternehmen, steht in New York vor Gericht und wird beschuldigt, amerikanische Technologie gestohlen und US-Sanktionen umgangen zu haben."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-08T22:04:13+00:00",
+   "links": [
+    {
+     "source": "NPR",
+     "country": "USA",
+     "ownership": "gemeinnützig",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 34,
+   "topic": "deutschland",
+   "title": "Dröge zu Merz’ COP-Absage: \"Ein wirklich schlechtes Signal\"",
+   "summary": [
+    "Grünen-Fraktionschefin Katharina Dröge kritisiert Bundeskanzler Merz für sein Fernbleiben bei der Weltklimakonferenz.",
+    "Sie fordert mehr Einsatz beim Ausstieg aus fossiler Energie."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T08:01:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/cop-31-klima-konferenz-merz-fossile-energie-droege-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 35,
+   "topic": "wirtschaft",
+   "title": "Hohe Kosten für bröckelnde Infrastruktur in Karatschi",
+   "summary": [
+    "Der Zustand der Infrastruktur für die Industriezentren wirft Fragen auf, ob wesentliche öffentliche Dienste mit ihrer wirtschaftlichen Bedeutung Schritt halten.",
+    "Für Tausende von Karatschis Industriearbeitern geht es beim täglichen Pendeln weniger um Distanz und mehr um Ausdauer.",
+    "In Pakistans größter Industriestadt haben bröckelnde Infrastruktur und Verkehrsengpässe den einfachen Akt, zur Arbeit zu gehen, zu einer anstrengenden täglichen Tortur gemacht."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T10:19:57+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043198/high-cost-of-crumbling-infrastructure-in-karachi"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043198/high-cost-of-crumbling-infrastructure-in-karachi",
+     "title": "",
+     "text": [
+      "Muhammad Ali verlässt seine Baloch Colony eine Stunde vor seiner 8-Uhr-Schicht in einer SITE-Arzneierei.",
+      "Während er 14 Kilometer über den Karsaz-Korridor in 15 Minuten nach Nazimabad fahren kann, dauert die letzte 6 km lange Fahrt zu seiner Fabrik doppelt so lange, erstickt durch Schlaglöcher und Stillstand.",
+      "Gegenüber der Stadt im Industriegebiet Korangi verliert der Raffineriearbeiter Ishtiaq Ali täglich vier Stunden an öffentliche Verkehrsmittel, die endlose Bauten und kaputte Straßen befahren.",
+      "Die Belastung wird von den Arbeitern nicht allein empfunden."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 36,
+   "topic": "sport",
+   "title": "Leniu übergab Zwei-Match-Verbot, nachdem er Geldgeste an Schiedsrichter gemacht hatte",
+   "summary": [
+    "Der Samoa-Star wird suspendiert, nachdem er seine Frustration über die Niederlage seiner Mannschaft gegen Australien im Halbfinale der Rugby League World Cup gezeigt hat."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T04:23:17+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-09/rugby-league-world-cup-leniu-banned-referee-money-gesture/107364806"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 37,
+   "topic": "klima",
+   "title": "Hitzewellen in Punjab bedrohen Landwirtschaft, Ernährungssicherheit: UN",
+   "summary": [
+    "\"Die Auswirkungen extremer Hitze auf die Produktion sind stark, da Hitzewellen zu erheblichen Rückgängen der Ernteerträge geführt haben\", heißt es in dem Bericht.",
+    "Zusätzliche soziale Ungleichheiten verschärfen die Anfälligkeit von Frauen gegenüber extremer Hitze.",
+    "Während Hitzewellen springt das Risiko einer Frühgeburt auf 26 Prozent, so der Bericht."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T02:44:54+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043154/heatwaves-in-punjab-threaten-agriculture-food-security-un"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043154/heatwaves-in-punjab-threaten-agriculture-food-security-un",
+     "title": "",
+     "text": [
+      "Bericht sagt, dass die Fruchterträge um 50 Prozent sinken; Hitzestress verbreitet Viehkrankheiten, senkt die Milchproduktion • Schrumpfende Einkommen, Lebensmittelverderb begrenzen die gesunde Ernährung ländlicher Familien • Frauen tragen die Hauptlast der Krise aufgrund schwerer Arbeit im Freien; Frühgeburtenrisiko springt 26 Prozent bei Unwetter ISLAMABAD: Immer häufiger und schwere Hitzewellen in den von Regen gefütterten ländlichen Gebieten von Punjab stören die landwirtschaftliche Produktion, reduzieren die Haushaltseinkommen und verschlechtern die Ernährungsunsicherheit, insbesondere bei Frauen und gefährdeten Gemeinschaften, so ein Bericht der Vereinten Nationen (UN) Agenturen."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 38,
+   "topic": "sport",
+   "title": "Glücklos Test hoffnungsvoll Morris setzt Horrorverletzung auf Party laufen",
+   "summary": [
+    "Lance Morris' Warten auf ein Testdebüt soll verlängert werden, nachdem er sich bei einem sozialen Ereignis nach dem Zusammenstoß Westaustraliens gegen England verletzt hatte."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T03:24:12+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-09/cricket-lance-morris-injures-hand-at-party-western-australia/107364454"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 39,
+   "topic": "technologie",
+   "title": "Apps, die Sie vom endlosen Zyklus des Doomscrolling ablenken",
    "summary": [
     "Es ist schwer, den zyklus des doomscrolling zu durchbrechen, aber es gibt viele apps, die ihnen helfen können, mehr zeit mit inhalten zu verbringen, die ansprechend und produktiv sind."
    ],
@@ -1529,32 +1531,11 @@
      "ownership": "privat",
      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"
     }
-   ]
-  },
-  {
-   "rank": 55,
-   "topic": "europa",
-   "title": "Lulas Online-Wahlkampf findet Nachahmer: Linke in Frankreich und Spanien proben den „digitalen Aufstand“",
-   "summary": [
-    "Brasiliens Präsident Lula da Silva hat auch dank des WhatsApp‑Kanals „Lulas Armee“ die Stichwahl überraschend gewonnen.",
-    "In Europa versuchen linke Parteien nun, diese Wahlkampftaktik zu imitieren."
    ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T10:35:16+00:00",
-   "links": [
-    {
-     "source": "Tagesspiegel",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.tagesspiegel.de/internationales/lulas-online-wahlkampf-findet-nachahmer-linke-in-frankreich-und-spanien-proben-den-digitalen-aufstand-16241246.html"
-    }
-   ]
+   "details": []
   },
   {
-   "rank": 56,
+   "rank": 40,
    "topic": "technologie",
    "title": "Wenn snap es specs immer noch lächerlich teuer sind, sind sie auch viel bequemer als früher.",
    "summary": [
@@ -1572,32 +1553,136 @@
      "ownership": "privat",
      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/"
     }
+   ],
+   "details": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+     "title": "",
+     "text": [
+      "Werden sie ein Hit bei den Nutzern sein?"
+     ],
+     "machine_translated": true
+    }
    ]
   },
   {
-   "rank": 57,
-   "topic": "deutschland",
-   "title": "Wetter: Viel Regen bei Temperaturen bis 17 Grad ab Wochenmitte",
+   "rank": 41,
+   "topic": "europa",
+   "title": "Direktmarketing in Galerien und Bars: Berliner Regal-Zar Rafael Horzon will Supersenator werden",
    "summary": [
-    "Nach dem Regen ist vor dem Regen in diesen Tagen.",
-    "Doch die Temperaturen gehen weit auseinander."
+    "Der Deutschlandfunk frönt einer Obsession mit Sportlerinnen aus der DDR, die musikästhetisch ärgerlich ist.",
+    "Aber immerhin gibt’s in der Paris Bar gute Pommes."
    ],
    "machine_translated": false,
    "single_source": true,
    "source_count": 1,
    "region_count": 1,
-   "published": "2026-11-09T10:27:07+00:00",
+   "published": "2026-11-09T11:00:00+00:00",
    "links": [
     {
-     "source": "Tagesspiegel",
+     "source": "taz",
      "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Direktmarketing-in-Galerien-und-Bars/!6228578/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 42,
+   "topic": "sport",
+   "title": "Alcaraz senkt Shelton im Finale, um den Titel des ersten Paris Masters zu gewinnen",
+   "summary": [
+    "Carlos Alcaraz gewinnt zum ersten Mal in seiner Karriere das schwer fassbare Paris Masters und holt sich seinen fünften Titelgewinn des Kalenderjahres."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T02:17:59+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-09/tennis-carlos-alcaraz-beats-ben-shelton-paris-masters-final/107364040"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 43,
+   "topic": "europa",
+   "title": "PM erhöht Jugendkreditbetrag, senkt Mindestaltersgrenze",
+   "summary": [
+    "Nach Angaben des Büros des Premierministers wurde in diesem Jahr ein Betrag von 292 Milliarden Rs für die Auszahlung von Darlehen an die Jugend im Rahmen dieser Programme bereitgestellt.",
+    "LAHORE: Premierminister Shehbaz Sharif hat die Grenze für Privatkredite im Rahmen der Programme für junge Unternehmen und Landwirtschaft erhöht und die Mindestaltersgrenze gesenkt, damit auch 18-Jährige das Programm in Anspruch nehmen können.",
+    "Es wird geschätzt, dass Rs292 Milliarden an 266.700 Empfänger im Geschäftsjahr 2026-27 ausgezahlt werden."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T01:36:07+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
      "ownership": "privat",
-     "url": "https://www.tagesspiegel.de/gesellschaft/panorama/dpa-wetter-viel-regen-bei-temperaturen-bis-17-grad-ab-wochenmitte-16260436.html"
+     "url": "https://www.dawn.com/news/2043142/pm-raises-youth-loan-amount-lowers-minimum-age-limit"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043142/pm-raises-youth-loan-amount-lowers-minimum-age-limit",
+     "title": "",
+     "text": [
+      "Der Premierminister leitete am Sonntag ein Treffen zur Überprüfung des Fortschritts und der Umsetzung der Jugendgeschäfts- und Landwirtschaftskreditprogramme des Premierministers und wies an, dass das persönliche Kreditlimit von 7,5 Millionen Rs auf 25 Millionen Rs erhöht werden sollte, was in einfachen Raten zur Verfügung gestellt würde.",
+      "Persönliches Darlehenslimit wurde auf 25 Mio. Rs erhöht; Das Programm wurde auf 18-jährige PM Shehbaz erweitert und würdigte die Bemühungen von Finanzminister Muhammad Aurangzeb und seinem Team und erwog verschiedene Maßnahmen, um die Jugend zu stärken, ihnen Geschäftsmöglichkeiten zu bieten und ihre Beteiligung am Agrarsektor zu erhöhen."
+     ],
+     "machine_translated": true
     }
    ]
   },
   {
-   "rank": 58,
+   "rank": 44,
+   "topic": "wirtschaft",
+   "title": "Nasa sucht Astronauten: Das sind die Job-Voraussetzungen",
+   "summary": [
+    "Wer von einem Flug zu Mond oder Mars träumt, kann sich jetzt bei der Nasa bewerben: Die Raumfahrtbehörde sucht neue Astronauten."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T09:58:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nasa-astronaut-job-suche-100.html"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nasa-astronaut-job-suche-100.html",
+     "title": "",
+     "text": [
+      "Es gibt aber einen Haken."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 45,
    "topic": "technologie",
    "title": "Koordinierte Störungen verfolgen weltweit Netze. Hier ist, wie Forscher das Rätsel gelöst haben.",
    "summary": [
@@ -1615,10 +1700,71 @@
      "ownership": "privat",
      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/"
     }
+   ],
+   "details": []
+  },
+  {
+   "rank": 46,
+   "topic": "sport",
+   "title": "Trainer Aloisi überwacht atemberaubende Kapitulation im Titelrennen der chinesischen Super League",
+   "summary": [
+    "Mit nur einem Punkt aus den letzten vier Spielen, um die CSL-Krone zu gewinnen, verliert Trainer Aloisis Chengdu Rongcheng jedes Spiel und bläst einen 14-Punkte-Vorsprung im Heimspiel."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T02:12:12+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-09/chinese-super-league-john-aloisi-oversees-stunning-capitulation/107364010"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 47,
+   "topic": "wirtschaft",
+   "title": "Bangladeschs Auslandsverschuldung hat sich im Jahrzehnt fast verdreifacht",
+   "summary": [
+    "In Sri Lanka stiegen die Auslandskredite um 31 Prozent auf 57 Milliarden Dollar.",
+    "Die Auslandsverschuldung stieg in Nepal um 186,5 Prozent auf 11 Milliarden Dollar und in Bhutan um 57 Prozent auf 3,3 Milliarden Dollar.",
+    "Dennoch hat das Land eine geringere Schuldenlast im Vergleich zu Exporteinnahmen als Pakistan, Sri Lanka und Bhutan."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T05:37:50+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043178/bangladeshs-external-debt-increases-almost-threefold-in-decade"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043178/bangladeshs-external-debt-increases-almost-threefold-in-decade",
+     "title": "",
+     "text": [
+      "Bangladeschs Auslandsverschuldung hat sich in 10 Jahren fast verdreifacht, ein steilerer Anstieg als in jedem anderen südasiatischen Land außer den Malediven, so die Weltbank.",
+      "Seine Belastung ist jedoch höher als die von Indien und Nepal.",
+      "Laut dem International Debt Report 2026 der Weltbank belief sich die Gesamtauslandsverschuldung Bangladeschs Ende 2025 auf 113 Milliarden US-Dollar, gegenüber etwa 38 Milliarden US-Dollar im Jahr 2015.",
+      "Das ist der drittgrößte Bestand in Südasien. Für jeden 100 $ Jahreseinkommen trägt Bangladesch 210 $ an Gesamtschulden und zahlt jährlich 16 $ zurück."
+     ],
+     "machine_translated": true
+    }
    ]
   },
   {
-   "rank": 59,
+   "rank": 48,
    "topic": "technologie",
    "title": "Sequoia-Partner sind angeblich blind, als Roelof Botha dem SpaceX-Board beitrat",
    "summary": [
@@ -1636,30 +1782,305 @@
      "ownership": "privat",
      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/"
     }
-   ]
+   ],
+   "details": []
   },
   {
-   "rank": 60,
-   "topic": "deutschland",
-   "title": "Gebäude in Berlin beschossen: SEK-Einsatz in Steglitz, Schüsse auf Fahrschule in Wittenau",
+   "rank": 49,
+   "topic": "wirtschaft",
+   "title": "KI: Kollege oder Konkurrent für Junge?",
    "summary": [
-    "In Berlin sind mehrere Gebäude beschossen worden.",
-    "In Steglitz gab es einen SEK‑Einsatz.",
-    "In Wittenau traf es eine Fahrschule."
+    "Berufseinsteiger haben es durch KI besonders schwer - aber nicht in allen Jobs.",
+    "So das Ergebnis einer ifo-Analyse, die Berufe, Altersgruppen und Abhängigkeiten von KI vergleicht."
    ],
    "machine_translated": false,
    "single_source": true,
    "source_count": 1,
    "region_count": 1,
-   "published": "2026-11-09T10:10:47+00:00",
+   "published": "2026-11-09T08:53:00+00:00",
    "links": [
     {
-     "source": "Tagesspiegel",
+     "source": "ZDFheute",
      "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/wirtschaft/ki-arbeitsmarkt-ifo-analyse-berufseinsteiger-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 50,
+   "topic": "gesundheit",
+   "title": "Drap fordert die Öffentlichkeit auf, die Echtheit und die Preise von Medikamenten über eine neue App zu überprüfen",
+   "summary": [
+    "Shah sagte, Drap habe ein 2D-Barcode-System eingerichtet, mit dem Verbraucher Arzneimittelpackungen scannen und sicherstellen können, dass sie sichere, qualitativ hochwertige und effektive Produkte erhalten.",
+    "Die Idee zur Einführung eines Barcode-Systems wurde erstmals 2015 vorgeschlagen.",
+    "Anfang dieses Jahres hatte Drap den 1. Oktober als Stichtag für die Einführung des Barcode-Systems festgelegt, um den Verkauf gefälschter und abgelaufener Medikamente einzudämmen und das Schwarzmarketing zu beseitigen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T10:19:47+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
      "ownership": "privat",
-     "url": "https://www.tagesspiegel.de/berlin/dpa-sek-einsatz-in-steglitz-schusse-auf-fahrschule-in-wittenau-16260221.html"
+     "url": "https://www.dawn.com/news/2043272/drap-urges-public-to-verify-authenticity-and-prices-of-medicines-via-new-app"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043272/drap-urges-public-to-verify-authenticity-and-prices-of-medicines-via-new-app",
+     "title": "",
+     "text": [
+      "ISLAMABAD: Die Drug Regulatory Authority of Pakistan (Drap) hat die Verbraucher aufgefordert, ihre Anwendung Mehfooz Dawa zur Überprüfung der Echtheit und der Preise von Arzneimitteln als Teil ihrer Bemühungen zur Eindämmung des Verkaufs gefälschter Arzneimittel zu verwenden.",
+      "Etwa 800 Pharmaunternehmen und mehr als 90.000 Medikamente wurden bei Drap registriert, sagte Sajid Shah, ein Sprecher des Ministeriums für nationale Gesundheitsdienste, gegenüber Dawn.",
+      "Das zentralisierte Track-and-Trace-System für pharmazeutische Produkte, das in ganz Pakistan verteilt wurde, wurde am 9. Oktober in Betrieb genommen, fügte er hinzu."
+     ],
+     "machine_translated": true
     }
    ]
+  },
+  {
+   "rank": 51,
+   "topic": "sport",
+   "title": "Labuschagne aus Aussie Kader für Neuseeland Tests gestrichen",
+   "summary": [
+    "Australiens Selektoren-Vorsitzender bestätigt die Auslassung von Marnus Labuschagne nach einem verlängerten Lean-Run auf Testebene."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T00:51:33+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-09/cricket-marnus-labuschagne-axed-from-australian-test-squad/107363356"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 52,
+   "topic": "europa",
+   "title": "Alternative Bäckerei in Frankreich: Kleine Brötchen, große Freiheit",
+   "summary": [
+    "Im südfranzösischen Dorf Castelsagrat stellt eine anarchistische Genossenschaft das Brot her.",
+    "Wie arbeitet es sich in so einem Unternehmen?"
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T09:22:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Alternative-Baeckerei-in-Frankreich/!6222213/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 53,
+   "topic": "gesundheit",
+   "title": "Khyber Pakhtunkhwa, Gilgit-Baltistan vereinbaren, alte Grenzstreitigkeiten beizulegen",
+   "summary": [
+    "Derzeit betreibt PIA ein 44-sitziges ATR-Flugzeug auf der Route Islamabad-Gilgit.",
+    "Streitigkeiten zwischen KP und GB bestehen in mehreren strategisch wichtigen Bereichen, darunter Shandur Top, Babusar Top und Teile von Kohistan.",
+    "Die Vereinbarung kam während eines Treffens zwischen den beiden Führern in Islamabad am Sonntag, wo sie Fragen von gemeinsamem Interesse diskutierten, einschließlich territorialer Streitigkeiten, verbesserter Flugverbindungen nach Gilgit-Baltistan und der Ausbildung relevanter Beamter."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T02:33:44+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043155/khyber-pakhtunkhwa-gilgit-baltistan-agree-to-settle-old-boundary-disputes"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043155/khyber-pakhtunkhwa-gilgit-baltistan-agree-to-settle-old-boundary-disputes",
+     "title": "",
+     "text": [
+      "KP-Gouverneur Faisal Karim Kundi und GB-Chefminister Amjad Hussain treffen sich in Islamabad.—Dawn GILGIT/MANSEHRA: Um jahrzehntelange territoriale Probleme zu lösen, haben Gilgit-Baltistan-Chefminister Amjad Hussain und Khyber Pakhtunkhwa-Gouverneur Faisal Karim Kundi vereinbart, Verhandlungen zur Beilegung von Grenzstreitigkeiten zwischen den beiden Regionen einzuleiten, einschließlich derjenigen, die Shandur Top, Babusar Top und Gebiete rund um die Dämme Diamer-Bhasha und Dassu betreffen."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 54,
+   "topic": "gesundheit",
+   "title": "Aktuelle Pressemitteilungen des ZDF",
+   "summary": [],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T11:50:09+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://presseportal.zdf.de/pressemitteilungen/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 55,
+   "topic": "deutschland",
+   "title": "Kritik des deutschen Einfamilienhauses: Formen des Lebens",
+   "summary": [
+    "Das „Amt für Formensprache“ erfrischt die bunte Instagram-Timeline mit grauen Akzenten.",
+    "Eine Regenrinne kann man hier mit anderen Augen betrachten."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T06:43:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Kritik-des-deutschen-Einfamilienhauses/!6224258/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 56,
+   "topic": "deutschland",
+   "title": "Aktivisten hissen Palästinenser-Flagge vor dem Reichstag",
+   "summary": [
+    "Statt Schwarz-Rot-Gold wehte am Sonntagvormittag kurzfristig die palästinensische Flagge vor dem Berliner Reichstag.",
+    "Eine Aktivistengruppe bekannte sich zu der Aktion."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-08T20:37:34+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/palaestinenser-flagge-reichstag-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 57,
+   "topic": "gesundheit",
+   "title": "Zolgensma: Verdacht auf Tumorbildung bei Kindern durch Gentherapie",
+   "summary": [
+    "Silver Spring – Vor einigen Jahren war Zolgensma mit einem Preis von grob 2 Millionen Euro das teuerste Medikament der Welt.",
+    "Derzeit prüft die US-Arzneimittelbehörde FDA nach eigenen Angaben Berichte über Krebserkrankungen bei mehreren Kindern, die mit dieser Therapie behandelt wurden."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T09:56:50+00:00",
+   "links": [
+    {
+     "source": "Deutsches Ärzteblatt",
+     "country": "Deutschland",
+     "ownership": "Verbandsverlag",
+     "url": "https://www.aerzteblatt.de/news/zolgensma-verdacht-auf-tumorbildung-bei-kindern-durch-gentherapie-704b88ed-86d5-4e3c-b671-8e3a53c73daf"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 58,
+   "topic": "deutschland",
+   "title": "Gen-Z-Proteste in Deutschland: Unistreiks angekündigt",
+   "summary": [
+    "„Gen Z regelt Studis“ kündigt an, am 20.",
+    "November auch Universitäten lahmlegen zu wollen.",
+    "Dazu soll es nun in vielen Städten Vollversammlungen geben."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-08T19:00:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Gen-Z-Proteste-in-Deutschland/!6228544/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 59,
+   "topic": "deutschland",
+   "title": "Sprechen über Nahost in Berlin: Einsteigen, zuhören, aushalten",
+   "summary": [
+    "Mit persönlichen Geschichten aus Israel, Palästina und Deutschland bringt der „HörBus Nahost“ den Konflikt auf Berliner Schulhöfe und schafft Raum für Empathie."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-08T16:00:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Sprechen-ueber-Nahost-in-Berlin/!6227029/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 60,
+   "topic": "gesundheit",
+   "title": "Mexiko fängt angebliche Kartellzellenführer in Betrieb unterstützt von DEA Intelligenz",
+   "summary": [
+    "MEXIKO-STADT, 8. November (Reuters) - Mexikanische Behörden sagten am Sonntag, sie verhafteten einen angeblichen Führer der \"Los Rs\" -Fraktion des Jalisco New Generation Cartel, in einer Operation im Bundesstaat Jalisco, die durch Geheimdienstinformationen der US Drug Enforcement Administration unterstützt wurde."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T04:48:43+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-09-mexico-captures-alleged-cartel-cell-leader-in-operation-aided-by-dea-intelligence/"
+    }
+   ],
+   "details": []
   }
  ],
  "sources": [
@@ -1673,30 +2094,12 @@
    "reason": ""
   },
   {
-   "name": "Tagesspiegel",
-   "country": "Deutschland",
-   "language": "de",
-   "ownership": "privat",
-   "ok": true,
-   "items": 40,
-   "reason": ""
-  },
-  {
    "name": "taz",
    "country": "Deutschland",
    "language": "de",
    "ownership": "Genossenschaft",
    "ok": true,
    "items": 40,
-   "reason": ""
-  },
-  {
-   "name": "WirtschaftsWoche",
-   "country": "Deutschland",
-   "language": "de",
-   "ownership": "privat",
-   "ok": true,
-   "items": 20,
    "reason": ""
   },
   {
@@ -1718,15 +2121,6 @@
    "reason": ""
   },
   {
-   "name": "Nature",
-   "country": "Großbritannien",
-   "language": "en",
-   "ownership": "Wissenschaftsverlag",
-   "ok": true,
-   "items": 40,
-   "reason": ""
-  },
-  {
    "name": "Carbon Brief",
    "country": "Großbritannien",
    "language": "en",
@@ -1742,15 +2136,6 @@
    "ownership": "gemeinnützig",
    "ok": true,
    "items": 10,
-   "reason": ""
-  },
-  {
-   "name": "STAT",
-   "country": "USA",
-   "language": "en",
-   "ownership": "privat",
-   "ok": true,
-   "items": 20,
    "reason": ""
   },
   {
@@ -1790,24 +2175,6 @@
    "reason": ""
   },
   {
-   "name": "allAfrica",
-   "country": "Südafrika",
-   "language": "en",
-   "ownership": "privat",
-   "ok": true,
-   "items": 33,
-   "reason": ""
-  },
-  {
-   "name": "South China Morning Post",
-   "country": "Hongkong",
-   "language": "en",
-   "ownership": "privat (Alibaba)",
-   "ok": true,
-   "items": 40,
-   "reason": ""
-  },
-  {
    "name": "Dawn",
    "country": "Pakistan",
    "language": "en",
@@ -1823,6 +2190,33 @@
    "ownership": "öffentlich-rechtlich",
    "ok": true,
    "items": 25,
+   "reason": ""
+  },
+  {
+   "name": "Deutsches Ärzteblatt",
+   "country": "Deutschland",
+   "language": "de",
+   "ownership": "Verbandsverlag",
+   "ok": true,
+   "items": 10,
+   "reason": ""
+  },
+  {
+   "name": "KFF Health News",
+   "country": "USA",
+   "language": "en",
+   "ownership": "gemeinnützig",
+   "ok": true,
+   "items": 10,
+   "reason": ""
+  },
+  {
+   "name": "Premium Times",
+   "country": "Nigeria",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 15,
    "reason": ""
   }
  ]
