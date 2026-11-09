@@ -77,6 +77,7 @@ def build_config(site, count=6, min_ok=4, min_stories=5):
     config = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
     config = copy.deepcopy(config)
     config["settings"].update(min_sources_ok=min_ok, min_stories=min_stories, request_timeout_seconds=5)
+    config["markets"]["enabled"] = False
     regions = ["europa", "asien", "afrika", "nordamerika", "nahost", "lateinamerika"]
     config["sources"] = [
         {"id": f"s{i}", "name": f"Quelle {i}", "url": f"{site.base}/feed{i}.xml", "country": "Land",
@@ -185,3 +186,23 @@ def test_project_uses_no_keys_or_paid_services():
         and forbidden.search(path.read_text(encoding="utf-8", errors="ignore"))
     ]
     assert hits == []
+
+
+def test_run_with_markets_adds_section_and_survives_outage(site, tmp_path):
+    from test_markets import chart, wavy
+
+    populate(site)
+    config = build_config(site)
+    config["markets"]["enabled"] = True
+    payload = run_pipeline(config, build_sources(config), EchoTranslator(), HashingEmbedder(0.35), tmp_path, now=NOW,
+                           market_fetch=lambda symbol: chart(wavy()))
+    markets = json.loads((tmp_path / "2026-11-09.json").read_text())["markets"]
+    assert markets["available"] and markets["groups"][0]["label"] == "Aktienindizes"
+    assert payload["stories"]
+
+    def down(symbol):
+        raise ConnectionError("weg")
+
+    payload = run_pipeline(config, build_sources(config), EchoTranslator(), HashingEmbedder(0.35), tmp_path, now=NOW,
+                           market_fetch=down)
+    assert payload["markets"]["available"] is False and payload["stories"]

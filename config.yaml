@@ -32,6 +32,7 @@ settings:
 
 mail:
   topics: []                  # leer = alle Themen, sonst z. B. [deutschland, weltpolitik, klima]
+  markets: true               # Börse & Märkte auch in der Mail
 
 ranking:
   sources: 3.0                # mehrere unabhängige Quellen zählen am stärksten
@@ -75,6 +76,90 @@ exclude:
     - '/stat-plus/'
     - '/premium/'
     - '-blog-[0-9]+\.html'
+
+# Börse & Märkte. Kurse kommen ohne Schlüssel von Yahoo Finance (verzögert, ohne Gewähr).
+# Fällt der Abruf aus, fehlt nur dieser Teil. Keine Anlageberatung.
+markets:
+  enabled: true
+  big_move_percent: 4         # ab dieser Tagesbewegung gilt eine Aktie als auffällig
+  max_watch: 6                # so viele Unternehmen erscheinen unter "Im Blick"
+  max_trends: 6
+  min_quotes: 5               # weniger geladene Kurse = Börsenteil entfällt
+  user_agent: "Mozilla/5.0 (compatible; MorgenbriefingBot/1.0)"
+  # symbol = Kürzel bei finance.yahoo.com. unit/decimals/kind sind optional.
+  groups:
+    - label: Aktienindizes
+      items:
+        - {symbol: '^GDAXI', name: DAX, unit: Pkt.}
+        - {symbol: '^MDAXI', name: MDAX, unit: Pkt.}
+        - {symbol: '^STOXX50E', name: Euro Stoxx 50, unit: Pkt.}
+        - {symbol: '^GSPC', name: S&P 500, unit: Pkt.}
+        - {symbol: '^NDX', name: Nasdaq 100, unit: Pkt.}
+        - {symbol: '^N225', name: Nikkei 225, unit: Pkt.}
+        - {symbol: '^HSI', name: Hang Seng, unit: Pkt.}
+    - label: Devisen, Rohstoffe, Zinsen & Krypto
+      items:
+        - {symbol: 'EURUSD=X', name: Euro in US-Dollar, unit: $, decimals: 4}
+        - {symbol: 'GC=F', name: Gold (Feinunze), unit: $}
+        - {symbol: 'BZ=F', name: Brent-Öl (Barrel), unit: $}
+        - {symbol: '^TNX', name: US-Anleihe 10 Jahre (Rendite), unit: '%', kind: yield, decimals: 2}
+        - {symbol: 'BTC-EUR', name: Bitcoin, unit: €}
+
+  # Diese Unternehmen werden täglich geprüft. Unter "Im Blick" erscheinen die auffälligsten:
+  # starke oder ungewöhnliche Kursbewegung, neues Jahreshoch/-tief, Erwähnung in den heutigen Nachrichten.
+  # aliases: Schreibweisen in Meldungen (Groß-/Kleinschreibung zählt). exclude: Artikel mit diesen Wörtern ignorieren.
+  companies:
+    - {symbol: SAP.DE, name: SAP, sector: Software, aliases: [SAP]}
+    - {symbol: SIE.DE, name: Siemens, sector: Industrie, pattern: '(?<![\w-])Siemens(?![\w-]| Energy| Healthineers)'}
+    - {symbol: ENR.DE, name: Siemens Energy, sector: Energietechnik, aliases: [Siemens Energy]}
+    - {symbol: ALV.DE, name: Allianz, sector: Versicherung, aliases: [Allianz SE, Allianz-Konzern, Allianz-Chef, Versicherer Allianz, insurer Allianz]}
+    - {symbol: MUV2.DE, name: Munich Re, sector: Versicherung, aliases: [Munich Re, Münchener Rück]}
+    - {symbol: DTE.DE, name: Deutsche Telekom, sector: Telekommunikation, aliases: [Deutsche Telekom, Telekom, T-Mobile]}
+    - {symbol: DBK.DE, name: Deutsche Bank, sector: Banken, aliases: [Deutsche Bank]}
+    - {symbol: RHM.DE, name: Rheinmetall, sector: Rüstung, aliases: [Rheinmetall]}
+    - {symbol: HAG.DE, name: Hensoldt, sector: Rüstung, aliases: [Hensoldt]}
+    - {symbol: IFX.DE, name: Infineon, sector: Halbleiter, aliases: [Infineon]}
+    - {symbol: MBG.DE, name: Mercedes-Benz, sector: Autos, aliases: [Mercedes-Benz, Mercedes, Daimler], exclude: [Formel 1, Formula 1, F1, Grand Prix, Hamilton, Russell, Antonelli]}
+    - {symbol: BMW.DE, name: BMW, sector: Autos, aliases: [BMW]}
+    - {symbol: VOW3.DE, name: Volkswagen, sector: Autos, aliases: [Volkswagen, VW, Porsche]}
+    - {symbol: BAS.DE, name: BASF, sector: Chemie, aliases: [BASF]}
+    - {symbol: BAYN.DE, name: Bayer, sector: Pharma, aliases: [Bayer AG, Bayer-Konzern, Bayer, Monsanto], exclude: [Bundesliga, Werkself, Bayer 04, Champions League]}
+    - {symbol: DHL.DE, name: DHL Group, sector: Logistik, aliases: [DHL, Deutsche Post]}
+    - {symbol: AIR.PA, name: Airbus, sector: Luftfahrt, aliases: [Airbus]}
+    - {symbol: ASML.AS, name: ASML, sector: Halbleiter, aliases: [ASML]}
+    - {symbol: NOVO-B.CO, name: Novo Nordisk, sector: Pharma, aliases: [Novo Nordisk, Ozempic, Wegovy]}
+    - {symbol: VWS.CO, name: Vestas, sector: Windkraft, aliases: [Vestas]}
+    - {symbol: SHEL.L, name: Shell, sector: Öl & Gas, aliases: [Shell]}
+    - {symbol: BA.L, name: BAE Systems, sector: Rüstung, aliases: [BAE Systems, BAE]}
+    - {symbol: NVDA, name: Nvidia, sector: Halbleiter, aliases: [Nvidia, NVIDIA]}
+    - {symbol: MSFT, name: Microsoft, sector: Software, aliases: [Microsoft]}
+    - {symbol: AAPL, name: Apple, sector: Technik, aliases: [Apple, iPhone]}
+    - {symbol: GOOGL, name: Alphabet (Google), sector: Internet, aliases: [Alphabet, Google, YouTube]}
+    - {symbol: AMZN, name: Amazon, sector: Handel & Cloud, aliases: [Amazon, AWS], exclude: [Amazonas, Regenwald, rainforest, Amazon basin, Amazon River, COP30, Belém]}
+    - {symbol: META, name: Meta, sector: Internet, aliases: [Meta, Facebook, Instagram, WhatsApp]}
+    - {symbol: TSLA, name: Tesla, sector: Autos, aliases: [Tesla]}
+    - {symbol: AVGO, name: Broadcom, sector: Halbleiter, aliases: [Broadcom]}
+    - {symbol: PLTR, name: Palantir, sector: Software, aliases: [Palantir]}
+    - {symbol: JPM, name: JPMorgan Chase, sector: Banken, aliases: [JPMorgan, JP Morgan]}
+    - {symbol: LLY, name: Eli Lilly, sector: Pharma, aliases: [Eli Lilly, Mounjaro, Zepbound]}
+    - {symbol: LMT, name: Lockheed Martin, sector: Rüstung, aliases: [Lockheed Martin, Lockheed]}
+    - {symbol: TSM, name: TSMC, sector: Halbleiter, aliases: [TSMC, Taiwan Semiconductor]}
+    - {symbol: BABA, name: Alibaba, sector: Internet, aliases: [Alibaba]}
+    - {symbol: 1211.HK, name: BYD, sector: Autos, aliases: [BYD]}
+
+  # Trendthemen: wie oft sie heute in den Nachrichten vorkommen (im Vergleich zu den letzten 7 Tagen)
+  # und wie sich die passenden Aktien (symbols) im letzten Monat entwickelt haben.
+  trends:
+    - {id: ki, label: Künstliche Intelligenz, keywords: [KI, AI, künstliche Intelligenz, künstlicher Intelligenz, artificial intelligence, OpenAI, ChatGPT, Anthropic, Chatbot, Rechenzentrum, Rechenzentren, data center, data centre, data centers], symbols: [NVDA, MSFT, GOOGL, AVGO, TSM, PLTR, SAP.DE]}
+    - {id: chips, label: Chips & Halbleiter, keywords: [Chip, Chips, chip, chips, Halbleiter, semiconductor, semiconductors, chipmaker, Chiphersteller], symbols: [NVDA, AVGO, TSM, ASML.AS, IFX.DE]}
+    - {id: ruestung, label: Rüstung & Verteidigung, keywords: [Rüstung, Aufrüstung, Verteidigungsausgaben, defence spending, defense spending, Bundeswehr, Waffenlieferung, Waffenlieferungen, weapons, Drohne, Drohnen, drone, drones, Munition, ammunition], symbols: [RHM.DE, HAG.DE, BA.L, LMT]}
+    - {id: handel, label: Handel & Zölle, keywords: [Zoll, Zölle, Zöllen, tariff, tariffs, Handelsstreit, Handelskrieg, trade war, trade deal, Handelsabkommen, Exporte, exports, Lieferketten, supply chain], symbols: [VOW3.DE, MBG.DE, BMW.DE, BAS.DE, AAPL]}
+    - {id: zinsen, label: Zinsen & Inflation, keywords: [Zinsen, Leitzins, interest rate, interest rates, EZB, ECB, Fed, Federal Reserve, Notenbank, central bank, Inflation, Teuerung], symbols: [DBK.DE, ALV.DE, MUV2.DE, JPM, '^TNX']}
+    - {id: energie, label: Öl, Gas & Energiepreise, keywords: [Ölpreis, oil price, oil prices, Brent, OPEC, Erdgas, natural gas, LNG, Energiepreise, energy prices, Strompreis, Strompreise], symbols: [SHEL.L, 'BZ=F']}
+    - {id: energiewende, label: Energiewende & Klima, keywords: [erneuerbare, renewable, renewables, Solar, Windkraft, wind power, Energiewende, Wasserstoff, hydrogen, Emissionen, emissions, Klimakonferenz, climate summit, COP31], symbols: [ENR.DE, VWS.CO]}
+    - {id: emobil, label: Elektroautos & Batterien, keywords: [Elektroauto, Elektroautos, E-Auto, E-Autos, electric vehicle, electric vehicles, EV, EVs, Batterie, Batterien, battery, batteries], symbols: [TSLA, 1211.HK, VOW3.DE, BMW.DE]}
+    - {id: pharma, label: Pharma & Abnehmmittel, keywords: [Abnehmspritze, Abnehmspritzen, weight-loss, obesity drug, GLP-1, Medikament, Medikamente, Arzneimittel, Zulassung, FDA, drugmaker], symbols: [LLY, NOVO-B.CO, BAYN.DE]}
+    - {id: krypto, label: Krypto, keywords: [Bitcoin, Krypto, Kryptowährung, Kryptowährungen, crypto, cryptocurrency, Stablecoin], symbols: ['BTC-EUR']}
 
 # Reihenfolge = Reihenfolge auf der Seite. "weight" dämpft Themen für die Top 5.
 topics:
