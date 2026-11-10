@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "generated_at": "2026-11-10T04:31:08.134189+00:00",
+ "generated_at": "2026-11-10T10:10:33.001201+00:00",
  "window_hours": 24,
  "top_count": 5,
  "translator": "Argos Translate",
@@ -55,20 +55,26 @@
    "title": "Spionageverdacht bei Nvidia: Künstliche Intimität",
    "summary": [
     "Jensen Huang hatte eine Affäre mit einer mutmaßlichen chinesischen Spionin.",
-    "Der Nvidia-Chef Jensen Huang räumt eine Affäre mit einer Chinesin ein, die der US-Geheimdienst für eine Spionin hält und schon 2025 vor ihr warnte.",
+    "Die Affäre von Nvidia-Chef Jensen Huang mit einer mutmaßlichen chinesischen Spionin beschäftigt nun auch die US-Bundesbehörden.",
     "Die Affäre von Nvidia-Chef Huang soll von der chinesischen Staatssicherheit eingefädelt worden sein."
    ],
    "machine_translated": false,
    "single_source": false,
-   "source_count": 7,
-   "region_count": 6,
-   "published": "2026-11-10T04:32:29+00:00",
+   "source_count": 6,
+   "region_count": 5,
+   "published": "2026-11-10T09:32:02+00:00",
    "links": [
     {
-     "source": "Al Jazeera",
-     "country": "Katar",
-     "ownership": "staatlich finanziert",
-     "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss"
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043502/trump-says-nvidia-ceo-huang-had-no-idea-lover-was-alleged-chinese-spy"
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/10/trump-says-nvidia-ceo-huang-knew-nothing-about-alleged-chinese-spy"
     },
     {
      "source": "Daily Maverick",
@@ -83,40 +89,16 @@
      "url": "https://taz.de/Spionageverdacht-bei-Nvidia/!6228592/"
     },
     {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043301/who-is-alice-huang-the-chinese-executive-accused-of-spying-on-nvidia-ceo-jensen-huang"
-    },
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Portrait-Jensen-Huang/!6228699/"
-    },
-    {
      "source": "Euronews",
      "country": "Frankreich",
      "ownership": "privat",
      "url": "https://www.euronews.com/2026/11/09/who-is-alice-huang-the-alleged-chinese-spy-linked-to-nvidias-jensen-huang"
     },
     {
-     "source": "Euronews",
-     "country": "Frankreich",
+     "source": "Golem",
+     "country": "Deutschland",
      "ownership": "privat",
-     "url": "https://www.euronews.com/2026/11/09/trump-calls-nvidia-chief-jensen-huang-an-honorable-guy-amid-spy-allegations"
-    },
-    {
-     "source": "Daily Maverick",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://www.dailymaverick.co.za/article/2026-11-09-nvidia-probes-whether-ceo-huang-was-target-of-foreign-spying-as-he-admits-affair/"
-    },
-    {
-     "source": "Euronews",
-     "country": "Frankreich",
-     "ownership": "privat",
-     "url": "https://www.euronews.com/2026/11/09/nvidia-investigates-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-following-alleged"
+     "url": "https://www.golem.de/news/jensen-huang-fbi-ermittelt-zum-spionageverdacht-bei-nvidia-2611-215024.html"
     },
     {
      "source": "TechCrunch",
@@ -135,22 +117,31 @@
      "country": "Deutschland",
      "ownership": "privat",
      "url": "https://www.golem.de/news/jensen-huang-was-die-spionage-affaere-fuer-nvidia-bedeutet-2611-214986.html"
-    },
-    {
-     "source": "Golem",
-     "country": "Deutschland",
-     "ownership": "privat",
-     "url": "https://www.golem.de/news/spionage-affaere-jensen-huang-entschuldigt-sich-fuer-affaere-und-will-nvidia-chef-bleiben-2611-214974.html"
     }
    ],
    "details": [
     {
-     "source": "Al Jazeera",
-     "country": "Katar",
-     "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-     "title": "Trump sagt FBI Sondierung Nvidia CEO Huang Affäre mit angeblichen Spion",
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043502/trump-says-nvidia-ceo-huang-had-no-idea-lover-was-alleged-chinese-spy",
+     "title": "Trump sagt Nvidia CEO Huang hatte \"keine Ahnung\" Liebhaber wurde angeblich chinesischen Spion",
      "text": [
-      "US-Präsident sagt, er glaubt, CEO Jensen Huang hatte keine Kenntnis von der angeblichen Arbeit der Frau für den chinesischen Geheimdienst."
+      "US-Präsident Donald Trump nahm am Montag einen technischen Ton gegenüber Jensen Huang an und sagte, der CEO von Nvidia leide \"sehr\" und wusste nicht, dass eine Frau, mit der er eine Affäre hatte, ein angeblicher chinesischer Spion war.",
+      "Trump tanzte auch um die Frage, wann er persönlich Kenntnis von Geheimdienstinformationen hatte, die den Chipboss mit Alice Huang verbanden, einer chinesischen Führungskraft, die angeblich Informationen nach Peking geleitet hatte.",
+      "Der US-Chef sagte, er habe am Montag mit Huang gesprochen, \"um zu sehen, ob er sich in Ordnung fühlt\", und nannte den in Taiwan geborenen Tech-Chef einen \"erstaunlichen Kerl\".",
+      "Er sagte: \"Ich hatte keine Ahnung, dass sie eine Spionin war, und ich glaube ihm wirklich\", sagte Trump Reportern im Weißen Haus.",
+      "Er fügte hinzu: „Ich hoffe, es gibt kein Problem."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/10/trump-says-nvidia-ceo-huang-knew-nothing-about-alleged-chinese-spy",
+     "title": "Trump sagt Nvidia CEO Huang wusste nichts über angeblichen chinesischen Spion",
+     "text": [
+      "US-Präsident Donald Trump sagt, dass das FBI eine Angelegenheit untersucht, an der Nvidia CEO Jensen Huang und angebliche Verbindungen zu einem chinesischen Regierungsagenten beteiligt sind.",
+      "Trump sagte, er habe mit Huang gesprochen, der bestritt, dass die Person ein Spion war, und drückte Vertrauen in den Tech-Manager aus."
      ],
      "machine_translated": true
     },
@@ -175,28 +166,6 @@
      "machine_translated": false
     },
     {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "url": "https://www.dawn.com/news/2043301/who-is-alice-huang-the-chinese-executive-accused-of-spying-on-nvidia-ceo-jensen-huang",
-     "title": "Wer ist Alice Huang, die chinesische Exekutive, die beschuldigt wird, Nvidia CEO Jensen Huang ausspioniert zu haben?",
-     "text": [
-      "Tech-Managerin Alice Huang ist die Frau, die beschuldigt wird, während einer Affäre mit Jensen Huang, dem Leiter des US-Chips Nvidia, für China spioniert zu haben.",
-      "Öffentliche Details sind spärlich über die Frau, auch bekannt als Huang Le, die angeblich eine Top-Figur bei einem in Singapur ansässigen Rechenzentrumsunternehmen namens Megaspeed International gewesen war.",
-      "Hier ist, was wir über sie und das Unternehmen wissen.",
-      "Wer ist Alice Huang?",
-      "Alice Huang ist eine chinesische Staatsbürgerin, die von Peking rekrutiert wurde, um Informationen über den Nvidia-Chef zu sammeln, so die New York Times, die zuerst berichtete, dass Jensen Huang das angebliche Ziel eines Spionageplans war."
-     ],
-     "machine_translated": true
-    },
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "url": "https://taz.de/Portrait-Jensen-Huang/!6228699/",
-     "title": "Portrait Jensen Huang: Der Meister der KI und sein männlicher Trieb",
-     "text": [],
-     "machine_translated": false
-    },
-    {
      "source": "Euronews",
      "country": "Frankreich",
      "url": "https://www.euronews.com/2026/11/09/who-is-alice-huang-the-alleged-chinese-spy-linked-to-nvidias-jensen-huang",
@@ -207,42 +176,18 @@
      "machine_translated": true
     },
     {
-     "source": "Euronews",
-     "country": "Frankreich",
-     "url": "https://www.euronews.com/2026/11/09/trump-calls-nvidia-chief-jensen-huang-an-honorable-guy-amid-spy-allegations",
-     "title": "Trump nennt Nvidia-Chef Jensen Huang einen \"ehrenwerten Kerl\" unter Spionagevorwürfen",
-     "text": [
-      "US-Präsident Donald Trump hat Nvidia CEO Jensen Huang nach Berichten verteidigt, dass er eine intime Beziehung zu einer Geschäftsfrau hatte, die verdächtigt wird, für den chinesischen Geheimdienst zu arbeiten.",
-      "Trump sagte, Huang sei ein \"ehrenhafter Kerl\"."
-     ],
-     "machine_translated": true
-    },
-    {
-     "source": "Daily Maverick",
-     "country": "Südafrika",
-     "url": "https://www.dailymaverick.co.za/article/2026-11-09-nvidia-probes-whether-ceo-huang-was-target-of-foreign-spying-as-he-admits-affair/",
-     "title": "Nvidia untersucht, ob CEO Huang Ziel ausländischer Spionage war, als er eine Affäre zugibt",
-     "text": [
-      "Nvidia NVDA.O sagte am Sonntag, dass sein Vorstand prüfte, ob CEO Jensen Huang das Ziel einer ausländischen Geheimdienstaktion gewesen war, nachdem ein Medienbericht behauptet hatte, er habe eine enge Beziehung zu einer chinesischen Geschäftsfrau, die Informationen an Peking weiterleitete."
-     ],
-     "machine_translated": true
-    },
-    {
-     "source": "Euronews",
-     "country": "Frankreich",
-     "url": "https://www.euronews.com/2026/11/09/nvidia-investigates-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-following-alleged",
-     "title": "Nvidia untersucht seinen eigenen CEO Jensen Huang wegen Affäre mit angeblichem chinesischen Spion",
-     "text": [
-      "Jensen Huang, CEO des US-Tech-Giganten Nvidia, wird vom Vorstand des Unternehmens untersucht, nachdem berichtet wurde, dass Huang das \"Ziel ausländischer Geheimdienstbemühungen\" sei.",
-      "Huang gab zu, eine intime beziehung zu einem geschäftsführer zu haben, der angeblich im namen chinas spioniert hat."
-     ],
-     "machine_translated": true
+     "source": "Golem",
+     "country": "Deutschland",
+     "url": "https://www.golem.de/news/jensen-huang-fbi-ermittelt-zum-spionageverdacht-bei-nvidia-2611-215024.html",
+     "title": "Jensen Huang: FBI ermittelt zum Spionageverdacht bei Nvidia",
+     "text": [],
+     "machine_translated": false
     },
     {
      "source": "TechCrunch",
      "country": "USA",
      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-     "title": "Ein Leerverkäufer hat die Verbindungen des Nvidia-CEO zu einem mutmaßlichen chinesischen Spion sechs Monate vor dem Skandal markiert",
+     "title": "Ein Leerverkäufer zeigte die Verbindungen des Nvidia-CEO zu einem mutmaßlichen chinesischen Spion sechs Monate vor dem Skandal an",
      "text": [
       "Sechs Monate bevor der Spionageskandal von Nvidia ausbrach, stellte Culper Research bereits Jensen Huangs ungewöhnlich enge Beziehung zu einer chinesischen Führungskraft in Frage."
      ],
@@ -267,21 +212,119 @@
       "Wie belastend wird der Fall für Nvidia?"
      ],
      "machine_translated": false
-    },
-    {
-     "source": "Golem",
-     "country": "Deutschland",
-     "url": "https://www.golem.de/news/spionage-affaere-jensen-huang-entschuldigt-sich-fuer-affaere-und-will-nvidia-chef-bleiben-2611-214974.html",
-     "title": "Spionage-Affäre: Jensen Huang entschuldigt sich für Affäre und will Nvidia-Chef bleiben",
-     "text": [
-      "Jensen Huang hat sich in einer öffentlichen Nachricht für seine Affäre entschuldigt - und versichert, dass er seine Familie, sein Land und Nvidia liebe."
-     ],
-     "machine_translated": false
     }
    ]
   },
   {
    "rank": 2,
+   "topic": "weltpolitik",
+   "title": "Wird Hegseth zum Bauernopfer für Trump?",
+   "summary": [
+    "Wie ernst ist die Gefahr für den Verteidigungsminister - und welche Rolle spielt Trump?",
+    "Ein Republikaner fordert Hegseths Amtsenthebung, Trump stärkt ihm den Rücken.",
+    "Der scheidende Abgeordnete Thomas Massie bringt erneut ein Amtsenthebungsverfahren gegen Trumps Verteidigungsminister ins Spiel."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 5,
+   "region_count": 4,
+   "published": "2026-11-10T08:35:52+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/ausland/amtsenthebung-verfahren-pete-hegseth-usa-trump-100.html"
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/10/trump-vows-to-back-pete-hegseth-as-republican-lawmaker-pushes-impeachment-vote"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Antrag-auf-Amtsenthebung/!6228836/"
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/10/republican-lawmaker-launched-eight-articles-of-impeachment-against-us-defence-chief-hegset"
+    },
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-10-pentagon-chief-hegseth-expected-to-face-house-impeachment-vote-this-week/"
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043446/hegseth-likely-to-face-impeachment-vote-this-week"
+    }
+   ],
+   "details": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/10/trump-vows-to-back-pete-hegseth-as-republican-lawmaker-pushes-impeachment-vote",
+     "title": "Trump verspricht, Pete Hegseth zu unterstützen, da der republikanische Gesetzgeber die Amtsenthebungsabstimmung vorantreibt",
+     "text": [
+      "Der republikanische Kongressabgeordnete Thomas Massie versucht, den US-Verteidigungsminister Pete Hegseth anzuklagen und beschuldigt ihn, mehr als 90 Tage lang ohne Genehmigung des Kongresses Militäraktionen gegen den Iran durchgeführt zu haben."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Antrag-auf-Amtsenthebung/!6228836/",
+     "title": "Antrag auf Amtsenthebung: Teile der Republikaner wollen Hegseth loswerden",
+     "text": [
+      "Könnte es Erfolg haben?"
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/10/republican-lawmaker-launched-eight-articles-of-impeachment-against-us-defence-chief-hegset",
+     "title": "Republikanischer Gesetzgeber startet acht Amtsenthebungsartikel gegen US-Verteidigungschef Hegseth",
+     "text": [
+      "Der republikanische Kongressabgeordnete Thomas Massie aus Kentucky führte acht Amtsenthebungsartikel gegen US-Verteidigungsminister Pete Hegseth ein, darunter angebliche Verstöße gegen die Resolution der Kriegsmächte von 1973 sowie Fehlverhalten bei zivilen Opfern und Operationen im Jemen und Venezuela."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-10-pentagon-chief-hegseth-expected-to-face-house-impeachment-vote-this-week/",
+     "title": "Pentagon-Chef Hegseth erwartet, dass das Haus impeachment-Abstimmung in dieser Woche",
+     "text": [
+      "WASHINGTON, 9. November (Reuters) - Pete Hegseth, der US-Verteidigungsminister, nennt sich selbst Kriegsminister, Teil seiner Bemühungen, ein Militär umzubenennen, von dem er sagte, es sei zu schwach und \"aufgewacht\", als er letztes Jahr sein Amt antrat.",
+      "Jetzt, mit einer erwarteten Amtsenthebung des Repräsentantenhauses in dieser Woche, könnte er bald etwas mit einem tatsächlichen Kriegsminister gemeinsam haben."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043446/hegseth-likely-to-face-impeachment-vote-this-week",
+     "title": "Hegseth wird wahrscheinlich in dieser Woche eine Amtsenthebungsabstimmung bekommen",
+     "text": [
+      "WASHINGTON: Der Abgeordnete Thomas Massie, ein Republikaner aus Kentucky, führte am Montag Amtsenthebungsartikel gegen US-Verteidigungsminister Pete Hegseth ein und löste am Mittwoch eine zweitägige Uhr für eine erwartete Abstimmung des Repräsentantenhauses aus, unter anderem wegen Vorwürfen, Krieg gegen den Iran ohne Zustimmung des Kongresses zu führen und anderen Machtmissbrauch.",
+      "Hegseth, der sich selbst als \"Kriegsminister\" bezeichnet, als Teil seiner Bemühungen, ein Militär umzubenennen, von dem er sagt, dass es zu schwach und \"aufgewacht\" sei, als er letztes Jahr sein Amt antrat, könnte etwas mit einem tatsächlichen Kriegsminister gemeinsam haben.",
+      "William Belknap, der diesen Titel 1876 innehatte, wurde der erste und bis heute einzige zivile Führer des US-Militärs, der vom Kongress angeklagt wurde."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 3,
    "topic": "technologie",
    "title": "Angriffe auf Kühlanlagen: Frankreich macht Revolutionsgarden als Urheber aus",
    "summary": [
@@ -292,8 +335,8 @@
    "machine_translated": false,
    "single_source": false,
    "source_count": 6,
-   "region_count": 4,
-   "published": "2026-11-09T22:30:49+00:00",
+   "region_count": 3,
+   "published": "2026-11-10T08:25:44+00:00",
    "links": [
     {
      "source": "NPR",
@@ -302,16 +345,16 @@
      "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks"
     },
     {
+     "source": "Premium Times",
+     "country": "Nigeria",
+     "ownership": "privat",
+     "url": "https://www.premiumtimesng.com/news/top-news/924068-france-blames-iran-for-cyberattacks-on-supermarket-fridges.html"
+    },
+    {
      "source": "Daily Maverick",
      "country": "Südafrika",
      "ownership": "privat",
      "url": "https://www.dailymaverick.co.za/article/2026-11-09-french-officials-blame-iran-for-refrigerator-hacks-vow-retaliation/"
-    },
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043311/french-officials-accuse-iran-of-being-behind-refrigerator-hacks"
     },
     {
      "source": "taz",
@@ -344,24 +387,22 @@
      "machine_translated": true
     },
     {
+     "source": "Premium Times",
+     "country": "Nigeria",
+     "url": "https://www.premiumtimesng.com/news/top-news/924068-france-blames-iran-for-cyberattacks-on-supermarket-fridges.html",
+     "title": "Frankreich beschuldigt den Iran für Cyberangriffe auf Supermarktkühlschränke",
+     "text": [
+      "Zwischen dem 11. und 12. Oktober stellten Einzelhändler fest, dass Gefrierschränke und Kühlräume überhitzt waren."
+     ],
+     "machine_translated": true
+    },
+    {
      "source": "Daily Maverick",
      "country": "Südafrika",
      "url": "https://www.dailymaverick.co.za/article/2026-11-09-french-officials-blame-iran-for-refrigerator-hacks-vow-retaliation/",
      "title": "Französische Beamte beschuldigen den Iran für Kühlschrank-Hacks, Gelübde Vergeltung",
      "text": [
-      "PARIS, 9. November (Reuters) - Französische Beamte beschuldigten am Montag die iranischen Revolutionsgarden der Verantwortung für die Cyberangriffe, die im vergangenen Monat kommerzielle Kühl- und Gefrierschränke in ganz Frankreich ausgeschaltet hatten, und sagten, es gäbe Konsequenzen für den Iran."
-     ],
-     "machine_translated": true
-    },
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "url": "https://www.dawn.com/news/2043311/french-officials-accuse-iran-of-being-behind-refrigerator-hacks",
-     "title": "Französische Beamte werfen dem Iran vor, hinter Kühlschrank-Hacks zu stehen",
-     "text": [
-      "Französische Beamte beschuldigten am Montag die iranischen Revolutionsgarden der Verantwortung für die Cyberangriffe, die im vergangenen Monat kommerzielle Kühl- und Gefrierschränke in ganz Frankreich ausgeschaltet hatten, und sagten, es gäbe Konsequenzen für den Iran.",
-      "Die Hacks, die Anfang Oktober Hunderte französischer Supermärkte trafen, gehörten zu den störendsten Cyberangriffen des Iran-Krieges, der im Februar begann, einem Konflikt, der von verstreuten Vorfällen angeblicher digitaler Störungen gekennzeichnet war.",
-      "Dazu gehörten Hacks gegen das Transitsystem von Los Angeles im März, gegen US-Wasseraufbereitungsanlagen im Juli und gegen Schiffe, die im August in die Vereinigten Staaten fahren."
+      "PARIS, 9. November (Reuters) - Französische Beamte beschuldigten am Montag die iranischen Revolutionsgarden der Verantwortung für die Cyberangriffe, die im vergangenen Monat kommerzielle Kühl- und Gefrierschränke in ganz Frankreich ausgeschaltet hatten, und sagten, es würde Konsequenzen für den Iran geben."
      ],
      "machine_translated": true
     },
@@ -369,7 +410,7 @@
      "source": "TechCrunch",
      "country": "USA",
      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
-     "title": "Frankreich beschuldigt den Iran für Massenhacks, die auf Gefrierschränke in Lebensmittelgeschäften und Blutbanken abzielen",
+     "title": "Frankreich wirft dem Iran Massenhacks vor, die auf Gefrierschränke in Lebensmittelgeschäften und Blutbanken abzielen",
      "text": [
       "Der französische Außenminister beschuldigte den Iran, mindestens zwei Cyberangriffe auf industrielle Kühl- und Gefriergeräte in ganz Frankreich und Europa gestartet zu haben."
      ],
@@ -386,7 +427,90 @@
    ]
   },
   {
-   "rank": 3,
+   "rank": 4,
+   "topic": "weltpolitik",
+   "title": "Trump: Krieg gegen Iran militärisch praktisch beendet",
+   "summary": [
+    "Die Seeblockade bleibt jedoch aktiv, während die Diplomatie weiterläuft."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 3,
+   "region_count": 3,
+   "published": "2026-11-10T10:04:58+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/ausland/trump-iran-seeblockade-strasse-von-hormus-100.html"
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/10/trump-says-iran-war-effectively-over-as-tehran-denies-planned-talks"
+    },
+    {
+     "source": "Premium Times",
+     "country": "Nigeria",
+     "ownership": "privat",
+     "url": "https://www.premiumtimesng.com/foreign/924064-trump-says-iran-war-effectively-over.html"
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/politik/ausland/trump-iran-seeblockade-strasse-von-hormus-100.html",
+     "title": "",
+     "text": [
+      "US-Präsident Trump sieht den Iran-Krieg militärisch als beendet."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/10/trump-says-iran-war-effectively-over-as-tehran-denies-planned-talks",
+     "title": "Trump sagt, dass der Iran-Krieg \"effektiv vorbei\" ist, da Teheran geplante Gespräche ablehnt",
+     "text": [
+      "Nach einem Treffen mit dem katarischen Premierminister, einem wichtigen Vermittler, sagte Trump, weitere Streiks seien \"ziemlich unwahrscheinlich\", aber die USA seien \"gesperrt und geladen\".",
+      "Unterdessen sagte der iranische Sicherheitschef Mohsen Rezaei Washington, er solle aufhören, „falsche Nachrichten über imaginäre Gespräche herzustellen."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Premium Times",
+     "country": "Nigeria",
+     "url": "https://www.premiumtimesng.com/foreign/924064-trump-says-iran-war-effectively-over.html",
+     "title": "Trump sagt, der Iran-Krieg \"effektiv vorbei\"",
+     "text": [
+      "Trump sagte, obwohl erneute Angriffe auf den Iran \"sehr unwahrscheinlich\" seien, seien die USA \"gesperrt und geladen\", sollten sich die Umstände ändern."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks",
+     "title": "Trump sagt, dass die USA den Iran-Krieg \"gewonnen\" haben, da Rubio keine Fortschritte bei den Gesprächen meldet",
+     "text": [
+      "Der US-Präsident sagte, dass erneute Angriffe unwahrscheinlich seien, es sei denn, Teheran habe keine Einigung erzielt, da die US-Streitkräfte die Insel Qeshm in der Straße von Hormuz getroffen hätten.",
+      "Der Iran sagte, Washington müsse die Sanktionen und die Blockade vor allen Gesprächen beenden, während Rubio keine Fortschritte meldete."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 5,
    "topic": "weltpolitik",
    "title": "Vergewaltigung und sexualisierte Gewalt: Jahrelange Haft für Russell Brand",
    "summary": [
@@ -395,8 +519,8 @@
    ],
    "machine_translated": false,
    "single_source": false,
-   "source_count": 4,
-   "region_count": 4,
+   "source_count": 3,
+   "region_count": 3,
    "published": "2026-11-09T16:20:00+00:00",
    "links": [
     {
@@ -416,12 +540,6 @@
      "country": "Frankreich",
      "ownership": "privat",
      "url": "https://www.euronews.com/2026/11/09/british-comedian-russell-brand-sentenced-to-10-years-and-six-months-for-rape-sexual-assaul"
-    },
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043298/uks-russell-brand-sentenced-to-10-and-a-half-years-in-jail-for-rape-sexual-assault"
     }
    ],
    "details": [
@@ -429,9 +547,9 @@
      "source": "NPR",
      "country": "USA",
      "url": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
-     "title": "Britischer Komiker Russell Brand wegen Vergewaltigung und sexueller Übergriffe zu über 10 Jahren Haft verurteilt",
+     "title": "Britischer Komiker Russell Brand zu über 10 Jahren wegen Vergewaltigung und sexueller Übergriffe verurteilt",
      "text": [
-      "Russell brand, der anfang der 2000er jahre ein promi-liebling wurde, wurde in einem fall von sechs frauen wegen vergewaltigung und drei wegen sexueller Übergriffe für schuldig befunden."
+      "Russell brand, der anfang der 2000er jahre ein promi-liebling wurde, wurde in einem fall von sechs frauen wegen vergewaltigung und in drei fällen sexueller Übergriffe für schuldig befunden."
      ],
      "machine_translated": true
     },
@@ -444,192 +562,151 @@
       "Der britische komiker wurde am donnerstag nach einem vierwöchigen prozess wegen vergewaltigung und drei sexueller Übergriffe für schuldig befunden."
      ],
      "machine_translated": true
-    },
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "url": "https://www.dawn.com/news/2043298/uks-russell-brand-sentenced-to-10-and-a-half-years-in-jail-for-rape-sexual-assault",
-     "title": "Russell Brand in Großbritannien wegen Vergewaltigung und sexueller Übergriffe zu zehneinhalb Jahren Gefängnis verurteilt",
-     "text": [
-      "Der Komiker Russell Brand, einst einer der prominentesten Sender Großbritanniens und ein Hollywood-Star, wurde am Montag zu zehneinhalb Jahren Haft verurteilt, nachdem er vor etwa zwei Jahrzehnten wegen Vergewaltigung einer Frau und sexueller Übergriffe auf drei weitere verurteilt worden war.",
-      "Brand - der ehemalige ehemann der us-popsängerin katy perry, die sich in den letzten jahren vom mainstream entfernt hat - wurde am donnerstag verurteilt, eine frau vergewaltigt und drei weitere zwischen 2004 und 2009 sexuell angegriffen zu haben.",
-      "Er hatte alle Vorwürfe bestritten.",
-      "Der 51-Jährige stand im Londoner Southwark Crown Court, als Richter Joel Bennathan ihn zu 10 Jahren und sechs Monaten verurteilte und sagte, er würde zwei Drittel in Haft dienen, bevor er in Lizenz entlassen wurde."
-     ],
-     "machine_translated": true
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "topic": "klima",
-   "title": "COP31 in Antalya: Keine geeignete Bühne für Klimaschutz",
-   "summary": [
-    "Es ist zynisch, die Weltklimakonferenz in der Türkei abzuhalten."
-   ],
-   "machine_translated": false,
-   "single_source": false,
-   "source_count": 3,
-   "region_count": 3,
-   "published": "2026-11-09T19:06:09+00:00",
-   "links": [
-    {
-     "source": "Premium Times",
-     "country": "Nigeria",
-     "ownership": "privat",
-     "url": "https://www.premiumtimesng.com/business/business-news/923983-analysis-cop31-nine-key-issues-to-shape-talks-as-un-climate-talks-open-in-turkiye.html"
-    },
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/COP31-in-Antalya/!6228569/"
-    },
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043267/cop31-opens-with-leaders-under-pressure-to-tackle-climate-crisis"
-    }
-   ],
-   "details": [
-    {
-     "source": "Premium Times",
-     "country": "Nigeria",
-     "url": "https://www.premiumtimesng.com/business/business-news/923983-analysis-cop31-nine-key-issues-to-shape-talks-as-un-climate-talks-open-in-turkiye.html",
-     "title": "COP31: Neun Schlüsselthemen für die Gestaltung der Gespräche während der UN-Klimaverhandlungen in Türkiye",
-     "text": [
-      "Der diesjährige Gipfel wird unter einer ungewöhnlichen gemeinsamen Führungsvereinbarung durchgeführt, wobei Türkiye die Konferenz ausrichtet, während Australien die Verhandlungen leitet."
-     ],
-     "machine_translated": true
-    },
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "url": "https://www.dawn.com/news/2043267/cop31-opens-with-leaders-under-pressure-to-tackle-climate-crisis",
-     "title": "COP31 eröffnet mit Führern unter Druck, um die Klimakrise zu bewältigen",
-     "text": [
-      "Die COP31-Klimagespräche begannen am Montag mit einem frühen Kampf um Geld, als der Chef der Vereinten Nationen die Weltführer aufforderte, nach einem Jahr verheerender Wetterextreme \"ernsthaft\" über die Bewältigung der Krise zu werden.",
-      "Antonio Guterres plädierte, als Tausende von Teilnehmern auf ein weitläufiges Expo-Zentrum in der türkischen Mittelmeerstadt Antalya zur jährlichen zweiwöchigen Klimakonferenz der Vereinten Nationen kamen.",
-      "Der Gipfel kommt nach einem Jahr der Bestrafung von Hitzewellen in Europa, großen Waldbränden in Indonesien und katastrophalen Überschwemmungen in Nepal, wobei ein außergewöhnlich starkes El-Nino-Wetterphänomen mehr Klimachaos anheizt.",
-      "\"Wir sind in ein neues Zeitalter der Klimaextreme eingetreten\", sagte Guterres in einer Erklärung."
-     ],
-     "machine_translated": true
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "topic": "weltpolitik",
-   "title": "US-Kongressabgeordneter reicht Resolution zur Amtsenthebung von Verteidigungsminister Pete Hegseth ein",
-   "summary": [
-    "WASHINGTON, 9. November (Reuters) - Pete Hegseth, der US-Verteidigungsminister, nennt sich selbst Kriegsminister, Teil seiner Bemühungen, ein Militär umzubenennen, von dem er sagte, es sei zu schwach und \"aufgewacht\", als er letztes Jahr sein Amt antrat.",
-    "Der scheidende republikanische Gesetzgeber Thomas Massie fordert den Kongress auf, Hegseth wegen Vorwürfen rechtswidriger Anordnungen zu vertreiben.",
-    "Jetzt, mit einer erwarteten Amtsenthebung des Repräsentantenhauses in dieser Woche, könnte er bald etwas mit einem tatsächlichen Kriegsminister gemeinsam haben."
-   ],
-   "machine_translated": true,
-   "single_source": false,
-   "source_count": 2,
-   "region_count": 2,
-   "published": "2026-11-10T04:42:29+00:00",
-   "links": [
-    {
-     "source": "Al Jazeera",
-     "country": "Katar",
-     "ownership": "staatlich finanziert",
-     "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss"
-    },
-    {
-     "source": "Daily Maverick",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://www.dailymaverick.co.za/article/2026-11-10-pentagon-chief-hegseth-expected-to-face-house-impeachment-vote-this-week/"
-    }
-   ],
-   "details": [
-    {
-     "source": "Daily Maverick",
-     "country": "Südafrika",
-     "url": "https://www.dailymaverick.co.za/article/2026-11-10-pentagon-chief-hegseth-expected-to-face-house-impeachment-vote-this-week/",
-     "title": "Pentagon-Chef Hegseth erwartet in dieser Woche eine Amtsenthebung des Repräsentantenhauses",
-     "text": [],
-     "machine_translated": true
     }
    ]
   },
   {
    "rank": 6,
-   "topic": "weltpolitik",
-   "title": "Nach dem Treffen mit dem Premierminister von Katar bezeichnet Trump den Iran-Krieg militärisch als \"effektiv vorbei\".",
+   "topic": "technologie",
+   "title": "Anthropic: Fable 5.2 und Mythos 5.2 legen deutlich zu",
    "summary": [
-    "Der Iran sagte, Washington müsse die Sanktionen und die Blockade vor allen Gesprächen beenden, während Rubio keine Fortschritte meldete.",
-    "Der US-Präsident sagte, dass erneute Angriffe unwahrscheinlich seien, es sei denn, Teheran habe keine Einigung erzielt, da die US-Streitkräfte die Insel Qeshm in der Straße von Hormuz trafen.",
-    "Iranische Beamte wiesen die Bemerkungen von Trump als \"Fake News\" ab, nachdem er vorgeschlagen hatte, den \"Status quo\" beizubehalten."
+    "Anthropic stellt mit Fable 5.2 und Mythos 5.2 zwei neue Claude-Modelle vor, die bis zu 30 Prozent schneller sind als die Vorgänger."
    ],
-   "machine_translated": true,
+   "machine_translated": false,
    "single_source": false,
-   "source_count": 2,
-   "region_count": 2,
-   "published": "2026-11-09T22:31:19+00:00",
+   "source_count": 3,
+   "region_count": 3,
+   "published": "2026-11-10T07:59:14+00:00",
    "links": [
     {
-     "source": "Al Jazeera",
-     "country": "Katar",
-     "ownership": "staatlich finanziert",
-     "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss"
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043474/anthropic-unveils-new-fable-mythos-models-as-competition-heats-up-ahead-of-ipo"
     },
     {
-     "source": "Euronews",
-     "country": "Frankreich",
+     "source": "Golem",
+     "country": "Deutschland",
      "ownership": "privat",
-     "url": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks"
+     "url": "https://www.golem.de/news/anthropic-fable-5-2-und-mythos-5-2-legen-deutlich-zu-2611-215015.html"
+    },
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
     }
    ],
    "details": [
     {
-     "source": "Euronews",
-     "country": "Frankreich",
-     "url": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks",
-     "title": "Trump sagt, dass die USA den Iran-Krieg „gewonnen haben, da Rubio keine Fortschritte bei den Gesprächen meldet",
-     "text": [],
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043474/anthropic-unveils-new-fable-mythos-models-as-competition-heats-up-ahead-of-ipo",
+     "title": "Anthropic stellt neue Fable-, Mythos-Modelle vor, während sich der Wettbewerb vor dem Börsengang aufheizt",
+     "text": [
+      "Anthropic hat am Montag zwei neue Modelle für künstliche Intelligenz vorgestellt, Claude Fable 5.2 und Claude Mythos 5.2, da der OpenAI-Rivale seine Position im schnell wachsenden KI-Markt vor seinem geplanten Börsengang (IPO) stärken will.",
+      "Claude Fable 5.2 wurde für Codierungs-, Argumentations- und KI-Agentenaufgaben entwickelt, während Claude Mythos 5.2 für zugelassene Cybersicherheits- und Life-Science-Forschungsanwendungen entwickelt wurde.",
+      "Der Zugang zu Claude Mythos 5.2 wird auf Organisationen beschränkt sein, die über die Verifizierungsprogramme von Anthropic für die Cybersicherheits- und Life-Science-Forschung zugelassen sind, während Claude Fable 5.2 breiter verfügbar sein wird."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+     "title": "Anthropic veröffentlicht neue Mythos und Fable Modelle unter RSI Bedenken",
+     "text": [
+      "Anthropic sagt, dass die neuen Modelle \"Verbesserungen in Bereichen wie Codierung, Argumentation und Vision\" sowie in der klareren Kommunikation mit den Benutzern zeigen."
+     ],
      "machine_translated": true
     }
    ]
   },
   {
    "rank": 7,
-   "topic": "weltpolitik",
-   "title": "Zustellung durch das Gericht",
+   "topic": "technologie",
+   "title": "US-Bundesstaat Kalifornien: Volksabstimmung über Reichensteuer scheitert",
    "summary": [
-    "In einem Fall hat das Gericht einen Wahlstreit beigelegt, der seit zwei Jahren andauert.",
-    "Sadaf Ihsan näherte sich dem Peshawar High Court (PHC) und wurde wieder eingesetzt.",
-    "Laut einem Bericht in Dawn wurden mehr als 60 Fälle, in denen eine Kaution gewährt wurde, von der KP-Regierung in der FCC angefochten."
+    "Die „Proposition 40“ sah vor, dass kalifornische Milliardäre eine einmalige Abgabe auf ihr Vermögen zahlen sollen.",
+    "Eine knappe Mehrheit hat den Vorschlag abgelehnt.",
+    "Auch von links gab es an dem Vorstoß Kritik."
    ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-10T04:02:38+00:00",
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 5,
+   "region_count": 4,
+   "published": "2026-11-10T09:34:00+00:00",
    "links": [
     {
-     "source": "Dawn",
-     "country": "Pakistan",
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Volkabstimmung-ueber-Reichensteuer-in-Kalifornien-scheitert/!6228844/"
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
      "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043442/served-by-the-court"
+     "url": "https://www.euronews.com/2026/11/10/california-voters-reject-one-off-billionaire-wealth-tax-us-media-predicts"
+    },
+    {
+     "source": "Golem",
+     "country": "Deutschland",
+     "ownership": "privat",
+     "url": "https://www.golem.de/news/volksabstimmung-gescheitert-kalifornien-lehnt-milliardaerssteuer-ab-2611-215022.html"
+    },
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/"
     }
    ],
    "details": [
     {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "url": "https://www.dawn.com/news/2043442/served-by-the-court",
-     "title": "",
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "url": "https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss",
+     "title": "Kaliforniens Wähler lehnen Milliardärsteuer ab",
      "text": [
-      "Letzte Woche hat das neu gegründete Bundesverfassungsgericht (FCC) zwei bemerkenswerte Urteile gefällt.",
-      "Beide betrafen rechtliche Fragen politischer Natur - die Art, die vielleicht viel Zeit und Energie im Obersten Gerichtshof der alten Tage in Anspruch genommen hätte, zusammen mit einer ausführlichen Berichterstattung durch die Medien.",
-      "Aber das waren andere Zeiten; Zurzeit gingen die Fälle ruhig voran und die Entscheidungen kamen ohne viel Knall oder Donner.",
-      "Bereits 2024 hatte die JUI-F die Benachrichtigung einer Frau auf einen ihrer reservierten Plätze bestritten.",
-      "Sie behauptete, dass die benachrichtigte Frau einfach den Vornamen - Sadaf - mit der auf der Liste der Partei genannten Frau teilte."
+      "Die vorgeschlagene Maßnahme hätte eine einmalige Steuer von 5 Prozent auf kalifornische Milliardäre zur Finanzierung des Gesundheitswesens erhoben."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/10/california-voters-reject-one-off-billionaire-wealth-tax-us-media-predicts",
+     "title": "Kalifornien Wähler lehnen einmalige Milliardär Vermögenssteuer US-Medien prognostiziert",
+     "text": [
+      "Die Maßnahme wurde als Schlüsseltest für die globale Kampagne gegen Ungleichheit angesehen, aber Warnungen, dass die Superreichen den Staat verlassen würden, gewannen."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Golem",
+     "country": "Deutschland",
+     "url": "https://www.golem.de/news/volksabstimmung-gescheitert-kalifornien-lehnt-milliardaerssteuer-ab-2611-215022.html",
+     "title": "Volksabstimmung gescheitert: Kalifornien lehnt Milliardärssteuer ab",
+     "text": [
+      "Die Kampagne gegen die Milliardärssteuer in Kalifornien war erfolgreich."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+     "title": "Kaliforniens vorgeschlagene \"Milliardärsteuer\" scheitert",
+     "text": [
+      "Die kalifornischen Wähler lehnten Proposition 40 ab, die einmalige 5% Steuer auf Milliardäre, berichtete die AP am Montag.",
+      "Tech-Führungskräfte übertrafen die Geldgeber etwa 10 zu 1, um sie zu besiegen, und die Gründer und Ökonomen TechCrunch, die vor der Abstimmung interviewt wurden, waren gespalten, ob sie wohlhabende Einwohner vertrieben oder nur ihr Vermögen gekürzt hätten."
      ],
      "machine_translated": true
     }
@@ -638,9 +715,276 @@
   {
    "rank": 8,
    "topic": "weltpolitik",
+   "title": "USA bewegen Flugzeuge von zweiter britischer Basis wegen \"Bedrohung durch den Iran\"",
+   "summary": [
+    "Zwei Tankschiffe und mehrere andere Flugzeuge wurden von der RAF Mildenhall zu anderen Orten umgeleitet, berichtet WSJ.",
+    "Das US-Militär hat am Montag nach einer Bedrohung durch den Iran Flugzeuge von einer zweiten Luftwaffenbasis in Großbritannien evakuiert, berichtete das Wall Street Journal unter Berufung auf Personen, die mit der Angelegenheit vertraut sind, Wochen nachdem Washington seine Bomber von der RAF Fairford Airbase wegen eines mutmaßlichen iranischen Sicherheitsvorfalls zurückgezogen hatte."
+   ],
+   "machine_translated": true,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-10T09:52:18+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss"
+    },
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-10-us-aircraft-evacuated-from-second-british-base-due-to-iran-threat-wsj-reports/"
+    }
+   ],
+   "details": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-10-us-aircraft-evacuated-from-second-british-base-due-to-iran-threat-wsj-reports/",
+     "title": "US-Flugzeuge von der zweiten britischen Basis wegen der Bedrohung durch den Iran evakuiert, WSJ berichtet",
+     "text": [],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "topic": "weltpolitik",
+   "title": "Drei Arbeiter sterben im iPhone-Teilewerk von Tata in Tamil Nadu",
+   "summary": [
+    "Die Arbeiter hatten Gas eingeatmet, während sie einen externen Nanofiltrationstank inspizierten, sagt ein Bezirksbeamter.",
+    "Drei Vertragsarbeiter sind in einer Tata Electronics-Fabrik gestorben, die Teile für Apple AAPL herstellt. O iPhones im südindischen Bundesstaat Tamil Nadu, der jüngste Vorfall in der Lieferkette, der das US-Unternehmen in seiner kritischsten Produktionsbasis nach China betrifft."
+   ],
+   "machine_translated": true,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-10T09:52:01+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss"
+    },
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-10-three-workers-die-at-tatas-india-iphone-parts-factory-in-latest-safety-incident/"
+    }
+   ],
+   "details": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-10-three-workers-die-at-tatas-india-iphone-parts-factory-in-latest-safety-incident/",
+     "title": "Drei Arbeiter sterben in Tatas Indien iPhone Teile Fabrik in den letzten Sicherheitsvorfall",
+     "text": [],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "topic": "klima",
+   "title": "Analyse: Die CO2-Emissionen fossiler Brennstoffe werden im Jahr 2026 sinken, da der Iran-Konflikt den Ölverbrauch beeinträchtigt",
+   "summary": [
+    "Insgesamt werden fossile Kohlendioxidemissionen bis 2026 voraussichtlich 38,2 Milliarden Tonnen erreichen.",
+    "Die globalen Emissionen fossiler Brennstoffe werden voraussichtlich im Jahr 2026 aufgrund des Ausbaus der erneuerbaren Energien und des Ölpreisschocks, der durch den Irankrieg ausgelöst wurde, leicht sinken, sagten Forscher am Dienstag.",
+    "Ölbedingte Emissionen werden im vergangenen Jahr voraussichtlich um 1,9 Prozent sinken, aber es war \"wahrscheinlich eine kurzfristige Reaktion auf den Energieschock, der durch den Iran-Konflikt ausgelöst wurde\", sagten die Forscher."
+   ],
+   "machine_translated": true,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-10T06:28:17+00:00",
+   "links": [
+    {
+     "source": "Carbon Brief",
+     "country": "Großbritannien",
+     "ownership": "gemeinnützig",
+     "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use"
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043484/fossil-fuel-emissions-fall-due-to-iran-war-renewables-research"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043484/fossil-fuel-emissions-fall-due-to-iran-war-renewables-research",
+     "title": "Emissionen fossiler Brennstoffe sinken durch Irankrieg, Erneuerbare: Forschung",
+     "text": [
+      "Die Emissionen aus der Verbrennung von Öl, Gas und Kohle – die Haupttreiber des Klimawandels – stiegen in den letzten zehn Jahren im Durchschnitt um 0,9 Prozent pro Jahr und erreichten 2025 ein Rekordhoch, so der Global Carbon Budget Report.",
+      "Aber es wird erwartet, dass sie 2026 um 0,4 Prozent sinken werden, so die Forschung, die veröffentlicht wurde, als sich die Nationen auf dem COP31-Klimagipfel der Vereinten Nationen in Antalya, Turkiye, treffen.",
+      "Es wäre der erste jährliche Rückgang seit 2020, als die Covid-Pandemie die Weltwirtschaft, den Handel und den Verkehr lahmlegte.",
+      "In diesem Jahr spielten der von den USA geführte Krieg im Iran und die Schließung der Straße von Hormus eine Rolle bei der Senkung der Emissionen, da sie einen Rückgang des Ölverbrauchs inmitten der steigenden Rohölpreise verursachten, fanden die Forscher heraus."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 11,
+   "topic": "weltpolitik",
+   "title": "Israelische Streitkräfte töten 14-jährigen palästinensischen Jungen im besetzten Westjordanland",
+   "summary": [
+    "Israelische Streitkräfte erschossen einen 14-Jährigen im besetzten Westjordanland, sagten palästinensische Beamte, wobei Israel behauptete, es reagiere auf das Steinwerfen.",
+    "Israelische Streitkräfte haben routinemäßig scharfes Feuer auf Palästinenser eröffnet, darunter Minderjährige, die Steine in die Westbank werfen, die Israel seit 1967 besetzt hat.",
+    "Dies war in einem Gebiet, in dem kürzlich Steine auf israelische Fahrzeuge geschleudert wurden, sagte das Militär."
+   ],
+   "machine_translated": true,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-10T08:19:20+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss"
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043498/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials"
+    }
+   ],
+   "details": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "url": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
+     "title": "",
+     "text": [
+      "Israels Militär sagt, seine Soldaten hätten das Feuer eröffnet, um Palästinenser daran zu hindern, Steine auf Fahrzeuge in Burka zu werfen."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043498/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials",
+     "title": "Israelische Streitkräfte erschießen 14-Jährigen im Westjordanland: Palästinensische Beamte",
+     "text": [
+      "Moutaz Eyad Daghlas wurde am späten Montag in Burka, nordwestlich von Nablus, getötet, teilte das palästinensische Gesundheitsministerium mit.",
+      "Die Palestine Red Crescent Society sagte, ihre Teams hätten zwei Menschen mit Schusswunden behandelt und ins Krankenhaus gebracht, aber die israelischen Streitkräfte hätten den Zugang zu einer dritten verwundeten Person blockiert und drei freiwillige Sanitäter festgenommen.",
+      "Das israelische Militär, das von der AFP nach dem Vorfall gefragt wurde, behauptete am Dienstag, es habe gehandelt, um das Steinschlagen in der Region zu \"vereiteln\".",
+      "Die Soldaten identifizierten mehrere Personen, die beabsichtigten, Steine auf eine Autobahn zu werfen, die von israelischen Fahrzeugen benutzt wurde.",
+      "\"Die Soldaten reagierten, indem sie auf sie schossen, um die Bedrohung zu beseitigen.\""
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 12,
+   "topic": "deutschland",
+   "title": "Russland soll wieder mitspielen: Eishockey-WM auf der Kippe",
+   "summary": [
+    "Das neuste Beispiel: Russland soll an der Eishockey-WM in Deutschland teilnehmen, doch der Weltverband ist dagegen.",
+    "Jetzt schaltet sich die Politik ein."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-10T09:09:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/eishockey-boykott-russland-wm-deutschland-politik-100.html"
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/09/norway-dropped-from-junior-hockey-championship-to-make-room-for-russia"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/politik/deutschland/eishockey-boykott-russland-wm-deutschland-politik-100.html",
+     "title": "",
+     "text": [
+      "Sport ist politisch."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/09/norway-dropped-from-junior-hockey-championship-to-make-room-for-russia",
+     "title": "Norwegen fiel von Junior-Hockey-Meisterschaft, um Platz für Russland zu machen",
+     "text": [
+      "Die IIHF hat Norwegen auf Platz 10 in die Division 1A verlegt, um einen Platz für Russland beim Turnier in Alberta freizugeben, nachdem das Schiedsgericht für Sport die Wiedereinsetzung russischer Teams angeordnet hatte.",
+      "Die Änderung ist noch nicht bestätigt, und Russland wurde kein kanadisches Visum garantiert."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 13,
+   "topic": "weltpolitik",
+   "title": "Zweieinhalb Millionen Menschen bei Papstmesse in Buenos Aires",
+   "summary": [
+    "Papst Leo XIV. hat am Montag die größte Messe seiner Amtszeit gefeiert.",
+    "Rund zweieinhalb Millionen Menschen haben nach Behördenangaben am Gottesdienst in Buenos Aires teilgenommen."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-10T03:15:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/panorama/papst-leo-messe-rekord-besucher-buenos-aires-100.html"
+    },
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "ownership": "privat",
+     "url": "https://en.mercopress.com/2026/11/10/some-2.5-million-people-attend-leo-xiv-s-mass-in-buenos-aires-authorities-say?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+    }
+   ],
+   "details": [
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "url": "https://en.mercopress.com/2026/11/10/some-2.5-million-people-attend-leo-xiv-s-mass-in-buenos-aires-authorities-say?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "title": "Etwa 2,5 Millionen Menschen besuchen Leo XIV Messe in Buenos Aires, sagen die Behörden",
+     "text": [
+      "Etwa 2,5 Millionen Menschen nahmen nach Angaben der lokalen Behörden an der Messe teil, die Papst Leo XIV. Am Montag in den Parks von Palermo in Buenos Aires gefeiert wurde, die erste von einem Papst in Argentinien seit dem Besuch von Johannes Paul II. 1987 mit einer Predigt über die Rolle der Familie.",
+      "El País beschrieb es als die größte Versammlung seines Pontifikats."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 14,
+   "topic": "weltpolitik",
    "title": "Prinzessin Anne kommt auf den Falklandinseln an und wird den neuen National Sports Complex eröffnen",
    "summary": [
-    "Prinzessin Anne, die Schwester von König Karl III., kam am Montag mit ihrem Ehemann, Vizeadmiral Sir Tim Laurence, auf den Falklandinseln an, zu Beginn eines Besuchs, der sie später nach Südgeorgien führen wird, und wird unter anderem den neuen National Sports Complex in Stanley offiziell eröffnen."
+    "Prinzessin Anne, die Schwester von König Karl III., kam am Montag mit ihrem Ehemann, Vizeadmiral Sir Tim Laurence, auf den Falklandinseln an, zu Beginn eines Besuchs, der sie später nach Südgeorgien führen wird, und unter anderem wird der neue National Sports Complex in Stanley offiziell eröffnet."
    ],
    "machine_translated": true,
    "single_source": true,
@@ -658,108 +1002,1168 @@
    "details": []
   },
   {
-   "rank": 9,
-   "topic": "klima",
-   "title": "Analyse: Die CO2-Emissionen fossiler Brennstoffe werden im Jahr 2026 sinken, da der Iran-Konflikt den Ölverbrauch beeinträchtigt",
-   "summary": [],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-10T01:01:00+00:00",
-   "links": [
-    {
-     "source": "Carbon Brief",
-     "country": "Großbritannien",
-     "ownership": "gemeinnützig",
-     "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 10,
-   "topic": "weltpolitik",
-   "title": "Machen Sie die richtigen Dinge – Wie man sich Zeit für das macht, was am wichtigsten ist",
+   "rank": 15,
+   "topic": "technologie",
+   "title": "Fall Nvidia: Wie eine Affäre den KI-Boom gefährden kann",
    "summary": [
-    "Ist Ihre To-Do-Liste im Weg, was zählt?",
-    "Hier sind vier praktische Schritte, um Zeit für sinnvolle Arbeit und Leben zu schaffen."
+    "Jensen Huang ist das Gesicht von Nvidia.",
+    "Seine Affäre und die möglichen Folgen erschüttern eines der wertvollsten Unternehmen der Welt - und die gesamte KI-Branche gleich mit."
    ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-10T05:30:00+00:00",
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-09T22:23:42+00:00",
    "links": [
     {
-     "source": "Daily Maverick",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://www.dailymaverick.co.za/article/2026-11-10-get-the-right-things-done-how-to-make-time-for-what-matters-most/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 11,
-   "topic": "weltpolitik",
-   "title": "Ein weiterer Chaudhry schlägt Maryam wegen \"Entwicklungsverzerrung\" zu",
-   "summary": [
-    "Sie fragte ihn auch, warum er Minister in einer Regierung blieb, die er für korrupt hielt.",
-    "Chaudhry Hussain Elahi erinnerte sich an CM Maryams rechtliche Drohungen und sagte: \"Lassen Sie mich ihr sagen, dass ich die gesamte Punjab-Regierung vor Gericht ziehen werde, die Menschen in Gujrat haben nie Angst, vor Gericht zu gehen.\"",
-    "Das Problem, sagte sie, war, dass sie vor ein paar Tagen den stellvertretenden Kommissar (DC) von Gujrat wechselte, während Salik wollte, dass ein DC seiner Wahl ernannt wird."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-10T03:28:11+00:00",
-   "links": [
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/wirtschaft/nvidia-huang-affaere-folgen-ki-boom-100.html"
+    },
     {
-     "source": "Dawn",
-     "country": "Pakistan",
+     "source": "TechCrunch",
+     "country": "USA",
      "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043389/another-chaudhry-slams-maryam-over-development-bias"
+     "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
     }
    ],
    "details": [
     {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "url": "https://www.dawn.com/news/2043389/another-chaudhry-slams-maryam-over-development-bias",
-     "title": "",
+     "source": "TechCrunch",
+     "country": "USA",
+     "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+     "title": "Das Rennen ist auf zu verklagen Nvidia",
      "text": [
-      "Hussain Elahi scheint die Vorwürfe von Cousin Salik gegen Punjab CM zu unterstützen • Azma Bokhari sagt, dass CMs harte Arbeit \"erhebliches Unbehagen für bestimmte politische Elemente verursacht\" • Moonis' jibe gegen Chaudhry Shujaat und Chaudhry Wajahat zerstreut den Eindruck, dass \"Familientreffen\" in der bevorstehenden GUJRAT ist: Was als Tiff zwischen einem Bundesminister und einem Provinzpräsidenten begann, hat offenbar die politische Familienfehde unter den Chaudhrys von Gujrat wieder entfacht, deren verschiedene Mitglieder in den jüngsten Wortkrieg zwischen den beiden Koalitionspartnern PML-N und PML-Q hineingezogen wurden."
+      "Die Aktie von Nvidia ist um mehr als 4% gesunken, nachdem der Vorstand eine Untersuchung der Beziehung von Jensen Huang zu einem mutmaßlichen chinesischen Spion eingeleitet hatte, und ein Wertpapierrechtsexperte sagt, dass das frühere Beharren des Unternehmens, dass alles \"normal\" sei, zu einem sehr teuren Problem werden könnte."
      ],
      "machine_translated": true
     }
    ]
   },
   {
-   "rank": 12,
-   "topic": "weltpolitik",
-   "title": "Etwa 2,5 Millionen Menschen besuchen Leo XIV Messe in Buenos Aires, sagen die Behörden",
+   "rank": 16,
+   "topic": "europa",
+   "title": "Das erste vollständig in Großbritannien gebaute Islander-Flugzeug kommt auf den Falklandinseln an",
    "summary": [
-    "Etwa 2,5 Millionen Menschen nahmen nach Angaben der lokalen Behörden an der Messe teil, die Papst Leo XIV. Am Montag in den Parks von Palermo in Buenos Aires gefeiert wurde, die erste von einem Papst in Argentinien seit dem Besuch von Johannes Paul II. 1987 mit einer Predigt über die Rolle der Familie.",
-    "El País beschrieb es als die größte Versammlung seines Pontifikats."
+    "Der Falkland Islands Government Air Service (FIGAS) begrüßt am Montag ein neues Islander-Flugzeug, VP-FTS, das erste der Art, das vollständig in Großbritannien montiert wird und nach einem Lieferflug von fast drei Wochen aus Punta Arenas, Chile, in Stanley ankommt."
    ],
    "machine_translated": true,
    "single_source": true,
    "source_count": 1,
    "region_count": 1,
-   "published": "2026-11-10T03:15:00+00:00",
+   "published": "2026-11-09T15:59:00+00:00",
    "links": [
     {
      "source": "MercoPress",
      "country": "Uruguay",
      "ownership": "privat",
-     "url": "https://en.mercopress.com/2026/11/10/some-2.5-million-people-attend-leo-xiv-s-mass-in-buenos-aires-authorities-say?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+     "url": "https://en.mercopress.com/2026/11/09/the-first-islander-aircraft-built-entirely-in-the-uk-arrives-in-the-falklands?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
     }
    ],
    "details": []
   },
   {
-   "rank": 13,
+   "rank": 17,
+   "topic": "deutschland",
+   "title": "20 Jahre Synagoge \"Ohel Jakob\" - Rede Markus Söder",
+   "summary": [
+    "20 Jahre Neue Hauptsynagoge München: Beim Festakt der Israelitischen Kultusgemeinde München und Oberbayern anläßlich des 20.",
+    "Zu einem Festakt in der Münchner Hauptsynagoge durfte Charlotte Knobloch hohen Besuch empfangen.",
+    "Der plötzlich noch etwas höher wurde."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 1,
+   "published": "2026-11-10T08:36:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5246592"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/20-Jahre-Ohel-Jakob-Synagoge-in-Muenchen/!6228835/"
+    }
+   ],
+   "details": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/20-Jahre-Ohel-Jakob-Synagoge-in-Muenchen/!6228835/",
+     "title": "20 Jahre Ohel-Jakob-Synagoge in München: Feiern unter Polizeischutz",
+     "text": [],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 18,
+   "topic": "gesundheit",
+   "title": "Die ultimative Erwachsenenaufgabe: Anmeldung für die Krankenversicherung",
+   "summary": [
+    "HealthQ sitzt da, als ein 22-Jähriger mit einem \"unabhängigen Helfer\" spricht.",
+    "Der Kauf einer Krankenversicherung kann überwältigend sein, aber es gibt Leute, die Ihnen helfen können, es herauszufinden - kostenlos."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T10:00:00+00:00",
+   "links": [
+    {
+     "source": "KFF Health News",
+     "country": "USA",
+     "ownership": "gemeinnützig",
+     "url": "https://kffhealthnews.org/insurance/healthq-beginners-guide-buying-insurance-aca-marketplace-obamacare-free-assisters/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 19,
+   "topic": "klima",
+   "title": "Weltweite CO2-Emissionen steigen",
+   "summary": [
+    "Um die Klimakrise zu bändigen, müssten sie aber deutlich sinken.",
+    "Erstmals seit Jahren sinken die Emissionen aus Kohle, Öl und Gas.",
+    "Obwohl die Welt weniger Öl verbraucht, steigen die klimaschädlichen Emissionen laut \"Global Carbon Project\" weiter."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 1,
+   "published": "2026-11-10T07:32:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/klima-co2-emissionen-global-carbon-project-100.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Endlich-mal-kein-neuer-Rekord/!6228746/"
+    }
+   ],
+   "details": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Endlich-mal-kein-neuer-Rekord/!6228746/",
+     "title": "Endlich mal kein neuer Rekord: Weniger CO2 aus Kohle, Öl und Gas",
+     "text": [
+      "Aber nicht genug, um den Ausstoß des Klimagases insgesamt weltweit zu drücken."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 20,
+   "topic": "sport",
+   "title": "Khawaja bestreitet \"Hexenjagd\" wegen Sandpapergate-Behauptungen",
+   "summary": [
+    "Usman Khawaja weist Behauptungen zurück, dass er einige der größten Wunden der australischen Grillen wieder geöffnet hat, nur um Kopien seines neuen Buches zu verkaufen, da er Bedenken einräumt, dass es Freundschaften beschädigt haben könnte."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T09:59:31+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-10/usman-khawaja-talks-sandpapergate-friendship-racism/107370242"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 21,
+   "topic": "wirtschaft",
+   "title": "Verstecktes gepanzertes Gewölbe in einem Haus in Peña gefunden, das mit Darlehen der Ueno Bank gebaut wurde",
+   "summary": [
+    "Paraguayische Staatsanwälte und Polizei durchsuchten am Sonntag eine Residenz des ehemaligen Präsidenten Santiago Peña in Ciervo Cuá im Bezirk San Bernardino, etwa 50 Kilometer von Asunción entfernt, die mit Darlehen der Ueno Bank gebaut wurde.",
+    "Die Staatsanwaltschaft bestätigte die Durchsuchung, obwohl in ihrer Erklärung das Gewölbe, dessen Inhalt unbekannt ist, nicht erwähnt wurde.",
+    "Laut den Zeitungen ABC Color und Última Hora fanden sie ein gepanzertes Gewölbe hinter einer falschen Mauer, das sie nicht öffnen konnten."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T10:57:00+00:00",
+   "links": [
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "ownership": "privat",
+     "url": "https://en.mercopress.com/2026/11/09/hidden-armoured-vault-found-in-a-pena-home-built-with-ueno-bank-loans?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 22,
+   "topic": "gesundheit",
+   "title": "Nebraska Rushed Medicaid Arbeitsregeln. Dann wurde einem Krebspatienten gesagt, dass er die Deckung verloren hatte.",
+   "summary": [
+    "Nebraska budgetierte 8,2 Millionen US-Dollar für Auftragnehmer, um die Medicaid-Änderungen gemäß dem One Big Beautiful Bill Act von Präsident Donald Trump einzuhalten.",
+    "Gesundheitskliniken und Organisationen, die sich für arme und arbeitende Nebraskaner einsetzen, sagen, dass die Einführung der Medicaid-Arbeitsanforderungen mit Problemen gespickt ist."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T10:00:00+00:00",
+   "links": [
+    {
+     "source": "KFF Health News",
+     "country": "USA",
+     "ownership": "gemeinnützig",
+     "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirements-lost-coverage-nebraska-early-rollout/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 23,
+   "topic": "deutschland",
+   "title": "Studie: Sparpläne der Regierung gehen zulasten von Frauen",
+   "summary": [
+    "Der Deutsche Frauenrat hat eine Studie in Auftrag gegeben.",
+    "Eine Studie zeigt, wie teuer es ist, diese Perspektive zu ignorieren.",
+    "Die Ergebnisse zeigen, dass viele Kürzungen im Bundeshaushalt auf Kosten von Frauen gehen."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 1,
+   "published": "2026-11-10T05:12:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/studie-deutscher-frauenrat-bundeshaushalt-frauen-100.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Haushaltsentwurf-fuer-2027/!6228769/"
+    }
+   ],
+   "details": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Haushaltsentwurf-fuer-2027/!6228769/",
+     "title": "Haushaltsentwurf für 2027: Schwarz-rote Kürzungspläne treffen vor allem Frauen",
+     "text": [
+      "Union und SPD wollen bei Kitas, Pflege und Unterhalt für Alleinerziehende kürzen."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 24,
+   "topic": "technologie",
+   "title": "MWC26 Doha: Mobile Wirtschaft in MENA soll 421 Milliarden Euro erreichen, aber Millionen bleiben offline",
+   "summary": [
+    "MWC26 kehrte nach Doha zurück, da die Branche vor einer doppelten Herausforderung steht: dem Aufbau von Netzwerken, die künstliche Intelligenz unterstützen, und der Verringerung einer digitalen Kluft, die immer noch Millionen von Menschen ohne mobiles Internet zurücklässt."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T06:00:17+00:00",
+   "links": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/10/mwc26-doha-mobile-economy-in-mena-set-to-reach-421bn-but-millions-remain-offline"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 25,
+   "topic": "deutschland",
+   "title": "Merz: Nominierung Aigners lief \"alles andere als holprig\"",
+   "summary": [
+    "Nun hat er Ilse Aigner als Kandidatin für das Bundespräsidentenamt vorgeschlagen.",
+    "Ein holpriges Verfahren bei der Nominierung von CSU-Politikerin Ilse Aigner?",
+    "\"Wirklich völlig abwegig\", findet Bundeskanzler Friedrich Merz im heute journal-Interview."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 1,
+   "published": "2026-11-10T00:53:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/friedrich-merz-ilse-aigner-kandidatin-bundespraesidentin-100.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Aigner-als-Bundespraesidentin/!6228591/"
+    }
+   ],
+   "details": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Aigner-als-Bundespraesidentin/!6228591/",
+     "title": "Aigner als Bundespräsidentin: Plan A wie Aigner, was sonst?",
+     "text": [
+      "Friedrich Merz hat lange gezögert.",
+      "Diese verspricht eine neue Einigkeit."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 26,
+   "topic": "gesundheit",
+   "title": "Wenn ein Waffenbesitzer frühe Anzeichen von Demenz zeigt",
+   "summary": [
+    "Experten für öffentliche Gesundheit finden Wege, um die Sicherheit von Schusswaffen für ältere Erwachsene zu fördern, die Waffen besitzen, insbesondere wenn es Anzeichen für einen kognitiven Verfall gibt."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T10:00:00+00:00",
+   "links": [
+    {
+     "source": "KFF Health News",
+     "country": "USA",
+     "ownership": "gemeinnützig",
+     "url": "https://kffhealthnews.org/aging/new-old-age-guns-firearms-safety-dementia-weapons-suicide/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 27,
+   "topic": "sport",
+   "title": "22yo Jockey stirbt an Verletzungen, die im Rennfall erlitten wurden",
+   "summary": [
+    "Jockey Izzy Neale ist \"umgeben von Familie und Freunden\" gestorben, sagt ihre Familie in einer Erklärung von Racing NSW."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T09:32:40+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-10/izzy-neale-jockey-dies-after-fall-warren/107370756"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 28,
+   "topic": "europa",
+   "title": "Unternehmen, die an Siedlungen im Westjordanland gebunden sind, gewinnen 15 Millionen US-Dollar UK-Deals trotz Sanktionen",
+   "summary": [
+    "Der ehemalige Labour-Führer Jeremy Corbyn nannte die Ergebnisse \"empörend und offen gesagt beleidigend für die Öffentlichkeit\"."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T05:39:50+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 29,
+   "topic": "sport",
+   "title": "Jillaroos springen eine Überraschung, da Teams für das Weltcup-Finale benannt werden",
+   "summary": [
+    "Australien hat seine Männer- und Frauenmannschaften für das Rugby League World Cup-Finale am Sonntag gegen Neuseeland benannt, einschließlich eines Überraschungsaufrufs von Jillaroos."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T07:55:26+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-10/kangaroos-jillaroos-rugby-league-world-cup-final-teams/107368668"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 30,
+   "topic": "technologie",
+   "title": "Otter AI kann jetzt Gespräche in über 30 Sprachen verfolgen",
+   "summary": [
+    "Otter AI hat gerade Unterstützung für 27 Sprachen hinzugefügt und eine bevorstehende Funktion enthüllt, die folgen kann, wenn Sprecher zwischen Sprachen wechseln."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T07:00:00+00:00",
+   "links": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 31,
+   "topic": "wirtschaft",
+   "title": "Nvidia Spion Skandal treibt Debatte über Chip-Exporte nach China",
+   "summary": [
+    "US-Gesetzgeber fordern strengere Beschränkungen für Chip-Verkäufe inmitten der Untersuchung der Nvidia CEO Beziehung mit angeblichen Spion."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T09:42:04+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 32,
+   "topic": "sport",
+   "title": "Vor dem WM-Finale kann Jamayne Isaako nicht verpassen",
+   "summary": [
+    "Inmitten eines heulenden Sturms wusste Jamayne Isaako nicht, wohin seine Tritte gingen, aber als er versucht, eine Allzeit-Scoring-Saison mit einem Weltcup-Endsieg zu beenden, geht der Ball einfach dorthin, wo er sein muss."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T03:43:12+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-10/ahead-of-world-cup-final-jamayne-isaako-cannot-miss/107368780"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 33,
+   "topic": "technologie",
+   "title": "Jensen Huangs angeblicher Honeypot-Skandal hat einige erstklassige Memes inspiriert",
+   "summary": [
+    "Das Internet hat einen Feldtag mit Nvidia Jensen Huang angeblichen Honeypot-Skandal."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T04:34:15+00:00",
+   "links": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 34,
+   "topic": "deutschland",
+   "title": "Deutsche Sportvereine haben so viele Mitglieder wie nie",
+   "summary": [
+    "2026 sind erstmals mehr als 30 Millionen Mitglieder in deutschen Sportvereinen registriert.",
+    "Kleine Sportarten stechen beim Wachstum hervor."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T09:30:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/panorama/sport-vereine-deutschland-mitglieder-rekord-100.html"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/panorama/sport-vereine-deutschland-mitglieder-rekord-100.html",
+     "title": "",
+     "text": [
+      "Es ist der dritte Rekord in Folge."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 35,
+   "topic": "deutschland",
+   "title": "Verfassungsschutz warnt Manager vor \"Honigfallen\"",
+   "summary": [
+    "Nach dem möglichen Spionagefall bei Nvidia warnt der Verfassungsschutz: Auch in Deutschland könnten Manager von ausländischen Geheimdiensten geködert werden."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T09:22:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/verfassungsschutz-warnung-spione-manager-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 36,
+   "topic": "sport",
+   "title": "Clive Palmer sagt, dass das baufällige Luxusresort nach einem Jahrzehnt in Mottenbällen wiedereröffnet wird",
+   "summary": [
+    "Der Milliardär hat wiederholt versprochen, das heruntergekommene Fünf-Sterne-Coolum-Resort, das er 2015 geschlossen hatte, zu überarbeiten."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T01:54:36+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-10/clive-palmer-resort-coolum-reopening/107363986"
+    }
+   ],
+   "details": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "url": "https://www.abc.net.au/news/2026-11-10/clive-palmer-resort-coolum-reopening/107363986",
+     "title": "",
+     "text": [
+      "Wird es diesmal anders sein?"
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 37,
+   "topic": "sport",
+   "title": "Cricket Australia wird keine weitere Untersuchung über \"Sandpapergate\" eröffnen",
+   "summary": [
+    "Cricket Australia wird eine Untersuchung der berüchtigten Sandpapergate-Kontroverse 2018 nicht wieder aufnehmen, so CEO Todd Greenberg nach den Behauptungen von Usman Khawaja, dass das gesamte australische Testteam wusste, dass es passierte.",
+    "\"Wir sind mit dem Ergebnis der Untersuchung zufrieden\", sagt Cricket Australia Chef nach Khawajas Enthüllungen."
+   ],
+   "machine_translated": true,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-10T06:13:00+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/sports/2026/11/10/cricket-australia-will-not-open-another-investigation-into-sandpapergate?traffic_source=rss"
+    },
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-10/cricket-australia-no-sandpapergate-investigation/107367290"
+    }
+   ],
+   "details": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "url": "https://www.abc.net.au/news/2026-11-10/cricket-australia-no-sandpapergate-investigation/107367290",
+     "title": "Cricket Australia wird keine weitere Sandpapergate-Untersuchung haben",
+     "text": [],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 38,
+   "topic": "gesundheit",
+   "title": "Politische Narrative und Anschuldigungen haben ein begrenztes \"Regalleben\", sagt CM Maryam",
+   "summary": [
+    "\"Ich habe nicht gesagt, dass die Korruption in Punjab vollständig beendet ist\", sagte sie.",
+    "Am vergangenen Dienstag sagte CM Maryam, sie habe Salik eine Diffamierungsmitteilung in Höhe von 5 Milliarden Dollar geschickt und verlangte, dass er seine Bemerkungen zurückzieht.",
+    "Am Freitag hat Verteidigungsminister Khawaja Asif behauptete, dass Saliks jüngste Korruptionsvorwürfe gegen die Punjab-Regierung Teil der Bemühungen seien, den Boden für eine \"alternative Vereinbarung\" zu bereiten."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T09:47:31+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043500/political-narratives-and-allegations-have-a-limited-shelf-life-cm-maryam-says"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043500/political-narratives-and-allegations-have-a-limited-shelf-life-cm-maryam-says",
+     "title": "",
+     "text": [
+      "Die Regierungschefin von Punjab, Maryam Nawaz, sagte am Dienstag, politische Narrative, Anschuldigungen und Kritik hätten ein begrenztes \"Regalleben\" und behaupteten, dass der öffentliche Dienst und die Entwicklungsarbeit letztendlich den Wahlerfolg bestimmt hätten.",
+      "Sie sprach bei einer Honhaar-Stipendiums- und Laptop-Verteilungszeremonie an der Government Comprehensive High School in Jhelum.",
+      "Während ihrer Ansprache sagte Maryam, die Wähler unterstützten keine politischen Narrative, sondern beurteilten politische Parteien anhand ihrer Aufzeichnungen im öffentlichen Dienst.",
+      "Sie zitierte die Siege der PML-N bei den jüngsten Kommunalwahlen in Sahiwal und Gujranwala, obwohl sich die Oppositionsparteien gegen sie „angeschlossen hatten."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 39,
+   "topic": "sport",
+   "title": "2027 Netball-Weltmeisterschaft der \"nächste entscheidende Moment im Frauensport\"",
+   "summary": [
+    "Jetzt wollen die Organisatoren des Jahres 2027 die Weltrekordmenge dieses Turniers in Sydney erneut brechen.",
+    "Die Auswirkungen der letzten Netball-Weltmeisterschaft auf australischem Boden sind auch heute noch zu spüren."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T00:28:18+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-10/2027-netball-world-cup-tickets-go-on-sale/107367102"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 40,
+   "topic": "deutschland",
+   "title": "Polizei durchsucht Wohnungen - auch \"Hells Angels\" im Visier",
+   "summary": [
+    "Rund 300 Polizisten haben in Berlin neun Wohnungen und ein Vereinsheim der Rockergruppe \"Hells Angels\" durchsucht.",
+    "Es geht um Schusswaffen und organisierte Kriminalität."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T05:03:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/panorama/berlin-grossrazzia-hells-angels-polizei-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 41,
+   "topic": "sport",
+   "title": "Starc bestreitet Wissen über Ballmanipulation, Cricket Australia schließt neue Sonde aus",
+   "summary": [
+    "Meine Erinnerung hat sich nicht geändert von dem, was wir 2021 gesagt haben.",
+    "Starc sagte, Khawajas Bericht sei das erste Mal, dass er von Ballmanipulation in Gqeberha wusste.",
+    "Also, ja, es wurde dann behandelt, sagte er."
+   ],
+   "machine_translated": true,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-10T07:45:36+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043494/starc-denies-knowledge-of-ball-tampering-plot-cricket-australia-rules-out-new-probe"
+    },
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-10/mitchell-starc-responds-to-usman-khawaja-sandpaper-claims/107369870"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043494/starc-denies-knowledge-of-ball-tampering-plot-cricket-australia-rules-out-new-probe",
+     "title": "",
+     "text": [
+      "Der schnelle Bowler Mitchell Starc bestritt am Dienstag jegliche Vorkenntnisse über Australiens Verschwörung, den Ball während der Tournee 2018 durch Südafrika zu manipulieren, da Cricket Australia-Chef Todd Greenberg eine weitere Untersuchung von \"Sandpapergate\" ausschloss.",
+      "Starc ist der erste Bowler Australiens, der auf Usman Khawajas Behauptungen in seiner Autobiographie und in den sozialen Medien reagiert, dass das gesamte Team von einem Plan wusste, den Ball zu manipulieren, um ihn dazu zu bringen, umzukehren.",
+      "Starc wiederholte die Position der Bowler aus einer Erklärung von 2021, dass sie nicht wussten, dass eine \"fremde Substanz\" auf das Feld gebracht wurde, um den Zustand des Balls zu verändern."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "url": "https://www.abc.net.au/news/2026-11-10/mitchell-starc-responds-to-usman-khawaja-sandpaper-claims/107369870",
+     "title": "Starcs \"Meinung hat sich nicht geändert\", als er die Enthüllungen der Khawaja-Ballmanipulation bestreitet",
+     "text": [
+      "Mitchell Starc ist der erste aktuelle Spieler, der auf die neuen Sandpapergate-Behauptungen von Usman Khawaja reagiert und bestreitet, dass er und die anderen Bowler von der Handlung wussten."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 42,
+   "topic": "wirtschaft",
+   "title": "Nahles: 800.000 Jobs fallen KI zum Opfer",
+   "summary": [
+    "In den nächsten 15 Jahren wird KI den Arbeitsmarkt umkrempeln, sagt BA-Chefin Andrea Nahles.",
+    "Welche Bereiche das besonders trifft."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T09:23:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/wirtschaft/ki-jobs-stellenstreichungen-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 43,
+   "topic": "wirtschaft",
+   "title": "Klima und Gesundheit stehen im Mittelpunkt, da die Geldgeber über 375 Millionen Dollar mobilisieren",
+   "summary": [
+    "Die Staats- und Regierungschefs drängten die Regierungen bei COP31, nachhaltige Investitionen in Klimabeobachtungen, Datensysteme und Frühwarninfrastruktur zu priorisieren."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T08:54:36+00:00",
+   "links": [
+    {
+     "source": "Premium Times",
+     "country": "Nigeria",
+     "ownership": "privat",
+     "url": "https://www.premiumtimesng.com/business/business-news/924077-cop31-climate-health-take-centre-stage-as-funders-mobilise-over-375-million.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 44,
+   "topic": "wirtschaft",
+   "title": "Rs3.2m in Online-Betrug wiederhergestellt; Kinderausbeuter gehalten",
+   "summary": [
+    "Die NCCIA holte ein Mobiltelefon von dem Angeklagten zurück.",
+    "Während der Operation erholte die NCCIA Rs1.8m.",
+    "Durch die app, die Betrüger angeblich betrogen ihn von Rs2,915,872."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T03:38:06+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043386/rs32m-recovered-in-online-scams-child-exploiter-held"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043386/rs32m-recovered-in-online-scams-child-exploiter-held",
+     "title": "",
+     "text": [
+      "ISLAMABAD: Die National Cyber Crime Investigation Agency (NCCIA) setzte ihre Null-Toleranz-Politik gegen Cyberkriminalität fort und holte in zwei separaten Online-Investitions- und Handelsbetrugsfällen 3,2 Millionen Rs. zurück und verhaftete einen Verdächtigen, der an der Ausbeutung von Kindern und der Erpressung eines Minderjährigen während einer verstärkten Niederschlagung in Rawalpindi beteiligt war.",
+      "Im ersten Fall erholte sich die NCCIA von Verdächtigen, die an einem Online-Investitionsbetrug beteiligt waren, bei dem ein Bürger über Facebook und WhatsApp um über 2,9 Millionen betrogen wurde."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 45,
+   "topic": "wirtschaft",
+   "title": "Nigerianische Regierung fordert Afrika auf, Ressourcenreichtum in wirtschaftlichen Wohlstand zu verwandeln",
+   "summary": [
+    "Es ist die Fähigkeit zu verarbeiten, zu transformieren, zu innovieren und zu verhandeln, die Potenzial in Wohlstand umwandelt, sagte Shettima."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T08:45:16+00:00",
+   "links": [
+    {
+     "source": "Premium Times",
+     "country": "Nigeria",
+     "ownership": "privat",
+     "url": "https://www.premiumtimesng.com/business/business-news/924074-nigerian-government-urges-africa-to-turn-resource-wealth-into-economic-prosperity.html"
+    }
+   ],
+   "details": [
+    {
+     "source": "Premium Times",
+     "country": "Nigeria",
+     "url": "https://www.premiumtimesng.com/business/business-news/924074-nigerian-government-urges-africa-to-turn-resource-wealth-into-economic-prosperity.html",
+     "title": "",
+     "text": [
+      "„Ressourcen verleihen Potenzial."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 46,
+   "topic": "deutschland",
+   "title": "Frauenrechtlerin in Afghanistan: „Wir haben uns dummerweise auf Deutschland verlassen“",
+   "summary": [
+    "Frauenrechtlerin Sarah versteckt sich in Afghanistan vor den Taliban.",
+    "Anstatt sie wie versprochen aufzunehmen, hofiert Deutschland die Machthaber."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T08:48:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Wie-engagiert-sich-eine-Frauenrechtlerin-in-Afghanistan-unter-den-Taliban-Ein-Besuch/!6228560/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 47,
+   "topic": "wirtschaft",
+   "title": "Hohe Renditen locken ausländische Investoren",
+   "summary": [
+    "Es investierte auch $ 72m in T-Rechnungen im Juli-Oktober.",
+    "Die gesamten Zuflüsse in inländische Anleihen und den Aktienmarkt beliefen sich auf 872 Mio. USD.",
+    "Ausländische Investitionen in Pakistan Investment Bonds (PIBs) überstiegen in den ersten vier Monaten von 2026-27 500 Millionen US-Dollar, was das wachsende Interesse an den höheren Renditen inländischer Anleihen widerspiegelt."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T02:03:58+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043374/high-returns-lure-foreign-investors"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043374/high-returns-lure-foreign-investors",
+     "title": "",
+     "text": [
+      "Darüber hinaus beliefen sich die Zuflüsse in die Schatzwechsel (T-Bills) im Zeitraum Juli-Oktober des Geschäftsjahres 27 auf 238 Millionen US-Dollar.",
+      "Die Renditen auf Inlandsanleihen waren bereits die höchsten in der Region, als die Staatsbank von Pakistan (SBP) ihren Leitzins am 26. Oktober um 50 Basispunkte auf 12 Prozent erhöhte.",
+      "Der Finanzsektor glaubt, dass die Anziehungskraft zu stark ist, um sie zu ignorieren, nicht nur für ausländische Investoren, sondern auch für inländische Investoren.",
+      "Trotz der Erwartungen von 45 Milliarden Dollar an Überweisungen im GJ27 suchen die Regierung und die Staatsbank weiterhin nach anderen Dollarquellen.",
+      "Pakistan bleibt unter einem IWF-Programm, das der Wirtschaft Stabilität verliehen und die Risiken gesenkt hat."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 48,
+   "topic": "wirtschaft",
+   "title": "Islamische Bank baut fünf intelligente Internate in Niger - Offiziell",
+   "summary": [
+    "Das 110-Millionen-Dollar-Bildungsprojekt wird auch die Bundesstaaten Yobe und Jigawa abdecken, wobei der Bau voraussichtlich im Dezember beginnen wird."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T06:52:04+00:00",
+   "links": [
+    {
+     "source": "Premium Times",
+     "country": "Nigeria",
+     "ownership": "privat",
+     "url": "https://www.premiumtimesng.com/regional/north-central/924048-islamic-bank-to-build-five-smart-boarding-schools-in-niger-official.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 49,
+   "topic": "gesundheit",
+   "title": "Roboter, Polony und der lange Weg zur Genesung von Schizophrenie",
+   "summary": [
+    "Könnten Roboter, Polony Sandwiches und Peer-Unterstützung Menschen mit Schizophrenie helfen, aus dem Krankenhaus zu bleiben?",
+    "Aber sie am Laufen zu halten, ist eine andere Sache, wenn sich die Leute nicht einmal Essen leisten können.",
+    "Eine Eastern Cape-Studie legt nahe, dass Community-Recovery-Gruppen Teil der Antwort sein könnten."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T10:31:51+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-10-robots-polony-and-the-long-road-to-recovery-from-schizophrenia/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 50,
+   "topic": "europa",
+   "title": "Kreatives Abweichen: Wie wenige Regelbrecher die Gruppendynamik bestimmen",
+   "summary": [
+    "Das Brechen von Regeln ist ansteckend.",
+    "Wie genau, das hat eine neue Studie der Universität Amsterdam untersucht."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T06:28:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Kreatives-Abweichen/!6224168/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 51,
+   "topic": "gesundheit",
+   "title": "8 Pakistaner unter den globalen Empfängern des Diana Award 2026 in Anerkennung ihrer Sozialarbeit",
+   "summary": [
+    "\"Die diesjährigen Empfänger des Diana Award repräsentieren einige der inspirierendsten jungen Menschen aus ganz Großbritannien und der ganzen Welt\", sagte die Wohltätigkeitsorganisation.",
+    "\"Gemeinsam haben sie über 1.000 Fälle in ganz Pakistan unterstützt.\"",
+    "Sie gehören zu den 198 Empfängern aus der ganzen Welt des Preises, einer \"globalen Ehre, die junge soziale Aktivisten feiert, die positive Veränderungen in ihren Gemeinschaften und darüber hinaus vorantreiben\"."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T21:09:38+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043325/8-pakistanis-among-global-recipients-of-2026-diana-award-recognising-their-social-work"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043325/8-pakistanis-among-global-recipients-of-2026-diana-award-recognising-their-social-work",
+     "title": "",
+     "text": [
+      "Acht Pakistaner wurden in diesem Jahr vom Diana Award für ihre inspirierenden Initiativen rund um Bildung, Gesundheit und Klimaschutz ausgezeichnet.",
+      "\"Der Preis, der im Erbe von Diana, Prinzessin von Wales, verwurzelt ist, würdigt junge Menschen, die unermüdlich daran arbeiten, die Welt zu verändern - insbesondere diejenigen, die sich für den Wandel von Individuen aus sozioökonomischen benachteiligten Hintergründen einsetzen\", heißt es auf der Website der Wohltätigkeitsorganisation."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 52,
+   "topic": "gesundheit",
+   "title": "Aktuelle Pressemitteilungen des ZDF",
+   "summary": [],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T10:10:10+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://presseportal.zdf.de/pressemitteilungen/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 53,
+   "topic": "klima",
+   "title": "COP31 in der Türkei: Die Müllmetropole Adana",
+   "summary": [
+    "In der Millionenstadt in der Türkei wird ein goßer Teil des europäischen Plastikabfalls zu Geld gemacht."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T18:43:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/COP31-in-der-Tuerkei/!6228325/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 54,
+   "topic": "europa",
+   "title": "Titel der Nationenmeisterschaft auf der Prioritätenliste als Springboks gehen volle Kraft für Frankreich",
+   "summary": [
+    "Rassie Erasmus hat nur zwei Änderungen an seinem Spieltag 23 von der Mannschaft, die Italien verprügelt hat, für Freitags Nationenmeisterschaft Runde fünf Spiel gegen Frankreich in Paris gemacht."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-09T18:15:51+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-09-nations-championship-title-on-priority-list-as-springboks-go-full-strength-for-france/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 55,
+   "topic": "kultur",
+   "title": "Honigfallen: Der älteste Trick eines Spions",
+   "summary": [
+    "\"Potenziell können alle Geheimdienste auf\" Kompromiss \"Operationen und ähnliche Methoden zurückgreifen\", sagte Renault.",
+    "Alice Huang, die an der Affäre beteiligte Frau, hatte \"eine leitende Rolle bei Megaspeed, einer auf KI-Computing-Infrastruktur spezialisierten Firma aus Singapur\", die mit Nvidia Geschäfte machte, sagte Renault.",
+    "\"Sie wurde angeblich vom (chinesischen) Staatssicherheitsministerium als Agentin rekrutiert, perfekt positioniert, um Kontakt (mit Jensen Huang) aufzunehmen\", sagte Renault."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-10T06:46:26+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2043487/honey-traps-a-spys-oldest-trick"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2043487/honey-traps-a-spys-oldest-trick",
+     "title": "",
+     "text": [
+      "KI, Superchips und Cyberkrieg mögen die moderne Spionage umgestalten, aber einige Geheimnisse werden immer noch auf altmodische Weise gewonnen: durch Sex und Skandal.",
+      "Die jüngste Kontroverse, die sich durch die Technologiewelt zieht, dreht sich um Nvidia-Chef Jensen Huang und seine Affäre mit einer Frau, die von Washington beschuldigt wird, für den chinesischen Geheimdienst zu arbeiten, eine Behauptung, die Peking bestreitet.",
+      "Die Episode hat die \"Honigfalle\" wieder ins Rampenlicht gerückt und das Interesse an einer uralten Spionagetaktik wiederbelebt, die Anziehung und Intimität in Werkzeuge verwandelt, um Staatsgeheimnisse zu stehlen und die Machthaber zu beeinflussen."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 56,
    "topic": "klima",
    "title": "Umstrittene Plastiksteuer: Mogelpackung für Klima und Umwelt",
    "summary": [
@@ -810,110 +2214,7 @@
    ]
   },
   {
-   "rank": 14,
-   "topic": "europa",
-   "title": "Das erste vollständig in Großbritannien gebaute Islander-Flugzeug kommt auf den Falklandinseln an",
-   "summary": [
-    "Der Falkland Islands Government Air Service (FIGAS) begrüßt am Montag ein neues Islander-Flugzeug, VP-FTS, das erste der Art, das vollständig in Großbritannien montiert wird und nach einem Lieferflug von fast drei Wochen aus Punta Arenas, Chile, in Stanley ankommt."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T15:59:00+00:00",
-   "links": [
-    {
-     "source": "MercoPress",
-     "country": "Uruguay",
-     "ownership": "privat",
-     "url": "https://en.mercopress.com/2026/11/09/the-first-islander-aircraft-built-entirely-in-the-uk-arrives-in-the-falklands?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 15,
-   "topic": "deutschland",
-   "title": "Gewinne von Rüstungsunternehmen: Zu viel Geld durch Waffen",
-   "summary": [
-    "Die Linksfraktion fordert eine Übergewinnsteuer für Rüstungsunternehmen.",
-    "Dafür bringt sie einen Gesetzentwurf in den Bundestag."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T18:41:00+00:00",
-   "links": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Gewinne-von-Ruestungsunternehmen/!6228647/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 16,
-   "topic": "wirtschaft",
-   "title": "Rs3.2m in Online-Betrug wiederhergestellt; Kinderausbeuter gehalten",
-   "summary": [
-    "Die NCCIA holte ein Mobiltelefon von dem Angeklagten zurück.",
-    "Während der Operation erholte die NCCIA Rs1.8m.",
-    "Durch die App, die Betrüger angeblich betrogen ihn von Rs2,915,872."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-10T03:38:06+00:00",
-   "links": [
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043386/rs32m-recovered-in-online-scams-child-exploiter-held"
-    }
-   ],
-   "details": [
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "url": "https://www.dawn.com/news/2043386/rs32m-recovered-in-online-scams-child-exploiter-held",
-     "title": "",
-     "text": [
-      "ISLAMABAD: In Fortsetzung ihrer Null-Toleranz-Politik gegen Cyberkriminalität hat die National Cyber Crime Investigation Agency (NCCIA) in zwei separaten Online-Investitions- und Handelsbetrugsfällen 3,2 Millionen Rs 3,2 Millionen zurückgewonnen und einen Verdächtigen festgenommen, der an der Ausbeutung von Kindern und der Erpressung eines Minderjährigen während eines verschärften Vorgehens in Rawalpindi beteiligt war.",
-      "Im ersten Fall erholte sich die NCCIA von Verdächtigen, die an einem Online-Investitionsbetrug beteiligt waren, bei dem ein Bürger über Facebook und WhatsApp um über 2,9 Millionen betrogen wurde."
-     ],
-     "machine_translated": true
-    }
-   ]
-  },
-  {
-   "rank": 17,
-   "topic": "sport",
-   "title": "Vor dem WM-Finale kann Jamayne Isaako nicht verpassen",
-   "summary": [
-    "Inmitten eines heulenden Sturms wusste Jamayne Isaako nicht, wohin seine Kicks gingen, aber als er versucht, eine Allzeit-Scoring-Saison mit einem Weltcup-Endsieg zu beenden, geht der Ball einfach dorthin, wo er sein muss."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-10T03:43:12+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-10/ahead-of-world-cup-final-jamayne-isaako-cannot-miss/107368780"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 18,
+   "rank": 57,
    "topic": "europa",
    "title": "Korruptionsskandal in Spanien: Gekaufte Lügen und ein Held der Rechten",
    "summary": [
@@ -936,377 +2237,7 @@
    "details": []
   },
   {
-   "rank": 19,
-   "topic": "klima",
-   "title": "Q&A: Was ist der Belém-Antalya-Mechanismus für einen „gerechten Übergang?",
-   "summary": [],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T08:00:00+00:00",
-   "links": [
-    {
-     "source": "Carbon Brief",
-     "country": "Großbritannien",
-     "ownership": "gemeinnützig",
-     "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 20,
-   "topic": "wirtschaft",
-   "title": "Wie ein Bankzusammenbruch Millionen in der Schwebe ließ und Paraguays Präsidenten stürzte",
-   "summary": [
-    "Der Zusammenbruch einer Bank in Paraguay ließ Millionen aus ihrem Geld heraussperren, stürzte den Präsidenten und enthüllte ein Netz politischer und finanzieller Verbindungen."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T06:20:44+00:00",
-   "links": [
-    {
-     "source": "NPR",
-     "country": "USA",
-     "ownership": "gemeinnützig",
-     "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 21,
-   "topic": "wirtschaft",
-   "title": "Verstecktes gepanzertes Gewölbe in einem Haus in Peña gefunden, das mit Darlehen der Ueno Bank gebaut wurde",
-   "summary": [
-    "Paraguayische Staatsanwälte und Polizei durchsuchten am Sonntag eine Residenz des ehemaligen Präsidenten Santiago Peña in Ciervo Cuá im Bezirk San Bernardino, etwa 50 Kilometer von Asunción entfernt, die mit Darlehen der Ueno Bank gebaut wurde.",
-    "Die Staatsanwaltschaft bestätigte die Durchsuchung, obwohl in ihrer Erklärung das Gewölbe, dessen Inhalt unbekannt ist, nicht erwähnt wurde.",
-    "Laut den Zeitungen ABC Color und Última Hora fanden sie ein gepanzertes Gewölbe hinter einer falschen Mauer, das sie nicht öffnen konnten."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T10:57:00+00:00",
-   "links": [
-    {
-     "source": "MercoPress",
-     "country": "Uruguay",
-     "ownership": "privat",
-     "url": "https://en.mercopress.com/2026/11/09/hidden-armoured-vault-found-in-a-pena-home-built-with-ueno-bank-loans?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 22,
-   "topic": "deutschland",
-   "title": "Unterstützung der CSU-Kandidatin: Die Grünen verschenken ihr Profil",
-   "summary": [
-    "Die Spitzengrünen rufen dazu auf, Ilse Aigner zur Bundespräsidentin zu wählen."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T18:40:00+00:00",
-   "links": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Unterstuetzung-der-CSU-Kandidatin/!6224300/"
-    }
-   ],
-   "details": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "url": "https://taz.de/Unterstuetzung-der-CSU-Kandidatin/!6224300/",
-     "title": "",
-     "text": [
-      "Und das ganz ohne Not.",
-      "Das könnte ihnen noch schaden."
-     ],
-     "machine_translated": false
-    }
-   ]
-  },
-  {
-   "rank": 23,
-   "topic": "sport",
-   "title": "Clive Palmer sagt, dass das baufällige Luxusresort nach einem Jahrzehnt in Mottenkugeln wiedereröffnet wird",
-   "summary": [
-    "Der Milliardär hat wiederholt versprochen, das heruntergekommene Fünf-Sterne-Coolum-Resort, das er 2015 geschlossen hat, zu überarbeiten."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-10T01:54:36+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-10/clive-palmer-resort-coolum-reopening/107363986"
-    }
-   ],
-   "details": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "url": "https://www.abc.net.au/news/2026-11-10/clive-palmer-resort-coolum-reopening/107363986",
-     "title": "",
-     "text": [
-      "Wird es diesmal anders sein?"
-     ],
-     "machine_translated": true
-    }
-   ]
-  },
-  {
-   "rank": 24,
-   "topic": "technologie",
-   "title": "Anthropic plant angeblich, mit IPO-Plänen voranzukommen",
-   "summary": [
-    "Das KI-Unternehmen wird voraussichtlich in dieser Woche seine Bewertungsspanne festlegen, berichtete das Wall Street Journal."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-10T01:27:12+00:00",
-   "links": [
-    {
-     "source": "TechCrunch",
-     "country": "USA",
-     "ownership": "privat",
-     "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 25,
-   "topic": "deutschland",
-   "title": "Aigner als Bundespräsidentin: Plan A wie Aigner, was sonst?",
-   "summary": [
-    "Nun hat er Ilse Aigner als Kandidatin für das Bundespräsidentenamt vorgeschlagen.",
-    "Diese verspricht eine neue Einigkeit."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T18:39:00+00:00",
-   "links": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Aigner-als-Bundespraesidentin/!6228591/"
-    }
-   ],
-   "details": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "url": "https://taz.de/Aigner-als-Bundespraesidentin/!6228591/",
-     "title": "",
-     "text": [
-      "Friedrich Merz hat lange gezögert."
-     ],
-     "machine_translated": false
-    }
-   ]
-  },
-  {
-   "rank": 26,
-   "topic": "technologie",
-   "title": "Warum wendet sich eine südkoreanische Stadt an ein US-College, um KI zu überlisten?",
-   "summary": [
-    "Durch Bürgerbeteiligung und liberale Bildung hoffen südkoreanische Pädagogen, \"im Stillen das Gewebe unserer Demokratie zu nähen ... bevor es sich irreparabel auflöst\"."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T10:47:00+00:00",
-   "links": [
-    {
-     "source": "NPR",
-     "country": "USA",
-     "ownership": "gemeinnützig",
-     "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 27,
-   "topic": "sport",
-   "title": "2027 Netball-Weltmeisterschaft der \"nächste entscheidende Moment im Frauensport\"",
-   "summary": [
-    "Jetzt wollen die Organisatoren des Jahres 2027 die Weltrekordmenge dieses Turniers in Sydney erneut brechen.",
-    "Die Auswirkungen der letzten Netball-Weltmeisterschaft auf australischem Boden sind auch heute noch zu spüren."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-10T00:28:18+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-10/2027-netball-world-cup-tickets-go-on-sale/107367102"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 28,
-   "topic": "deutschland",
-   "title": "Samuel Becketts Notate zu NS-Deutschland: „Kalt, kahl & schlechtes Essen. Probieren kann schaden“",
-   "summary": [
-    "Samuel Beckett reiste in den 1930er Jahren durch Nazideutschland.",
-    "In seinen Tagebüchern aus der Zeit notiert er Alkoholeskapaden und ideologische Verschiebungen."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T18:38:00+00:00",
-   "links": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Samuel-Becketts-Notate-zu-NS-Deutschland/!6226729/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 29,
-   "topic": "technologie",
-   "title": "Jensen Huang soll vor einem jahr eine pr-firma mit einer geschichte des umgangs mit hochkarätigen sexskandalen engagiert haben.",
-   "summary": [
-    "Die PR-Firma wurde kurz nach einem Bericht der New York Times vom Oktober 2025 eingetragen, der Alice Huangs Geschäftsbeziehungen mit Jensen Huang beschrieb, berichtete Wired."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T23:28:37+00:00",
-   "links": [
-    {
-     "source": "TechCrunch",
-     "country": "USA",
-     "ownership": "privat",
-     "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 30,
-   "topic": "gesundheit",
-   "title": "Russland: HIV breitet sich über Risikogruppen in 27 Regionen hinaus aus, sagen Epidemiologen",
-   "summary": [
-    "In 27 Regionen der Russischen Föderation verbreitet sich das Immundefizienzvirus unter der gesamten Bevölkerung, nicht nur unter Risikogruppen, laut den neuesten Rospotrebnadzor-Daten.",
-    "Menschen geben das Virus zunehmend aneinander weiter, oft nicht bewusst, dass sie infiziert sind."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T09:39:39+00:00",
-   "links": [
-    {
-     "source": "Euronews",
-     "country": "Frankreich",
-     "ownership": "privat",
-     "url": "https://www.euronews.com/2026/11/09/russia-hiv-spreads-beyond-risk-groups-in-27-regions-epidemiologists-say"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 31,
-   "topic": "deutschland",
-   "title": "Haushaltsentwurf für 2027: Schwarz-rote Kürzungspläne treffen vor allem Frauen",
-   "summary": [
-    "Union und SPD wollen bei Kitas, Pflege und Unterhalt für Alleinerziehende kürzen.",
-    "Eine Studie zeigt, wie teuer es ist, diese Perspektive zu ignorieren."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T17:01:00+00:00",
-   "links": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Haushaltsentwurf-fuer-2027/!6228769/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 32,
-   "topic": "sport",
-   "title": "Aloisi vom chinesischen Klub entlassen, nachdem er die letzten fünf Spiele im Titel erstickt hatte",
-   "summary": [
-    "John Aloisi hat den Preis für Chengdu Rongchengs katastrophale Titeldrossel bezahlt, wobei der chinesische Club die Socceroos Great entlassen hat."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-10T00:27:55+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-10/john-aloisi-sacked-from-chinese-club/107367670"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 33,
-   "topic": "technologie",
-   "title": "Hotel-Riese Wyndham enthüllt Kundendaten nach App-Sicherheitslücke",
-   "summary": [
-    "Der Hotelriese würde nicht sagen, ob er die Möglichkeit hat, nach einem unbefugten Zugriff in der Vergangenheit zu suchen.",
-    "Exklusiv: Wyndham hat in seiner Kunden-App einen fest codierten Anmeldecode hinterlassen, mit dem jeder auf Kundendaten zugreifen kann."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T23:03:46+00:00",
-   "links": [
-    {
-     "source": "TechCrunch",
-     "country": "USA",
-     "ownership": "privat",
-     "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 34,
+   "rank": 58,
    "topic": "klima",
    "title": "Weltklimakonferenz in Antalya: Staaten streiten schon jetzt übers Geld",
    "summary": [
@@ -1329,128 +2260,30 @@
    "details": []
   },
   {
-   "rank": 35,
-   "topic": "technologie",
-   "title": "Das Rennen ist auf zu verklagen Nvidia",
+   "rank": 59,
+   "topic": "gesundheit",
+   "title": "Motlanthe fordert die Bullen auf, das Kartell Big Boys anzugreifen, um die Drogenpolitik Afrikas zu überarbeiten",
    "summary": [
-    "Die Aktie von Nvidia ist um mehr als 4% gesunken, nachdem der Vorstand eine Untersuchung der Beziehung von Jensen Huang zu einem mutmaßlichen chinesischen Spion eingeleitet hatte, und ein Wertpapierrechtsexperte sagt, dass das frühere Beharren des Unternehmens, dass alles \"normal\" sei, zu einem sehr teuren Problem werden könnte."
+    "Die illegale Drogenlandschaft der Welt hat sich verändert, und um den Kampf fortzusetzen, bedarf es einer neuen Politik.",
+    "Einer von ihnen, erklärte der ehemalige präsident kgalema motlanthe, der der kommission für das östliche und südliche afrika für drogen vorsitzt, ist die notwendigkeit, dass strafverfolgungsbehörden top-händler statt nutzer verfolgen, die oft verhaftet werden und einfach zu überfüllten gefängnissen hinzufügen."
    ],
    "machine_translated": true,
    "single_source": true,
    "source_count": 1,
    "region_count": 1,
-   "published": "2026-11-09T22:23:42+00:00",
+   "published": "2026-11-09T21:45:15+00:00",
    "links": [
     {
-     "source": "TechCrunch",
-     "country": "USA",
+     "source": "Daily Maverick",
+     "country": "Südafrika",
      "ownership": "privat",
-     "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+     "url": "https://www.dailymaverick.co.za/article/2026-11-09-motlanthe-urges-cops-to-target-the-cartel-big-boys-to-overhaul-africas-drug-policies/"
     }
    ],
    "details": []
   },
   {
-   "rank": 36,
-   "topic": "sport",
-   "title": "Cricket Australia wird keine weitere Sandpapergate-Untersuchung haben",
-   "summary": [
-    "Die Sandpapergate-Enthüllungen von Usman Khawaja und David Warner haben möglicherweise die Bühne für einen Bürgerkrieg im australischen Cricket bereitet, da der Ballmanipulationsskandal 2018 weiterhin fesselt und beschädigt wird.",
-    "Cricket Australia wird eine Untersuchung der berüchtigten Sandpapergate-Kontroverse 2018 nicht wieder aufnehmen, so CEO Todd Greenberg nach den Behauptungen von Usman Khawaja, dass das gesamte australische Testteam wusste, dass es passierte."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T23:36:37+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-10/cricket-australia-no-sandpapergate-investigation/107367290"
-    },
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-10/sandpapergate-ball-tampering-scandal-still-wounding-australia/107366182"
-    }
-   ],
-   "details": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "url": "https://www.abc.net.au/news/2026-11-10/sandpapergate-ball-tampering-scandal-still-wounding-australia/107366182",
-     "title": "Sandpapergate verletzt Australien acht Jahre später",
-     "text": [],
-     "machine_translated": true
-    }
-   ]
-  },
-  {
-   "rank": 37,
-   "topic": "klima",
-   "title": "Lahore bleibt die am stärksten verschmutzte Großstadt der Welt, da AQI 600 überschreitet",
-   "summary": [
-    "Die Krise beschränkt sich nicht auf Lahore.",
-    "Innerhalb von Lahore betrifft die Luftverschmutzung mehrere Stadtteile.",
-    "Luftverschmutzung durch Agrarbrände verschärft Der Bericht der Punjab-Regierung verzeichnete 2.347 Vorfälle von Ernterückständen im indischen Punjab bis zum 4. November."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T14:07:27+00:00",
-   "links": [
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043255/lahore-remains-worlds-most-polluted-major-city-as-aqi-crosses-600"
-    }
-   ],
-   "details": [
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "url": "https://www.dawn.com/news/2043255/lahore-remains-worlds-most-polluted-major-city-as-aqi-crosses-600",
-     "title": "",
-     "text": [
-      "LAHORE: Lahore wurde am Montag als die am stärksten verschmutzte Großstadt der Welt eingestuft, da der Luftqualitätsindex (AQI) laut IQAir 590 erreichte.",
-      "Eine separate historische Lektüre auf der Plattform zeigte jedoch einen Stundenindex von 647, wodurch die Stadt in die gefährliche Kategorie eingestuft wurde.",
-      "Die IQAir Live-Weltrangliste der Großstädte von 9 bis 10 Uhr am 9. November platzierte Lahore an der Spitze, gefolgt von Ulaanbaatar mit einem AQI von 177, Delhi mit 174, Kolkata mit 173 und Sarajevo mit 170.",
-      "Das Ranking zeigte, dass Lahores Verschmutzungsgrad mehr als dreimal so hoch war wie der der zweitplatzierten Stadt.",
-      "Die historische Luftqualitätskurve der Plattform zeigte separat eine stündliche Anzeige von 647 für Lahore im gleichen Zeitraum."
-     ],
-     "machine_translated": true
-    }
-   ]
-  },
-  {
-   "rank": 38,
-   "topic": "technologie",
-   "title": "Fervo hat jetzt $ 12B in Bestellungen für seine Geothermie-Power-Tech",
-   "summary": [
-    "Das Geothermieunternehmen Fervo zielt auf Erdgas ab, da es die geothermischen Bohrkosten bei seiner 8,4-GW-Ressource in Utah senkt."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T20:55:34+00:00",
-   "links": [
-    {
-     "source": "TechCrunch",
-     "country": "USA",
-     "ownership": "privat",
-     "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 39,
+   "rank": 60,
    "topic": "europa",
    "title": "Ermittlungen gegen polnischen TV-Sender: Hat TV Republika Falschinformationen verbreitet?",
    "summary": [
@@ -1470,576 +2303,6 @@
     }
    ],
    "details": []
-  },
-  {
-   "rank": 40,
-   "topic": "sport",
-   "title": "Oscar Piastri trennt sich von Manager Mark Webber",
-   "summary": [
-    "McLaren Formel-1-Fahrer Oscar Piastri hat sich im gegenseitigen Einvernehmen von seinem Management, seinem australischen Kollegen Mark Webber und seiner Frau Ann, getrennt."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T20:29:27+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-10/oscar-piastri-splits-with-manager-mark-webber/107366884"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 41,
-   "topic": "sport",
-   "title": "Popovic weigert sich, Socceroos auf die schwarze Liste zu setzen, die sich freundlich aus Jordanien zurückziehen",
-   "summary": [
-    "Australiens Trainer Tony Popovic besteht darauf, dass Socceroos-Spieler, die aus Sicherheitsgründen nur ungern gegen Jordanien spielen, nicht von der Nationalmannschaft auf die schwarze Liste gesetzt werden, wenn sie sich aus seinem Kader zurückziehen."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T20:16:28+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-10/football-popovic-wont-blacklist-socceroos-jordan-friendlies/107365692"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 42,
-   "topic": "europa",
-   "title": "Anschlag in Polen: Kerzen und Gebete für die Opfer",
-   "summary": [
-    "In Krakau herrscht auch am Tag zwei nach dem Attentat tiefe Trauer.",
-    "Das Tatmotiv des mittlerweile seinen Verletzungen erlegenen Schützen ist unklar."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T16:17:00+00:00",
-   "links": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Anschlag-in-Polen/!6228636/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 43,
-   "topic": "sport",
-   "title": "Fokus auf Sheffield Shield als Test-Auswahl kommt zu knacken",
-   "summary": [
-    "Die kommende Sheffield Shield-Spielrunde wird entscheidend für die Zusammensetzung des australischen Testteams sein, das im Dezember gegen Neuseeland spielen wird."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T18:51:37+00:00",
-   "links": [
-    {
-     "source": "ABC News Australia",
-     "country": "Australien",
-     "ownership": "öffentlich-rechtlich",
-     "url": "https://www.abc.net.au/news/2026-11-10/sheffield-shield-matches-crucial-as-batters-hunt-test-spots/107351178"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 44,
-   "topic": "europa",
-   "title": "Proteste in Frankreich: Mit fünf Euro mehr abgespeist",
-   "summary": [
-    "Die französische Regierung kündigt eine magere Erhöhung des Mindestlohns an.",
-    "Die Gewerkschaften reagieren empört und rufen zu weiteren Aktionen auf."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T15:27:00+00:00",
-   "links": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Proteste-in-Frankreich/!6228720/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 45,
-   "topic": "europa",
-   "title": "Titel der Nationenmeisterschaft auf der Prioritätenliste als Springboks gehen volle Kraft für Frankreich",
-   "summary": [
-    "Rassie Erasmus hat nur zwei Änderungen an seinem Spieltag 23 von der Mannschaft, die Italien verprügelt hat, für Freitags Nationenmeisterschaft Runde fünf Spiel gegen Frankreich in Paris gemacht."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T18:15:51+00:00",
-   "links": [
-    {
-     "source": "Daily Maverick",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://www.dailymaverick.co.za/article/2026-11-09-nations-championship-title-on-priority-list-as-springboks-go-full-strength-for-france/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 46,
-   "topic": "gesundheit",
-   "title": "8 Pakistaner unter den globalen Empfängern des Diana Award 2026 in Anerkennung ihrer Sozialarbeit",
-   "summary": [
-    "\"Die diesjährigen Empfänger des Diana Award repräsentieren einige der inspirierendsten jungen Menschen aus ganz Großbritannien und der ganzen Welt\", sagte die Wohltätigkeitsorganisation.",
-    "\"Gemeinsam haben sie über 1.000 Fälle in ganz Pakistan unterstützt.\"",
-    "Sie gehören zu den 198 Empfängern aus der ganzen Welt des Preises, einer \"globalen Ehre, die junge soziale Aktivisten feiert, die positive Veränderungen in ihren Gemeinschaften und darüber hinaus vorantreiben\"."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T21:09:38+00:00",
-   "links": [
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043325/8-pakistanis-among-global-recipients-of-2026-diana-award-recognising-their-social-work"
-    }
-   ],
-   "details": [
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "url": "https://www.dawn.com/news/2043325/8-pakistanis-among-global-recipients-of-2026-diana-award-recognising-their-social-work",
-     "title": "",
-     "text": [
-      "Acht Pakistaner wurden in diesem Jahr vom Diana Award für ihre inspirierenden Initiativen rund um Bildung, Gesundheit und Klimaschutz ausgezeichnet.",
-      "\"Der Preis, der im Erbe von Diana, Prinzessin von Wales, verwurzelt ist, würdigt junge Menschen, die unermüdlich daran arbeiten, die Welt zu verändern - insbesondere diejenigen, die sich für den Wandel von Individuen aus sozioökonomischen benachteiligten Hintergründen einsetzen\", heißt es auf der Website der Wohltätigkeitsorganisation."
-     ],
-     "machine_translated": true
-    }
-   ]
-  },
-  {
-   "rank": 47,
-   "topic": "wirtschaft",
-   "title": "Pakistan, Saudi-Arabien Investoren starten Fonds zur Förderung des Handels, Investitionen",
-   "summary": [
-    "In einer Erklärung heißt es, dass drei Viertel des Fonds in Pakistan investiert werden, während der Rest in saudi-arabische Projekte fließen wird.",
-    "Ein gemeinsamer Rat saudi-arabischer und pakistanischer Investoren hat am Montag einen Private-Equity-Fonds ins Leben gerufen, um den Handel und die Investitionen des beiderseitigen Privatsektors zu vertiefen.",
-    "Später in diesem Monat einigten sich die beiden Länder darauf, die pakistanischen Agrar- und Lebensmittelexporte in den Golfstaat auf bis zu 3 Milliarden Dollar zu steigern."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T12:40:11+00:00",
-   "links": [
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043284/pakistan-saudi-arabia-investors-launch-fund-to-boost-trade-investment"
-    }
-   ],
-   "details": [
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "url": "https://www.dawn.com/news/2043284/pakistan-saudi-arabia-investors-launch-fund-to-boost-trade-investment",
-     "title": "",
-     "text": [
-      "Der Saudi-Pakistan Joint Business Council, der von den Regierungen beider Länder gebildet wurde, sagte, die anfängliche Größe des Fonds betrage \"mehrere hundert Millionen\", die voraussichtlich auf der Grundlage von Möglichkeiten in allen Sektoren erweitert werden.",
-      "Islamabad und Riad teilen eine robuste bilaterale Zusammenarbeit mit häufigem diplomatischen Austausch auf hoher Ebene auf beiden Seiten.",
-      "Im August dieses Jahres rief der Vorsitzende des Rates, Prinz Mansour bin Mohammad Al Saud, Premierminister Muhammad Shehbaz Sharif bei einem Besuch in Pakistan an, so eine Erklärung des Büros des Premierministers (PMO).",
-      "Während ihres Treffens erörterte Premierminister Shehbaz Möglichkeiten, die wirtschaftliche Zusammenarbeit und Investitionen zwischen den beiden Nationen auszubauen."
-     ],
-     "machine_translated": true
-    }
-   ]
-  },
-  {
-   "rank": 48,
-   "topic": "deutschland",
-   "title": "Palästinafahne am Reichstag: Politik und Polizei reagieren",
-   "summary": [
-    "Ein Aktivist hisst am Reichstag eine Palästinafahne.",
-    "Die Aktivisten, die vorm Reichstag die Palästina-Flagge gehisst haben, werden als Terrorunterstützer diffamiert.",
-    "Die Polizei will Maßnahmen anpassen."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T14:54:00+00:00",
-   "links": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Palaestinafahne-am-Reichstag/!6228737/"
-    },
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Palaestina-Flagge-vorm-Reichstag/!6228561/"
-    }
-   ],
-   "details": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "url": "https://taz.de/Palaestinafahne-am-Reichstag/!6228737/",
-     "title": "",
-     "text": [
-      "Ein Politiker schlägt Regeln für das Gebiet um den Bundestag vor."
-     ],
-     "machine_translated": false
-    },
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "url": "https://taz.de/Palaestina-Flagge-vorm-Reichstag/!6228561/",
-     "title": "Palästina-Flagge vorm Reichstag: Im Fahnenwahn",
-     "text": [
-      "Dabei wäre Zuhören wichtig.",
-      "Gerade bei Nahost-Debatten."
-     ],
-     "machine_translated": false
-    }
-   ]
-  },
-  {
-   "rank": 49,
-   "topic": "wirtschaft",
-   "title": "Wasser strömt in nahe gelegene Arbeitsbereiche nach dem Zusammenbruch der Gesteinsmasse am Tarbela-Damm",
-   "summary": [
-    "Wapda sagte, dass die Entwässerungsarbeiten am im Bau befindlichen Kraftwerk ebenfalls begonnen hätten.",
-    "In einer Erklärung sagte Wapda, dass Wasser in das im Bau befindliche Kraftwerksgebiet und einen Tunnel des T-5-Projekts eingedrungen sei, nachdem eine schwache Gesteinsmasse während der Ausgrabungsarbeiten zusammengebrochen war, was die Evakuierung von Arbeitern zur Folge hatte.",
-    "Das fünfte Erweiterungsprojekt hat eine installierte Leistung von 1.530 MW."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T11:50:46+00:00",
-   "links": [
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043275/water-surges-into-nearby-work-areas-after-rock-mass-collapse-at-tarbela-dam"
-    }
-   ],
-   "details": [
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "url": "https://www.dawn.com/news/2043275/water-surges-into-nearby-work-areas-after-rock-mass-collapse-at-tarbela-dam",
-     "title": "",
-     "text": [
-      "SWABI: Eine Gesteinsmasse brach am Montag auf der Baustelle des Tarbela Dam 5th Extension Project (T-5) zusammen und verursachte einen Wasserschub, der in nahe gelegene Arbeitsbereiche eindrang, sagte die Water and Power Development Authority (Wapda).",
-      "Nach dem Zusammenbruch wurde ein Notfall ausgerufen; die Bauarbeiten wurden eingestellt und die Arbeiter wurden angewiesen, in sicherere Gebiete zu ziehen.",
-      "Bei dem Vorfall wurde jedoch kein Verlust von Menschenleben gemeldet.",
-      "Die Behörde sagte, der Vorfall ereignete sich während der Ausgrabung des 2. Bench-Verbindungstunnels, als der Zusammenbruch Wasser aus der Ansauggrube in den Tunnel und das Kraftwerksgebiet eindrang."
-     ],
-     "machine_translated": true
-    }
-   ]
-  },
-  {
-   "rank": 50,
-   "topic": "deutschland",
-   "title": "Nachfolge von Christine Lagarde: Das Rennen um die EZB-Spitze hat begonnen",
-   "summary": [
-    "Christine Lagarde hört als EZB-Chefin im Februar auf.",
-    "Ein Niederländer und ein ein Spanier gelten als Favoriten."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T14:51:00+00:00",
-   "links": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Nachfolge-von-Christine-Lagarde/!6228577/"
-    }
-   ],
-   "details": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "url": "https://taz.de/Nachfolge-von-Christine-Lagarde/!6228577/",
-     "title": "",
-     "text": [
-      "Mit beiden könnte Merz gut leben."
-     ],
-     "machine_translated": false
-    }
-   ]
-  },
-  {
-   "rank": 51,
-   "topic": "klima",
-   "title": "Klimagerechtes Sanieren: Zuschüsse stärker nachgefragt als geplant",
-   "summary": [
-    "Die Fördermittel des Bundes für die energetische Sanierung von Gebäuden reichen für 2026 nicht.",
-    "1,1 Milliarden Euro müssen nachgeschossen werden."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T14:50:00+00:00",
-   "links": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/Klimagerechtes-Sanieren/!6228595/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 52,
-   "topic": "gesundheit",
-   "title": "Turkiye Stahlfabrik Explosion tötet 16; Sonde gestartet",
-   "summary": [
-    "Arbeitergruppen sagten, es gebe eine lange Liste von Sicherheitsproblemen bei HABAS.",
-    "Acht Arbeiter waren in der Stahlfabrik HABAS etwa 60 Kilometer nördlich der Hafenstadt Izmir gefangen, wo die Explosion gegen Mittag (2 Uhr PKT) einschlug, sagte Gouverneur Suleyman Elban.",
-    "HABAS ist eine private Gruppe und einer der größten Stahlproduzenten von Turkiye."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T19:16:12+00:00",
-   "links": [
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "ownership": "privat",
-     "url": "https://www.dawn.com/news/2043324/turkiye-steel-factory-blast-kills-16-probe-launched"
-    }
-   ],
-   "details": [
-    {
-     "source": "Dawn",
-     "country": "Pakistan",
-     "url": "https://www.dawn.com/news/2043324/turkiye-steel-factory-blast-kills-16-probe-launched",
-     "title": "",
-     "text": [
-      "Eine Explosion, die am Montag durch ein Stahlwerk im Westen von Turkiye gerissen wurde, tötete 16 Menschen und verletzte 13, sagte Präsident Recep Tayyip Erdogan und kündigte Untersuchungen der Tragödie an.",
-      "Online veröffentlichtes Filmmaterial zeigte eine riesige Wolke aus dickem Rauch, die in den Himmel strömte, als Flammen eine hohe Struktur im HABAS Demir Celik-Werk in Aliaga zu verschlingen schienen.",
-      "\"Die Umstände dieses tragischen Vorfalls, der unsere Nation zutiefst betrübt hat, einschließlich, wie und warum es passiert ist, ob es Nachlässigkeit gab und wer die Verantwortung trägt, werden festgestellt\", sagte Erdogan im Fernsehen und fügte hinzu, dass zwei der Verletzten in ernstem Zustand seien."
-     ],
-     "machine_translated": true
-    }
-   ]
-  },
-  {
-   "rank": 53,
-   "topic": "wirtschaft",
-   "title": "Stallion Group kooperiert mit Access Bank",
-   "summary": [
-    "Die Partnerschaft bringt 10 exklusive Automobilmarken und 72 Modelle in Reichweite der Kunden, wodurch der Fahrzeugbesitz leichter zugänglich wird."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T20:44:50+00:00",
-   "links": [
-    {
-     "source": "Premium Times",
-     "country": "Nigeria",
-     "ownership": "privat",
-     "url": "https://www.premiumtimesng.com/promoted/924011-stallion-group-partners-with-access-bank.html"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 54,
-   "topic": "deutschland",
-   "title": "DFB-Slogan vor Nations-League-Spielen: „Verdammt noch mal für Deutschland“",
-   "summary": [
-    "Vor den Länderspielen gegen Serbien und die Niederlande will Bundestrainer Klopp den Teamgeist auch mit etwas mehr Patriotismus bestärken."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T14:08:00+00:00",
-   "links": [
-    {
-     "source": "taz",
-     "country": "Deutschland",
-     "ownership": "Genossenschaft",
-     "url": "https://taz.de/DFB-Slogan-vor-Nations-League-Spielen/!6228663/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 55,
-   "topic": "klima",
-   "title": "COP31-Gipfelführer fordern die Welt auf, sich beim Klima „schneller zu bewegen",
-   "summary": [
-    "Die Führer des COP31-Klimagipfels forderten die Welt auf, den Kampf gegen die globale Erwärmung zu beschleunigen, da steigende Temperaturen und eine zunehmende Anzahl klimabedingter Katastrophen Leben und die Weltwirtschaft bedrohen, da das Jahrestreffen am Montag in der Türkei begann."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T11:43:28+00:00",
-   "links": [
-    {
-     "source": "Daily Maverick",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://www.dailymaverick.co.za/article/2026-11-09-cop31-summit-leaders-urge-world-to-move-faster-on-climate/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 56,
-   "topic": "wirtschaft",
-   "title": "Von Importen zu Exporten - der Erfolg von Canola bietet SA eine Landwirtschaftsblaupause",
-   "summary": [
-    "Südafrikas Rapsindustrie ist zu einem Nettoexporteur geworden und zeigt, wie Investitionen, Verarbeitungskapazität und Nachfrage das landwirtschaftliche Wachstum vorantreiben können."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T19:30:00+00:00",
-   "links": [
-    {
-     "source": "Daily Maverick",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://www.dailymaverick.co.za/article/2026-11-09-from-imports-to-exports-canola-success-offers-sa-a-farming-blueprint/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 57,
-   "topic": "gesundheit",
-   "title": "Motlanthe fordert die Bullen auf, das Kartell Big Boys anzugreifen, um die Drogenpolitik Afrikas zu überarbeiten",
-   "summary": [
-    "Die illegale Drogenlandschaft der Welt hat sich verändert, und um den Kampf fortzusetzen, bedarf es einer neuen Politik.",
-    "Einer davon, erklärte der ehemalige präsident kgalema motlanthe, der der kommission für das östliche und südliche afrika für drogen vorsitzt, ist die notwendigkeit, dass strafverfolgungsbehörden top-händler statt nutzer verfolgen, die oft verhaftet werden und einfach zu überfüllten gefängnissen hinzufügen."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T21:45:15+00:00",
-   "links": [
-    {
-     "source": "Daily Maverick",
-     "country": "Südafrika",
-     "ownership": "privat",
-     "url": "https://www.dailymaverick.co.za/article/2026-11-09-motlanthe-urges-cops-to-target-the-cartel-big-boys-to-overhaul-africas-drug-policies/"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 58,
-   "topic": "gesundheit",
-   "title": "Wie Darmbakterien vor einer Atherosklerose schützen könnten",
-   "summary": [
-    "Shenzhen – Eine von menschlichen Darmbakterien produzierte Fettsäure könnte womöglich zum Schutz vor Atherosklerose beitragen.",
-    "Pentadecansäure hemmt in der Leber die Produktion von LDL-Cholesterin – und zwar wie Statine auch über eine Hemmung der HMG-CoA-Reduktase."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T16:39:05+00:00",
-   "links": [
-    {
-     "source": "Deutsches Ärzteblatt",
-     "country": "Deutschland",
-     "ownership": "Verbandsverlag",
-     "url": "https://www.aerzteblatt.de/news/wie-darmbakterien-vor-einer-atherosklerose-schutzen-konnten-aa07e185-662f-4fd2-8c21-7b75c972b8dd"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 59,
-   "topic": "gesundheit",
-   "title": "UCH installiert neues Umspannwerk inmitten wiederkehrender Stromkrise",
-   "summary": [
-    "Die neue Installation kommt Wochen, nachdem ansässige Ärzte einen Warnstreik wegen anhaltender Stromprobleme ausgesetzt hatten, die die Dienste im Krankenhaus unterbrochen hatten."
-   ],
-   "machine_translated": true,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T18:30:58+00:00",
-   "links": [
-    {
-     "source": "Premium Times",
-     "country": "Nigeria",
-     "ownership": "privat",
-     "url": "https://www.premiumtimesng.com/news/top-news/923973-uch-installs-new-power-substation-amid-recurring-electricity-crisis.html"
-    }
-   ],
-   "details": []
-  },
-  {
-   "rank": 60,
-   "topic": "gesundheit",
-   "title": "Lauterbach: Potenziale für Forschung in Deutschland heben",
-   "summary": [
-    "Berlin – Der ehemalige Bundesgesundheitsminister Karl Lauterbach (SPD) sieht die Grundlagenforschung in Deutschland zwar in einer Spitzenposition, allerdings fehlt es aus seiner Sicht im Land sowie in in Europa an der zügigen Umsetzung in die Versorgung."
-   ],
-   "machine_translated": false,
-   "single_source": true,
-   "source_count": 1,
-   "region_count": 1,
-   "published": "2026-11-09T16:36:40+00:00",
-   "links": [
-    {
-     "source": "Deutsches Ärzteblatt",
-     "country": "Deutschland",
-     "ownership": "Verbandsverlag",
-     "url": "https://www.aerzteblatt.de/news/lauterbach-potenziale-fur-forschung-in-deutschland-heben-f035da5c-c31f-48d2-ab90-88fb6aa49c8d"
-    }
-   ],
-   "details": []
   }
  ],
  "sources": [
@@ -2048,9 +2311,9 @@
    "country": "Deutschland",
    "language": "de",
    "ownership": "öffentlich-rechtlich",
-   "ok": false,
-   "items": 0,
-   "reason": "HTTP 404"
+   "ok": true,
+   "items": 40,
+   "reason": ""
   },
   {
    "name": "taz",
@@ -2183,7 +2446,7 @@
   "available": true,
   "source": "Yahoo Finance, Kurse verzögert und ohne Gewähr",
   "as_of": "2026-11-10",
-  "summary": "Freundliche Börsen: alle beobachteten Indizes im Plus. Stärkster Markt: Nasdaq 100 (+3,4 %), schwächster: Hang Seng (+0,3 %).",
+  "summary": "Freundliche Börsen: alle beobachteten Indizes im Plus. Stärkster Markt: Nasdaq 100 (+3,4 %), schwächster: Hang Seng (+0,4 %). Auf oder nahe am Jahreshoch: DAX.",
   "groups": [
    {
     "label": "Aktienindizes",
@@ -2194,21 +2457,20 @@
       "kind": "price",
       "unit": "Pkt.",
       "decimals": 0,
-      "price": 26267.189453,
-      "date": "2026-11-09",
-      "change_1d": 1.73,
-      "change_1w": 1.1,
-      "change_1m": 4.7,
-      "change_ytd": 7.26,
-      "change_1y": 9.63,
-      "from_high": -1.1,
-      "from_low": 17.8,
-      "new_high": false,
+      "price": 26574.740234,
+      "date": "2026-11-10",
+      "change_1d": 1.17,
+      "change_1w": 2.75,
+      "change_1m": 5.13,
+      "change_ytd": 8.51,
+      "change_1y": 10.91,
+      "from_high": 0.0,
+      "from_low": 19.2,
+      "new_high": true,
       "new_low": false,
       "trend": "Aufwärtstrend",
-      "unusual": 1.9,
+      "unusual": 1.3,
       "spark": [
-       26128.0,
        26091.0,
        25983.0,
        26137.0,
@@ -2267,7 +2529,8 @@
        26438.0,
        26325.0,
        25820.0,
-       26267.0
+       26267.0,
+       26575.0
       ]
      },
      {
@@ -2276,21 +2539,20 @@
       "kind": "price",
       "unit": "Pkt.",
       "decimals": 0,
-      "price": 31072.75,
-      "date": "2026-11-09",
-      "change_1d": 1.4,
-      "change_1w": 0.7,
-      "change_1m": 3.61,
-      "change_ytd": 1.49,
-      "change_1y": 6.63,
-      "from_high": -6.8,
-      "from_low": 12.4,
+      "price": 31407.150391,
+      "date": "2026-11-10",
+      "change_1d": 1.08,
+      "change_1w": 2.16,
+      "change_1m": 4.33,
+      "change_ytd": 2.58,
+      "change_1y": 7.78,
+      "from_high": -5.8,
+      "from_low": 13.6,
       "new_high": false,
       "new_low": false,
       "trend": "uneinheitlich",
-      "unusual": 1.4,
+      "unusual": 1.1,
       "spark": [
-       31840.0,
        31822.0,
        31716.0,
        32110.0,
@@ -2349,7 +2611,8 @@
        31178.0,
        30892.0,
        30642.0,
-       31073.0
+       31073.0,
+       31407.0
       ]
      },
      {
@@ -2358,21 +2621,20 @@
       "kind": "price",
       "unit": "Pkt.",
       "decimals": 2,
-      "price": 6290.450195,
-      "date": "2026-11-09",
-      "change_1d": 1.94,
-      "change_1w": 1.85,
-      "change_1m": 1.9,
-      "change_ytd": 8.53,
-      "change_1y": 11.05,
-      "from_high": -4.0,
-      "from_low": 14.3,
+      "price": 6363.609863,
+      "date": "2026-11-10",
+      "change_1d": 1.16,
+      "change_1w": 3.56,
+      "change_1m": 2.62,
+      "change_ytd": 9.79,
+      "change_1y": 12.34,
+      "from_high": -2.9,
+      "from_low": 15.7,
       "new_high": false,
       "new_low": false,
       "trend": "Aufwärtstrend",
-      "unusual": 2.3,
+      "unusual": 1.3,
       "spark": [
-       6468.2,
        6444.5,
        6422.1,
        6462.2,
@@ -2431,7 +2693,8 @@
        6265.7,
        6231.5,
        6170.5,
-       6290.5
+       6290.5,
+       6363.6
       ]
      },
      {
@@ -2522,7 +2785,7 @@
       "kind": "price",
       "unit": "Pkt.",
       "decimals": 0,
-      "price": 27907.625,
+      "price": 27907.630859,
       "date": "2026-11-09",
       "change_1d": 3.4,
       "change_1w": -0.29,
@@ -2604,19 +2867,19 @@
       "kind": "price",
       "unit": "Pkt.",
       "decimals": 0,
-      "price": 60063.789062,
+      "price": 60459.578125,
       "date": "2026-11-10",
-      "change_1d": 2.19,
-      "change_1w": -4.78,
-      "change_1m": -13.0,
-      "change_ytd": 19.32,
-      "change_1y": 17.98,
-      "from_high": -17.0,
-      "from_low": 23.7,
+      "change_1d": 2.87,
+      "change_1w": -4.16,
+      "change_1m": -12.43,
+      "change_ytd": 20.1,
+      "change_1y": 18.75,
+      "from_high": -16.5,
+      "from_low": 24.6,
       "new_high": false,
       "new_low": false,
       "trend": "uneinheitlich",
-      "unusual": 1.3,
+      "unusual": 1.7,
       "spark": [
        67524.0,
        68309.0,
@@ -2677,7 +2940,7 @@
        61078.0,
        57435.0,
        58776.0,
-       60064.0
+       60460.0
       ]
      },
      {
@@ -2686,19 +2949,19 @@
       "kind": "price",
       "unit": "Pkt.",
       "decimals": 0,
-      "price": 24518.869141,
+      "price": 24557.039062,
       "date": "2026-11-10",
-      "change_1d": 0.29,
-      "change_1w": 4.22,
-      "change_1m": 1.27,
-      "change_ytd": -4.34,
-      "change_1y": -7.99,
-      "from_high": -12.3,
-      "from_low": 8.1,
+      "change_1d": 0.44,
+      "change_1w": 4.38,
+      "change_1m": 1.43,
+      "change_ytd": -4.19,
+      "change_1y": -7.85,
+      "from_high": -12.2,
+      "from_low": 8.3,
       "new_high": false,
       "new_low": false,
       "trend": "uneinheitlich",
-      "unusual": 0.3,
+      "unusual": 0.4,
       "spark": [
        25453.0,
        25471.0,
@@ -2759,7 +3022,7 @@
        24797.0,
        24482.0,
        24449.0,
-       24519.0
+       24557.0
       ]
      }
     ]
@@ -2773,19 +3036,19 @@
       "kind": "price",
       "unit": "$",
       "decimals": 4,
-      "price": 1.122586,
+      "price": 1.12246,
       "date": "2026-11-10",
-      "change_1d": 0.7,
-      "change_1w": 0.3,
-      "change_1m": 0.19,
-      "change_ytd": -4.44,
-      "change_1y": -2.75,
+      "change_1d": 0.69,
+      "change_1w": 0.29,
+      "change_1m": 0.18,
+      "change_ytd": -4.45,
+      "change_1y": -2.77,
       "from_high": -6.6,
       "from_low": 0.9,
       "new_high": false,
       "new_low": false,
       "trend": "Abwärtstrend",
-      "unusual": 2.4,
+      "unusual": 2.3,
       "spark": [
        1.1579,
        1.1674,
@@ -2846,7 +3109,7 @@
        1.1235,
        1.1228,
        1.1147,
-       1.1226
+       1.1225
       ]
      },
      {
@@ -2855,19 +3118,19 @@
       "kind": "price",
       "unit": "$",
       "decimals": 2,
-      "price": 4123.600098,
+      "price": 4095.899902,
       "date": "2026-11-10",
-      "change_1d": 0.22,
-      "change_1w": 4.65,
-      "change_1m": -1.6,
-      "change_ytd": -5.01,
-      "change_1y": 0.04,
-      "from_high": -22.5,
-      "from_low": 5.8,
+      "change_1d": -0.45,
+      "change_1w": 3.95,
+      "change_1m": -2.26,
+      "change_ytd": -5.65,
+      "change_1y": -0.63,
+      "from_high": -23.0,
+      "from_low": 5.1,
       "new_high": false,
       "new_low": false,
       "trend": "Abwärtstrend",
-      "unusual": 0.2,
+      "unusual": 0.3,
       "spark": [
        4420.6,
        4545.3,
@@ -2928,7 +3191,7 @@
        4113.5,
        4074.9,
        4114.5,
-       4123.6
+       4095.9
       ]
      },
      {
@@ -2937,19 +3200,19 @@
       "kind": "price",
       "unit": "$",
       "decimals": 2,
-      "price": 91.720001,
+      "price": 89.75,
       "date": "2026-11-10",
-      "change_1d": -0.92,
-      "change_1w": -11.47,
-      "change_1m": -14.0,
-      "change_ytd": 50.73,
-      "change_1y": 43.18,
-      "from_high": -22.5,
-      "from_low": 55.7,
+      "change_1d": -3.05,
+      "change_1w": -13.37,
+      "change_1m": -15.85,
+      "change_ytd": 47.49,
+      "change_1y": 40.1,
+      "from_high": -24.2,
+      "from_low": 52.3,
       "new_high": false,
       "new_low": false,
       "trend": "uneinheitlich",
-      "unusual": 0.3,
+      "unusual": 1.0,
       "spark": [
        91.02,
        91.62,
@@ -3010,7 +3273,7 @@
        98.29,
        98.32,
        92.57,
-       91.72
+       89.75
       ]
      },
      {
@@ -3101,21 +3364,20 @@
       "kind": "price",
       "unit": "€",
       "decimals": 0,
-      "price": 66567.023438,
+      "price": 66247.328125,
       "date": "2026-11-10",
-      "change_1d": -0.51,
-      "change_1w": -6.99,
-      "change_1m": -8.81,
-      "change_ytd": -10.75,
-      "change_1y": -27.42,
-      "from_high": -13.4,
-      "from_low": 29.7,
+      "change_1d": -1.17,
+      "change_1w": -2.05,
+      "change_1m": -10.33,
+      "change_ytd": -11.18,
+      "change_1y": -27.77,
+      "from_high": -13.8,
+      "from_low": 29.1,
       "new_high": false,
       "new_low": false,
       "trend": "uneinheitlich",
-      "unusual": 0.3,
+      "unusual": 0.6,
       "spark": [
-       66508.0,
        66601.0,
        66277.0,
        67686.0,
@@ -3174,7 +3436,8 @@
        67956.0,
        67957.0,
        66908.0,
-       66567.0
+       67030.0,
+       66247.0
       ]
      }
     ]
@@ -3198,16 +3461,16 @@
     "reasons": [
      "Kursrutsch von −4,3 % an einem Handelstag",
      "−22,1 % in einem Monat",
-     "In 16 Artikeln von heute erwähnt"
+     "In 18 Artikeln von heute erwähnt"
     ],
-    "mentions": 16,
+    "mentions": 18,
     "stories": [
      {
       "title": "Spionageverdacht bei Nvidia: Künstliche Intimität",
-      "url": "https://www.dailymaverick.co.za/article/2026-11-10-trump-says-fbi-probing-nvidia-ceo-huang-as-china-controversy-deepens/"
+      "url": "https://www.dawn.com/news/2043502/trump-says-nvidia-ceo-huang-had-no-idea-lover-was-alleged-chinese-spy"
      },
      {
-      "title": "Das Rennen ist auf zu verklagen Nvidia",
+      "title": "Fall Nvidia: Wie eine Affäre den KI-Boom gefährden kann",
       "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
      }
     ]
@@ -3233,12 +3496,89 @@
     "mentions": 5,
     "stories": [
      {
-      "title": "Rs3.2m in Online-Betrug wiederhergestellt; Kinderausbeuter gehalten",
-      "url": "https://www.dawn.com/news/2043386/rs32m-recovered-in-online-scams-child-exploiter-held"
+      "title": "Anthropic: Fable 5.2 und Mythos 5.2 legen deutlich zu",
+      "url": "https://www.dawn.com/news/2043474/anthropic-unveils-new-fable-mythos-models-as-competition-heats-up-ahead-of-ipo"
      },
      {
-      "title": "8 Pakistaner unter den globalen Empfängern des Diana Award 2026 in Anerkennung ihrer Sozialarbeit",
-      "url": "https://www.dawn.com/news/2043325/8-pakistanis-among-global-recipients-of-2026-diana-award-recognising-their-social-work"
+      "title": "Rs3.2m in Online-Betrug wiederhergestellt; Kinderausbeuter gehalten",
+      "url": "https://www.dawn.com/news/2043386/rs32m-recovered-in-online-scams-child-exploiter-held"
+     }
+    ]
+   },
+   {
+    "symbol": "IFX.DE",
+    "name": "Infineon",
+    "unit": "€",
+    "decimals": 2,
+    "price": 51.849998,
+    "change_1d": 6.63,
+    "change_1w": -1.05,
+    "change_1m": -9.38,
+    "change_ytd": 37.42,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-10",
+    "sector": "Halbleiter",
+    "score": 4.92,
+    "reasons": [
+     "Kurssprung von +6,6 % an einem Handelstag",
+     "In 1 Artikel von heute erwähnt"
+    ],
+    "mentions": 1,
+    "stories": []
+   },
+   {
+    "symbol": "AAPL",
+    "name": "Apple",
+    "unit": "$",
+    "decimals": 2,
+    "price": 350.690002,
+    "change_1d": 2.43,
+    "change_1w": 3.66,
+    "change_1m": 4.17,
+    "change_ytd": 29.0,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-09",
+    "sector": "Technik",
+    "score": 4.9,
+    "reasons": [
+     "Neues Jahreshoch",
+     "In 4 Artikeln von heute erwähnt"
+    ],
+    "mentions": 4,
+    "stories": [
+     {
+      "title": "Drei Arbeiter sterben im iPhone-Teilewerk von Tata in Tamil Nadu",
+      "url": "https://www.dailymaverick.co.za/article/2026-11-10-three-workers-die-at-tatas-india-iphone-parts-factory-in-latest-safety-incident/"
+     }
+    ]
+   },
+   {
+    "symbol": "GOOGL",
+    "name": "Alphabet (Google)",
+    "unit": "$",
+    "decimals": 2,
+    "price": 288.149994,
+    "change_1d": 1.18,
+    "change_1w": 3.28,
+    "change_1m": -18.06,
+    "change_ytd": -7.94,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-09",
+    "sector": "Internet",
+    "score": 4.6,
+    "reasons": [
+     "−18,1 % in einem Monat",
+     "In 4 Artikeln von heute erwähnt"
+    ],
+    "mentions": 4,
+    "stories": [
+     {
+      "title": "Anthropic: Fable 5.2 und Mythos 5.2 legen deutlich zu",
+      "url": "https://www.dawn.com/news/2043474/anthropic-unveils-new-fable-mythos-models-as-competition-heats-up-ahead-of-ipo"
+     },
+     {
+      "title": "Honigfallen: Der älteste Trick eines Spions",
+      "url": "https://www.dawn.com/news/2043487/honey-traps-a-spys-oldest-trick"
      }
     ]
    },
@@ -3261,68 +3601,6 @@
     ],
     "mentions": 0,
     "stories": []
-   },
-   {
-    "symbol": "PLTR",
-    "name": "Palantir",
-    "unit": "$",
-    "decimals": 2,
-    "price": 169.199997,
-    "change_1d": 5.5,
-    "change_1w": -5.13,
-    "change_1m": -19.06,
-    "change_ytd": -4.81,
-    "trend": "uneinheitlich",
-    "date": "2026-11-09",
-    "sector": "Software",
-    "score": 4.02,
-    "reasons": [
-     "Kurssprung von +5,5 % an einem Handelstag",
-     "−19,1 % in einem Monat"
-    ],
-    "mentions": 0,
-    "stories": []
-   },
-   {
-    "symbol": "AAPL",
-    "name": "Apple",
-    "unit": "$",
-    "decimals": 2,
-    "price": 350.690002,
-    "change_1d": 2.43,
-    "change_1w": 3.66,
-    "change_1m": 4.17,
-    "change_ytd": 29.0,
-    "trend": "Aufwärtstrend",
-    "date": "2026-11-09",
-    "sector": "Technik",
-    "score": 3.7,
-    "reasons": [
-     "Neues Jahreshoch",
-     "In 2 Artikeln von heute erwähnt"
-    ],
-    "mentions": 2,
-    "stories": []
-   },
-   {
-    "symbol": "MUV2.DE",
-    "name": "Munich Re",
-    "unit": "€",
-    "decimals": 2,
-    "price": 569.200012,
-    "change_1d": -4.27,
-    "change_1w": 0.39,
-    "change_1m": 9.67,
-    "change_ytd": 1.25,
-    "trend": "Aufwärtstrend",
-    "date": "2026-11-06",
-    "sector": "Versicherung",
-    "score": 3.6,
-    "reasons": [
-     "Kursrutsch von −4,3 % an einem Handelstag, etwa 4-mal so stark wie üblich"
-    ],
-    "mentions": 0,
-    "stories": []
    }
   ],
   "companies": [
@@ -3331,13 +3609,13 @@
     "name": "Airbus",
     "unit": "€",
     "decimals": 2,
-    "price": 196.399994,
-    "change_1d": -1.25,
-    "change_1w": 2.08,
-    "change_1m": 4.88,
-    "change_ytd": -1.01,
+    "price": 209.600006,
+    "change_1d": 1.75,
+    "change_1w": 8.42,
+    "change_1m": 11.41,
+    "change_ytd": 5.65,
     "trend": "Aufwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Luftfahrt"
    },
    {
@@ -3359,13 +3637,13 @@
     "name": "Allianz",
     "unit": "€",
     "decimals": 2,
-    "price": 451.100006,
-    "change_1d": -3.01,
-    "change_1w": 2.83,
-    "change_1m": 9.12,
-    "change_ytd": 15.52,
+    "price": 462.5,
+    "change_1d": 1.2,
+    "change_1w": 4.9,
+    "change_1m": 9.99,
+    "change_ytd": 18.44,
     "trend": "Aufwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Versicherung"
    },
    {
@@ -3415,13 +3693,13 @@
     "name": "ASML",
     "unit": "€",
     "decimals": 2,
-    "price": 1283.599976,
-    "change_1d": 2.69,
-    "change_1w": -9.14,
-    "change_1m": -21.28,
-    "change_ytd": 39.31,
+    "price": 1357.199951,
+    "change_1d": 1.0,
+    "change_1w": -2.01,
+    "change_1m": -13.87,
+    "change_ytd": 47.3,
     "trend": "uneinheitlich",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Halbleiter"
    },
    {
@@ -3429,13 +3707,13 @@
     "name": "BAE Systems",
     "unit": "GBp",
     "decimals": 2,
-    "price": 1846.0,
-    "change_1d": -1.83,
-    "change_1w": -10.82,
-    "change_1m": 0.52,
-    "change_ytd": 7.7,
+    "price": 1933.0,
+    "change_1d": 1.05,
+    "change_1w": -6.84,
+    "change_1m": 2.68,
+    "change_ytd": 12.78,
     "trend": "Abwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Rüstung"
    },
    {
@@ -3443,13 +3721,13 @@
     "name": "BASF",
     "unit": "€",
     "decimals": 2,
-    "price": 54.279999,
-    "change_1d": -3.23,
-    "change_1w": 1.53,
-    "change_1m": 4.85,
-    "change_ytd": 22.17,
+    "price": 54.34,
+    "change_1d": 0.91,
+    "change_1w": 1.87,
+    "change_1m": 5.99,
+    "change_ytd": 22.3,
     "trend": "Aufwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Chemie"
    },
    {
@@ -3457,13 +3735,13 @@
     "name": "Bayer",
     "unit": "€",
     "decimals": 2,
-    "price": 55.580002,
-    "change_1d": -1.14,
-    "change_1w": 9.89,
-    "change_1m": 30.5,
-    "change_ytd": 50.18,
+    "price": 56.720001,
+    "change_1d": 0.18,
+    "change_1w": 9.41,
+    "change_1m": 29.41,
+    "change_ytd": 53.26,
     "trend": "Aufwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Pharma"
    },
    {
@@ -3471,13 +3749,13 @@
     "name": "BMW",
     "unit": "€",
     "decimals": 2,
-    "price": 59.360001,
-    "change_1d": -3.23,
-    "change_1w": 2.7,
-    "change_1m": 13.76,
-    "change_ytd": -36.27,
+    "price": 58.799999,
+    "change_1d": -0.1,
+    "change_1w": 1.73,
+    "change_1m": 10.82,
+    "change_ytd": -36.87,
     "trend": "uneinheitlich",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Autos"
    },
    {
@@ -3499,11 +3777,11 @@
     "name": "BYD",
     "unit": "HK$",
     "decimals": 2,
-    "price": 72.300003,
-    "change_1d": -0.21,
-    "change_1w": -0.07,
-    "change_1m": -4.37,
-    "change_ytd": -23.97,
+    "price": 71.949997,
+    "change_1d": -0.69,
+    "change_1w": -0.55,
+    "change_1m": -4.83,
+    "change_ytd": -24.34,
     "trend": "Abwärtstrend",
     "date": "2026-11-10",
     "sector": "Autos"
@@ -3513,13 +3791,13 @@
     "name": "Deutsche Bank",
     "unit": "€",
     "decimals": 2,
-    "price": 31.559999,
-    "change_1d": -3.15,
-    "change_1w": 4.92,
-    "change_1m": 6.41,
-    "change_ytd": -4.68,
-    "trend": "uneinheitlich",
-    "date": "2026-11-06",
+    "price": 33.490002,
+    "change_1d": 3.16,
+    "change_1w": 9.95,
+    "change_1m": 10.56,
+    "change_ytd": 1.15,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-10",
     "sector": "Banken"
    },
    {
@@ -3527,13 +3805,13 @@
     "name": "Deutsche Telekom",
     "unit": "€",
     "decimals": 2,
-    "price": 25.91,
-    "change_1d": -1.11,
-    "change_1w": -0.69,
-    "change_1m": -3.43,
-    "change_ytd": -6.33,
+    "price": 26.17,
+    "change_1d": 0.04,
+    "change_1w": 1.32,
+    "change_1m": 4.76,
+    "change_ytd": -5.39,
     "trend": "Abwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Telekommunikation"
    },
    {
@@ -3541,13 +3819,13 @@
     "name": "DHL Group",
     "unit": "€",
     "decimals": 2,
-    "price": 58.02,
-    "change_1d": -3.91,
-    "change_1w": -1.12,
-    "change_1m": 5.61,
-    "change_ytd": 24.16,
+    "price": 58.779999,
+    "change_1d": 0.24,
+    "change_1w": -0.2,
+    "change_1m": 3.6,
+    "change_ytd": 25.79,
     "trend": "Aufwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Logistik"
    },
    {
@@ -3569,13 +3847,13 @@
     "name": "Hensoldt",
     "unit": "€",
     "decimals": 2,
-    "price": 77.440002,
-    "change_1d": -6.22,
-    "change_1w": -9.55,
-    "change_1m": 3.7,
-    "change_ytd": 5.5,
-    "trend": "uneinheitlich",
-    "date": "2026-11-06",
+    "price": 83.580002,
+    "change_1d": 0.94,
+    "change_1w": 0.92,
+    "change_1m": 3.65,
+    "change_ytd": 13.87,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-10",
     "sector": "Rüstung"
    },
    {
@@ -3583,13 +3861,13 @@
     "name": "Infineon",
     "unit": "€",
     "decimals": 2,
-    "price": 45.755001,
-    "change_1d": -0.42,
-    "change_1w": -9.5,
-    "change_1m": -22.32,
-    "change_ytd": 21.27,
+    "price": 51.849998,
+    "change_1d": 6.63,
+    "change_1w": -1.05,
+    "change_1m": -9.38,
+    "change_ytd": 37.42,
     "trend": "Abwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Halbleiter"
    },
    {
@@ -3625,13 +3903,13 @@
     "name": "Mercedes-Benz",
     "unit": "€",
     "decimals": 2,
-    "price": 41.555,
-    "change_1d": -3.16,
-    "change_1w": 2.15,
-    "change_1m": 6.48,
-    "change_ytd": -30.82,
+    "price": 41.825001,
+    "change_1d": -0.08,
+    "change_1w": 3.32,
+    "change_1m": 6.52,
+    "change_ytd": -30.37,
     "trend": "Abwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Autos"
    },
    {
@@ -3667,13 +3945,13 @@
     "name": "Munich Re",
     "unit": "€",
     "decimals": 2,
-    "price": 569.200012,
-    "change_1d": -4.27,
-    "change_1w": 0.39,
-    "change_1m": 9.67,
-    "change_ytd": 1.25,
+    "price": 571.599976,
+    "change_1d": 0.99,
+    "change_1w": 0.25,
+    "change_1m": 8.46,
+    "change_ytd": 1.67,
     "trend": "Aufwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Versicherung"
    },
    {
@@ -3681,13 +3959,13 @@
     "name": "Novo Nordisk",
     "unit": "DKK",
     "decimals": 2,
-    "price": 269.450012,
-    "change_1d": -0.66,
-    "change_1w": 1.26,
-    "change_1m": 7.82,
-    "change_ytd": -17.16,
+    "price": 274.200012,
+    "change_1d": 0.51,
+    "change_1w": 1.5,
+    "change_1m": 6.94,
+    "change_ytd": -15.7,
     "trend": "uneinheitlich",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Pharma"
    },
    {
@@ -3723,13 +4001,13 @@
     "name": "Rheinmetall",
     "unit": "€",
     "decimals": 2,
-    "price": 812.700012,
-    "change_1d": -3.42,
-    "change_1w": -21.68,
-    "change_1m": -13.07,
-    "change_ytd": -47.94,
+    "price": 874.799988,
+    "change_1d": 3.48,
+    "change_1w": -12.94,
+    "change_1m": -9.08,
+    "change_ytd": -43.96,
     "trend": "Abwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Rüstung"
    },
    {
@@ -3737,13 +4015,13 @@
     "name": "SAP",
     "unit": "€",
     "decimals": 2,
-    "price": 210.75,
-    "change_1d": -2.32,
-    "change_1w": -0.24,
-    "change_1m": 14.15,
-    "change_ytd": 1.15,
+    "price": 208.925003,
+    "change_1d": -1.29,
+    "change_1w": 1.1,
+    "change_1m": 7.44,
+    "change_ytd": 0.28,
     "trend": "Aufwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Software"
    },
    {
@@ -3751,13 +4029,13 @@
     "name": "Shell",
     "unit": "GBp",
     "decimals": 2,
-    "price": 3722.5,
-    "change_1d": -1.63,
-    "change_1w": -7.78,
-    "change_1m": -1.53,
-    "change_ytd": 35.86,
-    "trend": "Aufwärtstrend",
-    "date": "2026-11-06",
+    "price": 3618.0,
+    "change_1d": -2.24,
+    "change_1w": -6.35,
+    "change_1m": -5.68,
+    "change_ytd": 32.04,
+    "trend": "uneinheitlich",
+    "date": "2026-11-10",
     "sector": "Öl & Gas"
    },
    {
@@ -3765,13 +4043,13 @@
     "name": "Siemens",
     "unit": "€",
     "decimals": 2,
-    "price": 263.649994,
-    "change_1d": -3.51,
-    "change_1w": -0.75,
-    "change_1m": -0.23,
-    "change_ytd": 10.24,
-    "trend": "uneinheitlich",
-    "date": "2026-11-06",
+    "price": 277.100006,
+    "change_1d": 2.25,
+    "change_1w": 2.72,
+    "change_1m": 0.49,
+    "change_ytd": 15.87,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-10",
     "sector": "Industrie"
    },
    {
@@ -3779,13 +4057,13 @@
     "name": "Siemens Energy",
     "unit": "€",
     "decimals": 2,
-    "price": 118.099998,
-    "change_1d": 3.74,
-    "change_1w": -6.95,
-    "change_1m": -17.12,
-    "change_ytd": -1.91,
+    "price": 126.379997,
+    "change_1d": 1.84,
+    "change_1w": -2.62,
+    "change_1m": -13.9,
+    "change_ytd": 4.97,
     "trend": "Abwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Energietechnik"
    },
    {
@@ -3821,13 +4099,13 @@
     "name": "Vestas",
     "unit": "DKK",
     "decimals": 2,
-    "price": 209.899994,
-    "change_1d": 2.29,
-    "change_1w": 10.91,
-    "change_1m": 12.31,
-    "change_ytd": 21.05,
+    "price": 206.0,
+    "change_1d": -0.48,
+    "change_1w": 4.33,
+    "change_1m": 8.59,
+    "change_ytd": 18.8,
     "trend": "Aufwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Windkraft"
    },
    {
@@ -3835,13 +4113,13 @@
     "name": "Volkswagen",
     "unit": "€",
     "decimals": 2,
-    "price": 69.839996,
-    "change_1d": -2.89,
-    "change_1w": 0.32,
-    "change_1m": 4.86,
-    "change_ytd": -32.55,
+    "price": 70.68,
+    "change_1d": 0.68,
+    "change_1w": 2.94,
+    "change_1m": 3.33,
+    "change_ytd": -31.74,
     "trend": "Abwärtstrend",
-    "date": "2026-11-06",
+    "date": "2026-11-10",
     "sector": "Autos"
    }
   ],
@@ -3849,11 +4127,11 @@
    {
     "id": "ki",
     "label": "Künstliche Intelligenz",
-    "mentions": 25,
+    "mentions": 29,
     "average": null,
     "direction": "",
-    "basket_1w": -1.4,
-    "basket_1m": -9.9,
+    "basket_1w": -1.2,
+    "basket_1m": -10.8,
     "members": [
      {
       "name": "Nvidia",
@@ -3881,57 +4159,57 @@
      },
      {
       "name": "SAP",
-      "change_1m": 14.15
+      "change_1m": 7.44
      }
     ],
     "stories": [
      {
       "title": "Spionageverdacht bei Nvidia: Künstliche Intimität",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+      "url": "https://www.dawn.com/news/2043502/trump-says-nvidia-ceo-huang-had-no-idea-lover-was-alleged-chinese-spy"
      },
      {
-      "title": "Angriffe auf Kühlanlagen: Frankreich macht Revolutionsgarden als Urheber aus",
-      "url": "https://www.dawn.com/news/2043311/french-officials-accuse-iran-of-being-behind-refrigerator-hacks"
+      "title": "Anthropic: Fable 5.2 und Mythos 5.2 legen deutlich zu",
+      "url": "https://www.dawn.com/news/2043474/anthropic-unveils-new-fable-mythos-models-as-competition-heats-up-ahead-of-ipo"
      }
     ]
    },
    {
     "id": "energiewende",
     "label": "Energiewende & Klima",
-    "mentions": 10,
+    "mentions": 11,
     "average": null,
     "direction": "",
-    "basket_1w": 2.0,
-    "basket_1m": -2.4,
+    "basket_1w": 0.9,
+    "basket_1m": -2.7,
     "members": [
      {
       "name": "Siemens Energy",
-      "change_1m": -17.12
+      "change_1m": -13.9
      },
      {
       "name": "Vestas",
-      "change_1m": 12.31
+      "change_1m": 8.59
      }
     ],
     "stories": [
      {
-      "title": "COP31 in Antalya: Keine geeignete Bühne für Klimaschutz",
-      "url": "https://www.premiumtimesng.com/business/business-news/923983-analysis-cop31-nine-key-issues-to-shape-talks-as-un-climate-talks-open-in-turkiye.html"
+      "title": "Analyse: Die CO2-Emissionen fossiler Brennstoffe werden im Jahr 2026 sinken, da der Iran-Konflikt den Ölverbrauch beeinträchtigt",
+      "url": "https://www.dawn.com/news/2043484/fossil-fuel-emissions-fall-due-to-iran-war-renewables-research"
      },
      {
-      "title": "Analyse: Die CO2-Emissionen fossiler Brennstoffe werden im Jahr 2026 sinken, da der Iran-Konflikt den Ölverbrauch beeinträchtigt",
-      "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use"
+      "title": "Weltweite CO2-Emissionen steigen",
+      "url": "https://taz.de/Endlich-mal-kein-neuer-Rekord/!6228746/"
      }
     ]
    },
    {
     "id": "chips",
     "label": "Chips & Halbleiter",
-    "mentions": 3,
+    "mentions": 5,
     "average": null,
     "direction": "",
-    "basket_1w": -6.7,
-    "basket_1m": -18.3,
+    "basket_1w": -3.6,
+    "basket_1m": -14.2,
     "members": [
      {
       "name": "Nvidia",
@@ -3947,81 +4225,57 @@
      },
      {
       "name": "ASML",
-      "change_1m": -21.28
+      "change_1m": -13.87
      },
      {
       "name": "Infineon",
-      "change_1m": -22.32
+      "change_1m": -9.38
      }
     ],
     "stories": [
      {
       "title": "Spionageverdacht bei Nvidia: Künstliche Intimität",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+      "url": "https://www.dawn.com/news/2043502/trump-says-nvidia-ceo-huang-had-no-idea-lover-was-alleged-chinese-spy"
+     },
+     {
+      "title": "Nvidia Spion Skandal treibt Debatte über Chip-Exporte nach China",
+      "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss"
      }
     ]
    },
    {
-    "id": "pharma",
-    "label": "Pharma & Abnehmmittel",
-    "mentions": 1,
-    "average": null,
-    "direction": "",
-    "basket_1w": 3.7,
-    "basket_1m": 19.3,
-    "members": [
-     {
-      "name": "Eli Lilly",
-      "change_1m": 19.73
-     },
-     {
-      "name": "Novo Nordisk",
-      "change_1m": 7.82
-     },
-     {
-      "name": "Bayer",
-      "change_1m": 30.5
-     }
-    ],
-    "stories": []
-   },
-   {
     "id": "energie",
     "label": "Öl",
-    "mentions": 3,
+    "mentions": 5,
     "average": null,
     "direction": "",
-    "basket_1w": -9.6,
-    "basket_1m": -7.8,
+    "basket_1w": -9.9,
+    "basket_1m": -10.8,
     "members": [
      {
       "name": "Shell",
-      "change_1m": -1.53
+      "change_1m": -5.68
      },
      {
       "name": "Brent-Öl (Barrel)",
-      "change_1m": -14.0
+      "change_1m": -15.85
      }
     ],
     "stories": [
      {
-      "title": "COP31 in Antalya: Keine geeignete Bühne für Klimaschutz",
-      "url": "https://www.dawn.com/news/2043267/cop31-opens-with-leaders-under-pressure-to-tackle-climate-crisis"
-     },
-     {
-      "title": "Fervo hat jetzt $ 12B in Bestellungen für seine Geothermie-Power-Tech",
-      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/"
+      "title": "Analyse: Die CO2-Emissionen fossiler Brennstoffe werden im Jahr 2026 sinken, da der Iran-Konflikt den Ölverbrauch beeinträchtigt",
+      "url": "https://www.dawn.com/news/2043484/fossil-fuel-emissions-fall-due-to-iran-war-renewables-research"
      }
     ]
    },
    {
     "id": "emobil",
     "label": "Elektroautos & Batterien",
-    "mentions": 3,
+    "mentions": 6,
     "average": null,
     "direction": "",
-    "basket_1w": -0.9,
-    "basket_1m": 3.3,
+    "basket_1w": -0.6,
+    "basket_1m": 2.0,
     "members": [
      {
       "name": "Tesla",
@@ -4029,15 +4283,48 @@
      },
      {
       "name": "BYD",
-      "change_1m": -4.37
+      "change_1m": -4.83
      },
      {
       "name": "Volkswagen",
-      "change_1m": 4.86
+      "change_1m": 3.33
      },
      {
       "name": "BMW",
-      "change_1m": 13.76
+      "change_1m": 10.82
+     }
+    ],
+    "stories": [
+     {
+      "title": "Analyse: Die CO2-Emissionen fossiler Brennstoffe werden im Jahr 2026 sinken, da der Iran-Konflikt den Ölverbrauch beeinträchtigt",
+      "url": "https://www.dawn.com/news/2043484/fossil-fuel-emissions-fall-due-to-iran-war-renewables-research"
+     }
+    ]
+   },
+   {
+    "id": "ruestung",
+    "label": "Rüstung & Verteidigung",
+    "mentions": 5,
+    "average": null,
+    "direction": "",
+    "basket_1w": -6.9,
+    "basket_1m": 3.2,
+    "members": [
+     {
+      "name": "Rheinmetall",
+      "change_1m": -9.08
+     },
+     {
+      "name": "Hensoldt",
+      "change_1m": 3.65
+     },
+     {
+      "name": "BAE Systems",
+      "change_1m": 2.68
+     },
+     {
+      "name": "Lockheed Martin",
+      "change_1m": 15.42
      }
     ],
     "stories": []
