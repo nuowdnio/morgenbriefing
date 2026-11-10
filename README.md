@@ -8,10 +8,19 @@ Erstellt jeden Morgen automatisch ein deutschsprachiges News-Briefing aus seriö
 
 ## Briefing von Hand starten
 
-1. Öffne [Briefing starten](../../actions/workflows/briefing.yml) oder tippe auf der Webseite ganz unten auf **Briefing jetzt neu erstellen**.
-2. Tippe auf **Run workflow** und dann auf den grünen Knopf **Run workflow**.
+**Direkt auf der Webseite:** Tippe oben auf **Briefing neu erstellen**. Die Seite startet das Briefing bei GitHub, zeigt den Fortschritt und lädt das neue Briefing automatisch, sobald es fertig ist (meist nach 5 bis 8 Minuten). Mit dem Häkchen **auch per Mail** kommt es zusätzlich ins Postfach. Du kannst die Seite währenddessen schließen; beim nächsten Öffnen wartet sie weiter.
 
-Nach etwa fünf Minuten ist das neue Briefing online und in deinem Postfach. Möchtest du keine Mail, nimm vor dem Start das Häkchen bei „Briefing auch per Mail schicken“ heraus.
+Beim ersten Mal fragt die Seite nach einem GitHub-Token. Das ist ein Zugangsschlüssel, mit dem nur dieser eine Knopf funktioniert:
+
+1. Auf der Seite auf **Token bei GitHub anlegen** tippen (oder [hier](https://github.com/settings/personal-access-tokens/new)).
+2. Einen Namen eingeben, z. B. „Morgenbriefing“, und einen Ablauf wählen.
+3. Bei **Repository access** auf **Only select repositories** und nur dieses Repository wählen.
+4. Bei **Permissions** nur **Actions** auf **Read and write** stellen.
+5. **Generate token**, den Token kopieren und auf der Webseite einfügen.
+
+Der Token bleibt nur in diesem Browser gespeichert und geht nur an GitHub. Er kann nichts anderes, als Abläufe in diesem Repository zu starten. Ganz unten auf der Seite löschst du ihn wieder. Läuft er ab, fragt die Seite nach einem neuen. Auf jedem Gerät gibst du ihn einmal ein.
+
+**Ohne Token:** Öffne [Briefing starten](../../actions/workflows/briefing.yml) oder tippe auf der Webseite ganz unten auf **Briefing jetzt neu erstellen**, dann auf **Run workflow** und den grünen Knopf **Run workflow**. Möchtest du keine Mail, nimm vorher das Häkchen bei „Briefing auch per Mail schicken“ heraus.
 
 ## Die Mail am Morgen
 

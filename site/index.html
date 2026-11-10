@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
   <meta name="referrer" content="no-referrer">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; connect-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'none'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; connect-src 'self' https://api.github.com; img-src 'self' data:; base-uri 'none'; form-action 'none'">
   <title>Morgenbriefing</title>
   <link rel="icon" href="data:,">
   <link rel="stylesheet" href="styles.css">
@@ -19,6 +19,29 @@
     </div>
     <h1 id="date">Wird geladen</h1>
     <p id="stand" class="meta"></p>
+    <div id="refresh" class="refresh" hidden>
+      <div class="refresh-row">
+        <button id="refresh-button" class="primary" type="button">Briefing neu erstellen</button>
+        <label class="check"><input id="refresh-mail" type="checkbox"> auch per Mail</label>
+      </div>
+      <p id="refresh-status" class="meta" role="status" aria-live="polite"></p>
+      <form id="token-form" class="token-form" hidden>
+        <p>Damit die Seite das Briefing bei GitHub starten darf, braucht sie einmalig einen Zugangsschlüssel (Token). Er bleibt nur in diesem Browser gespeichert.</p>
+        <ol>
+          <li><a id="token-create" href="https://github.com/settings/personal-access-tokens/new" rel="noopener noreferrer">Token bei GitHub anlegen</a> (öffnet GitHub).</li>
+          <li>Name z. B. „Morgenbriefing“, Ablauf nach Wunsch.</li>
+          <li>Bei <strong>Repository access</strong>: <strong>Only select repositories</strong> und <span id="token-repo">dieses Repository</span> wählen.</li>
+          <li>Bei <strong>Permissions</strong>: <strong>Actions</strong> auf <strong>Read and write</strong> stellen. Sonst nichts.</li>
+          <li>Auf <strong>Generate token</strong> tippen, den Token kopieren und hier einfügen.</li>
+        </ol>
+        <label for="token-input">Token</label>
+        <input id="token-input" type="password" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="github_pat_…">
+        <div class="refresh-row">
+          <button class="primary" type="submit">Speichern und starten</button>
+          <button id="token-cancel" class="quiet" type="button">Abbrechen</button>
+        </div>
+      </form>
+    </div>
     <p id="mt-note" class="note">Texte aus fremdsprachigen Quellen sind maschinell übersetzt und können Fehler enthalten. Maßgeblich sind die verlinkten Originale.</p>
   </header>
 
@@ -45,6 +68,7 @@
     <label for="archive">Archiv</label>
     <select id="archive"></select>
     <p id="source-problems" class="meta"></p>
+    <p id="token-forget-row" hidden><button id="token-forget" class="quiet" type="button">Gespeicherten GitHub-Token aus diesem Browser löschen</button></p>
     <details>
       <summary id="source-summary">Quellen</summary>
       <ul id="source-list"></ul>

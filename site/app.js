@@ -18,11 +18,43 @@
     }
   }
 
-  function startUrl(hostname, pathname) {
+  function repoFromLocation(hostname, pathname) {
     const owner = /^([a-z0-9-]+)\.github\.io$/i.exec(hostname || "");
     const repo = /^\/([A-Za-z0-9._-]+)/.exec(pathname || "");
     if (!owner || !repo) return null;
-    return "https://github.com/" + owner[1] + "/" + repo[1] + "/actions/workflows/briefing.yml";
+    return { owner: owner[1], repo: repo[1] };
+  }
+
+  function startUrl(hostname, pathname) {
+    const target = repoFromLocation(hostname, pathname);
+    if (!target) return null;
+    return "https://github.com/" + target.owner + "/" + target.repo + "/actions/workflows/briefing.yml";
+  }
+
+  /* Neu erstellen direkt von der Seite: startet den GitHub-Ablauf mit dem Token des Nutzers. */
+  const TOKEN_KEY = "briefing.github.token";
+  const PENDING_KEY = "briefing.refresh.pending";
+  const API = "https://api.github.com/repos/";
+  const MAX_WAIT_MS = 30 * 60 * 1000;
+
+  function validToken(value) {
+    return /^(github_pat_|ghp_)[A-Za-z0-9_]{20,255}$/.test(String(value || "").trim());
+  }
+
+  function findRun(runs, sinceMs) {
+    return (runs || []).find(function (run) {
+      return run.event === "workflow_dispatch" && Date.parse(run.created_at) >= sinceMs - 60000;
+    }) || null;
+  }
+
+  function runStatusText(run, nowMs, sinceMs) {
+    const minutes = Math.max(0, Math.floor((nowMs - sinceMs) / 60000));
+    const elapsed = minutes < 1 ? "gerade gestartet" : "seit " + minutes + " Min.";
+    if (!run || run.status === "queued" || run.status === "requested" || run.status === "waiting") {
+      return "Wartet auf GitHub (" + elapsed + ") …";
+    }
+    if (run.status !== "completed") return "Briefing wird erstellt (" + elapsed + ", dauert meist 5–8 Min.) …";
+    return run.conclusion === "success" ? "Fertig. Neues Briefing wird geladen …" : "Der Lauf ist fehlgeschlagen.";
   }
 
   function visibleStories(stories, offTopics) {
@@ -420,6 +452,193 @@
       document.getElementById("theme").textContent = dark ? "Hell" : "Dunkel";
     }
 
+    function setupRefresh() {
+      const target = repoFromLocation(window.location.hostname, window.location.pathname);
+      if (!target) return;
+      const base = API + target.owner + "/" + target.repo + "/actions/";
+      const runsPage = "https://github.com/" + target.owner + "/" + target.repo + "/actions/workflows/briefing.yml";
+      const panel = document.getElementById("refresh");
+      const button = document.getElementById("refresh-button");
+      const mail = document.getElementById("refresh-mail");
+      const status = document.getElementById("refresh-status");
+      const form = document.getElementById("token-form");
+      const input = document.getElementById("token-input");
+      const forgetRow = document.getElementById("token-forget-row");
+      let timer = null;
+      document.getElementById("token-repo").textContent = target.owner + "/" + target.repo;
+      panel.hidden = false;
+
+      function token() { return read(TOKEN_KEY); }
+
+      function showForget() { forgetRow.hidden = !token(); }
+
+      function say(text, link) {
+        status.replaceChildren(document.createTextNode(text));
+        if (link) {
+          const anchor = element("a", "", " Details bei GitHub");
+          anchor.href = link;
+          anchor.rel = "noopener noreferrer";
+          status.append(anchor);
+        }
+      }
+
+      function api(path, options) {
+        const settings = Object.assign({ cache: "no-store" }, options || {});
+        settings.headers = Object.assign({
+          Accept: "application/vnd.github+json",
+          "X-GitHub-Api-Version": "2022-11-28",
+          Authorization: "Bearer " + token(),
+        }, settings.headers || {});
+        return fetch(base + path, settings).then(function (response) {
+          if (response.status === 401) {
+            write(TOKEN_KEY, "");
+            showForget();
+            throw new Error("Der gespeicherte Token ist ungültig oder abgelaufen. Bitte neu eingeben.");
+          }
+          if (response.status === 403 || response.status === 404) {
+            throw new Error("Der Token darf den Ablauf nicht starten. Prüfe: nur dieses Repository, Actions auf „Read and write“.");
+          }
+          if (!response.ok) throw new Error("GitHub antwortet mit Fehler " + response.status + ".");
+          return response.status === 204 ? null : response.json();
+        });
+      }
+
+      function busy(on) {
+        button.disabled = on;
+        button.textContent = on ? "Wird erstellt …" : "Briefing neu erstellen";
+      }
+
+      function finish(pending) {
+        write(PENDING_KEY, "");
+        let tries = 0;
+        function attempt() {
+          tries += 1;
+          return reloadNewest(pending.since).then(function (fresh) {
+            if (fresh) {
+              busy(false);
+              say("Neues Briefing geladen.");
+            } else if (tries < 8) {
+              timer = window.setTimeout(attempt, 15000);
+            } else {
+              busy(false);
+              say("Das Briefing ist fertig, aber die Seite zeigt noch den alten Stand. Lade die Seite in ein paar Minuten neu.");
+            }
+          });
+        }
+        attempt().catch(function () { busy(false); say("Neues Briefing konnte nicht geladen werden. Lade die Seite neu."); });
+      }
+
+      function poll(pending) {
+        busy(true);
+        api("workflows/briefing.yml/runs?event=workflow_dispatch&per_page=5").then(function (data) {
+          const run = findRun(data && data.workflow_runs, pending.since);
+          const now = Date.now();
+          say(runStatusText(run, now, pending.since), run && run.html_url);
+          if (run && run.status === "completed") {
+            if (run.conclusion === "success") return finish(pending);
+            write(PENDING_KEY, "");
+            busy(false);
+            return null;
+          }
+          if (now - pending.since > MAX_WAIT_MS) {
+            write(PENDING_KEY, "");
+            busy(false);
+            say("Das dauert ungewöhnlich lange.", (run && run.html_url) || runsPage);
+            return null;
+          }
+          timer = window.setTimeout(function () { poll(pending); }, 15000);
+          return null;
+        }).catch(function (error) {
+          busy(false);
+          write(PENDING_KEY, "");
+          say(error.message, runsPage);
+          if (!token()) form.hidden = false;
+        });
+      }
+
+      function launch() {
+        if (timer) window.clearTimeout(timer);
+        busy(true);
+        say("Starte bei GitHub …");
+        const pending = { since: Date.now() };
+        api("workflows/briefing.yml/dispatches", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ ref: "main", inputs: { mail: mail.checked } }),
+        }).then(function () {
+          write(PENDING_KEY, JSON.stringify(pending));
+          timer = window.setTimeout(function () { poll(pending); }, 5000);
+        }).catch(function (error) {
+          busy(false);
+          say(error.message, runsPage);
+          if (!token()) form.hidden = false;
+        });
+      }
+
+      button.addEventListener("click", function () {
+        if (!token()) {
+          form.hidden = false;
+          input.focus();
+          return;
+        }
+        launch();
+      });
+      form.addEventListener("submit", function (event) {
+        event.preventDefault();
+        const value = input.value.trim();
+        if (!validToken(value)) {
+          say("Das sieht nicht wie ein GitHub-Token aus. Er beginnt mit „github_pat_“.");
+          return;
+        }
+        write(TOKEN_KEY, value);
+        input.value = "";
+        form.hidden = true;
+        showForget();
+        launch();
+      });
+      document.getElementById("token-cancel").addEventListener("click", function () {
+        form.hidden = true;
+        input.value = "";
+      });
+      document.getElementById("token-forget").addEventListener("click", function () {
+        write(TOKEN_KEY, "");
+        showForget();
+        say("Token gelöscht.");
+      });
+      showForget();
+
+      try {
+        const pending = JSON.parse(read(PENDING_KEY) || "null");
+        if (pending && token() && Date.now() - pending.since < MAX_WAIT_MS) poll(pending);
+      } catch (error) { write(PENDING_KEY, ""); }
+    }
+
+    function reloadNewest(sinceMs) {
+      const bust = "?v=" + Date.now();
+      return fetchJson("data/index.json" + bust).then(function (index) {
+        const day = index.dates[0];
+        return fetchJson("data/" + day + ".json" + bust).then(function (data) {
+          if (Date.parse(data.generated_at) < sinceMs - 60000) return false;
+          state.data = data;
+          fillArchive(index.dates);
+          renderMeta();
+          renderChips();
+          renderStories();
+          return true;
+        });
+      });
+    }
+
+    function fillArchive(dates) {
+      const select = document.getElementById("archive");
+      select.replaceChildren();
+      dates.forEach(function (day) {
+        const option = element("option", "", new Date(day + "T12:00:00Z").toLocaleDateString("de-DE", { timeZone: "Europe/Berlin", weekday: "short", day: "2-digit", month: "2-digit", year: "numeric" }));
+        option.value = day;
+        select.append(option);
+      });
+    }
+
     const restart = startUrl(window.location.hostname, window.location.pathname);
     if (restart) {
       document.getElementById("restart-link").href = restart;
@@ -446,20 +665,18 @@
       renderStories();
     });
 
+    setupRefresh();
+    const select = document.getElementById("archive");
+    select.addEventListener("change", function () { showDay(select.value).catch(showError); });
     fetchJson("data/index.json").then(function (index) {
-      const select = document.getElementById("archive");
-      index.dates.forEach(function (day) {
-        const option = element("option", "", new Date(day + "T12:00:00Z").toLocaleDateString("de-DE", { timeZone: "Europe/Berlin", weekday: "short", day: "2-digit", month: "2-digit", year: "numeric" }));
-        option.value = day;
-        select.append(option);
-      });
-      select.addEventListener("change", function () { showDay(select.value).catch(showError); });
+      fillArchive(index.dates);
       return showDay(index.dates[0]);
     }).catch(showError);
   }
 
   return {
-    safeUrl: safeUrl, startUrl: startUrl, visibleStories: visibleStories, splitTop: splitTop,
+    safeUrl: safeUrl, startUrl: startUrl, repoFromLocation: repoFromLocation, validToken: validToken,
+    findRun: findRun, runStatusText: runStatusText, visibleStories: visibleStories, splitTop: splitTop,
     formatNumber: formatNumber, formatChange: formatChange, sparkPoints: sparkPoints, start: start,
   };
 });

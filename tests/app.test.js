@@ -1,6 +1,6 @@
 const test = require("node:test");
 const assert = require("node:assert");
-const { safeUrl, startUrl, visibleStories, splitTop, formatNumber, formatChange, sparkPoints } = require("../site/app.js");
+const { safeUrl, startUrl, repoFromLocation, validToken, findRun, runStatusText, visibleStories, splitTop, formatNumber, formatChange, sparkPoints } = require("../site/app.js");
 
 const stories = [
   { rank: 3, topic: "sport" },
@@ -47,4 +47,34 @@ test("Kurse und Veränderungen im deutschen Format", () => {
 test("die Kurve füllt die Fläche von unten nach oben", () => {
   assert.strictEqual(sparkPoints([1, 2, 3], 10, 10), "0.0,10.0 5.0,5.0 10.0,0.0");
   assert.strictEqual(sparkPoints([5], 10, 10), "");
+});
+
+test("Repository wird aus der Adresse der Seite erkannt", () => {
+  assert.deepStrictEqual(repoFromLocation("nuowdnio.github.io", "/morgenbriefing/"), { owner: "nuowdnio", repo: "morgenbriefing" });
+  assert.strictEqual(repoFromLocation("example.org", "/x/"), null);
+});
+
+test("nur echte GitHub-Tokens werden gespeichert", () => {
+  assert.ok(validToken("github_pat_11ABCDEFG0123456789_abcdefghijklmnopqrstuvwxyz"));
+  assert.ok(!validToken("mein passwort"));
+  assert.ok(!validToken("github_pat_<script>"));
+});
+
+test("der eigene Lauf wird gefunden, ältere nicht", () => {
+  const since = Date.parse("2026-11-10T08:00:00Z");
+  const runs = [
+    { event: "workflow_dispatch", created_at: "2026-11-10T07:30:00Z", status: "completed" },
+    { event: "schedule", created_at: "2026-11-10T08:00:10Z", status: "queued" },
+    { event: "workflow_dispatch", created_at: "2026-11-10T08:00:05Z", status: "in_progress", id: 7 },
+  ];
+  assert.strictEqual(findRun(runs, since).id, 7);
+  assert.strictEqual(findRun(runs.slice(0, 2), since), null);
+});
+
+test("Statusmeldungen während des Laufs", () => {
+  const since = 0;
+  assert.match(runStatusText(null, 1000, since), /Wartet auf GitHub/);
+  assert.match(runStatusText({ status: "in_progress" }, 3 * 60000, since), /seit 3 Min/);
+  assert.match(runStatusText({ status: "completed", conclusion: "success" }, 1, since), /Fertig/);
+  assert.match(runStatusText({ status: "completed", conclusion: "failure" }, 1, since), /fehlgeschlagen/);
 });

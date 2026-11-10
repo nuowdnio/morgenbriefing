@@ -183,9 +183,30 @@ def test_project_uses_no_keys_or_paid_services():
         for path in ROOT.rglob("*")
         if path.is_file() and path.suffix in suffixes and path.resolve() != this_file
         and ".git/" not in path.as_posix() and "/site/data/" not in path.as_posix()
-        and forbidden.search(path.read_text(encoding="utf-8", errors="ignore"))
+        and forbidden.search(_without_allowed(path))
     ]
     assert hits == []
+
+
+# Einzige erlaubte Ausnahme: Der Knopf "Briefing neu erstellen" schickt den Token, den der Nutzer
+# selbst im Browser eingibt, an GitHub. Im Projekt selbst steht kein Schlüssel.
+ALLOWED = {"site/app.js": ['Authorization: "Bearer " + token(),']}
+
+
+def _without_allowed(path):
+    text = path.read_text(encoding="utf-8", errors="ignore")
+    for snippet in ALLOWED.get(path.relative_to(ROOT).as_posix(), []):
+        text = text.replace(snippet, "")
+    return text
+
+
+def test_browser_token_only_goes_to_github():
+    app = (ROOT / "site" / "app.js").read_text(encoding="utf-8")
+    html = (ROOT / "site" / "index.html").read_text(encoding="utf-8")
+    assert app.count('Authorization: "Bearer " + token()') == 1
+    assert 'const API = "https://api.github.com/repos/";' in app and "fetch(base + path" in app
+    assert re.search(r"github_pat_[A-Za-z0-9_]{20,}|ghp_[A-Za-z0-9]{20,}", app + html) is None
+    assert "connect-src 'self' https://api.github.com;" in html
 
 
 def test_run_with_markets_adds_section_and_survives_outage(site, tmp_path):
