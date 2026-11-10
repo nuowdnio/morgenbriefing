@@ -109,6 +109,21 @@ button, select { font: inherit; color: inherit; }
 .footer summary { cursor: pointer; padding: .7rem 0; min-height: 44px; }
 .footer ul { margin: 0; padding-left: 1.1rem; color: var(--muted); }
 
+/* Neu erstellen */
+.refresh { margin-top: .9rem; }
+.refresh-row { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .9rem; }
+.primary { min-height: 44px; padding: .5rem 1rem; border-radius: 6px; border: 1px solid var(--accent); background: var(--accent); color: var(--paper); font-weight: 600; cursor: pointer; }
+.primary:disabled { opacity: .65; cursor: progress; }
+.check { display: inline-flex; align-items: center; gap: .4rem; min-height: 44px; font-size: .92rem; color: var(--muted); }
+.check input { width: 1.15rem; height: 1.15rem; }
+#refresh-status:empty { display: none; }
+.token-form { margin-top: .8rem; padding: .9rem 1rem; border: 1px solid var(--rule); border-radius: 8px; background: var(--surface); font-size: .95rem; }
+.token-form p { margin: 0 0 .5rem; }
+.token-form ol { margin: 0 0 .8rem; padding-left: 1.2rem; }
+.token-form li { margin-bottom: .25rem; }
+.token-form label { display: block; font-weight: 600; margin-bottom: .3rem; }
+.token-form input[type="password"] { width: 100%; min-height: 44px; padding: .4rem .6rem; margin-bottom: .7rem; font: inherit; color: inherit; background: var(--paper); border: 1px solid var(--rule); border-radius: 6px; }
+
 /* Börse & Märkte */
 .market-summary { margin: .7rem 0 0; font-size: 1.05rem; }
 .market-head { font-size: 1.15rem; margin-top: 1.4rem; }
