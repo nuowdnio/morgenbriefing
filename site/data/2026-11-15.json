@@ -1,0 +1,3817 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T04:35:18.572017+00:00",
+ "window_hours": 24,
+ "top_count": 5,
+ "translator": "Argos Translate",
+ "embedder": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+ "warnings": [],
+ "topics": [
+  {
+   "id": "deutschland",
+   "label": "Deutschland"
+  },
+  {
+   "id": "europa",
+   "label": "Europa"
+  },
+  {
+   "id": "weltpolitik",
+   "label": "Weltpolitik"
+  },
+  {
+   "id": "wirtschaft",
+   "label": "Wirtschaft & Finanzen"
+  },
+  {
+   "id": "wissenschaft",
+   "label": "Wissenschaft"
+  },
+  {
+   "id": "technologie",
+   "label": "Technologie & KI"
+  },
+  {
+   "id": "klima",
+   "label": "Klima & Umwelt"
+  },
+  {
+   "id": "gesundheit",
+   "label": "Gesundheit"
+  },
+  {
+   "id": "kultur",
+   "label": "Kultur"
+  },
+  {
+   "id": "sport",
+   "label": "Sport"
+  }
+ ],
+ "stories": [
+  {
+   "rank": 1,
+   "topic": "weltpolitik",
+   "title": "US-Flugchaos durch Reparatur alter Kupferkabel verursacht: Trump-Admin",
+   "summary": [
+    "Bis Mitte des Morgens Samstag hatte er keine öffentliche Erklärung über den Bodenstopp abgegeben.",
+    "Die US Federal Aviation Administration (FAA) sagte, dass die Störung des Flugverkehrs aufgrund eines Kommunikationsfehlers bis Samstag zur Annullierung von mehr als 16.000 Flügen führen wird.",
+    "Flugzeuge drücken sich zurück, rollen und starten, und es ist sicher zu fliegen, sagte Duffy am Samstag, 12 Stunden nach dem Ausfall."
+   ],
+   "machine_translated": true,
+   "single_source": false,
+   "source_count": 3,
+   "region_count": 3,
+   "published": "2026-11-15T02:52:31+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044632/us-flight-chaos-caused-by-repair-of-old-copper-wiring-trump-admin"
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044466/us-flights-resume-after-rare-hours-long-nationwide-grounding-but-cancellations-delays-persist"
+    },
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-14-us-to-resume-flights-after-air-traffic-network-failure-sparks-chaos/"
+    },
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "ownership": "privat",
+     "url": "https://en.mercopress.com/2026/11/14/us-resumes-flights-after-a-four-and-a-half-hour-shutdown-caused-by-obsolete-equipment?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044632/us-flight-chaos-caused-by-repair-of-old-copper-wiring-trump-admin",
+     "title": "",
+     "text": [
+      "Müde Reisende erlitten mehr Flugunterbrechungen, als der Service an US-Flughäfen nach einer stundenlangen totalen Unterbrechung wieder aufgenommen wurde, wobei Beamte sagten, dass sich die Situation am Sonntag wieder normalisieren sollte.",
+      "Die Trump-Regierung beschuldigte das Chaos, das am Freitag begann, auf einen verpfuschten Ersatz alter Kupferdraht-Kommunikationsleitungen.",
+      "Der landesweite Bodenstopp - was bedeutet, dass keine Flugzeuge starten können - löste ein weit verbreitetes Chaos aus und ließ Hunderttausende von Passagieren in der Schwebe, wobei einige Flugzeuge ausgezogen wurden, kurz bevor sie von Flugpersonal abfliegen sollten, das im Dunkeln über sich entwickelnde Ereignisse erschien.",
+      "„Müde.",
+      "Erschöpft.",
+      "Frustriert.",
+      "Ja, weißt du, es ist nur ein Durcheinander, oder?"
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044466/us-flights-resume-after-rare-hours-long-nationwide-grounding-but-cancellations-delays-persist",
+     "title": "US-Flüge werden nach seltenen stundenlangen landesweiten Erdungen wieder aufgenommen, aber Stornierungen, Verspätungen bleiben bestehen",
+     "text": [
+      "Müde Reisende waren am Samstag auf weitere Verspätungen und Stornierungen vorbereitet, da die Flüge von US-Flughäfen wieder aufgenommen wurden, nachdem sie wegen eines großen Ausfalls veralteter Kommunikationssysteme vier Stunden lang geerdet waren.",
+      "Der landesweite Stopp am Freitag löste ein weit verbreitetes Chaos aus und ließ Hunderttausende von Passagieren in der Schwebe, wobei einige wenige Augenblicke vor dem Abflug von Flugpersonal aus dem Flugzeug gezogen wurden, das im Dunkeln über die sich entwickelnden Ereignisse auftauchte.",
+      "„Müde.",
+      "Erschöpft.",
+      "Frustriert.",
+      "Ja, weißt du, es ist nur ein Durcheinander, oder?",
+      "Lisa Beraid, 48, die für eine Versicherungsgesellschaft arbeitet, sagte AFP, als sie am Samstagmorgen auf einen Flug am New Yorker Flughafen La Guardia wartete."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-14-us-to-resume-flights-after-air-traffic-network-failure-sparks-chaos/",
+     "title": "USA wollen Flüge wieder aufnehmen, nachdem der Ausfall des Luftverkehrsnetzes Chaos ausgelöst hat",
+     "text": [
+      "WASHINGTON, 13. November (Reuters) - Die US-Luftfahrtbehörde Federal Aviation Administration hob am Freitag einen landesweiten Bodenstopp auf, nachdem ein Kommunikationsfehler in den Flugverkehrskontrollzentren Chaos auf Flughäfen verursacht und die längste landesweite Abschaltung seit den Anschlägen vom 11. September 2001 ausgelöst hatte."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "url": "https://en.mercopress.com/2026/11/14/us-resumes-flights-after-a-four-and-a-half-hour-shutdown-caused-by-obsolete-equipment?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "title": "USA nehmen Flüge nach einer viereinhalbstündigen Abschaltung durch veraltete Ausrüstung wieder auf",
+     "text": [
+      "Die US-Luftfahrtbehörde Federal Aviation Administration (FAA) hob am Freitagabend den landesweiten Bodenstopp auf, den sie am Nachmittag angeordnet hatte, nachdem rund viereinhalb Stunden Luftraum geschlossen worden waren und Tausende von Flügen gestrichen wurden.",
+      "Donald Trumps Regierung beschuldigte den Ausfall überlasteter, veralteter analoger Telekommunikationsgeräte in Flugsicherungszentren, schloss vorerst einen Cyberangriff aus und warnte, dass die Rückkehr zur Normalität langsam sein würde."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "topic": "klima",
+   "title": "Türkei: Tausende demonstrieren für Klima und Menschenrechte",
+   "summary": [
+    "Während der Klimakonferenz sind im türkischen Antalya tausende Menschen auf die Straße gegangen.",
+    "Regenbogensocken, Eisbärenkostüme und Erdoğan-Kritik: Zur Halbzeit der Klimakonferenz wurde Antalya zum Schauplatz eines Massenprotests – ein seltenes Ereignis.",
+    "Die Opposition nutzte eine seltene Gelegenheit zum Protest gegen die Regierung."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 3,
+   "region_count": 2,
+   "published": "2026-11-14T19:32:46+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/ausland/tuerkei-antalya-demo-klimaschutz-menschenrechte-100.html"
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044520/thousands-rally-in-antalya-to-demand-climate-justice-as-cop31-talks-hit-midpoint"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Klimakonferenz-in-der-Tuerkei/!6230054/"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044520/thousands-rally-in-antalya-to-demand-climate-justice-as-cop31-talks-hit-midpoint",
+     "title": "Tausende versammeln sich in Antalya, um Klimagerechtigkeit zu fordern, während die COP31-Gespräche den Mittelpunkt erreichten",
+     "text": [
+      "Tausende Demonstranten gingen am Samstag in der türkischen Stadt, in der COP31 stattfand, auf die Straße, um dem Klimagipfel vorzuwerfen, diejenigen, die die Hauptlast der Umweltzerstörung tragen, im Stich zu lassen.",
+      "Die Demonstration des Dissenses kommt, als sich die Verhandlungsführer der letzten Woche der globalen Klimagespräche in Antalya nähern, in der sich fast 200 Nationen bemühen, bis Freitag einen Deal abzuschließen.",
+      "Es wird nicht erwartet, dass der Gipfel einen großen Durchbruch bringen wird, frustrierende Aktivisten, die härtere Beschränkungen für planetenerwärmende fossile Brennstoffe und neue Zusagen fordern, um ärmeren Ländern zu helfen, sich an die Klimaauswirkungen anzupassen."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Klimakonferenz-in-der-Tuerkei/!6230054/",
+     "title": "Klimakonferenz in der Türkei: Tausende bei Demo für Klimaschutz und Menschenrechte",
+     "text": [],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "topic": "technologie",
+   "title": "Petition: Nvidia-Mitarbeiter und Elon Musk wollen Huang zurück",
+   "summary": [
+    "Trotz mehrerer Affären wünschen sich viele die Rückkehr von Jensen Huang an die Nvidia-Spitze.",
+    "Ein interner und ein externer Aufruf finden Zuspruch."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 3,
+   "region_count": 3,
+   "published": "2026-11-14T21:41:22+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044511/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang"
+    },
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    },
+    {
+     "source": "Golem",
+     "country": "Deutschland",
+     "ownership": "privat",
+     "url": "https://www.golem.de/news/petition-nvidia-mitarbeiter-und-elon-musk-wollen-huang-zurueck-2611-215228.html"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044511/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang",
+     "title": "Musk sagt, dass Nvidia \"kritische Geschäfte\" ohne Jensen Huang verlieren wird",
+     "text": [
+      "Elon Musk sagte am Samstag, dass der Chiphersteller Nvidia \"kritische\" Geschäfte verlieren würde, ohne seinen jetzt verdrängten Chief Executive Officer (CEO) Jensen Huang.",
+      "Huang trat am Donnerstag nach Enthüllungen über außereheliche Affären zurück, darunter eine, an der ein mutmaßlicher chinesischer Spion beteiligt war, der den Chiphersteller in die Krise stürzte und Schockwellen über eine KI-Industrie schickte, der er half, Geld zu verdienen.",
+      "In einem Beitrag auf X sagte Musk, dass, während Huang die Lieferkette bei Nvidia \"brillant\" antrieb, viele solcher Geschäfte \"ein Handschlag mit Jensen waren, kein schriftlicher Vertrag\".",
+      "\"Ohne Jensen werden zumindest einige dieser kritischen Geschäfte verloren gehen.\""
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+     "title": "Elon Musk, andere Tech-Manager unterzeichnen Petition, die Nvidia auffordert, Jensen Huang wieder einzustellen",
+     "text": [
+      "Die Petition hatte am Samstagnachmittag mehr als 115.000 Unterschriften erhalten."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "topic": "technologie",
+   "title": "SpaceX: Starship landet ohne Landung des Boosters",
+   "summary": [
+    "Landung erfolgreich, System gescheitert.",
+    "Das Starship hat ein Loch im Hitzeschutzschild und der Booster landet nicht aus Treibstoffmangel."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-15T00:14:22+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss"
+    },
+    {
+     "source": "Golem",
+     "country": "Deutschland",
+     "ownership": "privat",
+     "url": "https://www.golem.de/news/spacex-starship-startet-erneut-ohne-landung-des-boosters-2611-215218.html"
+    }
+   ],
+   "details": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+     "title": "SpaceX's Raumschiff, das von Launchpad-Armen in dramatischen ersten erobert wurde",
+     "text": [
+      "SpaceX-Beamte sagen, dass der Fang durch mechanische Arme die volle Wiederverwendbarkeit von Starship zeigt, die für ein schnelles, kostengünstiges Recycling entscheidend ist."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "topic": "weltpolitik",
+   "title": "Tausche Frieden gegen Donbass",
+   "summary": [
+    "Washington drängt Kiew zu Gebietsabtretungen.",
+    "Putin fordert auch Land, das seine Truppen nicht kontrollieren.",
+    "Europa hat sich auf ein Verhandlungsteam geeinigt."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-14T10:35:08+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/briefing/trump-effekt/midterms-newsletter-dublin-moskau-kushner-witkoff-100.html"
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
+    }
+   ],
+   "details": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy",
+     "title": "Die USA treiben die Ukraine, die Land an Russland im Austausch für die NATO-Mitgliedschaft abgibt: Selenskyj",
+     "text": [
+      "Putin hat angedeutet, dass Russland nicht von territorialen Forderungen nach der Kontrolle von Teilen der Ukraine zurückweichen wird und hat die Idee abgelehnt, ausländische Friedenstruppen im Land einzusetzen."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "topic": "wirtschaft",
+   "title": "Microsoft: Störungen behoben - Dienste funktionieren wieder",
+   "summary": [
+    "Der US-Technologie-Gigant meldet, dass alle seine Dienste wieder funktionieren.",
+    "Alle Störungen bei Diensten wie Outlook oder Teams seien beseitigt worden, so der Konzern."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-14T17:28:45+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/microsoft-office-outlook-teams-ausfaelle-behoben-100.html"
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044507/microsoft-announces-service-restored-global-outage-over"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044507/microsoft-announces-service-restored-global-outage-over",
+     "title": "Microsoft kündigt Service \"restauriert\", globalen Ausfall über",
+     "text": [
+      "Tech-Riese Microsoft sagte am Samstag, es habe den Service für die Kunden \"restauriert\" und damit einen massiven Ausfall erreicht, der Chaos verursachte und öffentliche Dienste und Geschäfte auf der ganzen Welt störte.",
+      "\"Wir haben unsere Bemühungen abgeschlossen, um das zugrunde liegende Problem des Vorfalls anzugehen und den Service für die verbleibenden betroffenen Kunden und Regionen wiederherzustellen\", sagte das US-amerikanische Unternehmen in einem X-Post.",
+      "Microsoft hatte bereits am Tag zuvor eine \"breite Wiederherstellung\" für Outlook-E-Mails und andere Dienste gemeldet, in der es hieß, dass die Hauptstörung auf ein technisches Problem zurückzuführen sei und \"nicht mit Cyber oder KI / Agenten zusammenhängt\"."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "topic": "weltpolitik",
+   "title": "Politiker Egos und ideologische Aufhänge nicht mehr Stimmen in SA gewinnen",
+   "summary": [
+    "Die Wahlen zeigten, dass die Wähler zunehmend bereit sind, ihre alten Loyalitäten aufzugeben, was alle politischen Parteien dazu zwingt, ihre Herangehensweise an eine Wählerschaft zu überdenken, die eine bessere Regierungsführung fordert."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T05:00:00+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-15-politicians-egos-and-ideological-hang-ups-no-longer-win-votes-in-sa/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 8,
+   "topic": "technologie",
+   "title": "Die Liebesfalle als Waffe der Geheimdienste",
+   "summary": [
+    "Wurde dem Tech-Milliardär eine uralte Spionagemasche zum Verhängnis?",
+    "Eine Affäre mit einer Frau, die für Peking spioniert haben soll, kostete Nvidia-Chef Jensen Huang den Job."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-15T00:08:07+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/panorama/kriminalitaet/spionage-nvidia-huang-liebesfalle-historisch-100.html"
+    },
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    }
+   ],
+   "details": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+     "title": "Wo war das Sicherheitsteam von Nvidia?",
+     "text": [
+      "Der Sicherheitschef von Nvidia ist im August ruhig gegangen, und jetzt, da CEO Jensen Huang wegen seiner Beziehungen zurückgetreten ist, einschließlich einer mit einer Führungskraft eines Unternehmens, das verdächtigt wird, Chips nach China zu leiten, sagt ein ehemaliger Geheimdienstoffizier, dass es die Art von Leck ist, das alltägliche Gespräche führt, für die die meisten Sicherheitsteams von Unternehmen schlecht gerüstet sind."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "topic": "weltpolitik",
+   "title": "Ölkrise und Proteste setzen Chiles rechtsextremen Präsidenten unter Druck",
+   "summary": [
+    "Chiles rechtsextremer Präsident José Antonio Kast sieht sich zunehmender öffentlicher Wut ausgesetzt, da steigende Kraftstoffpreise Streiks und Proteste im ganzen Land auslösen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T16:05:12+00:00",
+   "links": [
+    {
+     "source": "NPR",
+     "country": "USA",
+     "ownership": "gemeinnützig",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 10,
+   "topic": "weltpolitik",
+   "title": "Moskau sagt, es werde die Teilnahme der EU-Delegation an Ukraine-Gesprächen nicht diktieren",
+   "summary": [
+    "Moskau, das zuvor darauf bestanden hatte, dass europäische Vertreter keinen Platz am Verhandlungstisch hätten, hat nun seine Haltung aufgeweicht."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T21:05:23+00:00",
+   "links": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/14/moscow-says-it-will-not-dictate-eu-delegations-participation-in-ukraine-talks"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 11,
+   "topic": "weltpolitik",
+   "title": "Saudi-geführte Koalition fängt zwei Raketen, zwei Drohnen in Riad ab",
+   "summary": [
+    "Die Kämpfe in Jemens Marib und al-Jawf eskalieren, wie die UN-Agentur sagt, dass seit August mehr als 340.000 Jemeniten vertrieben wurden."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T02:59:06+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 12,
+   "topic": "technologie",
+   "title": "Uralt-Technik der US-Flugsicherung wohl schuld an Flugstopp",
+   "summary": [
+    "Technik aus den 80ern hat wohl den Flugausfall in den USA ausgelöst.",
+    "Es ist nicht der erste derartige Zwischenfall.",
+    "Wie groß sind die Modernisierungsprobleme der US-Flugsicherung?"
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 3,
+   "region_count": 1,
+   "published": "2026-11-14T15:02:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/ausland/usa-flugstop-flugsicherung-faq-100.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Luftverkehr-in-den-USA/!6230034/"
+    },
+    {
+     "source": "Golem",
+     "country": "Deutschland",
+     "ownership": "privat",
+     "url": "https://www.golem.de/news/kommunikationsprobleme-mehr-als-10-000-flugausfaelle-nach-technikpanne-in-den-usa-2611-215220.html"
+    }
+   ],
+   "details": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Luftverkehr-in-den-USA/!6230034/",
+     "title": "Luftverkehr in den USA: Technik-Panne sorgt für Tausende Flugausfälle",
+     "text": [
+      "Wegen eines Ausfalls mehrerer Flugsicherungssysteme hat die US-Luftfahrtbehörde zeitweise ein landesweites Startverbot verhängt."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "Golem",
+     "country": "Deutschland",
+     "url": "https://www.golem.de/news/kommunikationsprobleme-mehr-als-10-000-flugausfaelle-nach-technikpanne-in-den-usa-2611-215220.html",
+     "title": "Kommunikationsprobleme: Mehr als 10.000 Flugausfälle nach Technikpanne in den USA",
+     "text": [
+      "Erst vor wenigen Tagen hat die US-Flugsicherung die Ausmusterung von Disketten angekündigt.",
+      "Doch die alten und neuen Systeme harmonieren noch nicht."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 13,
+   "topic": "weltpolitik",
+   "title": "Udeh enthüllt ATM-Unterstützungsgruppe für Tinubu, Mbah, APC-Kandidaten",
+   "summary": [
+    "Die politische Unterstützungsgruppe As Tinubu and Mbah Move (ATM) wird Unterstützung für die Wiederwahl von Präsident Bola Ahmed Tinubu, Enugu State Governor Peter Mbah und anderen Kandidaten des All Progressives Congress (APC) bei den Parlamentswahlen 2027 mobilisieren."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T22:40:50+00:00",
+   "links": [
+    {
+     "source": "Premium Times",
+     "country": "Nigeria",
+     "ownership": "privat",
+     "url": "https://www.premiumtimesng.com/promoted/925210-2027-udeh-unveils-atm-support-group-for-tinubu-mbah-apc-candidates.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 14,
+   "topic": "weltpolitik",
+   "title": "Katar und Türkei unterzeichnen Verteidigungsabkommen für \"einheitliche Position\" angesichts externer Angriffe",
+   "summary": [
+    "Eine rasche Umgestaltung der multilateralen Sicherheitslandschaft im Golf und im Nahen Osten ist im Gange, ausgelöst durch den Iran-Krieg und die Signale der USA, dass sie ihre langjährige Sicherheitspräsenz in der Region anpassen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T13:50:49+00:00",
+   "links": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/14/qatar-and-turkey-sign-defence-agreement-for-unified-position-facing-external-attacks"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 15,
+   "topic": "technologie",
+   "title": "Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden",
+   "summary": [
+    "Mit Tesla verkauft erstmals ein Hersteller sein Robotaxi an Privatpersonen.",
+    "Doch der Nutzen des Cybercab ist stark eingeschränkt."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-14T20:04:44+00:00",
+   "links": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+    },
+    {
+     "source": "Golem",
+     "country": "Deutschland",
+     "ownership": "privat",
+     "url": "https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html"
+    }
+   ],
+   "details": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+     "title": "Tesla eröffnet Cybercab-Vorbestellungen \"für den persönlichen Gebrauch\" mit Geo-Einschränkungen und einer monatlichen Gebühr von 299 US-Dollar",
+     "text": [
+      "Sogar Elon Musk sagte, die monatliche Gebühr sei \"zu hoch\"."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 16,
+   "topic": "gesundheit",
+   "title": "Die USA haben den Masern-Eliminationsstatus verloren, sagen globale Gesundheitsbehörden",
+   "summary": [
+    "Vor fast einem Vierteljahrhundert besiegt, haben Masern in den USA wieder Wurzeln geschlagen Im Vergleich zu früheren Regierungen wurde die zweite Amtszeit von Präsident Donald Trump durch Fehlinformationen und Maßnahmen beeinträchtigt, die die öffentliche Gesundheit ersticken."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T14:20:01+00:00",
+   "links": [
+    {
+     "source": "KFF Health News",
+     "country": "USA",
+     "ownership": "gemeinnützig",
+     "url": "https://kffhealthnews.org/public-health/us-measles-elimination-status-lost-outbreaks-continuous-spread-year-paho-cdc/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 17,
+   "topic": "deutschland",
+   "title": "Hubertus Heil kandidiert für SPD-Vorsitz",
+   "summary": [
+    "Hubertus Heil eröffnet das Rennen um den Vorsitz der SPD.",
+    "Der ehemalige Arbeitsminister Hubertus Heil gab bekannt, für den SPD-Vorsitz kandidieren zu wollen.",
+    "Das schreibt der Ex-Arbeitsminister in einem Brief an die Partei."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 1,
+   "published": "2026-11-14T19:59:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/hubertus-heil-spd-partei-vorsitz-kandidatur-100.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Rennen-um-SPD-Vorsitz/!6230057/"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/politik/deutschland/hubertus-heil-spd-partei-vorsitz-kandidatur-100.html",
+     "title": "",
+     "text": [
+      "Er kündigt als Erster offiziell seine Kandidatur an."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Rennen-um-SPD-Vorsitz/!6230057/",
+     "title": "Rennen um SPD-Vorsitz: Heil wirft seinen Hut",
+     "text": [
+      "… als Erster in den Ring.",
+      "Wer könnte noch?"
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 18,
+   "topic": "deutschland",
+   "title": "Facharzt: Schneller Termin bald nur für Selbstzahler?",
+   "summary": [
+    "Kassenärzte-Chef Gassen hält das wegen Honorarkürzungen bald für wahrscheinlich.",
+    "Kassenärzte-Chef Andreas Gassen erwartet, dass gesetzlich Versicherte künftig mehr selbst zahlen müssen.",
+    "Wer selbst zahlt, kommt schneller zum Facharzt?"
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 1,
+   "published": "2026-11-14T18:26:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/arzt-termin-kosten-facharzt-verband-kassenaerzte-gassen-kritik-100.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Mehr-Kosten-fuer-gesetzlich-Versicherte/!6230047/"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/politik/deutschland/arzt-termin-kosten-facharzt-verband-kassenaerzte-gassen-kritik-100.html",
+     "title": "",
+     "text": [
+      "SPD, Kassen und ein Sozialverband laufen Sturm."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Mehr-Kosten-fuer-gesetzlich-Versicherte/!6230047/",
+     "title": "Mehr Kosten für gesetzlich Versicherte: Wer nicht warten will, muss zahlen",
+     "text": [
+      "Grund seien auch Honorarkürzungen in der Ambulanz."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 19,
+   "topic": "technologie",
+   "title": "Haben Sie ein iPhone Duo? Diese 9 Einstellungen erleichtern die Verwendung",
+   "summary": [
+    "Von Touch ID-Verknüpfungen bis hin zu intelligenteren Lautstärketasten und Kameratricks machen diese Optimierungen das faltbare iPhone von Apple jeden Tag einfacher zu bedienen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T18:00:00+00:00",
+   "links": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 20,
+   "topic": "sport",
+   "title": "Aussie Quick sagt \"Jeder wusste\" über Sandpapier, als Warner verdoppelt",
+   "summary": [
+    "Die Sandpapergate-Saga des australischen Cricket geht weiter, wobei sich David Warner in den sozialen Medien verdoppelt, während ein ehemaliges Teammitglied erklärt, dass er sich wohl fühlt, wenn er sagt, dass das gesamte Team von dem berüchtigten Ballmanipulationsskandal wusste."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T04:27:21+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-15/australia-cricket-sandpaper-claims-chadd-sayers-david-warner/107387424"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 21,
+   "topic": "deutschland",
+   "title": "Mecklenburg-Vorpommern: Weg für Rot-Rot-Grün ist frei",
+   "summary": [
+    "Rot-Rot-Grün hat in Mecklenburg-Vorpommern die letzte Hürde genommen: Auch ein SPD-Sonderparteitag stimmte dem Koalitionsvertrag zu.",
+    "Die Grünen in Mecklenburg-Vorpommern stimmen auf ihrem Parteitag mit großer Mehrheit für Rot-Rot-Grün.",
+    "Noch am Abend soll er unterschrieben werden."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 1,
+   "published": "2026-11-14T16:20:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/mecklenburg-vorpommern-landesregierung-rot-rot-gruen-100.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Gruene-in-Mecklenburg-Vorpommern/!6230038/"
+    }
+   ],
+   "details": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Gruene-in-Mecklenburg-Vorpommern/!6230038/",
+     "title": "Grüne in Mecklenburg-Vorpommern: Zustimmung trotz Bauchgrummeln",
+     "text": [
+      "Zugleich quält man sich mit einer alten Affäre."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 22,
+   "topic": "gesundheit",
+   "title": "Es ist Open Enrollment Season. Hören Reporter diskutieren ACA Anmeldungen, hohe Kosten und mehr.",
+   "summary": [
+    "KFF Health News Journalisten machten die Runde auf nationalen und lokalen Medien vor kurzem aktuelle Geschichten zu diskutieren.",
+    "Hier ist eine Sammlung ihrer Auftritte."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T10:00:00+00:00",
+   "links": [
+    {
+     "source": "KFF Health News",
+     "country": "USA",
+     "ownership": "gemeinnützig",
+     "url": "https://kffhealthnews.org/on-air/on-air-november-14-2026-obamacare-aca-open-enrollment-measles-midterms/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 23,
+   "topic": "sport",
+   "title": "Wie Swim GP einen Einblick in die Zukunft des Para-Sports gegeben haben könnte",
+   "summary": [
+    "Swim GP All-Action, High-Oktan-Rennen wurde entwickelt, um einen Schub für Australiens Schwimmer im Vorfeld von LA28 und Brisbane 2032, und stellt Para-Schwimmen vorne und in der Mitte."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T02:31:02+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-15/swim-gp-boost-for-para-swimming/107387140"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 24,
+   "topic": "technologie",
+   "title": "Verkehrsminister beschuldigt \"routinemäßige\" Ausrüstungsupgrade für Erdungsflüge landesweit",
+   "summary": [
+    "FAA-Administrator Bryan Bedford sagte auch, dass es \"Null Beweise für alles, was AI-bezogen.\""
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T17:45:04+00:00",
+   "links": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 25,
+   "topic": "klima",
+   "title": "Das Nicken des Parlaments als Muss für ein Referendum",
+   "summary": [
+    "Die beiden Führer stimmten auch darin überein, dass das Parlament bei der Entscheidung, ob ein Referendum abgehalten werden sollte und welche Fragen an die Öffentlichkeit gestellt werden sollten, nicht umgangen werden könne, so die Quellen.",
+    "Er hatte auch den politischen Parteien zugesichert, dass sie berücksichtigt würden, bevor eine Entscheidung getroffen würde.",
+    "Die offizielle Erklärung erwähnte nicht ausdrücklich die Diskussion über neue Provinzen oder das vorgeschlagene Referendum."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T03:26:39+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044647/parliaments-nod-deemed-a-must-for-referendum"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044647/parliaments-nod-deemed-a-must-for-referendum",
+     "title": "",
+     "text": [
+      "Präsident, Premierminister bestehen darauf, dass jeder Schritt zur Schaffung neuer Provinzen der Verfassung folgen muss • Zardari bekräftigt den Widerstand der PPP gegen die Teilung von Sindh • Naqvis „Botschaft“, Imrans Situation diskutierte auch LAHORE: Präsident Asif Ali Zardari und Premierminister Shehbaz Sharif stimmten am Samstag zu, sich „streng an die verfassungsrechtlichen Bestimmungen“ zu halten, die die Schaffung neuer Provinzen oder Verwaltungseinheiten regeln, wobei jedes vorgeschlagene Referendum zu dem umstrittenen Thema auch die Zustimmung des Parlaments erfordert."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 26,
+   "topic": "europa",
+   "title": "Mehr als 100.000 Kundgebungen in ganz Frankreich bei neuen Protesten der Gelben Weste",
+   "summary": [
+    "Demonstranten skandieren gegen sinkende Erschwinglichkeit, die Macron-Regierung, Polizeigewalt und schlechte Schulbedingungen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T19:46:24+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 27,
+   "topic": "technologie",
+   "title": "Der KI-Friedhof: eine laufende Liste von Projekten und Startups, die es nicht geschafft haben",
+   "summary": [
+    "Von Apples wiederholt verzögerter Siri AI bis hin zu OpenAIs chaotischem \"Super-App\" -Start, hier ist ein Blick auf die KI-Projekte, die heruntergefahren oder Erwartungen verpasst haben."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T17:30:00+00:00",
+   "links": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 28,
+   "topic": "europa",
+   "title": "Pakistan Reiseführer Autor stirbt mit 83",
+   "summary": [
+    "Mit ihrem Sohn Ben Shaw schrieb sie den Pakistan Trekking Guide (1993) und einen Trekking Guide zum Karakorum und Hindukusch, der 2013 in Lahore veröffentlicht wurde.",
+    "Ihr letztes Buch, Trekking Guide to the Karakoram and Hindu Kush of Northern Pakistan, wurde 2013 von Vanguard Books in Lahore veröffentlicht.",
+    "Ihr Pakistan-Handbuch (1989) wurde für die Thomas Cook Travel and Guide Book Awards nominiert, und ihr illustrierter Reiseführer für Pakistan lief auf fünf Ausgaben."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T02:36:59+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044598/pakistan-guidebooks-author-dies-at-83"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044598/pakistan-guidebooks-author-dies-at-83",
+     "title": "",
+     "text": [
+      "GENF: Isobel Shaw, eine in Irland geborene Reiseschriftstellerin, deren Reiseführer Tausende von Besuchern nach Pakistan brachten, starb am Mittwoch (11. November) in ihrem Haus in St-Cergue, Schweiz.",
+      "Sie war 83.",
+      "Frau Shaw kam 1978 zum ersten Mal nach Pakistan, als ihr Ehemann Robert Shaw als Vertreter der Ford Foundation nach Islamabad geschickt wurde.",
+      "Während ihrer drei Jahre in Islamabad lernte sie Urdu und schrieb mit Hilary Adamson einen Reiseführer für Pakistan, der 1981 in Islamabad veröffentlicht wurde und einer der ersten modernen Reiseführer für das Land war.",
+      "Andere Autoren aus der Region empfahlen sie als beste Reiseführerin für Pakistan."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 29,
+   "topic": "sport",
+   "title": "Schwimmsterne für großes 2027 trotz Krankheit, Verletzung Schluckauf",
+   "summary": [
+    "Die olympischen Goldmedaillengewinner Kaylee McKeown, Mollie O'Callaghan und Kyle Chalmers hatten ihre Kämpfe, zwei Jahre nach den LA Games."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T23:20:09+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-15/swim-gp-absentees-will-be-back-for-la28/107387120"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 30,
+   "topic": "deutschland",
+   "title": "Ein Kanzler ohne Glaubwürdigkeit wäre das Aus der Koalition",
+   "summary": [
+    "Und wieder einmal steht die Bundesregierung vor einer Zerreißprobe: Diesmal geht es um die Stromsteuer und um nichts Geringeres als die Glaubwürdigkeit des Kanzlers."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T03:56:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/stromsteuer-streit-koalition-analyse-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 31,
+   "topic": "gesundheit",
+   "title": "Simbabwes HIV-Gewinne stehen vor einem Test unter jungen Menschen",
+   "summary": [
+    "Neue Präventionsinstrumente bieten Hoffnung, aber die Erreichung junger Menschen bleibt eine Herausforderung."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T04:13:00+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 32,
+   "topic": "wirtschaft",
+   "title": "Umsatzsteuer erhält neue Durchsetzungsstruktur, um Sammellücke zu schneiden",
+   "summary": [
+    "Die Umsatzsteuerlücke wurde auf Rs3.4tr geschätzt, verglichen mit Rs2tr für die Einkommensteuer.",
+    "Auf der Ebene der Hauptkommissare wird die Verwaltungsstruktur für Umsatzsteuer und Einkommensteuer vorerst unverändert bleiben.",
+    "Ein engagiertes Mitglied für Umsatzsteuer und Bundesverbrauchsteuer wird direkt an den FBR-Vorsitzenden berichten."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T02:37:31+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044613/sales-tax-gets-new-enforcement-structure-to-cut-collection-gap"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044613/sales-tax-gets-new-enforcement-structure-to-cut-collection-gap",
+     "title": "",
+     "text": [
+      "ISLAMABAD: Nach 17 Jahren Integration hat die Regierung beschlossen, die funktionale Integration der Umsatzsteuer- und Einkommensteuererhebung umzukehren, und anerkannt, dass sich die Umsatzsteuerlücke inmitten einer schwachen Durchsetzung und einer schlechten Einnahmenerhebung auf 3,4 Billionen Rs erweitert hat.",
+      "Die Entscheidung markiert eine wichtige Reform in der Steuerverwaltung, die die Auswahl von Beamten innerhalb des Inland Revenue Service (IRS) und die Trennung der funktionalen Verantwortlichkeiten, einschließlich Steuererhebung und Rechtsfragen, vorsieht, um anhaltende Schwächen zu beheben, die zur Einnahmenlücke beigetragen haben, sagten hochrangige Steuerbeamte am Samstag gegenüber Dawn."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 33,
+   "topic": "wissenschaft",
+   "title": "Hunderte Männer demonstrieren in der Schweiz gegen Gewalt gegen Frauen",
+   "summary": [
+    "Die Organisatoren sagen, dass Männer sich äußern müssen, da die Schweizer Studie feststellt, dass die Hälfte der Männer im Alter von 18 bis 24 Jahren eine restriktive Sicht auf Männlichkeit haben."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T00:27:14+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 34,
+   "topic": "sport",
+   "title": "Carpenter führt Chelsea zum Sieg gegen Manchester City",
+   "summary": [
+    "Chelsea ist mit Hilfe eines weiteren schönen Beitrags von Ellie Carpenter, die einen über ihre Kollegin Matilda, Mary Fowler von Man City, bekommen hat, an die Spitze der WSL gegangen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T21:29:32+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-15/ellie-carpenter-helps-chelsea-get-win-over-mary-fowler-man-city/107387146"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 35,
+   "topic": "wirtschaft",
+   "title": "Weltbank okays $300m für Sindhs Wasser, Sanitärdienstleistungen",
+   "summary": [
+    "ISLAMABAD: Die Weltbank hat 300 Millionen US-Dollar an Finanzierungen genehmigt, um den Zugang zu sicheren Wasser-, Sanitär- und Hygienediensten für 1,5 Millionen Menschen in ausgewählten ländlichen Gebieten von Sindh zu erweitern.",
+    "STAR WASH-1 zielt darauf ab, 1,5 Millionen Menschen Zugang zu sauberem Trinkwasser und sicher verwalteten Sanitär- und Hygienedienstleistungen zu bieten.",
+    "Mehr als die Hälfte der Kinder unter fünf Jahren im ländlichen Sindh sind verkümmert."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T02:37:31+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044603/world-bank-okays-300m-for-sindhs-water-sanitation-services"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044603/world-bank-okays-300m-for-sindhs-water-sanitation-services",
+     "title": "",
+     "text": [
+      "Die Finanzierung wird das Phase-1-Projekt \"Sinh Trans-formational Accelerated Rural Water Supply, Sanitation and Hygiene Services\" (STAR WASH-1) unterstützen, die am Samstag angekündigte Mission der Weltbank in Islamabad.",
+      "Das Projekt wird voraussichtlich mehr als 14.000 Arbeitsplätze schaffen und die Formalisierung des Sindh People's Housing for Flood Affectees als ländliches Wasser-, Sanitär- und Hygieneunternehmen (WASH) unterstützen.",
+      "\"Stunting gehört zu Pakistans schwersten und hartnäckigsten Herausforderungen im Bereich des Humankapitals, und unsicheres Wasser, sanitäre Einrichtungen und Hygiene sind ein wichtiger Treiber.\""
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 36,
+   "topic": "wirtschaft",
+   "title": "Robotaxis: Was Deutschland bei der Entwicklung verpasst",
+   "summary": [
+    "In den USA und China sind autonom fahrende Taxis vielerorts längst Alltag.",
+    "Warum es nicht nur um die Autos, sondern um ein Geschäftsmodell geht."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T03:58:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/wirtschaft/auto-industrie-autonomes-fahren-verkehr-robotaxi-100.html"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/wirtschaft/auto-industrie-autonomes-fahren-verkehr-robotaxi-100.html",
+     "title": "",
+     "text": [
+      "Bei uns gibt es nur Pilotprojekte."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 37,
+   "topic": "klima",
+   "title": "FO sagt Klimaminister Musadik Malik nominiert Pakistan bei SCO-Moot in New Delhi zu vertreten",
+   "summary": [
+    "Der stellvertretende Premierminister und Außenminister Ishaq Dar sagte: „Pakistan, der 2026-27 den Vorsitz des SCO-Rates der Staatsoberhäupter (CHS) führt, wird diesen Monat am SCO-Zivilisationsdialog in Neu Delhi teilnehmen.",
+    "Das Auswärtige Amt (FO) sagte am Samstag, dass der Klimaminister Musadik Malik nominiert worden sei, um Pakistan beim Zivilisierungsdialog der Shanghai Cooperation Organisation (SCO) vom 20. bis 22. November in New Delhi zu vertreten."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T19:02:11+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044492/fo-says-climate-minister-musadik-malik-nominated-to-represent-pakistan-at-sco-moot-in-new-delhi"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044492/fo-says-climate-minister-musadik-malik-nominated-to-represent-pakistan-at-sco-moot-in-new-delhi",
+     "title": "",
+     "text": [
+      "In einer Erklärung sagte das FO, dass die Versammlung Vertreter der SCO-Mitgliedstaaten zusammenbringen würde, um Fragen des zivilisatorischen Dialogs und des kulturellen Verständnisses zu diskutieren.",
+      "\"Die pakistanische Regierung ist weiterhin bestrebt, den Dialog zwischen den Zivilisationen zu fördern und die Kontakte zwischen den Menschen im Rahmen der SCO im Geiste gegenseitigen Respekts zu fördern\", heißt es in der Erklärung.",
+      "Laut der indischen Nachrichtenagentur ANI wurden 10 SCO-Mitglieder - darunter Pakistan - eingeladen, am ersten zivilisatorischen Dialog teilzunehmen.",
+      "Es fügte hinzu, dass die Versammlung von Neu-Delhi vorgeschlagen wurde."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 38,
+   "topic": "sport",
+   "title": "Alle Schwarzen leiden 73-Jahres-erste Niederlage gegen Wales",
+   "summary": [
+    "Wales hat einen der größten Siege in seiner jüngeren Geschichte gewonnen und die All Blacks zum ersten Mal seit 73 Jahren in einem Boilover der Nations Championship geschlagen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T20:35:19+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-15/all-blacks-beaten-by-wales-for-first-time-in-73-years/107387094"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 39,
+   "topic": "wirtschaft",
+   "title": "UN-Generalsekretär begeht letzten Klimagipfel mit Aufruf, Umweltverschmutzer zahlen zu lassen",
+   "summary": [
+    "\"Diejenigen, die am wenigsten verschmutzen, sind diejenigen, die den höchsten Preis zahlen\", sagte Guterres."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T21:04:32+00:00",
+   "links": [
+    {
+     "source": "Premium Times",
+     "country": "Nigeria",
+     "ownership": "privat",
+     "url": "https://www.premiumtimesng.com/business/business-news/925196-un-secretary-general-marks-last-climate-summit-with-call-to-make-polluters-pay.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 40,
+   "topic": "deutschland",
+   "title": "Boxen gegen Gewalt: Wo Jugendliche Frust abbauen können",
+   "summary": [
+    "Was Jugendliche dort lernen - und was sie auf der Straße erleben.",
+    "Brutale Angriffe verunsichern Jugendliche und Erwachsene in Brandenburg.",
+    "Ein Potsdamer Boxprojekt will helfen."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T20:02:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/jugendliche-gewalt-brandenburg-praevention-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 41,
+   "topic": "klima",
+   "title": "Präsident Zardari und Premierminister Shehbaz diskutieren die politische, wirtschaftliche und sicherheitspolitische Situation des Landes",
+   "summary": [
+    "Präsident Asif Ali Zardari und Premierminister Shehbaz Sharif diskutierten am Samstag die politische, wirtschaftliche und sicherheitspolitische Situation des Landes im Detail.",
+    "Das Treffen von Präsident Zardari mit dem Ministerpräsidenten findet nur zwei Tage nach dem Anruf von Innenminister Mohsin Naqvi statt.",
+    "Die Präsidentschaft erklärte, dass \"Fragen der nationalen Sicherheit und der regionalen Situation\" während des Treffens diskutiert wurden."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T17:37:20+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044497/president-zardari-pm-shehbaz-discuss-countrys-political-economic-and-security-situation"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044497/president-zardari-pm-shehbaz-discuss-countrys-political-economic-and-security-situation",
+     "title": "",
+     "text": [
+      "Premierminister Shehbaz begrüßte den Präsidenten herzlich bei seiner Ankunft in der ehemaligen Residenz in Lahores Model Town, sagten das Büro des Premierministers (PMO) und die Präsidentschaft in identischen Erklärungen.",
+      "Der Premierminister informierte den Präsidenten über seinen jüngsten Besuch in Turkiye, wo er an der 31. Konferenz der Vertragsparteien teilnahm, um die Bemühungen Pakistans im Klimaschutz hervorzuheben.",
+      "Beide Führer tauschten Ansichten über \"Zusammenarbeit zwischen verbündeten Parteien, Fortsetzung der Konsultation und Fortschritte bei öffentlichen Wohlfahrtsprojekten\" aus, hieß es in der Erklärung.",
+      "Sie fügte hinzu, dass die beiden Staats- und Regierungschefs auch ihr Engagement für die Zusammenarbeit zur Beschleunigung der wirtschaftlichen Stabilität und Entwicklung im Land bekräftigten."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 42,
+   "topic": "sport",
+   "title": "Hoffman liefert bestes Alpine World Cup Finish seit 27 Jahren",
+   "summary": [
+    "Madison Hoffman trotzt einer niedrigen Startposition, um Australiens beste FIS Alpine World Cup-Endposition in 27 Jahren zu erreichen und belegte den achten Platz beim Saisonauftakt in Levi, Finnland."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T20:08:42+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-15/madison-hoffman-fis-world-cup-levi-eighth-place-slalom/107387056"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 43,
+   "topic": "gesundheit",
+   "title": "Aktuelle Pressemitteilungen des ZDF",
+   "summary": [],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-15T04:34:46+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://presseportal.zdf.de/pressemitteilungen/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 44,
+   "topic": "deutschland",
+   "title": "Mordfall Mir Raza: Ex-SHO wegen Fehlverhaltens, falscher Handhabung von Beweisen entlassen",
+   "summary": [
+    "Im vergangenen Monat hatte eine zur Untersuchung des Falls gebildete Justizkommission auf das \"epische Versagen\" der Polizei bei der Untersuchung des Falls hingewiesen.",
+    "Der Befehl sagte, dass Qureshi auch keine Antwort auf eine Show-Ursache Mitteilung eingereicht.",
+    "Der Bericht wurde von der Regierung Sindh veröffentlicht."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T17:00:47+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044503/mir-raza-murder-case-ex-sho-dismissed-over-misconduct-mishandling-of-evidence"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044503/mir-raza-murder-case-ex-sho-dismissed-over-misconduct-mishandling-of-evidence",
+     "title": "",
+     "text": [
+      "Der ehemalige Offizier des Bahnhofs Gulistan-i-Jauhar (SHO), Kamran Qureshi, wurde am Samstag wegen Fehlverhaltens im Mordfall Mir Raza Ali aus dem Dienst entlassen.",
+      "Im vergangenen Monat empfahl eine von der Regierung Sindh gebildete Justizkommission eine Untersuchung gegen Qureshi, der vom Dienst suspendiert wurde, wegen der möglichen Erleichterung der Zerstörung von Beweisen.",
+      "Anschließend schrieb die Heimatabteilung an den Polizeichef von Sindh und suchte Maßnahmen gegen Polizeibeamte, die von der Kommission für Fahrlässigkeit verantwortlich gemacht wurden."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 45,
+   "topic": "deutschland",
+   "title": "Hunderte Trauergäste nehmen Abschied von Hubert Aiwanger",
+   "summary": [
+    "Mit einem Staatsakt hat Bayern den verstorbenen stelllvertretenden Ministerpräsidenten Hubert Aiwanger geehrt.",
+    "Das ganze Bundesland trauere, sagte Ministerpräsident Markus Söder."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T12:55:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/aiwanger-staatsakt-trauerfeier-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 46,
+   "topic": "sport",
+   "title": "Heat Hammer Hurricanes übergibt WBBL-Champions sechsten Verlust in Folge",
+   "summary": [
+    "Die WBBL-Verteidigung der Hobart Hurricanes fällt weiter in Trümmer mit einem demütigenden 10-Wicket-Verlust für die Brisbane Heat."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T08:34:29+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-14/hobart-hurricanes-hammered-by-brisbane-heat-in-wbbl/107386442"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 47,
+   "topic": "gesundheit",
+   "title": "Wer hat 2026 gemacht?: Helden, Bösewichte und Moegos: Nominieren Sie Ihr Volk des Jahres 2026",
+   "summary": [
+    "Nominieren Sie in so vielen unserer 13 Kategorien, wie Sie möchten, vor dem 20. November.",
+    "Helfen Sie uns zu entscheiden, wer die Shortlists für Daily Maverick's People of the Year macht."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T09:16:06+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-14-heroes-villains-and-moegoes-nominate-your-people-of-the-year-2026/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 48,
+   "topic": "sport",
+   "title": "Vescio-Stars im Meilensteinspiel, während Blues und Swans das vorläufige Finale erreichen",
+   "summary": [
+    "Darcy Vescio feiert ihr 100. Spiel mit einem Match-Gewinner-Tor, als Carlton Hawthorn in einem AFLW-Halbfinal-Blockbuster um fünf Punkte besiegt, nachdem Sydney Geelong hinter sich gelassen hat."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T07:10:53+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-14/vescio-stars-dunlop-injury-blues-hawks-swans-cats-aflw/107386422"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 49,
+   "topic": "deutschland",
+   "title": "Die Zukunft von Gen Z regelt: Zwischen Bundestag und Barrikade",
+   "summary": [
+    "Juli Felder (17) und Lina Friedrich (21) wollen beide als Gen Z regelt die Gesellschaft verändern, aber streiten über den Weg dahin.",
+    "Die neue Bewegung teilt sich in zwei Lager, die Radikaleren und die Sanfteren, und streitet darüber, wer sie sein will."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T18:50:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Die-Zukunft-von-Gen-Z-regelt/!6224382/"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/wochentaz-Podcast/!6229768/"
+    }
+   ],
+   "details": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Die-Zukunft-von-Gen-Z-regelt/!6224382/",
+     "title": "",
+     "text": [
+      "Was wird aus der Bewegung?"
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/wochentaz-Podcast/!6229768/",
+     "title": "wochentaz-Podcast: Wer steckt hinter Gen Z regelt?",
+     "text": [
+      "Ein Blick hinter die Kulissen."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 50,
+   "topic": "wissenschaft",
+   "title": "Gebrochener Rekord: Quaids Besuch, eine RSS-Zelle und Dawn unter Angriff",
+   "summary": [
+    "Der Quaid hat genau das getan, wie ein Nachrichtenbericht aus der Ausgabe vom 18. September zeigt.",
+    "Letzterer trat 1948 Pakistan bei.",
+    "Der pakistanische Staat, sagte er, würde alles tun, um ihnen zu helfen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T22:42:04+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044514/broken-record-quaids-visit-an-rss-cell-and-dawn-under-attack"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044514/broken-record-quaids-visit-an-rss-cell-and-dawn-under-attack",
+     "title": "",
+     "text": [
+      "Während die Flüchtlinge weiterhin nach Pakistan strömten und oft unaussprechliche Gewalt auf dem Weg überlebten, traf sich Quaid-i-Azam Mohammad Ali Jinnah in einer wahren Demonstration der Führung mit den zerrütteten Massen und drängte sie, die Hoffnung am Leben zu erhalten.",
+      "Dies, zusammen mit der Zerstörung einer RSS-Zelle in Karatschi und einem gewalttätigen Mob-Angriff auf Dawns Delhi-Presse, markierte einige der prominenten Geschichten vom 15. bis 21. September 1947.",
+      "Viele unter den Millionen, die zur Zeit der Unabhängigkeit nach Pakistan gekommen waren, waren buchstäblich durch die Hölle gegangen.",
+      "Sie hatten Mord, Brandstiftung und Gemeinschaftsrausch auf ihrem Weg in das angeblich verheißene Land miterlebt."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 51,
+   "topic": "klima",
+   "title": "Triathletin über Sport in der Klimakrise: „Wir gehen an die totale Belastungsgrenze“",
+   "summary": [
+    "Indiens beste Triathletin ist Klimaaktivistin.",
+    "Pragnya Mohan will für das Klimathema sensibilisieren, denn ihrem Sport drohe der Hitzekollaps."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T18:46:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Triathletin-ueber-Sport-in-der-Klimakrise/!6224448/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 52,
+   "topic": "wirtschaft",
+   "title": "NCCIA warnt Jugendliche vor dem Beitritt zu illegalen Call-Centern für lukrative Gehälter",
+   "summary": [
+    "Unter diesem Druck würde die Person anfangen, Geld zu zahlen, sagte Khan.",
+    "Die Verdächtigen würden einer Person sagen, dass sie entweder überwacht wurden oder auf einer Trefferliste standen.",
+    "Wenn sie all das Geld, das sie von jemandem haben konnten, abgezogen hatten, würden sie das Konto dieser Person auslöschen und den Fall schließen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T14:02:05+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2044498/nccia-warns-youth-against-joining-illegal-call-centres-for-lucrative-salaries"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2044498/nccia-warns-youth-against-joining-illegal-call-centres-for-lucrative-salaries",
+     "title": "",
+     "text": [
+      "Die National Cyber Crime Investigation Agency (NCCIA) warnte am Samstag, dass Schlupflöcher im bestehenden System von illegalen Call Centern, Online-Wettanbietern und internationalen Betrugsnetzwerken ausgenutzt werden, um Geld zu waschen und Opfer in die Falle zu locken.",
+      "In einer Pressekonferenz sagte NCCIA (Islamabad / Rawalpindi) Zusätzlicher Direktor Muhammad Shoaib Khan, dass gefälschte Unternehmen mit schwacher Überprüfung registriert wurden, wonach Bankkonten, die in ihren Namen eröffnet wurden, mit Kredit-Apps, Wett- und Spielportalen integriert wurden, um illegale Gelder zu erhalten und zu transferieren.",
+      "Daher forderte er strengere Regeln für die Registrierung von Unternehmen und die Überprüfung von Bankkonten."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 53,
+   "topic": "klima",
+   "title": "Spionage, Politik und Klima: Wer das Gelächter nicht ehrt, ist die Greta nicht wert",
+   "summary": [
+    "Huang, Hegseth, Thunberg – gleich drei VIPS sind diese Woche über ihr Lächeln gestolpert.",
+    "Unsere Kolumnistin ist trotzdem fürs Weitermachen."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T14:51:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Spionage-Politik-und-Klima/!6224491/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 54,
+   "topic": "wissenschaft",
+   "title": "Klimakrise: \"Wichtig ist das Gefühl von Selbstwirksamkeit\"",
+   "summary": [
+    "Den Klimawandel stoppen wollen viele, doch verzichten nur wenige.",
+    "Warum Klimaschutz mehr Rückhalt hat, als viele denken, erklärt Psychologe Stephan Heinzel."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T20:03:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/wissen/klimawandel-angst-klimaschutz-motivation-klima-nachhaltigkeit-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 55,
+   "topic": "klima",
+   "title": "Kanzler Merz und das Klima: Hoffentlich nicht die letzte gute Tat für den Klimaschutz",
+   "summary": [
+    "Mit seinem Einsatz für den europäischen Emissionshandel hat Friedrich Merz mal etwas für den Klimaschutz getan."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-14T10:29:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Kanzler-Merz-und-das-Klima/!6224485/"
+    }
+   ],
+   "details": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Kanzler-Merz-und-das-Klima/!6224485/",
+     "title": "",
+     "text": [
+      "Leider eine seltene Ausnahme."
+     ],
+     "machine_translated": false
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "ZDFheute",
+   "country": "Deutschland",
+   "language": "de",
+   "ownership": "öffentlich-rechtlich",
+   "ok": true,
+   "items": 40,
+   "reason": ""
+  },
+  {
+   "name": "taz",
+   "country": "Deutschland",
+   "language": "de",
+   "ownership": "Genossenschaft",
+   "ok": true,
+   "items": 40,
+   "reason": ""
+  },
+  {
+   "name": "Golem",
+   "country": "Deutschland",
+   "language": "de",
+   "ownership": "privat",
+   "ok": true,
+   "items": 40,
+   "reason": ""
+  },
+  {
+   "name": "Euronews",
+   "country": "Frankreich",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 40,
+   "reason": ""
+  },
+  {
+   "name": "Carbon Brief",
+   "country": "Großbritannien",
+   "language": "en",
+   "ownership": "gemeinnützig",
+   "ok": true,
+   "items": 12,
+   "reason": ""
+  },
+  {
+   "name": "NPR",
+   "country": "USA",
+   "language": "en",
+   "ownership": "gemeinnützig",
+   "ok": true,
+   "items": 10,
+   "reason": ""
+  },
+  {
+   "name": "TechCrunch",
+   "country": "USA",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 20,
+   "reason": ""
+  },
+  {
+   "name": "Al Jazeera",
+   "country": "Katar",
+   "language": "en",
+   "ownership": "staatlich finanziert",
+   "ok": true,
+   "items": 25,
+   "reason": ""
+  },
+  {
+   "name": "MercoPress",
+   "country": "Uruguay",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 10,
+   "reason": ""
+  },
+  {
+   "name": "Daily Maverick",
+   "country": "Südafrika",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 40,
+   "reason": ""
+  },
+  {
+   "name": "Dawn",
+   "country": "Pakistan",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 29,
+   "reason": ""
+  },
+  {
+   "name": "ABC News Australia",
+   "country": "Australien",
+   "language": "en",
+   "ownership": "öffentlich-rechtlich",
+   "ok": true,
+   "items": 25,
+   "reason": ""
+  },
+  {
+   "name": "Deutsches Ärzteblatt",
+   "country": "Deutschland",
+   "language": "de",
+   "ownership": "Verbandsverlag",
+   "ok": true,
+   "items": 10,
+   "reason": ""
+  },
+  {
+   "name": "KFF Health News",
+   "country": "USA",
+   "language": "en",
+   "ownership": "gemeinnützig",
+   "ok": true,
+   "items": 10,
+   "reason": ""
+  },
+  {
+   "name": "Premium Times",
+   "country": "Nigeria",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 15,
+   "reason": ""
+  }
+ ],
+ "markets": {
+  "available": true,
+  "source": "Yahoo Finance, Kurse verzögert und ohne Gewähr",
+  "as_of": "2026-11-15",
+  "summary": "Gemischtes Bild: 1 von 7 Indizes im Plus. Stärkster Markt: Nikkei 225 (+0,5 %), schwächster: Hang Seng (−1,6 %). Auf oder nahe am Jahreshoch: DAX.",
+  "groups": [
+   {
+    "label": "Aktienindizes",
+    "items": [
+     {
+      "symbol": "^GDAXI",
+      "name": "DAX",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 0,
+      "price": 26749.949219,
+      "date": "2026-11-13",
+      "change_1d": -0.08,
+      "change_1w": 3.6,
+      "change_1m": 5.39,
+      "change_ytd": 9.23,
+      "change_1y": 11.27,
+      "from_high": -0.1,
+      "from_low": 20.0,
+      "new_high": false,
+      "new_low": false,
+      "trend": "Aufwärtstrend",
+      "unusual": 0.1,
+      "spark": [
+       26107.0,
+       26266.0,
+       26286.0,
+       26367.0,
+       26570.0,
+       26258.0,
+       25970.0,
+       25839.0,
+       26003.0,
+       26046.0,
+       26007.0,
+       26008.0,
+       25576.0,
+       25361.0,
+       25569.0,
+       25441.0,
+       25402.0,
+       25538.0,
+       25717.0,
+       25304.0,
+       25575.0,
+       25579.0,
+       25411.0,
+       25267.0,
+       25409.0,
+       25374.0,
+       25399.0,
+       25199.0,
+       24939.0,
+       25231.0,
+       25254.0,
+       25449.0,
+       25104.0,
+       24807.0,
+       25087.0,
+       25278.0,
+       25260.0,
+       25299.0,
+       25383.0,
+       25623.0,
+       25320.0,
+       25304.0,
+       25645.0,
+       25372.0,
+       25182.0,
+       25411.0,
+       25591.0,
+       25704.0,
+       26040.0,
+       25818.0,
+       25981.0,
+       25865.0,
+       26438.0,
+       26325.0,
+       25820.0,
+       26267.0,
+       26347.0,
+       26663.0,
+       26772.0,
+       26750.0
+      ]
+     },
+     {
+      "symbol": "^MDAXI",
+      "name": "MDAX",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 0,
+      "price": 30699.960938,
+      "date": "2026-11-13",
+      "change_1d": -0.51,
+      "change_1w": 0.19,
+      "change_1m": 1.6,
+      "change_ytd": 0.27,
+      "change_1y": 3.68,
+      "from_high": -8.0,
+      "from_low": 11.0,
+      "new_high": false,
+      "new_low": false,
+      "trend": "Abwärtstrend",
+      "unusual": 0.5,
+      "spark": [
+       32032.0,
+       32267.0,
+       32521.0,
+       32947.0,
+       33030.0,
+       32725.0,
+       32173.0,
+       31958.0,
+       32257.0,
+       32355.0,
+       32405.0,
+       32544.0,
+       32078.0,
+       31596.0,
+       31664.0,
+       31057.0,
+       31136.0,
+       31277.0,
+       31448.0,
+       31084.0,
+       31242.0,
+       31530.0,
+       31216.0,
+       30783.0,
+       31031.0,
+       30896.0,
+       30883.0,
+       30843.0,
+       30251.0,
+       30450.0,
+       30427.0,
+       30543.0,
+       30112.0,
+       29507.0,
+       29990.0,
+       30104.0,
+       30020.0,
+       30050.0,
+       30216.0,
+       30657.0,
+       30513.0,
+       30392.0,
+       30651.0,
+       30086.0,
+       29876.0,
+       30288.0,
+       30495.0,
+       30425.0,
+       30799.0,
+       30472.0,
+       30855.0,
+       30743.0,
+       31178.0,
+       30892.0,
+       30642.0,
+       31073.0,
+       31034.0,
+       31075.0,
+       30858.0,
+       30700.0
+      ]
+     },
+     {
+      "symbol": "^STOXX50E",
+      "name": "Euro Stoxx 50",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 2,
+      "price": 6386.859863,
+      "date": "2026-11-13",
+      "change_1d": -0.19,
+      "change_1w": 3.51,
+      "change_1m": 3.54,
+      "change_ytd": 10.19,
+      "change_1y": 11.22,
+      "from_high": -2.5,
+      "from_low": 16.1,
+      "new_high": false,
+      "new_low": false,
+      "trend": "Aufwärtstrend",
+      "unusual": 0.2,
+      "spark": [
+       6448.0,
+       6455.6,
+       6470.7,
+       6424.7,
+       6485.7,
+       6420.2,
+       6369.0,
+       6362.1,
+       6382.6,
+       6392.9,
+       6404.0,
+       6413.2,
+       6311.6,
+       6269.0,
+       6325.1,
+       6260.4,
+       6236.5,
+       6266.5,
+       6322.9,
+       6236.2,
+       6318.2,
+       6324.7,
+       6299.8,
+       6272.5,
+       6302.8,
+       6301.3,
+       6320.3,
+       6269.0,
+       6175.5,
+       6238.5,
+       6242.1,
+       6272.2,
+       6180.3,
+       6126.7,
+       6173.4,
+       6201.2,
+       6167.0,
+       6190.4,
+       6168.3,
+       6204.2,
+       6144.8,
+       6121.7,
+       6207.5,
+       6087.0,
+       6068.2,
+       6116.2,
+       6164.7,
+       6167.8,
+       6207.1,
+       6131.3,
+       6176.1,
+       6144.6,
+       6265.7,
+       6231.5,
+       6170.5,
+       6290.5,
+       6327.9,
+       6393.4,
+       6399.0,
+       6386.9
+      ]
+     },
+     {
+      "symbol": "^GSPC",
+      "name": "S&P 500",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 2,
+      "price": 7561.669922,
+      "date": "2026-11-13",
+      "change_1d": -0.4,
+      "change_1w": 2.51,
+      "change_1m": -2.36,
+      "change_ytd": 10.46,
+      "change_1y": 12.29,
+      "from_high": -3.3,
+      "from_low": 19.2,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": 0.4,
+      "spark": [
+       7674.4,
+       7652.9,
+       7677.3,
+       7675.7,
+       7731.0,
+       7711.8,
+       7686.1,
+       7631.5,
+       7666.6,
+       7747.7,
+       7718.6,
+       7673.5,
+       7636.4,
+       7591.7,
+       7657.0,
+       7620.0,
+       7585.7,
+       7551.8,
+       7637.8,
+       7650.5,
+       7764.7,
+       7764.6,
+       7706.0,
+       7704.1,
+       7743.4,
+       7683.7,
+       7670.8,
+       7651.5,
+       7666.5,
+       7722.7,
+       7774.0,
+       7818.9,
+       7801.8,
+       7765.4,
+       7811.5,
+       7807.2,
+       7805.5,
+       7718.9,
+       7744.1,
+       7659.4,
+       7690.7,
+       7712.6,
+       7757.2,
+       7663.4,
+       7623.7,
+       7676.8,
+       7722.6,
+       7744.0,
+       7720.4,
+       7580.1,
+       7541.4,
+       7568.9,
+       7688.6,
+       7353.7,
+       7376.9,
+       7549.9,
+       7520.9,
+       7619.4,
+       7592.4,
+       7561.7
+      ]
+     },
+     {
+      "symbol": "^NDX",
+      "name": "Nasdaq 100",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 0,
+      "price": 27943.740234,
+      "date": "2026-11-13",
+      "change_1d": -1.22,
+      "change_1w": 3.53,
+      "change_1m": -6.65,
+      "change_ytd": 10.67,
+      "change_1y": 11.74,
+      "from_high": -10.5,
+      "from_low": 21.7,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": 0.8,
+      "spark": [
+       29309.0,
+       29023.0,
+       29209.0,
+       29225.0,
+       29642.0,
+       29433.0,
+       29457.0,
+       29077.0,
+       29143.0,
+       29482.0,
+       29544.0,
+       29508.0,
+       29422.0,
+       29104.0,
+       29368.0,
+       29127.0,
+       28938.0,
+       28945.0,
+       29447.0,
+       29644.0,
+       30482.0,
+       30732.0,
+       30470.0,
+       30479.0,
+       30608.0,
+       30277.0,
+       30339.0,
+       30408.0,
+       30502.0,
+       30808.0,
+       31076.0,
+       31224.0,
+       31160.0,
+       30726.0,
+       30883.0,
+       30665.0,
+       30569.0,
+       29951.0,
+       29936.0,
+       29188.0,
+       29529.0,
+       29490.0,
+       29823.0,
+       28959.0,
+       28958.0,
+       29273.0,
+       29651.0,
+       29813.0,
+       29403.0,
+       28385.0,
+       27990.0,
+       28180.0,
+       28437.0,
+       26630.0,
+       26990.0,
+       27908.0,
+       27741.0,
+       28374.0,
+       28289.0,
+       27944.0
+      ]
+     },
+     {
+      "symbol": "^N225",
+      "name": "Nikkei 225",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 0,
+      "price": 61142.351562,
+      "date": "2026-11-13",
+      "change_1d": 0.53,
+      "change_1w": 6.46,
+      "change_1m": -9.75,
+      "change_ytd": 21.46,
+      "change_1y": 19.23,
+      "from_high": -15.5,
+      "from_low": 26.0,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": 0.3,
+      "spark": [
+       69220.0,
+       67461.0,
+       65326.0,
+       66217.0,
+       66016.0,
+       65528.0,
+       65856.0,
+       66262.0,
+       66132.0,
+       66406.0,
+       66312.0,
+       66215.0,
+       64326.0,
+       64214.0,
+       65021.0,
+       66400.0,
+       65269.0,
+       65143.0,
+       65271.0,
+       64011.0,
+       63493.0,
+       63484.0,
+       63923.0,
+       64136.0,
+       65019.0,
+       65514.0,
+       66364.0,
+       65878.0,
+       65481.0,
+       66754.0,
+       68957.0,
+       68309.0,
+       69947.0,
+       70684.0,
+       70036.0,
+       69042.0,
+       69031.0,
+       67778.0,
+       67744.0,
+       64426.0,
+       65324.0,
+       64917.0,
+       64075.0,
+       64621.0,
+       62908.0,
+       62693.0,
+       62190.0,
+       63268.0,
+       63954.0,
+       64659.0,
+       63290.0,
+       63082.0,
+       62189.0,
+       61078.0,
+       57435.0,
+       58776.0,
+       60460.0,
+       61249.0,
+       60819.0,
+       61142.0
+      ]
+     },
+     {
+      "symbol": "^HSI",
+      "name": "Hang Seng",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 0,
+      "price": 23637.599609,
+      "date": "2026-11-13",
+      "change_1d": -1.55,
+      "change_1w": -3.45,
+      "change_1m": -2.78,
+      "change_ytd": -7.78,
+      "change_1y": -12.69,
+      "from_high": -15.5,
+      "from_low": 4.3,
+      "new_high": false,
+      "new_low": false,
+      "trend": "Abwärtstrend",
+      "unusual": 1.4,
+      "spark": [
+       25698.0,
+       26009.0,
+       25517.0,
+       25511.0,
+       25653.0,
+       25566.0,
+       25585.0,
+       25567.0,
+       25330.0,
+       25311.0,
+       25213.0,
+       25651.0,
+       25413.0,
+       25317.0,
+       25275.0,
+       24954.0,
+       24806.0,
+       24918.0,
+       24667.0,
+       24714.0,
+       24604.0,
+       24751.0,
+       25043.0,
+       25088.0,
+       24834.0,
+       24761.0,
+       24510.0,
+       24643.0,
+       24524.0,
+       24613.0,
+       23972.0,
+       24040.0,
+       24281.0,
+       24130.0,
+       23786.0,
+       24211.0,
+       24271.0,
+       24345.0,
+       24314.0,
+       24063.0,
+       24187.0,
+       23868.0,
+       23652.0,
+       22935.0,
+       23093.0,
+       23212.0,
+       23041.0,
+       23095.0,
+       22959.0,
+       23294.0,
+       23393.0,
+       23526.0,
+       23920.0,
+       24797.0,
+       24482.0,
+       24449.0,
+       24557.0,
+       24316.0,
+       24009.0,
+       23638.0
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Devisen, Rohstoffe, Zinsen & Krypto",
+    "items": [
+     {
+      "symbol": "EURUSD=X",
+      "name": "Euro in US-Dollar",
+      "kind": "price",
+      "unit": "$",
+      "decimals": 4,
+      "price": 1.105021,
+      "date": "2026-11-13",
+      "change_1d": -0.41,
+      "change_1w": -1.59,
+      "change_1m": -1.29,
+      "change_ytd": -5.93,
+      "change_1y": -4.68,
+      "from_high": -8.1,
+      "from_low": 0.0,
+      "new_high": false,
+      "new_low": true,
+      "trend": "Abwärtstrend",
+      "unusual": 1.4,
+      "spark": [
+       1.1682,
+       1.1668,
+       1.1675,
+       1.1655,
+       1.1656,
+       1.1589,
+       1.1618,
+       1.1596,
+       1.1585,
+       1.1628,
+       1.1614,
+       1.1628,
+       1.1627,
+       1.1634,
+       1.161,
+       1.1594,
+       1.1549,
+       1.1538,
+       1.147,
+       1.1476,
+       1.148,
+       1.1465,
+       1.1448,
+       1.1382,
+       1.1375,
+       1.1378,
+       1.1373,
+       1.1341,
+       1.1327,
+       1.125,
+       1.1255,
+       1.1217,
+       1.1254,
+       1.1201,
+       1.1213,
+       1.1205,
+       1.116,
+       1.1204,
+       1.1195,
+       1.1213,
+       1.1225,
+       1.1216,
+       1.1227,
+       1.1235,
+       1.1221,
+       1.1218,
+       1.1174,
+       1.113,
+       1.1156,
+       1.1183,
+       1.1157,
+       1.1192,
+       1.1207,
+       1.1235,
+       1.1228,
+       1.1147,
+       1.1222,
+       1.1169,
+       1.1095,
+       1.105
+      ]
+     },
+     {
+      "symbol": "GC=F",
+      "name": "Gold (Feinunze)",
+      "kind": "price",
+      "unit": "$",
+      "decimals": 2,
+      "price": 3886.300049,
+      "date": "2026-11-13",
+      "change_1d": 0.03,
+      "change_1w": -4.63,
+      "change_1m": -6.81,
+      "change_ytd": -10.48,
+      "change_1y": -5.08,
+      "from_high": -26.9,
+      "from_low": 0.0,
+      "new_high": false,
+      "new_low": false,
+      "trend": "Abwärtstrend",
+      "unusual": 0.0,
+      "spark": [
+       4680.6,
+       4697.8,
+       4694.5,
+       4653.3,
+       4664.0,
+       4529.9,
+       4481.5,
+       4396.4,
+       4414.6,
+       4539.9,
+       4476.6,
+       4439.0,
+       4460.7,
+       4407.3,
+       4408.9,
+       4351.9,
+       4332.8,
+       4387.5,
+       4399.7,
+       4424.9,
+       4383.9,
+       4376.4,
+       4318.4,
+       4298.0,
+       4321.2,
+       4168.4,
+       4179.7,
+       4186.7,
+       4202.3,
+       4162.3,
+       4156.8,
+       4187.1,
+       4140.7,
+       4157.0,
+       4216.3,
+       4190.6,
+       4177.3,
+       4107.9,
+       4170.1,
+       4181.1,
+       4160.1,
+       4142.6,
+       4150.0,
+       4060.4,
+       4007.9,
+       4038.4,
+       4074.6,
+       4051.6,
+       4031.4,
+       3898.9,
+       3969.6,
+       3940.4,
+       4073.0,
+       4113.5,
+       4074.9,
+       4114.5,
+       4030.2,
+       4000.5,
+       3885.3,
+       3886.3
+      ]
+     },
+     {
+      "symbol": "BZ=F",
+      "name": "Brent-Öl (Barrel)",
+      "kind": "price",
+      "unit": "$",
+      "decimals": 2,
+      "price": 95.839996,
+      "date": "2026-11-13",
+      "change_1d": 0.02,
+      "change_1w": -2.52,
+      "change_1m": -9.52,
+      "change_ytd": 57.5,
+      "change_1y": 48.84,
+      "from_high": -19.0,
+      "from_low": 62.7,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": 0.0,
+      "spark": [
+       94.39,
+       92.17,
+       88.58,
+       87.84,
+       89.7,
+       89.31,
+       90.49,
+       94.65,
+       95.63,
+       95.52,
+       96.28,
+       97.92,
+       101.21,
+       107.63,
+       104.61,
+       105.68,
+       108.75,
+       105.83,
+       104.82,
+       103.87,
+       100.34,
+       99.25,
+       103.08,
+       106.6,
+       104.32,
+       105.28,
+       102.59,
+       103.53,
+       102.31,
+       102.25,
+       100.32,
+       100.58,
+       100.2,
+       104.28,
+       104.72,
+       106.65,
+       105.69,
+       106.06,
+       105.92,
+       109.86,
+       109.55,
+       108.79,
+       108.82,
+       113.17,
+       116.72,
+       115.81,
+       113.88,
+       115.32,
+       114.88,
+       117.64,
+       104.77,
+       103.6,
+       94.62,
+       98.29,
+       98.32,
+       92.57,
+       91.49,
+       92.76,
+       95.82,
+       95.84
+      ]
+     },
+     {
+      "symbol": "^TNX",
+      "name": "US-Anleihe 10 Jahre (Rendite)",
+      "kind": "yield",
+      "unit": "%",
+      "decimals": 2,
+      "price": 5.154,
+      "date": "2026-11-13",
+      "change_1d": 0.05,
+      "change_1w": 0.29,
+      "change_1m": 0.06,
+      "change_ytd": 0.99,
+      "change_1y": 1.04,
+      "from_high": -3.0,
+      "from_low": 30.1,
+      "new_high": false,
+      "new_low": false,
+      "trend": "Aufwärtstrend",
+      "unusual": null,
+      "spark": [
+       4.738,
+       4.704,
+       4.639,
+       4.664,
+       4.672,
+       4.72,
+       4.758,
+       4.796,
+       4.796,
+       4.762,
+       4.784,
+       4.806,
+       4.837,
+       4.944,
+       4.975,
+       4.961,
+       4.996,
+       5.006,
+       4.947,
+       4.998,
+       4.963,
+       4.968,
+       5.114,
+       5.162,
+       5.184,
+       5.24,
+       5.255,
+       5.293,
+       5.237,
+       5.277,
+       5.311,
+       5.269,
+       5.277,
+       5.231,
+       5.244,
+       5.24,
+       5.217,
+       5.19,
+       5.089,
+       5.098,
+       5.136,
+       5.117,
+       5.146,
+       4.953,
+       4.988,
+       4.986,
+       4.993,
+       5.045,
+       4.989,
+       4.929,
+       4.894,
+       4.952,
+       4.894,
+       4.837,
+       4.859,
+       4.864,
+       4.983,
+       4.998,
+       5.103,
+       5.154
+      ]
+     },
+     {
+      "symbol": "BTC-EUR",
+      "name": "Bitcoin",
+      "kind": "price",
+      "unit": "€",
+      "decimals": 0,
+      "price": 59068.429688,
+      "date": "2026-11-15",
+      "change_1d": -4.59,
+      "change_1w": -11.88,
+      "change_1m": -18.08,
+      "change_ytd": -20.81,
+      "change_1y": -28.15,
+      "from_high": -23.1,
+      "from_low": 15.1,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": 2.2,
+      "spark": [
+       66399.0,
+       66579.0,
+       70420.0,
+       70767.0,
+       70688.0,
+       75546.0,
+       75274.0,
+       74139.0,
+       74189.0,
+       73769.0,
+       74099.0,
+       74229.0,
+       73436.0,
+       73738.0,
+       73765.0,
+       75437.0,
+       75059.0,
+       75299.0,
+       76833.0,
+       76473.0,
+       76031.0,
+       74352.0,
+       72842.0,
+       73673.0,
+       74009.0,
+       74684.0,
+       73266.0,
+       74184.0,
+       72858.0,
+       73258.0,
+       72517.0,
+       72413.0,
+       73057.0,
+       72995.0,
+       73882.0,
+       74784.0,
+       72463.0,
+       72376.0,
+       72109.0,
+       71341.0,
+       71603.0,
+       72624.0,
+       72849.0,
+       69551.0,
+       68899.0,
+       69141.0,
+       70136.0,
+       68504.0,
+       69016.0,
+       71568.0,
+       67637.0,
+       67956.0,
+       67957.0,
+       66908.0,
+       67030.0,
+       66007.0,
+       66669.0,
+       64566.0,
+       61912.0,
+       59068.0
+      ]
+     }
+    ]
+   }
+  ],
+  "watch": [
+   {
+    "symbol": "NVDA",
+    "name": "Nvidia",
+    "unit": "$",
+    "decimals": 2,
+    "price": 162.850006,
+    "change_1d": -2.01,
+    "change_1w": -12.75,
+    "change_1m": -25.03,
+    "change_ytd": -12.68,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Halbleiter",
+    "score": 7.77,
+    "reasons": [
+     "−25,0 % in einem Monat",
+     "Neues Jahrestief",
+     "In 7 Artikeln von heute erwähnt"
+    ],
+    "mentions": 7,
+    "stories": [
+     {
+      "title": "Petition: Nvidia-Mitarbeiter und Elon Musk wollen Huang zurück",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+     },
+     {
+      "title": "Die Liebesfalle als Waffe der Geheimdienste",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+     }
+    ]
+   },
+   {
+    "symbol": "AAPL",
+    "name": "Apple",
+    "unit": "$",
+    "decimals": 2,
+    "price": 356.269989,
+    "change_1d": 0.39,
+    "change_1w": 4.06,
+    "change_1m": 4.17,
+    "change_ytd": 31.05,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Technik",
+    "score": 4.3,
+    "reasons": [
+     "Neues Jahreshoch",
+     "In 3 Artikeln von heute erwähnt"
+    ],
+    "mentions": 3,
+    "stories": [
+     {
+      "title": "Petition: Nvidia-Mitarbeiter und Elon Musk wollen Huang zurück",
+      "url": "https://www.dawn.com/news/2044511/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang"
+     },
+     {
+      "title": "Haben Sie ein iPhone Duo? Diese 9 Einstellungen erleichtern die Verwendung",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/"
+     }
+    ]
+   },
+   {
+    "symbol": "MSFT",
+    "name": "Microsoft",
+    "unit": "$",
+    "decimals": 2,
+    "price": 523.880005,
+    "change_1d": 0.17,
+    "change_1w": -1.27,
+    "change_1m": -2.88,
+    "change_ytd": 8.32,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Software",
+    "score": 3.4,
+    "reasons": [
+     "In 4 Artikeln von heute erwähnt"
+    ],
+    "mentions": 4,
+    "stories": [
+     {
+      "title": "US-Flugchaos durch Reparatur alter Kupferkabel verursacht: Trump-Admin",
+      "url": "https://www.dawn.com/news/2044466/us-flights-resume-after-rare-hours-long-nationwide-grounding-but-cancellations-delays-persist"
+     },
+     {
+      "title": "Microsoft: Störungen behoben - Dienste funktionieren wieder",
+      "url": "https://www.dawn.com/news/2044507/microsoft-announces-service-restored-global-outage-over"
+     }
+    ]
+   },
+   {
+    "symbol": "RHM.DE",
+    "name": "Rheinmetall",
+    "unit": "€",
+    "decimals": 2,
+    "price": 765.5,
+    "change_1d": -0.92,
+    "change_1w": -5.81,
+    "change_1m": -25.39,
+    "change_ytd": -50.96,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Rüstung",
+    "score": 3.19,
+    "reasons": [
+     "−25,4 % in einem Monat",
+     "Neues Jahrestief"
+    ],
+    "mentions": 0,
+    "stories": []
+   },
+   {
+    "symbol": "LLY",
+    "name": "Eli Lilly",
+    "unit": "$",
+    "decimals": 2,
+    "price": 1443.5,
+    "change_1d": 1.14,
+    "change_1w": 6.61,
+    "change_1m": 15.33,
+    "change_ytd": 34.32,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Pharma",
+    "score": 2.52,
+    "reasons": [
+     "+15,3 % in einem Monat",
+     "Neues Jahreshoch"
+    ],
+    "mentions": 0,
+    "stories": []
+   },
+   {
+    "symbol": "AVGO",
+    "name": "Broadcom",
+    "unit": "$",
+    "decimals": 2,
+    "price": 347.01001,
+    "change_1d": -4.76,
+    "change_1w": 18.16,
+    "change_1m": 0.78,
+    "change_ytd": 0.26,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Halbleiter",
+    "score": 2.38,
+    "reasons": [
+     "Kursrutsch von −4,8 % an einem Handelstag"
+    ],
+    "mentions": 0,
+    "stories": []
+   }
+  ],
+  "companies": [
+   {
+    "symbol": "AIR.PA",
+    "name": "Airbus",
+    "unit": "€",
+    "decimals": 2,
+    "price": 206.649994,
+    "change_1d": -0.77,
+    "change_1w": 5.22,
+    "change_1m": 6.09,
+    "change_ytd": 4.16,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Luftfahrt"
+   },
+   {
+    "symbol": "BABA",
+    "name": "Alibaba",
+    "unit": "$",
+    "decimals": 2,
+    "price": 94.379997,
+    "change_1d": 0.02,
+    "change_1w": -13.77,
+    "change_1m": -15.07,
+    "change_ytd": -35.61,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Internet"
+   },
+   {
+    "symbol": "ALV.DE",
+    "name": "Allianz",
+    "unit": "€",
+    "decimals": 2,
+    "price": 477.200012,
+    "change_1d": 1.02,
+    "change_1w": 5.79,
+    "change_1m": 11.03,
+    "change_ytd": 22.2,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Versicherung"
+   },
+   {
+    "symbol": "GOOGL",
+    "name": "Alphabet (Google)",
+    "unit": "$",
+    "decimals": 2,
+    "price": 295.769989,
+    "change_1d": -0.98,
+    "change_1w": 3.86,
+    "change_1m": -15.31,
+    "change_ytd": -5.5,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Internet"
+   },
+   {
+    "symbol": "AMZN",
+    "name": "Amazon",
+    "unit": "$",
+    "decimals": 2,
+    "price": 266.660004,
+    "change_1d": -0.29,
+    "change_1w": 2.84,
+    "change_1m": 4.67,
+    "change_ytd": 15.53,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Handel & Cloud"
+   },
+   {
+    "symbol": "AAPL",
+    "name": "Apple",
+    "unit": "$",
+    "decimals": 2,
+    "price": 356.269989,
+    "change_1d": 0.39,
+    "change_1w": 4.06,
+    "change_1m": 4.17,
+    "change_ytd": 31.05,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Technik"
+   },
+   {
+    "symbol": "ASML.AS",
+    "name": "ASML",
+    "unit": "€",
+    "decimals": 2,
+    "price": 1338.800049,
+    "change_1d": -2.76,
+    "change_1w": 4.3,
+    "change_1m": -8.56,
+    "change_ytd": 45.3,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Halbleiter"
+   },
+   {
+    "symbol": "BA.L",
+    "name": "BAE Systems",
+    "unit": "GBp",
+    "decimals": 2,
+    "price": 1886.0,
+    "change_1d": -0.53,
+    "change_1w": 2.17,
+    "change_1m": -2.46,
+    "change_ytd": 10.04,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Rüstung"
+   },
+   {
+    "symbol": "BAS.DE",
+    "name": "BASF",
+    "unit": "€",
+    "decimals": 2,
+    "price": 54.27,
+    "change_1d": -0.33,
+    "change_1w": -0.02,
+    "change_1m": 3.14,
+    "change_ytd": 22.15,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Chemie"
+   },
+   {
+    "symbol": "BAYN.DE",
+    "name": "Bayer",
+    "unit": "€",
+    "decimals": 2,
+    "price": 56.52,
+    "change_1d": -0.07,
+    "change_1w": 1.69,
+    "change_1m": 27.27,
+    "change_ytd": 52.72,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Pharma"
+   },
+   {
+    "symbol": "BMW.DE",
+    "name": "BMW",
+    "unit": "€",
+    "decimals": 2,
+    "price": 57.52,
+    "change_1d": 0.59,
+    "change_1w": -3.1,
+    "change_1m": 4.35,
+    "change_ytd": -38.24,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Autos"
+   },
+   {
+    "symbol": "AVGO",
+    "name": "Broadcom",
+    "unit": "$",
+    "decimals": 2,
+    "price": 347.01001,
+    "change_1d": -4.76,
+    "change_1w": 18.16,
+    "change_1m": 0.78,
+    "change_ytd": 0.26,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Halbleiter"
+   },
+   {
+    "symbol": "1211.HK",
+    "name": "BYD",
+    "unit": "HK$",
+    "decimals": 2,
+    "price": 65.0,
+    "change_1d": -3.77,
+    "change_1w": -12.34,
+    "change_1m": -10.78,
+    "change_ytd": -31.65,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Autos"
+   },
+   {
+    "symbol": "DBK.DE",
+    "name": "Deutsche Bank",
+    "unit": "€",
+    "decimals": 2,
+    "price": 33.185001,
+    "change_1d": -0.57,
+    "change_1w": 5.15,
+    "change_1m": 13.96,
+    "change_ytd": 0.23,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Banken"
+   },
+   {
+    "symbol": "DTE.DE",
+    "name": "Deutsche Telekom",
+    "unit": "€",
+    "decimals": 2,
+    "price": 26.6,
+    "change_1d": 0.3,
+    "change_1w": 2.66,
+    "change_1m": 3.95,
+    "change_ytd": -3.83,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Telekommunikation"
+   },
+   {
+    "symbol": "DHL.DE",
+    "name": "DHL Group",
+    "unit": "€",
+    "decimals": 2,
+    "price": 60.900002,
+    "change_1d": 0.59,
+    "change_1w": 4.96,
+    "change_1m": 5.55,
+    "change_ytd": 30.32,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Logistik"
+   },
+   {
+    "symbol": "LLY",
+    "name": "Eli Lilly",
+    "unit": "$",
+    "decimals": 2,
+    "price": 1443.5,
+    "change_1d": 1.14,
+    "change_1w": 6.61,
+    "change_1m": 15.33,
+    "change_ytd": 34.32,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Pharma"
+   },
+   {
+    "symbol": "HAG.DE",
+    "name": "Hensoldt",
+    "unit": "€",
+    "decimals": 2,
+    "price": 80.419998,
+    "change_1d": 1.21,
+    "change_1w": 3.85,
+    "change_1m": -3.01,
+    "change_ytd": 9.56,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Rüstung"
+   },
+   {
+    "symbol": "IFX.DE",
+    "name": "Infineon",
+    "unit": "€",
+    "decimals": 2,
+    "price": 49.875,
+    "change_1d": -4.29,
+    "change_1w": 9.0,
+    "change_1m": -4.95,
+    "change_ytd": 32.19,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Halbleiter"
+   },
+   {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase",
+    "unit": "$",
+    "decimals": 2,
+    "price": 346.190002,
+    "change_1d": 0.98,
+    "change_1w": 3.5,
+    "change_1m": 3.18,
+    "change_ytd": 7.44,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Banken"
+   },
+   {
+    "symbol": "LMT",
+    "name": "Lockheed Martin",
+    "unit": "$",
+    "decimals": 2,
+    "price": 596.039978,
+    "change_1d": -1.33,
+    "change_1w": 5.11,
+    "change_1m": 11.9,
+    "change_ytd": 23.23,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Rüstung"
+   },
+   {
+    "symbol": "MBG.DE",
+    "name": "Mercedes-Benz",
+    "unit": "€",
+    "decimals": 2,
+    "price": 40.755001,
+    "change_1d": 0.15,
+    "change_1w": -1.93,
+    "change_1m": 2.04,
+    "change_ytd": -32.15,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Autos"
+   },
+   {
+    "symbol": "META",
+    "name": "Meta",
+    "unit": "$",
+    "decimals": 2,
+    "price": 641.690002,
+    "change_1d": 2.9,
+    "change_1w": 5.17,
+    "change_1m": -12.9,
+    "change_ytd": -2.79,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Internet"
+   },
+   {
+    "symbol": "MSFT",
+    "name": "Microsoft",
+    "unit": "$",
+    "decimals": 2,
+    "price": 523.880005,
+    "change_1d": 0.17,
+    "change_1w": -1.27,
+    "change_1m": -2.88,
+    "change_ytd": 8.32,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Software"
+   },
+   {
+    "symbol": "MUV2.DE",
+    "name": "Munich Re",
+    "unit": "€",
+    "decimals": 2,
+    "price": 591.200012,
+    "change_1d": 0.92,
+    "change_1w": 3.87,
+    "change_1m": 8.52,
+    "change_ytd": 5.16,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Versicherung"
+   },
+   {
+    "symbol": "NOVO-B.CO",
+    "name": "Novo Nordisk",
+    "unit": "DKK",
+    "decimals": 2,
+    "price": 278.450012,
+    "change_1d": 0.98,
+    "change_1w": 3.34,
+    "change_1m": 5.69,
+    "change_ytd": -14.39,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Pharma"
+   },
+   {
+    "symbol": "NVDA",
+    "name": "Nvidia",
+    "unit": "$",
+    "decimals": 2,
+    "price": 162.850006,
+    "change_1d": -2.01,
+    "change_1w": -12.75,
+    "change_1m": -25.03,
+    "change_ytd": -12.68,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Halbleiter"
+   },
+   {
+    "symbol": "PLTR",
+    "name": "Palantir",
+    "unit": "$",
+    "decimals": 2,
+    "price": 167.990005,
+    "change_1d": -2.09,
+    "change_1w": 4.74,
+    "change_1m": -16.21,
+    "change_ytd": -5.49,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Software"
+   },
+   {
+    "symbol": "RHM.DE",
+    "name": "Rheinmetall",
+    "unit": "€",
+    "decimals": 2,
+    "price": 765.5,
+    "change_1d": -0.92,
+    "change_1w": -5.81,
+    "change_1m": -25.39,
+    "change_ytd": -50.96,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Rüstung"
+   },
+   {
+    "symbol": "SAP.DE",
+    "name": "SAP",
+    "unit": "€",
+    "decimals": 2,
+    "price": 213.449997,
+    "change_1d": 0.42,
+    "change_1w": 1.28,
+    "change_1m": 6.06,
+    "change_ytd": 2.45,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Software"
+   },
+   {
+    "symbol": "SHEL.L",
+    "name": "Shell",
+    "unit": "GBp",
+    "decimals": 2,
+    "price": 3719.5,
+    "change_1d": 1.49,
+    "change_1w": -0.08,
+    "change_1m": -4.82,
+    "change_ytd": 35.75,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Öl & Gas"
+   },
+   {
+    "symbol": "SIE.DE",
+    "name": "Siemens",
+    "unit": "€",
+    "decimals": 2,
+    "price": 279.399994,
+    "change_1d": -0.82,
+    "change_1w": 5.97,
+    "change_1m": 3.23,
+    "change_ytd": 16.83,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Industrie"
+   },
+   {
+    "symbol": "ENR.DE",
+    "name": "Siemens Energy",
+    "unit": "€",
+    "decimals": 2,
+    "price": 131.279999,
+    "change_1d": -0.94,
+    "change_1w": 11.16,
+    "change_1m": -0.82,
+    "change_ytd": 9.04,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Energietechnik"
+   },
+   {
+    "symbol": "TSLA",
+    "name": "Tesla",
+    "unit": "$",
+    "decimals": 2,
+    "price": 390.220001,
+    "change_1d": -1.82,
+    "change_1w": 8.93,
+    "change_1m": 7.66,
+    "change_ytd": -13.23,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Autos"
+   },
+   {
+    "symbol": "TSM",
+    "name": "TSMC",
+    "unit": "$",
+    "decimals": 2,
+    "price": 398.730011,
+    "change_1d": -1.67,
+    "change_1w": 6.2,
+    "change_1m": -5.57,
+    "change_ytd": 31.21,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Halbleiter"
+   },
+   {
+    "symbol": "VWS.CO",
+    "name": "Vestas",
+    "unit": "DKK",
+    "decimals": 2,
+    "price": 194.550003,
+    "change_1d": -1.87,
+    "change_1w": -7.31,
+    "change_1m": 5.73,
+    "change_ytd": 12.2,
+    "trend": "uneinheitlich",
+    "date": "2026-11-13",
+    "sector": "Windkraft"
+   },
+   {
+    "symbol": "VOW3.DE",
+    "name": "Volkswagen",
+    "unit": "€",
+    "decimals": 2,
+    "price": 67.480003,
+    "change_1d": -0.35,
+    "change_1w": -3.38,
+    "change_1m": 0.99,
+    "change_ytd": -34.83,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-13",
+    "sector": "Autos"
+   }
+  ],
+  "trends": [
+   {
+    "id": "ki",
+    "label": "Künstliche Intelligenz",
+    "mentions": 9,
+    "average": 27.2,
+    "direction": "weniger als üblich",
+    "basket_1w": 2.9,
+    "basket_1m": -8.3,
+    "members": [
+     {
+      "name": "Nvidia",
+      "change_1m": -25.03
+     },
+     {
+      "name": "Microsoft",
+      "change_1m": -2.88
+     },
+     {
+      "name": "Alphabet (Google)",
+      "change_1m": -15.31
+     },
+     {
+      "name": "Broadcom",
+      "change_1m": 0.78
+     },
+     {
+      "name": "TSMC",
+      "change_1m": -5.57
+     },
+     {
+      "name": "Palantir",
+      "change_1m": -16.21
+     },
+     {
+      "name": "SAP",
+      "change_1m": 6.06
+     }
+    ],
+    "stories": [
+     {
+      "title": "Petition: Nvidia-Mitarbeiter und Elon Musk wollen Huang zurück",
+      "url": "https://www.dawn.com/news/2044511/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang"
+     },
+     {
+      "title": "Microsoft: Störungen behoben - Dienste funktionieren wieder",
+      "url": "https://www.dawn.com/news/2044507/microsoft-announces-service-restored-global-outage-over"
+     }
+    ]
+   },
+   {
+    "id": "ruestung",
+    "label": "Rüstung & Verteidigung",
+    "mentions": 7,
+    "average": 7.2,
+    "direction": "etwa wie üblich",
+    "basket_1w": 1.3,
+    "basket_1m": -4.7,
+    "members": [
+     {
+      "name": "Rheinmetall",
+      "change_1m": -25.39
+     },
+     {
+      "name": "Hensoldt",
+      "change_1m": -3.01
+     },
+     {
+      "name": "BAE Systems",
+      "change_1m": -2.46
+     },
+     {
+      "name": "Lockheed Martin",
+      "change_1m": 11.9
+     }
+    ],
+    "stories": [
+     {
+      "title": "Saudi-geführte Koalition fängt zwei Raketen, zwei Drohnen in Riad ab",
+      "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "id": "energiewende",
+    "label": "Energiewende & Klima",
+    "mentions": 6,
+    "average": 9.5,
+    "direction": "etwa wie üblich",
+    "basket_1w": 1.9,
+    "basket_1m": 2.5,
+    "members": [
+     {
+      "name": "Siemens Energy",
+      "change_1m": -0.82
+     },
+     {
+      "name": "Vestas",
+      "change_1m": 5.73
+     }
+    ],
+    "stories": [
+     {
+      "title": "Türkei: Tausende demonstrieren für Klima und Menschenrechte",
+      "url": "https://www.dawn.com/news/2044520/thousands-rally-in-antalya-to-demand-climate-justice-as-cop31-talks-hit-midpoint"
+     },
+     {
+      "title": "Das Nicken des Parlaments als Muss für ein Referendum",
+      "url": "https://www.dawn.com/news/2044647/parliaments-nod-deemed-a-must-for-referendum"
+     }
+    ]
+   },
+   {
+    "id": "chips",
+    "label": "Chips & Halbleiter",
+    "mentions": 3,
+    "average": 3.8,
+    "direction": "etwa wie üblich",
+    "basket_1w": 5.0,
+    "basket_1m": -8.7,
+    "members": [
+     {
+      "name": "Nvidia",
+      "change_1m": -25.03
+     },
+     {
+      "name": "Broadcom",
+      "change_1m": 0.78
+     },
+     {
+      "name": "TSMC",
+      "change_1m": -5.57
+     },
+     {
+      "name": "ASML",
+      "change_1m": -8.56
+     },
+     {
+      "name": "Infineon",
+      "change_1m": -4.95
+     }
+    ],
+    "stories": [
+     {
+      "title": "Petition: Nvidia-Mitarbeiter und Elon Musk wollen Huang zurück",
+      "url": "https://www.dawn.com/news/2044511/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang"
+     },
+     {
+      "title": "Die Liebesfalle als Waffe der Geheimdienste",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+     }
+    ]
+   },
+   {
+    "id": "krypto",
+    "label": "Krypto",
+    "mentions": 0,
+    "average": null,
+    "direction": "",
+    "basket_1w": -11.9,
+    "basket_1m": -18.1,
+    "members": [
+     {
+      "name": "Bitcoin",
+      "change_1m": -18.08
+     }
+    ],
+    "stories": []
+   },
+   {
+    "id": "pharma",
+    "label": "Pharma & Abnehmmittel",
+    "mentions": 0,
+    "average": 1.0,
+    "direction": "etwa wie üblich",
+    "basket_1w": 3.9,
+    "basket_1m": 16.1,
+    "members": [
+     {
+      "name": "Eli Lilly",
+      "change_1m": 15.33
+     },
+     {
+      "name": "Novo Nordisk",
+      "change_1m": 5.69
+     },
+     {
+      "name": "Bayer",
+      "change_1m": 27.27
+     }
+    ],
+    "stories": []
+   }
+  ],
+  "failed": []
+ }
+}
