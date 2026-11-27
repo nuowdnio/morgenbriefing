@@ -1,0 +1,3806 @@
+{
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T04:43:06.741140+00:00",
+ "window_hours": 24,
+ "top_count": 5,
+ "translator": "Argos Translate",
+ "embedder": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+ "warnings": [],
+ "topics": [
+  {
+   "id": "deutschland",
+   "label": "Deutschland"
+  },
+  {
+   "id": "europa",
+   "label": "Europa"
+  },
+  {
+   "id": "weltpolitik",
+   "label": "Weltpolitik"
+  },
+  {
+   "id": "wirtschaft",
+   "label": "Wirtschaft & Finanzen"
+  },
+  {
+   "id": "wissenschaft",
+   "label": "Wissenschaft"
+  },
+  {
+   "id": "technologie",
+   "label": "Technologie & KI"
+  },
+  {
+   "id": "klima",
+   "label": "Klima & Umwelt"
+  },
+  {
+   "id": "gesundheit",
+   "label": "Gesundheit"
+  },
+  {
+   "id": "kultur",
+   "label": "Kultur"
+  },
+  {
+   "id": "sport",
+   "label": "Sport"
+  }
+ ],
+ "stories": [
+  {
+   "rank": 1,
+   "topic": "weltpolitik",
+   "title": "Selenskyj warnt vor einem großen russischen Angriff, während Trump Putin drängt, \"zurückzuziehen\"",
+   "summary": [
+    "Trump sagt, er habe Putin aufgefordert, die militärische Aggression in Europa angesichts der eskalierenden russischen und ukrainischen Angriffe \"zurückzuziehen\".",
+    "PALM BEACH, FLORIDA, 26. November (Reuters) - US-Präsident Donald Trump sagte am Donnerstag, er habe dem russischen Führer Wladimir Putin letzte Woche gesagt, er möchte, dass Russland die militärische Aggression gegen Gebiete in ganz Europa zurückzieht, in der Hoffnung, dass dies zu einer schnellen Beilegung des Krieges in der Ukraine führen könnte."
+   ],
+   "machine_translated": true,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-27T04:37:30+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss"
+    },
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-27-trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe/"
+    }
+   ],
+   "details": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-27-trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe/",
+     "title": "Trump sagt, er habe Putin gebeten, die militärische Aggression in ganz Europa zurückzuziehen",
+     "text": [],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "topic": "weltpolitik",
+   "title": "Ebola und Krieg in der DR Kongo: Kongos Aufständische gehen viral",
+   "summary": [
+    "Mitten im Ebola-Gebiet der DR Kongo drängen Rebellen die Regierungsarmee in die Defensive.",
+    "Einer ihrer Anführer saß schon mal in Den Haag in Haft."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-26T18:44:00+00:00",
+   "links": [
+    {
+     "source": "NPR",
+     "country": "USA",
+     "ownership": "gemeinnützig",
+     "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Ebola-und-Krieg-in-der-DR-Kongo/!6233557/"
+    }
+   ],
+   "details": [
+    {
+     "source": "NPR",
+     "country": "USA",
+     "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+     "title": "Kongo Ebola-Ausbruch erreicht 12.000 Fälle, wie einige Responder evakuieren",
+     "text": [
+      "Während sich der schnelllebige Ausbruch im Ostkongo weiter ausbreitet, stören Kämpfe zwischen Rebellen und Armee die Bemühungen, die Ausbreitung der Krankheit einzudämmen."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "topic": "weltpolitik",
+   "title": "Stürme an beiden US-Küsten lassen 840.000 ohne Strom und stören Thanksgiving-Reise",
+   "summary": [
+    "Macy's hat seine 100. Parade in Manhattan verschoben, als mehr als 600.000 Haushalte und Unternehmen an Macht verloren haben.",
+    "Schwere Stürme schlugen die Ost- und Westküste der Vereinigten Staaten am Donnerstag, Thanksgiving Day, dem geschäftigsten Reiseurlaub des Jahres, mehr als 840.000 Kunden ohne Strom, Hunderte von Flügen abgesagt und die traditionelle Macy Parade in New York verschoben, berichtete die BBC."
+   ],
+   "machine_translated": true,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-26T22:30:00+00:00",
+   "links": [
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "ownership": "privat",
+     "url": "https://en.mercopress.com/2026/11/26/storms-on-both-us-coasts-leave-840-000-without-power-and-disrupt-thanksgiving-travel?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/26/thanksgiving-storms-flood-us-coasts-and-disrupt-holiday-travel"
+    }
+   ],
+   "details": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/26/thanksgiving-storms-flood-us-coasts-and-disrupt-holiday-travel",
+     "title": "Thanksgiving-Stürme überschwemmen US-Küsten und stören Urlaubsreisen",
+     "text": [],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "topic": "wirtschaft",
+   "title": "Tanker vor Ibiza gekentert - ein Toter",
+   "summary": [
+    "Bei einem Tankerunglück vor der spanischen Insel Ibiza ist ein Seemann ums Leben gekommen.",
+    "Das Schiff könnte mehr als acht Millionen Liter Diesel geladen haben."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-26T19:25:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/wirtschaft/tanker-ibiza-millionen-liter-diesel-100.html"
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/26/aerial-footage-shows-diesel-tanker-sinking-off-ibiza"
+    }
+   ],
+   "details": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/26/aerial-footage-shows-diesel-tanker-sinking-off-ibiza",
+     "title": "Luftaufnahmen zeigen Dieseltanker sinkt vor Ibiza",
+     "text": [
+      "Ein Tanker mit rund 7.000 Tonnen Diesel hat vor Ibiza gekentert und die spanischen Behörden aufgefordert, das Risiko der Meeresverschmutzung zu bewerten.",
+      "Ein Besatzungsmitglied starb, nachdem alle 17 Menschen an Bord gerettet wurden."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "topic": "wirtschaft",
+   "title": "Musk verspricht zwei SpaceX-Aktien für jedes US-Kind",
+   "summary": [
+    "Elon Musk plant, jedem Kind in den Vereinigten Staaten zwei SpaceX-Aktien zu schenken, da er versucht, die öffentliche Unterstützung für seine Satelliten- und KI-Unternehmen während einer Zeit intensiver öffentlicher und politischer Kontrolle des Technologiesektors aufzubauen.",
+    "US-Kinder würden einen Anteil von SpaceX und einen von ihm persönlich erhalten, sagte Musk."
+   ],
+   "machine_translated": true,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-27T04:39:07+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss"
+    },
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-27-musk-pledges-two-spacex-shares-for-every-us-child-in-18-billion-ai-charm/"
+    }
+   ],
+   "details": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-27-musk-pledges-two-spacex-shares-for-every-us-child-in-18-billion-ai-charm/",
+     "title": "Musk verspricht zwei SpaceX-Aktien für jedes US-Kind in Höhe von 18 Milliarden US-Dollar KI-Charme",
+     "text": [],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "topic": "weltpolitik",
+   "title": "Nordkoreas Kim schwört, mehr Atomwaffen zu bauen, nachdem er die Ouvertüre von Trump ignoriert hat",
+   "summary": [
+    "Führer Kim Jong Berichten zufolge besuchte Un Einrichtungen, die nukleare Inhaltsstoffe herstellen, und forderte den Bau von mehr Atomwaffen, um mit Bedrohungen aus den USA und Südkorea fertig zu werden.",
+    "Nordkoreanischer Führer Kim Jong Un hat nach dem Besuch von Produktionsstätten für Kernmaterial und eines Waffenforschungsinstituts eine Erweiterung des Nukleararsenals des Landes gefordert."
+   ],
+   "machine_translated": true,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-26T13:31:28+00:00",
+   "links": [
+    {
+     "source": "NPR",
+     "country": "USA",
+     "ownership": "gemeinnützig",
+     "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/26/images-show-kim-jong-un-inspecting-north-korean-nuclear-facilities"
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture"
+    }
+   ],
+   "details": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/26/images-show-kim-jong-un-inspecting-north-korean-nuclear-facilities",
+     "title": "Kim Jong Un inspiziert nordkoreanische Atomanlagen",
+     "text": [],
+     "machine_translated": true
+    },
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+     "title": "",
+     "text": [
+      "Kim beschuldigte Washington, seine regionalen Verbündeten zu ermutigen, nuklear angetriebene U-Boote zu erwerben und zu versprechen, seine eigenen Atomwaffen mit ihnen zu teilen."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "topic": "weltpolitik",
+   "title": "Korruptionsprozess gegen Netanjahu: Richter empfehlen, meiste Anklagepunkte fallen zu lassen",
+   "summary": [
+    "Seit 2020 läuft gegen Israels Regierungschef ein Korruptionsprozess, er bestreitet die Vorwürfe.",
+    "Nun haben sich die Richter geäußert."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 2,
+   "published": "2026-11-26T12:29:21+00:00",
+   "links": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/26/judges-in-netanyahu-corruption-trial-urges-dropping-key-charges"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Korruptionsprozess-gegen-Netanjahu/!6233453/"
+    }
+   ],
+   "details": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/26/judges-in-netanyahu-corruption-trial-urges-dropping-key-charges",
+     "title": "Richter im Netanjahu-Korruptionsprozess drängen darauf, wichtige Anklagen fallen zu lassen",
+     "text": [
+      "Israel kämpft weiterhin darum, nach den Wahlen vom 27. Oktober eine Regierung zu bilden.",
+      "Netanjahu hat seit Beginn seines Prozesses im Mai 2020 in allen drei Fällen Fehlverhalten bestritten."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "topic": "weltpolitik",
+   "title": "„Abwassermeer — NMB in heißem Wasser über nicht genehmigten Ableitungen",
+   "summary": [
+    "Vier Jahre Abwasserverschmutzung, der Tod eines jungen Otters und jetzt Wassertests, die zeigen, dass E. coli-Werte 40-mal über der Küstenrichtlinie liegen, haben das Ausmaß der Abwasserkrise in Nelson Mandela Bay am Cape Recife aufgedeckt."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T05:50:50+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-27-sea-of-sewage-nmb-in-hot-water-over-unauthorised-effluent-discharge/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 9,
+   "topic": "klima",
+   "title": "Die Erde überschreitet die Erwärmung an sieben aufeinanderfolgenden Tagen zum ersten Mal",
+   "summary": [
+    "Die Durchschnittstemperatur des Planeten übertraf an sieben aufeinanderfolgenden Tagen das vorindustrielle Niveau um mehr als 2 ° C, was noch nie zuvor geschehen war, hat der Copernicus Climate Change Service, das europäische Erdbeobachtungsprogramm, bestätigt.",
+    "Am Montag, den 23. November, wurde auch die größte tägliche Anomalie aufgezeichnet, die jemals gemessen wurde: 2,25 ° C über der Periode von 1850-1900."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T04:35:00+00:00",
+   "links": [
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "ownership": "privat",
+     "url": "https://en.mercopress.com/2026/11/27/earth-exceeds-2c-of-warming-for-seven-consecutive-days-for-the-first-time?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 10,
+   "topic": "weltpolitik",
+   "title": "Verfassungsrechtliche Haftung",
+   "summary": [
+    "Die Kinder sind nicht die Verantwortung.",
+    "Jedes Kind, dem Bildung verweigert wird, stellt verlorenes Humankapital dar.",
+    "JEDES außerschulische Kind ist eine lebende Erinnerung an den Zustand seiner verfassungsmäßigen Verpflichtung, und diese Erinnerungen haben seit der Gründung Pakistans zugenommen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T04:16:32+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2047388/constitutional-liability"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2047388/constitutional-liability",
+     "title": "",
+     "text": [
+      "Jetzt haben diese lebenden Erinnerungen 25 Millionen überschritten.",
+      "Neunundsiebzig Jahre nach der Unabhängigkeit kämpft Pakistan immer noch darum, eine der grundlegendsten Aufgaben eines modernen Staates zu erfüllen und sicherzustellen, dass jedes Kind eine Ausbildung erhält.",
+      "Ein Atomstaat hat Generationen ohne ein Bildungssystem hervorgebracht, das in der Lage ist, sie aufzunehmen.",
+      "Pakistans Versagen, seine Kinder zu erziehen, ist kein neues Phänomen, noch begann die verfassungsmäßige Verantwortung des Staates mit Artikel 25-A im Jahr 2010.",
+      "Das Engagement geht auf die frühe Verfassungsgeschichte des Landes zurück."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 11,
+   "topic": "deutschland",
+   "title": "Reddig verteidigt Vorstoß zur \"Rente mit 63\"",
+   "summary": [
+    "Mit einer „Respekt-Rente“ wollen CDU-Politiker den Streit um die „Rente mit 63“ befrieden.",
+    "Die jungen CDUler haben einen fairen Kompromiss-Vorschlag bei der Rente mit 63 gemacht.",
+    "Aus der SPD kommt Kritik, CDU-Politiker Reddig verteidigt die Idee."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 1,
+   "published": "2026-11-26T18:46:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/rente-mit-63-reddig-cdu-junge-gruppe-100.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Vorschlag-zur-Rentenreform/!6233545/"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Rentenvorschlag-von-CDU-Sozialpolitikern/!6233498/"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/politik/rente-mit-63-reddig-cdu-junge-gruppe-100.html",
+     "title": "",
+     "text": [
+      "Bewegung im Renten-Streit?",
+      "Die Union will die abschlagsfreie Frührente künftig vom Einkommen abhängig machen."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Vorschlag-zur-Rentenreform/!6233545/",
+     "title": "Vorschlag zur Rentenreform: SPD, bitte noch mal prüfen!",
+     "text": [
+      "Die SPD sollte nicht so schnell Njet sagen."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Rentenvorschlag-von-CDU-Sozialpolitikern/!6233498/",
+     "title": "Rentenvorschlag von CDU-Sozialpolitikern: Ein Vorschlag und jede Menge Ablehnung",
+     "text": [
+      "Das produziert viel Wirbel und wenig Lösungen."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 12,
+   "topic": "deutschland",
+   "title": "Wirbel um Ex-Mossad-Chef: Was folgt aus der Bundestagsaktion?",
+   "summary": [
+    "Abgeordnete stellten sich gegen andere Abgeordnete.",
+    "Proteste wie gestern kommen im Bundestag selten vor.",
+    "Bei einer Protestaktion gegen Ex-Mossad-Chef Barnea setzten sich zwei Linken-Abgeordnete vor den Sitzungssaal."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 1,
+   "published": "2026-11-26T18:43:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/bundestag-barnea-kloeckner-notz-gruene-linke-100.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Mutmasslicher-Kriegsverbrecher--Waffenlobbyist-Wieso-bleibt-das-Bundestag-Fruehstueck-mit-Ex-Mossad-Chef-ohne-Folgen/!6233526/"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Protest-gegen-Mossad-im-Bundestag/!6233612/"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/politik/deutschland/bundestag-barnea-kloeckner-notz-gruene-linke-100.html",
+     "title": "",
+     "text": [
+      "Der Grund: ein umstrittener Gast aus Israel."
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Mutmasslicher-Kriegsverbrecher--Waffenlobbyist-Wieso-bleibt-das-Bundestag-Fruehstueck-mit-Ex-Mossad-Chef-ohne-Folgen/!6233526/",
+     "title": "Ex-Mossad-Chef im Bundestag: Frühstück ohne Folgen",
+     "text": [
+      "Die Einladung eines mutmaßlichen Kriegsverbrechers und Waffenlobbyisten in den Bundestag war ein Skandal.",
+      "Aber wo blieb die mediale Empörung?"
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Protest-gegen-Mossad-im-Bundestag/!6233612/",
+     "title": "Protest gegen Mossad im Bundestag: Klöckner prüft Sanktionen nach Blockade im Bundestag",
+     "text": [
+      "Die Bundestagspräsidentin will das ahnden."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 13,
+   "topic": "weltpolitik",
+   "title": "\"Diese Fragen brennen immer noch\" - Todesfälle auf See und Vertuschungen von Unternehmen, ein Jahrzehnt später",
+   "summary": [
+    "Im Jahr 2016 veröffentlichte Daily Maverick eine Untersuchungsserie über das wahrscheinliche Schicksal von drei südafrikanischen Seeleuten, die im Südpolarmeer vermisst worden waren.",
+    "Im Jahr 2026 veröffentlichte die Schwägerin des vermissten Skippers ein Buch über den Schmerz des mehrdeutigen Verlustes.",
+    "Für Daily Maverick war die Wiedervereinigung mit der Autorin und ihrem Partner intim, ergreifend und aufschlussreich."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T05:30:00+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-27-these-questions-still-burn-deaths-at-sea-and-corporate-cover-ups-a-decade-later/"
+    }
+   ],
+   "details": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-27-these-questions-still-burn-deaths-at-sea-and-corporate-cover-ups-a-decade-later/",
+     "title": "",
+     "text": [
+      "Die Beweise deuteten auf Fälschung und eine Vertuschung seitens des Tourismuskonzerns hin, der die Besatzung eingestellt hatte."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 14,
+   "topic": "deutschland",
+   "title": "Terrorgruppe soll Anschlag auf Kölner Synagoge geplant haben",
+   "summary": [
+    "Sie sollen einen Anschlag auf eine Kölner Synagoge geplant haben.",
+    "Zwei Männer der Gruppe Hayi sollen Sprengstoffanschläge auf die Kölner Synagoge sowie ein weiteres jüdisches Gotteshaus in Europa geplant haben.",
+    "Die Bundesanwaltschaft hat zwei mutmaßliche Mitglieder einer islamistischen Terrorgruppe festnehmen lassen."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 1,
+   "published": "2026-11-26T16:23:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/festnahme-anschlagsplan-synagoge-koeln-islamismus-100.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Anschlagsplaene-auf-Synagoge/!6233519/"
+    }
+   ],
+   "details": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Anschlagsplaene-auf-Synagoge/!6233519/",
+     "title": "Anschlagspläne auf Synagoge: Islamistische Terrorverdächtige festgenommen",
+     "text": [
+      "Nun wurden sie verhaftet."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 15,
+   "topic": "wirtschaft",
+   "title": "Er kennt die EZB genau: Wofür steht Pablo Hernández de Cos?",
+   "summary": [
+    "Der Spanier Pablo Hernández de Cos soll neuer Präsident der Europäischen Zentralbank werden.",
+    "Und was bedeutet das für den künftigen Kurs der EZB?",
+    "Mit dem vorzeitigen Abgang von Christine Lagarde stand ein Personalroulette in der EZB an."
+   ],
+   "machine_translated": false,
+   "single_source": false,
+   "source_count": 2,
+   "region_count": 1,
+   "published": "2026-11-26T18:52:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/wirtschaft/ezb-pablo-hernandez-de-cos-spanien-portraet-100.html"
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Nachfolge-fuer-Christine-Lagarde/!6233514/"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/wirtschaft/ezb-pablo-hernandez-de-cos-spanien-portraet-100.html",
+     "title": "",
+     "text": [
+      "Wer ist der Mann?"
+     ],
+     "machine_translated": false
+    },
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "url": "https://taz.de/Nachfolge-fuer-Christine-Lagarde/!6233514/",
+     "title": "Nachfolge für Christine Lagarde: Pablo Hernández de Cos wird neuer EZB-Chef",
+     "text": [
+      "Eile war auch wegen der Wahlen in Frankreich geboten."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 16,
+   "topic": "technologie",
+   "title": "Nvidia macht Pause bei Chip-Lieferungen nach Südostasien",
+   "summary": [
+    "Nvidia hat Produktionspartner angewiesen, Serverlieferungen nach Malaysia, Singapur, Thailand und Indonesien zu unterbrechen, da die USA ihren Vorstoß, KI-Chips aus China fernzuhalten, verschärfen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T20:03:54+00:00",
+   "links": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 17,
+   "topic": "europa",
+   "title": "Frankreich und Deutschland wollen bis zum Jahresende einen „Le Pen-sicheren nächsten EU-Haushalt, Ukraine",
+   "summary": [
+    "Frankreich und Deutschland wollen, dass die Europäische Union im nächsten Monat eine Einigung über ihren Haushalt für 2028-2034 und die Finanzierung der Ukraine vor einer Reihe von Wahlen im gesamten Block im Jahr 2027 erzielt, aber die Führer haben am Donnerstag inmitten hitziger Diskussionen wenig Fortschritte gemacht."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T04:41:19+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-27-france-and-germany-want-deal-by-year-end-to-le-pen-proof-next-eu-budget-and/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 18,
+   "topic": "wirtschaft",
+   "title": "Milei ist das erste Staatsoberhaupt, das Alliana nach Peñas Sturz in Paraguay besucht.",
+   "summary": [
+    "Am selben Tag sagten paraguayische Staatsanwälte, sie hätten Gelder von der Bank in Argentinien entdeckt.",
+    "Der argentinische Präsident Javier Milei reiste am Donnerstag nach Asunción, um den paraguayischen Präsidenten Pedro Alliana zu unterstützen und wurde damit das erste ausländische Staatsoberhaupt, das er seit der Ablösung von Santiago Peña erhalten hat, der wegen des Zusammenbruchs der Ueno Bank aus dem Amt entfernt und inhaftiert wurde."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T22:33:00+00:00",
+   "links": [
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "ownership": "privat",
+     "url": "https://en.mercopress.com/2026/11/26/milei-becomes-the-first-head-of-state-to-visit-alliana-in-paraguay-after-pena-s-fall?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 19,
+   "topic": "sport",
+   "title": "Sam Walker unterschreibt bei PNG Chiefs für die Saison 2028 NRL",
+   "summary": [
+    "PNG Chiefs haben einen weiteren großen Namen mit Queensland und Sydney Roosters Halbback Sam Walker, der für die Saison 2028 beim Expansion Club unterschreibt."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T03:46:08+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-27/sam-walker-png-chiefs-sydney-roosters-nrl/107435422"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 20,
+   "topic": "technologie",
+   "title": "Ist Alice Huang eine Spionin oder nicht?",
+   "summary": [
+    "Die zentrale, noch unbewiesene Behauptung im Nvidia-Skandal ist, dass Alice Huang, die ehemalige Megaspeed-Managerin, mit der Nvidia-CEO Jensen Huang eine außereheliche Affäre hatte, ein chinesischer Spion ist."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T20:00:00+00:00",
+   "links": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 21,
+   "topic": "wirtschaft",
+   "title": "Asiatische Aktienmärkte steigen nach früherem Tech-Rout",
+   "summary": [
+    "Die Indizes in Japan, Südkorea, Australien und Hongkong steigen, da die neuseeländischen Aktien die Wahlunsicherheit beeinträchtigen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T03:42:16+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 22,
+   "topic": "europa",
+   "title": "Falklands-Gesetzgeber Jack Ford traf Minister Uma Kumaran",
+   "summary": [
+    "Der britische Minister für die Überseegebiete Uma Kumaran traf sich im Rahmen des Gemeinsamen Ministerrats mit MLA Jack Ford, dem Vorsitzenden der Legislativversammlung der Falklandinseln."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T05:34:00+00:00",
+   "links": [
+    {
+     "source": "MercoPress",
+     "country": "Uruguay",
+     "ownership": "privat",
+     "url": "https://en.mercopress.com/2026/11/26/falklands-legislative-chair-jack-ford-met-minister-uma-kumaran?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 23,
+   "topic": "technologie",
+   "title": "X bekommt endlich elterliche Kontrollen nach 20 Jahren",
+   "summary": [
+    "Elon musks soziales netzwerk x hat endlich die elterliche kontrolle für teenager hinzugefügt und eltern und erziehungsberechtigten eine möglichkeit gegeben, zu verwalten, was ihre kinder auf der plattform sehen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T19:31:50+00:00",
+   "links": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 24,
+   "topic": "sport",
+   "title": "Lyons Karriere in der Schwebe, als er sich stellt Testaxt",
+   "summary": [
+    "Nathan Lyons langer Die Testkarriere steht am Scheideweg, wobei der Spinner die Auswahl für die Vier-Match-Serie gegen Neuseeland verpassen wird."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T02:28:12+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-27/lyons-career-in-limbo-as-he-faces-test-axe/107434874"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 25,
+   "topic": "europa",
+   "title": "Vom Volumen zum Wert: Tourismus für mehr Europa nutzbar machen",
+   "summary": [
+    "Der Tourismus verdient einen zentralen Platz in der europäischen Politik, schreibt Peter Lochbihler von Booking.com in einem Meinungsbeitrag für Euronews.",
+    "Die EU sollte weniger bekannte Reiseziele dabei unterstützen, Besucher weltweit anzuziehen und lokale Revitalisierung, Wachstum und Wohlstand zu fördern."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T15:00:42+00:00",
+   "links": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/26/from-volume-to-value-making-tourism-work-for-more-of-europe"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 26,
+   "topic": "technologie",
+   "title": "Ein Monat mit dem iPhone Duo hat sich geändert, wie ich mein Telefon benutze",
+   "summary": [
+    "Vom Lesen von mehr Büchern bis hin zum Brechen sinnloser Scrollengewohnheiten hat Apples Faltbar meine täglichen Routinen auf eine Weise verändert, die ich nicht erwartet hatte."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T17:00:00+00:00",
+   "links": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 27,
+   "topic": "europa",
+   "title": "Keine Einigung: EU-Sondergipfel zum Haushalt endet vorzeitig",
+   "summary": [
+    "Sparen oder nicht sparen, das war die Frage beim EU-Sondergipfel zum Haushalt in Brüssel.",
+    "Der Gipfel wurde frühzeitig beendet."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T02:46:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/ausland/eu-gipfel-haushalt-bruessel-europaeische-union-merz-abbruch-100.html"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/politik/ausland/eu-gipfel-haushalt-bruessel-europaeische-union-merz-abbruch-100.html",
+     "title": "",
+     "text": [
+      "Ein Ergebnis gab es nicht."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 28,
+   "topic": "wirtschaft",
+   "title": "Mehr Kredit, weniger Frauen",
+   "summary": [
+    "Sie hat jahrelange Milchverkäufe, um die Bank zu zeigen.",
+    "Könnten sie entscheiden, was damit zu tun ist?",
+    "Könnten die Frauen mit den Rückzahlungen mithalten?"
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T03:54:54+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2047389/more-credit-fewer-women"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2047389/more-credit-fewer-women",
+     "title": "",
+     "text": [
+      "Stellen Sie sich Sakina vor, im Morgengrauen, um ihren kostbaren Billo zu sehen, eine schöne Kuh, die ihr Vater ihr gegeben hatte.",
+      "Dies wäre Sakinas 30. Tag, an dem Billos Milch an einen nahe gelegenen Farmbesitzer verkauft wurde, der gute Milch für seine kleinen Kinder wollte.",
+      "Sie war aufgeregt, bezahlt zu werden.",
+      "Sie machte sich bereit, rauszugehen und fühlte sich wie eine Geschäftsfrau.",
+      "Drei Jahre später hat Sakina vier Tiere.",
+      "Sie füttert sie, kümmert sich um sie und macht die Milch bereit für die Sammlung.",
+      "Sie weiß, wann eine Kuh weniger Milch gibt, wann das Futter auf der Tasche schwerer wird und wann es sinnvoll ist, ein anderes Tier zu kaufen.",
+      "Ihre über 40 Kunden wissen, wie reich die Milch ist.",
+      "Aber fragen Sie sie, woher es kommt, und sie werden Ihnen sagen, dass es von Kareem bhai, dem Doodh wala, stammt."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 29,
+   "topic": "sport",
+   "title": "Ergebnisse des unabhängigen Sandpapergate-Forums werden veröffentlicht",
+   "summary": [
+    "Cricket Australia hat die Bedingungen für das unabhängige Forum auf Sandpapergate bestätigt und enthüllt, dass die Ergebnisse des folgenden Berichts der Öffentlichkeit zugänglich gemacht werden."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T23:35:10+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-27/sandpapergate-independent-forum-results-to-be-made-public/107433870"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 30,
+   "topic": "technologie",
+   "title": "Grand Theft Auto VI beweist, warum Effizienz keine Tugend ist",
+   "summary": [
+    "Am selben Tag, an dem Anthropic den öffentlichen Markt betrat, wurde ein sorgfältig menschliches Videospiel zu einem der erfolgreichsten Entertainment-Starts aller Zeiten."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T16:00:00+00:00",
+   "links": [
+    {
+     "source": "TechCrunch",
+     "country": "USA",
+     "ownership": "privat",
+     "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 31,
+   "topic": "deutschland",
+   "title": "Quentin Gärtner: \"Als wäre Weihnachten statt Wirtschaftskrise\"",
+   "summary": [
+    "Vor dem Haushalt 2027 schlagen Schwarz und Rot Pflöcke für den Etat 2028 ein.",
+    "Ein Student fürchtet um die Zukunft, eine Journalistin sieht \"antifaschistische Wirtschaftspolitik\"."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T00:49:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/illner-haushaltsdebatte-frei-koalition-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 32,
+   "topic": "wirtschaft",
+   "title": "Oppositionsunordnung",
+   "summary": [
+    "Ich glaube, wir sollten dieses Gespräch voranbringen: Wenn das System zusammengebrochen ist, warum ist das so?",
+    "Heute heißt es: „Pakistan ist ein harter Staat.",
+    "Sie kommen für die Justiz, aber es gibt auch einen Ausschuss für die Justiz, sie sitzen auch nicht darin."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T03:25:04+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2047393/opposition-disarray"
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2047216/bilawal-terms-pti-a-political-reality-calls-for-restoring-its-trust-in-the-system"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2047393/opposition-disarray",
+     "title": "",
+     "text": [
+      "DIE PTI distanzierte sich am Mittwoch von Mahmood Khan Achakzais Vorschlag für eine nationale Regierung und seiner Forderung nach politischen und konstitutionellen Reformen.",
+      "Die Partei hat keine formelle Reaktion abgegeben, aber ihre Führer haben ihre Haltung in Hintergrundgesprächen mit den Medien deutlich gemacht.",
+      "Dies zeigt, dass der Allianzchef andere Parteien nicht konsultiert hat, bevor er den Vorschlag veröffentlicht hat.",
+      "Eine ähnliche Trennung zwischen der PTI und anderen Mitgliedsparteien der TTAP tauchte vor einigen Monaten auf, als die PTI zu einem Protestmarsch auf Islamabad aufrief.",
+      "Auf einer Konferenz in Lahore betonte Achakzai auch die verfassungsmäßige Vorherrschaft, die parlamentarische Souveränität und die Wiederherstellung der Demokratie."
+     ],
+     "machine_translated": true
+    },
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2047216/bilawal-terms-pti-a-political-reality-calls-for-restoring-its-trust-in-the-system",
+     "title": "Bilawal bezeichnet PTI als \"politische Realität\", fordert die Wiederherstellung seines Vertrauens in das \"System\"",
+     "text": [
+      "PPP-Vorsitzender Bilawal Bhutto-Zardari erklärte am Donnerstag, dass PTI eine „politische Realität“ sei, deren Vertrauen in das „System“ wiederhergestellt werden müsse, damit ein politischer Reset stattfinden könne.",
+      "Bilawal machte die Bemerkungen, während er auf einer anderen \"Meet the Press\" -Veranstaltung sprach, diesmal im Multan Press Club.",
+      "Der Bhutto-Spion ist in den letzten Tagen auf Besuch in Punjab und macht bisher Halt in Multan, Dera Ghazi Khan und Muzaffargarh."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 33,
+   "topic": "deutschland",
+   "title": "Brosius-Gersdorf: Sozialer Aufstieg nicht mehr möglich",
+   "summary": [
+    "Frauke Brosius-Gersdorf fordert mehrere \"Updates des Grundgesetzes\".",
+    "Der Bundespolitik wirft sie vor, gegenwartsverliebt, zukunftsvergessen und generationenungerecht zu agieren."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T00:34:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/lanz-reform-grundgesetz-brosius-gersdorf-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 34,
+   "topic": "europa",
+   "title": "TUI-Chef will, dass die EU Bürokratie abbaut, Talente anzieht und grüne Energie ausbaut",
+   "summary": [
+    "Euronews sprach mit TUI-Chef Sebastian Ebel über dungbetriebene Kreuzfahrtschiffe, Migration, Abhängigkeit von den USA, Künstliche Intelligenz und die Zukunft des Tourismus."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T11:51:35+00:00",
+   "links": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/26/tui-boss-wants-eu-to-cut-bureaucracy-attract-talent-and-expand-green-energy"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 35,
+   "topic": "sport",
+   "title": "Meinungen geteilt vor Supercars bewegen sich auf MotoGP-Strecke",
+   "summary": [
+    "Jedes Jahr zählen die Supercars-Teams die Tage im Kalender bis zum Rennen auf dem Adelaide Parklands Circuit, wobei die diesjährige Veranstaltung von einem Hauch von Traurigkeit geprägt ist."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T20:48:06+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-27/adelaide-supercars-last-event-before-move-to-motogp-track/107424684"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 36,
+   "topic": "deutschland",
+   "title": "Deutsche Autobauer am Ende? \"Wenn wir so weitermachen, ja\"",
+   "summary": [
+    "China, Trump, hohe Kosten: Wie ernst ist die Situation deutscher Autobauer?",
+    "Baden-Württembergs Ministerpräsident Cem Özdemir im ZDF über die Ursachen - und die Wege aus der Krise."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T22:45:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/politik/deutschland/cem-oezdemir-autoindustrie-krise-deutschland-china-trump-100.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 37,
+   "topic": "wirtschaft",
+   "title": "Argentinien verbietet Zentralbank, Geld zu drucken, um Staatsausgaben zu finanzieren",
+   "summary": [
+    "Der Senat des südamerikanischen Landes schlägt auch vor, die Vorwahlen vor dem Präsidentschaftsrennen 2027 auszusetzen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T00:11:16+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 38,
+   "topic": "europa",
+   "title": "Großbritannien schickte srilankischen Flüchtling nach Eswatini in geheimen Deal, sagt die BBC",
+   "summary": [
+    "Berichten zufolge schickte das vereinigte königreich einen sri-lankischen flüchtling, der wegen sexueller Übergriffe verurteilt worden war, nach eswatini, wo er im rahmen eines geheimen deals selbstmord begangen hatte, so eine untersuchung der bbc."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T10:10:16+00:00",
+   "links": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/26/uk-sent-sri-lankan-refugee-to-eswatini-in-secret-deal-the-bbc-says"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 39,
+   "topic": "sport",
+   "title": "Die bemerkenswerte Reise hinter einem der ältesten Wallabies-Debütanten",
+   "summary": [
+    "James Ramm spielte nie First XV in der Schule und konzentrierte sich wieder auf Gymnastik als Rugby, aber sein langer Weg nach oben wird mit 28 Jahren mit einem Wallabies-Debüt gekrönt."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T20:33:12+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-27/james-ramm-wallabies-debut-28-rugby-union/107433270"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 40,
+   "topic": "deutschland",
+   "title": "Schnee und Glätte sorgen für Verkehrschaos im Süden",
+   "summary": [
+    "Nach einem Wintereinbruch hat es in Bayern Unfälle und Staus gegeben.",
+    "Für Österreich wurden Autofahrer gewarnt, dort solle \"keiner unterwegs sein\"."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T20:26:00+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.zdfheute.de/panorama/unfall-bayern-oesterreich-autobahn-schnee-glaette-verkehr-a93-100.html"
+    }
+   ],
+   "details": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "url": "https://www.zdfheute.de/panorama/unfall-bayern-oesterreich-autobahn-schnee-glaette-verkehr-a93-100.html",
+     "title": "",
+     "text": [
+      "Auch in der Nacht wird es eisig."
+     ],
+     "machine_translated": false
+    }
+   ]
+  },
+  {
+   "rank": 41,
+   "topic": "sport",
+   "title": "Alles, was Sie wissen müssen, wie Roos Jagd historischen AFLW Drei-Torf",
+   "summary": [
+    "Die Kängurus wollen ein Stück AFLW-Geschichte schreiben, während sie sich im diesjährigen großen Finale gegen die Dämonen stellen.",
+    "Hier ist alles, was Sie vor dem Entscheider wissen müssen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T19:30:54+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-27/aflw-grand-final-start-time-venue-kangaroos-demons-explainer/107429518"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 42,
+   "topic": "technologie",
+   "title": "Globale Nachrichtenagentur AFP meldet Cyberangriff und schließt Content-Plattform",
+   "summary": [
+    "Frankreichs Cybersicherheitschef fordert kollektive Maßnahmen zur Bekämpfung beispielloser Bedrohungsniveaus in der Nation."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T01:07:44+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 43,
+   "topic": "europa",
+   "title": "Europas 2-Billionen-Euro-Punch-up: Willkommen im Brüsseler Kampfclub",
+   "summary": [
+    "Leo Cendrowicz hier mit Ihrem Donnerstags-Newsletter.",
+    "Wir haben heute einen allmächtigen Punch-up auf unserer Tagesordnung, da sich die EU-Staats- und Regierungschefs in Brüssel versammeln, um über ihren Siebenjahreshaushalt zu prügeln - ein Stillstand, der mit ziemlicher Sicherheit nicht bis zum Ende des Gipfels gelöst sein wird."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T07:24:16+00:00",
+   "links": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/26/europes-2-trillion-punch-up-welcome-to-the-brussels-fight-club"
+    }
+   ],
+   "details": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "url": "https://www.euronews.com/2026/11/26/europes-2-trillion-punch-up-welcome-to-the-brussels-fight-club",
+     "title": "",
+     "text": [
+      "Guten Morgen."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 44,
+   "topic": "gesundheit",
+   "title": "Aktuelle Pressemitteilungen des ZDF",
+   "summary": [],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T04:42:57+00:00",
+   "links": [
+    {
+     "source": "ZDFheute",
+     "country": "Deutschland",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://presseportal.zdf.de/pressemitteilungen/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 45,
+   "topic": "gesundheit",
+   "title": "Ägypten verhaftet Fahrer über Kairo Tanker Feuer, das 31 getötet",
+   "summary": [
+    "Die Staatsanwaltschaft ordnet Drogentests für den 21-jährigen Verdächtigen an, der sagt, dass er überholt hat, als der Absturz passiert ist."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T21:08:44+00:00",
+   "links": [
+    {
+     "source": "Al Jazeera",
+     "country": "Katar",
+     "ownership": "staatlich finanziert",
+     "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 46,
+   "topic": "sport",
+   "title": "Aussie Rugby Sevens Star zum \"Tick Off\" -Ziel des olympischen Goldes",
+   "summary": [
+    "Australien hat seit 2016 keinen olympischen Titel im Rugby-Siebener gewonnen, aber Tia Hinds und ihre Teamkollegen sind entschlossen, bei den Spielen in Los Angeles das Podium zu erklimmen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T19:06:34+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-27/australia-rugby-tia-hinds-sevens-dubai-world-series/107432672"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 47,
+   "topic": "technologie",
+   "title": "Anthropic-Chef bestreitet, dass Menschen den freien Willen zur KI aufgeben sollen",
+   "summary": [
+    "Die Kommentare von Dario Amodei kommen inmitten einer wachsenden Debatte darüber, wie die menschliche Autonomie angesichts superintelligenter KI-Systeme erhalten werden kann."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T15:22:03+00:00",
+   "links": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/26/anthropic-chief-denies-wanting-humans-to-surrender-free-will-to-ai"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 48,
+   "topic": "sport",
+   "title": "Matildas-Star Cooney-Cross will verstorbene Mutter \"stolz\" machen",
+   "summary": [
+    "Kyra Cooney-Cross bereitet sich auf ihre ersten Matildas-Auftritte seit dem Tod ihrer Mutter im Juli vor und ist bereit, wieder im Rampenlicht zu stehen."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T06:08:29+00:00",
+   "links": [
+    {
+     "source": "ABC News Australia",
+     "country": "Australien",
+     "ownership": "öffentlich-rechtlich",
+     "url": "https://www.abc.net.au/news/2026-11-26/matildas-star-kyra-cooney-cross-making-mum-proud/107431272"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 49,
+   "topic": "deutschland",
+   "title": "Zusammenarbeit von AfD und BSW: Ein Freund, ein guter Freund",
+   "summary": [
+    "Beim BSW-Bundesparteitag am Wochenende droht eine Eskalation mit Ansage.",
+    "Das Rumkumpeln mit der AfD in Sachsen-Anhalt geht etlichen Parteigranden gegen den Strich."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T18:47:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/Zusammenarbeit-von-AfD-und-BSW/!6233518/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 50,
+   "topic": "wissenschaft",
+   "title": "Neue Bilder zeigen Stadion-großen Krater auf Asteroiden NASA stürzte in",
+   "summary": [
+    "Die europäische Raumsonde Hera hat ihre ersten Nahaufnahmen von Dimorphos veröffentlicht, vier Jahre nachdem die NASA absichtlich eine Sonde in sie einschlug."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T09:16:16+00:00",
+   "links": [
+    {
+     "source": "Euronews",
+     "country": "Frankreich",
+     "ownership": "privat",
+     "url": "https://www.euronews.com/2026/11/26/new-images-show-stadium-sized-crater-on-asteroid-nasa-crashed-into"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 51,
+   "topic": "gesundheit",
+   "title": "AJK rollt Rs15bn 100-Tage-Aktionsplan aus",
+   "summary": [
+    "Distrikt- und Divisionskrankenhäuser würden modernisiert.",
+    "Herr Gillani sagte, der Abschluss des Projekts sei weiterhin eine der Prioritäten der Regierung und würde die Stromerzeugung und die Einnahmen für AJK steigern.",
+    "Bildungsminister Sardar Umair Naeem sagte, dass außerschulische Kinder im Rahmen des Darsgah-Projekts eingeschrieben werden und kostenlose Bildung erhalten würden."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T02:51:59+00:00",
+   "links": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "ownership": "privat",
+     "url": "https://www.dawn.com/news/2047374/ajk-rolls-out-rs15bn-100-day-action-plan"
+    }
+   ],
+   "details": [
+    {
+     "source": "Dawn",
+     "country": "Pakistan",
+     "url": "https://www.dawn.com/news/2047374/ajk-rolls-out-rs15bn-100-day-action-plan",
+     "title": "",
+     "text": [
+      "• Das Programm konzentriert sich auf Gesundheit, Bildung, Verkehr und Tourismus; langfristige Projekte gehen über den Zeitrahmen hinaus • 70 mobile Krankenhauseinheiten, 75 Elektrobusse und fünf Daanish-Schulen gehören zu den wichtigsten Initiativen • PM Gillani sagt, dass die Regierung Optionen für den Abschluss des ins Stocken geratenen Jagran-II-Wasserkraftprojekts MUZAFFARABAD erkundet: Die PML-N-geführte Regierung Azad Jammu und Kaschmir (AJK) hat am Donnerstag einen 100-Tage-Aktionsplan vorgestellt, der vielversprechende Verbesserungen im Gesundheitswesen, in der Bildung, im Verkehr, im Tourismus und in der öffentlichen Infrastruktur vorsieht.",
+      "In einer Pressekonferenz skizzierten fünf Kabinettsmitglieder Sofortinitiativen sowie langfristige Projekte, die sich über sechs Monate erstrecken."
+     ],
+     "machine_translated": true
+    }
+   ]
+  },
+  {
+   "rank": 52,
+   "topic": "klima",
+   "title": "Vom Kakao zum Fisch, El Niño trifft nach Hause als globale Lebensmittelpreise steigen",
+   "summary": [
+    "Als natürliches Wettermuster, das durch steigende Oberflächentemperaturen im Pazifik entsteht, ist es keine Überraschung, dass seine Auswirkungen auch im großen Blau zu spüren sind."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T19:57:46+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-26-from-cocoa-to-fish-el-nino-hits-home-as-global-food-prices-surge/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 53,
+   "topic": "klima",
+   "title": "Proseccos \"heldenhafte\" Reben bieten einen Testfall für die Klimaresistenz",
+   "summary": [
+    "Die Ernte war trotz extremer Wetterbedingungen stetig, und die Anpassung an ein härteres Klima hat finanzielle Kosten.",
+    "Die Weinproduktion anderswo in Europa hat viel mehr gelitten."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T09:31:08+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-26-proseccos-heroic-vines-offer-a-test-case-in-climate-resilience/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 54,
+   "topic": "europa",
+   "title": "EU-Pläne zu Pestizidzulassung: Ärzte warnen vor ernsten Folgen",
+   "summary": [
+    "Die EU-Kommission will Pestizidwirkstoffe meist unbefristet genehmigen.",
+    "Medizinische Fachgesellschaften warnen vor ernsten Folgen für die Gesundheit."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T16:34:00+00:00",
+   "links": [
+    {
+     "source": "taz",
+     "country": "Deutschland",
+     "ownership": "Genossenschaft",
+     "url": "https://taz.de/EU-Plaene-zu-Pestizidzulassung/!6233475/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 55,
+   "topic": "gesundheit",
+   "title": "Madlanga-Zeuge in Mord an Verwandten verwickelt, der online gepostet hat",
+   "summary": [
+    "Jetzt hat ein anderer zeuge behauptet, dass der verwandte hinter ihrer tötung steht und ein drogenkönig mit polizeibindungen ist.",
+    "Tamryn Raju wurde in ihrem Haus in KwaZulu-Natal ermordet, nachdem sie in sozialen Medien Beiträge über Zeugen der Madlanga-Untersuchungskommission, darunter einen Verwandten des Abschleppwagen-Chefs, veröffentlicht hatte."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T22:32:51+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-26-madlanga-witness-implicated-in-murder-of-relative-who-posted-online/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 56,
+   "topic": "gesundheit",
+   "title": "NAFDAC überfällt den Abuja-Markt und beschlagnahmt verbotene Waren im Wert von über 300 Millionen",
+   "summary": [],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T21:37:38+00:00",
+   "links": [
+    {
+     "source": "Premium Times",
+     "country": "Nigeria",
+     "ownership": "privat",
+     "url": "https://www.premiumtimesng.com/health/health-news/928267-nafdac-raids-abuja-market-seizes-prohibited-goods-worth-over-%e2%82%a6300-million.html"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 57,
+   "topic": "technologie",
+   "title": "US-Chip Bordsteine, Destillation Razzia bedrohen chinesische KI-Modellentwicklung, sagen Quellen",
+   "summary": [
+    "Das nächste Flaggschiffmodell von Z.AI könnte bis 2027 verzögert werden, sagen Quellen.",
+    "Moonshot erwartet, dass sich die Entwicklungszyklen ohne den Zugang zu Computern in Übersee verdoppeln könnten, und neue US-Chip-Einschränkungen, Anti-Destillationsmaßnahmen, bedrohen Chinas kostengünstiges KI-Entwicklungsmodell."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T09:42:13+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-26-us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 58,
+   "topic": "kultur",
+   "title": "Holywild – eine Ausstellung, in der Joburg zwischen Schönheit und gebrochenen Rändern blüht",
+   "summary": [
+    "Melissa Haidens erste Einzelausstellung, Holywild, findet Schönheit, Erinnerung und Freiheit, die durch Johannesburgs Stahl, Risse und vernachlässigte Ränder blüht."
+   ],
+   "machine_translated": true,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-27T05:30:00+00:00",
+   "links": [
+    {
+     "source": "Daily Maverick",
+     "country": "Südafrika",
+     "ownership": "privat",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-27-holywild-an-exhibition-where-joburg-blooms-between-beauty-and-broken-edges/"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 59,
+   "topic": "gesundheit",
+   "title": "Interview mit Prof. Dr. Jörg Fegert",
+   "summary": [],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T15:47:19+00:00",
+   "links": [
+    {
+     "source": "Deutsches Ärzteblatt",
+     "country": "Deutschland",
+     "ownership": "Verbandsverlag",
+     "url": "https://www.aerzteblatt.de/news/interview-mit-prof-dr-jorg-fegert-dbd79f34-df51-4adf-9212-35c00049bd81"
+    }
+   ],
+   "details": []
+  },
+  {
+   "rank": 60,
+   "topic": "gesundheit",
+   "title": "GBA: Qualität und Bürokratieabbau nicht gegeneinander ausspielen",
+   "summary": [
+    "Berlin – Der schmale Grat zwischen Bürokratieabbau und notwendiger Dokumentation wird derzeit auch bei der Qualitätssicherung, die zu den Aufgaben des Gemeinsamen Bundesausschusses (GBA) gehört, verhandelt."
+   ],
+   "machine_translated": false,
+   "single_source": true,
+   "source_count": 1,
+   "region_count": 1,
+   "published": "2026-11-26T15:41:00+00:00",
+   "links": [
+    {
+     "source": "Deutsches Ärzteblatt",
+     "country": "Deutschland",
+     "ownership": "Verbandsverlag",
+     "url": "https://www.aerzteblatt.de/news/gba-qualitiat-und-burokratieabbau-nicht-gegeneinander-ausspielen-9ec20404-28db-4f0d-ad67-692cddaa70be"
+    }
+   ],
+   "details": []
+  }
+ ],
+ "sources": [
+  {
+   "name": "ZDFheute",
+   "country": "Deutschland",
+   "language": "de",
+   "ownership": "öffentlich-rechtlich",
+   "ok": true,
+   "items": 40,
+   "reason": ""
+  },
+  {
+   "name": "taz",
+   "country": "Deutschland",
+   "language": "de",
+   "ownership": "Genossenschaft",
+   "ok": true,
+   "items": 40,
+   "reason": ""
+  },
+  {
+   "name": "Golem",
+   "country": "Deutschland",
+   "language": "de",
+   "ownership": "privat",
+   "ok": true,
+   "items": 40,
+   "reason": ""
+  },
+  {
+   "name": "Euronews",
+   "country": "Frankreich",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 40,
+   "reason": ""
+  },
+  {
+   "name": "Carbon Brief",
+   "country": "Großbritannien",
+   "language": "en",
+   "ownership": "gemeinnützig",
+   "ok": true,
+   "items": 12,
+   "reason": ""
+  },
+  {
+   "name": "NPR",
+   "country": "USA",
+   "language": "en",
+   "ownership": "gemeinnützig",
+   "ok": true,
+   "items": 10,
+   "reason": ""
+  },
+  {
+   "name": "TechCrunch",
+   "country": "USA",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 20,
+   "reason": ""
+  },
+  {
+   "name": "Al Jazeera",
+   "country": "Katar",
+   "language": "en",
+   "ownership": "staatlich finanziert",
+   "ok": true,
+   "items": 25,
+   "reason": ""
+  },
+  {
+   "name": "MercoPress",
+   "country": "Uruguay",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 10,
+   "reason": ""
+  },
+  {
+   "name": "Daily Maverick",
+   "country": "Südafrika",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 40,
+   "reason": ""
+  },
+  {
+   "name": "Dawn",
+   "country": "Pakistan",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 29,
+   "reason": ""
+  },
+  {
+   "name": "ABC News Australia",
+   "country": "Australien",
+   "language": "en",
+   "ownership": "öffentlich-rechtlich",
+   "ok": true,
+   "items": 25,
+   "reason": ""
+  },
+  {
+   "name": "Deutsches Ärzteblatt",
+   "country": "Deutschland",
+   "language": "de",
+   "ownership": "Verbandsverlag",
+   "ok": true,
+   "items": 10,
+   "reason": ""
+  },
+  {
+   "name": "KFF Health News",
+   "country": "USA",
+   "language": "en",
+   "ownership": "gemeinnützig",
+   "ok": true,
+   "items": 10,
+   "reason": ""
+  },
+  {
+   "name": "Premium Times",
+   "country": "Nigeria",
+   "language": "en",
+   "ownership": "privat",
+   "ok": true,
+   "items": 15,
+   "reason": ""
+  }
+ ],
+ "markets": {
+  "available": true,
+  "source": "Yahoo Finance, Kurse verzögert und ohne Gewähr",
+  "as_of": "2026-11-27",
+  "summary": "Gemischtes Bild: 5 von 7 Indizes im Plus. Stärkster Markt: MDAX (+2,3 %), schwächster: Nasdaq 100 (−0,6 %).",
+  "groups": [
+   {
+    "label": "Aktienindizes",
+    "items": [
+     {
+      "symbol": "^GDAXI",
+      "name": "DAX",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 0,
+      "price": 25215.519531,
+      "date": "2026-11-26",
+      "change_1d": 2.08,
+      "change_1w": -0.98,
+      "change_1m": -1.9,
+      "change_ytd": 2.96,
+      "change_1y": 6.28,
+      "from_high": -5.8,
+      "from_low": 13.1,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": 1.9,
+      "spark": [
+       26046.0,
+       26007.0,
+       26008.0,
+       25576.0,
+       25361.0,
+       25569.0,
+       25441.0,
+       25402.0,
+       25538.0,
+       25717.0,
+       25304.0,
+       25575.0,
+       25579.0,
+       25411.0,
+       25267.0,
+       25409.0,
+       25374.0,
+       25399.0,
+       25199.0,
+       24939.0,
+       25231.0,
+       25254.0,
+       25449.0,
+       25104.0,
+       24807.0,
+       25087.0,
+       25278.0,
+       25260.0,
+       25299.0,
+       25383.0,
+       25623.0,
+       25320.0,
+       25304.0,
+       25645.0,
+       25372.0,
+       25182.0,
+       25411.0,
+       25591.0,
+       25704.0,
+       26040.0,
+       25818.0,
+       25981.0,
+       25865.0,
+       26438.0,
+       26325.0,
+       25820.0,
+       26267.0,
+       26347.0,
+       26663.0,
+       26772.0,
+       26750.0,
+       26599.0,
+       26045.0,
+       25736.0,
+       25464.0,
+       24803.0,
+       25337.0,
+       25018.0,
+       24702.0,
+       25216.0
+      ]
+     },
+     {
+      "symbol": "^MDAXI",
+      "name": "MDAX",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 0,
+      "price": 29263.970703,
+      "date": "2026-11-26",
+      "change_1d": 2.34,
+      "change_1w": -0.82,
+      "change_1m": -3.82,
+      "change_ytd": -4.42,
+      "change_1y": 0.15,
+      "from_high": -12.3,
+      "from_low": 5.8,
+      "new_high": false,
+      "new_low": false,
+      "trend": "Abwärtstrend",
+      "unusual": 2.1,
+      "spark": [
+       32355.0,
+       32405.0,
+       32544.0,
+       32078.0,
+       31596.0,
+       31664.0,
+       31057.0,
+       31136.0,
+       31277.0,
+       31448.0,
+       31084.0,
+       31242.0,
+       31530.0,
+       31216.0,
+       30783.0,
+       31031.0,
+       30896.0,
+       30883.0,
+       30843.0,
+       30251.0,
+       30450.0,
+       30427.0,
+       30543.0,
+       30112.0,
+       29507.0,
+       29990.0,
+       30104.0,
+       30020.0,
+       30050.0,
+       30216.0,
+       30657.0,
+       30513.0,
+       30392.0,
+       30651.0,
+       30086.0,
+       29876.0,
+       30288.0,
+       30495.0,
+       30425.0,
+       30799.0,
+       30472.0,
+       30855.0,
+       30743.0,
+       31178.0,
+       30892.0,
+       30642.0,
+       31073.0,
+       31034.0,
+       31075.0,
+       30858.0,
+       30700.0,
+       30528.0,
+       30147.0,
+       29879.0,
+       29505.0,
+       28740.0,
+       29296.0,
+       28792.0,
+       28595.0,
+       29264.0
+      ]
+     },
+     {
+      "symbol": "^STOXX50E",
+      "name": "Euro Stoxx 50",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 2,
+      "price": 6014.740234,
+      "date": "2026-11-26",
+      "change_1d": 2.04,
+      "change_1w": -1.62,
+      "change_1m": -2.48,
+      "change_ytd": 3.77,
+      "change_1y": 6.35,
+      "from_high": -8.2,
+      "from_low": 9.3,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": 1.9,
+      "spark": [
+       6392.9,
+       6404.0,
+       6413.2,
+       6311.6,
+       6269.0,
+       6325.1,
+       6260.4,
+       6236.5,
+       6266.5,
+       6322.9,
+       6236.2,
+       6318.2,
+       6324.7,
+       6299.8,
+       6272.5,
+       6302.8,
+       6301.3,
+       6320.3,
+       6269.0,
+       6175.5,
+       6238.5,
+       6242.1,
+       6272.2,
+       6180.3,
+       6126.7,
+       6173.4,
+       6201.2,
+       6167.0,
+       6190.4,
+       6168.3,
+       6204.2,
+       6144.8,
+       6121.7,
+       6207.5,
+       6087.0,
+       6068.2,
+       6116.2,
+       6164.7,
+       6167.8,
+       6207.1,
+       6131.3,
+       6176.1,
+       6144.6,
+       6265.7,
+       6231.5,
+       6170.5,
+       6290.5,
+       6327.9,
+       6393.4,
+       6399.0,
+       6386.9,
+       6348.4,
+       6212.1,
+       6154.4,
+       6113.9,
+       5942.0,
+       6074.5,
+       6003.8,
+       5894.5,
+       6014.7
+      ]
+     },
+     {
+      "symbol": "^GSPC",
+      "name": "S&P 500",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 2,
+      "price": 7182.779785,
+      "date": "2026-11-25",
+      "change_1d": -0.25,
+      "change_1w": -1.92,
+      "change_1m": -6.99,
+      "change_ytd": 4.93,
+      "change_1y": 5.43,
+      "from_high": -8.1,
+      "from_low": 13.2,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": 0.2,
+      "spark": [
+       7666.6,
+       7747.7,
+       7718.6,
+       7673.5,
+       7636.4,
+       7591.7,
+       7657.0,
+       7620.0,
+       7585.7,
+       7551.8,
+       7637.8,
+       7650.5,
+       7764.7,
+       7764.6,
+       7706.0,
+       7704.1,
+       7743.4,
+       7683.7,
+       7670.8,
+       7651.5,
+       7666.5,
+       7722.7,
+       7774.0,
+       7818.9,
+       7801.8,
+       7765.4,
+       7811.5,
+       7807.2,
+       7805.5,
+       7718.9,
+       7744.1,
+       7659.4,
+       7690.7,
+       7712.6,
+       7757.2,
+       7663.4,
+       7623.7,
+       7676.8,
+       7722.6,
+       7744.0,
+       7720.4,
+       7580.1,
+       7541.4,
+       7568.9,
+       7688.6,
+       7353.7,
+       7376.9,
+       7549.9,
+       7520.9,
+       7619.4,
+       7592.4,
+       7561.7,
+       7416.6,
+       7340.5,
+       7323.6,
+       7175.8,
+       6910.4,
+       7237.2,
+       7201.1,
+       7182.8
+      ]
+     },
+     {
+      "symbol": "^NDX",
+      "name": "Nasdaq 100",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 0,
+      "price": 26046.900391,
+      "date": "2026-11-25",
+      "change_1d": -0.64,
+      "change_1w": -3.94,
+      "change_1m": -12.16,
+      "change_ytd": 3.16,
+      "change_1y": 3.21,
+      "from_high": -16.6,
+      "from_low": 13.5,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": 0.3,
+      "spark": [
+       29143.0,
+       29482.0,
+       29544.0,
+       29508.0,
+       29422.0,
+       29104.0,
+       29368.0,
+       29127.0,
+       28938.0,
+       28945.0,
+       29447.0,
+       29644.0,
+       30482.0,
+       30732.0,
+       30470.0,
+       30479.0,
+       30608.0,
+       30277.0,
+       30339.0,
+       30408.0,
+       30502.0,
+       30808.0,
+       31076.0,
+       31224.0,
+       31160.0,
+       30726.0,
+       30883.0,
+       30665.0,
+       30569.0,
+       29951.0,
+       29936.0,
+       29188.0,
+       29529.0,
+       29490.0,
+       29823.0,
+       28959.0,
+       28958.0,
+       29273.0,
+       29651.0,
+       29813.0,
+       29403.0,
+       28385.0,
+       27990.0,
+       28180.0,
+       28437.0,
+       26630.0,
+       26990.0,
+       27908.0,
+       27741.0,
+       28374.0,
+       28289.0,
+       27944.0,
+       27197.0,
+       27002.0,
+       27116.0,
+       26517.0,
+       25029.0,
+       26746.0,
+       26214.0,
+       26047.0
+      ]
+     },
+     {
+      "symbol": "^N225",
+      "name": "Nikkei 225",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 0,
+      "price": 58565.71875,
+      "date": "2026-11-27",
+      "change_1d": 1.85,
+      "change_1w": -1.48,
+      "change_1m": -7.43,
+      "change_ytd": 16.34,
+      "change_1y": 16.74,
+      "from_high": -19.1,
+      "from_low": 19.5,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": 1.0,
+      "spark": [
+       66406.0,
+       66312.0,
+       66215.0,
+       64326.0,
+       64214.0,
+       65021.0,
+       66400.0,
+       65269.0,
+       65143.0,
+       65271.0,
+       64011.0,
+       63493.0,
+       63484.0,
+       63923.0,
+       64136.0,
+       65019.0,
+       65514.0,
+       66364.0,
+       65878.0,
+       65481.0,
+       66754.0,
+       68957.0,
+       68309.0,
+       69947.0,
+       70684.0,
+       70036.0,
+       69042.0,
+       69031.0,
+       67778.0,
+       67744.0,
+       64426.0,
+       65324.0,
+       64917.0,
+       64075.0,
+       64621.0,
+       62908.0,
+       62693.0,
+       62190.0,
+       63268.0,
+       63954.0,
+       64659.0,
+       63290.0,
+       63082.0,
+       62189.0,
+       61078.0,
+       57435.0,
+       58776.0,
+       60460.0,
+       61249.0,
+       60819.0,
+       61142.0,
+       59662.0,
+       58860.0,
+       59024.0,
+       59444.0,
+       56437.0,
+       58645.0,
+       57012.0,
+       57499.0,
+       58566.0
+      ]
+     },
+     {
+      "symbol": "^HSI",
+      "name": "Hang Seng",
+      "kind": "price",
+      "unit": "Pkt.",
+      "decimals": 0,
+      "price": 22416.439453,
+      "date": "2026-11-27",
+      "change_1d": 0.85,
+      "change_1w": 0.03,
+      "change_1m": -2.36,
+      "change_ytd": -12.54,
+      "change_1y": -13.6,
+      "from_high": -19.8,
+      "from_low": 2.1,
+      "new_high": false,
+      "new_low": false,
+      "trend": "Abwärtstrend",
+      "unusual": 0.7,
+      "spark": [
+       25213.0,
+       25651.0,
+       25413.0,
+       25317.0,
+       25275.0,
+       24954.0,
+       24806.0,
+       24918.0,
+       24667.0,
+       24714.0,
+       24604.0,
+       24751.0,
+       25043.0,
+       25088.0,
+       24834.0,
+       24761.0,
+       24510.0,
+       24643.0,
+       24524.0,
+       24613.0,
+       23972.0,
+       24040.0,
+       24281.0,
+       24130.0,
+       23786.0,
+       24211.0,
+       24271.0,
+       24345.0,
+       24314.0,
+       24063.0,
+       24187.0,
+       23868.0,
+       23652.0,
+       22935.0,
+       23093.0,
+       23212.0,
+       23041.0,
+       23095.0,
+       22959.0,
+       23294.0,
+       23393.0,
+       23526.0,
+       23920.0,
+       24797.0,
+       24482.0,
+       24449.0,
+       24557.0,
+       24316.0,
+       24009.0,
+       23638.0,
+       23754.0,
+       23508.0,
+       23295.0,
+       22842.0,
+       22411.0,
+       22384.0,
+       22220.0,
+       21966.0,
+       22227.0,
+       22416.0
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Devisen, Rohstoffe, Zinsen & Krypto",
+    "items": [
+     {
+      "symbol": "EURUSD=X",
+      "name": "Euro in US-Dollar",
+      "kind": "price",
+      "unit": "$",
+      "decimals": 4,
+      "price": 1.097574,
+      "date": "2026-11-27",
+      "change_1d": 0.05,
+      "change_1w": 0.05,
+      "change_1m": -1.61,
+      "change_ytd": -6.57,
+      "change_1y": -5.4,
+      "from_high": -8.7,
+      "from_low": 0.6,
+      "new_high": false,
+      "new_low": false,
+      "trend": "Abwärtstrend",
+      "unusual": 0.2,
+      "spark": [
+       1.1614,
+       1.1628,
+       1.1627,
+       1.1634,
+       1.161,
+       1.1594,
+       1.1549,
+       1.1538,
+       1.147,
+       1.1476,
+       1.148,
+       1.1465,
+       1.1448,
+       1.1382,
+       1.1375,
+       1.1378,
+       1.1373,
+       1.1341,
+       1.1327,
+       1.125,
+       1.1255,
+       1.1217,
+       1.1254,
+       1.1201,
+       1.1213,
+       1.1205,
+       1.116,
+       1.1204,
+       1.1195,
+       1.1213,
+       1.1225,
+       1.1216,
+       1.1227,
+       1.1235,
+       1.1221,
+       1.1218,
+       1.1174,
+       1.113,
+       1.1156,
+       1.1183,
+       1.1157,
+       1.1192,
+       1.1207,
+       1.1235,
+       1.1228,
+       1.1147,
+       1.1222,
+       1.1169,
+       1.1095,
+       1.105,
+       1.1025,
+       1.0998,
+       1.0993,
+       1.0972,
+       1.097,
+       1.0972,
+       1.0908,
+       1.0962,
+       1.097,
+       1.0976
+      ]
+     },
+     {
+      "symbol": "GC=F",
+      "name": "Gold (Feinunze)",
+      "kind": "price",
+      "unit": "$",
+      "decimals": 2,
+      "price": 3661.199951,
+      "date": "2026-11-27",
+      "change_1d": 3.55,
+      "change_1w": -0.66,
+      "change_1m": -9.64,
+      "change_ytd": -15.66,
+      "change_1y": -12.1,
+      "from_high": -31.2,
+      "from_low": 4.1,
+      "new_high": false,
+      "new_low": false,
+      "trend": "Abwärtstrend",
+      "unusual": 2.2,
+      "spark": [
+       4539.9,
+       4476.6,
+       4439.0,
+       4460.7,
+       4407.3,
+       4408.9,
+       4351.9,
+       4332.8,
+       4387.5,
+       4399.7,
+       4424.9,
+       4383.9,
+       4376.4,
+       4318.4,
+       4298.0,
+       4321.2,
+       4168.4,
+       4179.7,
+       4186.7,
+       4202.3,
+       4162.3,
+       4156.8,
+       4187.1,
+       4140.7,
+       4157.0,
+       4216.3,
+       4190.6,
+       4177.3,
+       4107.9,
+       4170.1,
+       4181.1,
+       4160.1,
+       4142.6,
+       4150.0,
+       4060.4,
+       4007.9,
+       4038.4,
+       4074.6,
+       4051.6,
+       4031.4,
+       3898.9,
+       3969.6,
+       3940.4,
+       4073.0,
+       4113.5,
+       4074.9,
+       4114.5,
+       4030.2,
+       4000.5,
+       3885.3,
+       3886.3,
+       3853.0,
+       3864.2,
+       3741.9,
+       3685.5,
+       3515.4,
+       3651.4,
+       3561.9,
+       3535.8,
+       3661.2
+      ]
+     },
+     {
+      "symbol": "BZ=F",
+      "name": "Brent-Öl (Barrel)",
+      "kind": "price",
+      "unit": "$",
+      "decimals": 2,
+      "price": 92.260002,
+      "date": "2026-11-27",
+      "change_1d": -2.48,
+      "change_1w": 0.3,
+      "change_1m": -20.0,
+      "change_ytd": 51.62,
+      "change_1y": 46.14,
+      "from_high": -22.0,
+      "from_low": 56.6,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": 0.8,
+      "spark": [
+       95.52,
+       96.28,
+       97.92,
+       101.21,
+       107.63,
+       104.61,
+       105.68,
+       108.75,
+       105.83,
+       104.82,
+       103.87,
+       100.34,
+       99.25,
+       103.08,
+       106.6,
+       104.32,
+       105.28,
+       102.59,
+       103.53,
+       102.31,
+       102.25,
+       100.32,
+       100.58,
+       100.2,
+       104.28,
+       104.72,
+       106.65,
+       105.69,
+       106.06,
+       105.92,
+       109.86,
+       109.55,
+       108.79,
+       108.82,
+       113.17,
+       116.72,
+       115.81,
+       113.88,
+       115.32,
+       114.88,
+       117.64,
+       104.77,
+       103.6,
+       94.62,
+       98.29,
+       98.32,
+       92.57,
+       91.49,
+       92.76,
+       95.82,
+       95.84,
+       92.44,
+       93.14,
+       91.95,
+       91.98,
+       92.57,
+       89.37,
+       91.4,
+       94.61,
+       92.26
+      ]
+     },
+     {
+      "symbol": "^TNX",
+      "name": "US-Anleihe 10 Jahre (Rendite)",
+      "kind": "yield",
+      "unit": "%",
+      "decimals": 2,
+      "price": 4.848,
+      "date": "2026-11-25",
+      "change_1d": -0.06,
+      "change_1w": -0.22,
+      "change_1m": -0.14,
+      "change_ytd": 0.68,
+      "change_1y": 0.85,
+      "from_high": -8.7,
+      "from_low": 22.4,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": null,
+      "spark": [
+       4.796,
+       4.762,
+       4.784,
+       4.806,
+       4.837,
+       4.944,
+       4.975,
+       4.961,
+       4.996,
+       5.006,
+       4.947,
+       4.998,
+       4.963,
+       4.968,
+       5.114,
+       5.162,
+       5.184,
+       5.24,
+       5.255,
+       5.293,
+       5.237,
+       5.277,
+       5.311,
+       5.269,
+       5.277,
+       5.231,
+       5.244,
+       5.24,
+       5.217,
+       5.19,
+       5.089,
+       5.098,
+       5.136,
+       5.117,
+       5.146,
+       4.953,
+       4.988,
+       4.986,
+       4.993,
+       5.045,
+       4.989,
+       4.929,
+       4.894,
+       4.952,
+       4.894,
+       4.837,
+       4.859,
+       4.864,
+       4.983,
+       4.998,
+       5.103,
+       5.154,
+       5.121,
+       5.103,
+       5.066,
+       5.052,
+       4.912,
+       4.918,
+       4.904,
+       4.848
+      ]
+     },
+     {
+      "symbol": "BTC-EUR",
+      "name": "Bitcoin",
+      "kind": "price",
+      "unit": "€",
+      "decimals": 0,
+      "price": 56012.640625,
+      "date": "2026-11-27",
+      "change_1d": 1.77,
+      "change_1w": 2.23,
+      "change_1m": -17.19,
+      "change_ytd": -24.9,
+      "change_1y": -28.82,
+      "from_high": -27.1,
+      "from_low": 9.2,
+      "new_high": false,
+      "new_low": false,
+      "trend": "uneinheitlich",
+      "unusual": 0.9,
+      "spark": [
+       73436.0,
+       73738.0,
+       73765.0,
+       75437.0,
+       75059.0,
+       75299.0,
+       76833.0,
+       76473.0,
+       76031.0,
+       74352.0,
+       72842.0,
+       73673.0,
+       74009.0,
+       74684.0,
+       73266.0,
+       74184.0,
+       72858.0,
+       73258.0,
+       72517.0,
+       72413.0,
+       73057.0,
+       72995.0,
+       73882.0,
+       74784.0,
+       72463.0,
+       72376.0,
+       72109.0,
+       71341.0,
+       71603.0,
+       72624.0,
+       72849.0,
+       69551.0,
+       68899.0,
+       69141.0,
+       70136.0,
+       68504.0,
+       69016.0,
+       71568.0,
+       67637.0,
+       67956.0,
+       67957.0,
+       66908.0,
+       67030.0,
+       66007.0,
+       66669.0,
+       64566.0,
+       61912.0,
+       58174.0,
+       59236.0,
+       58967.0,
+       59034.0,
+       57408.0,
+       56441.0,
+       53586.0,
+       54790.0,
+       55745.0,
+       56117.0,
+       54505.0,
+       55038.0,
+       56013.0
+      ]
+     }
+    ]
+   }
+  ],
+  "watch": [
+   {
+    "symbol": "NVDA",
+    "name": "Nvidia",
+    "unit": "$",
+    "decimals": 2,
+    "price": 149.300003,
+    "change_1d": -3.91,
+    "change_1w": -1.1,
+    "change_1m": -31.49,
+    "change_ytd": -19.95,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Halbleiter",
+    "score": 4.9,
+    "reasons": [
+     "−31,5 % in einem Monat",
+     "In 3 Artikeln von heute erwähnt"
+    ],
+    "mentions": 3,
+    "stories": [
+     {
+      "title": "Nvidia macht Pause bei Chip-Lieferungen nach Südostasien",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+     },
+     {
+      "title": "Ist Alice Huang eine Spionin oder nicht?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
+     }
+    ]
+   },
+   {
+    "symbol": "IFX.DE",
+    "name": "Infineon",
+    "unit": "€",
+    "decimals": 2,
+    "price": 40.895,
+    "change_1d": -6.49,
+    "change_1w": -16.89,
+    "change_1m": -22.24,
+    "change_ytd": 8.39,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Halbleiter",
+    "score": 4.73,
+    "reasons": [
+     "Kursrutsch von −6,5 % an einem Handelstag",
+     "−22,2 % in einem Monat"
+    ],
+    "mentions": 0,
+    "stories": []
+   },
+   {
+    "symbol": "ASML.AS",
+    "name": "ASML",
+    "unit": "€",
+    "decimals": 2,
+    "price": 1131.599976,
+    "change_1d": -5.79,
+    "change_1w": -10.25,
+    "change_1m": -23.02,
+    "change_ytd": 22.81,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Halbleiter",
+    "score": 4.43,
+    "reasons": [
+     "Kursrutsch von −5,8 % an einem Handelstag",
+     "−23,0 % in einem Monat"
+    ],
+    "mentions": 0,
+    "stories": []
+   },
+   {
+    "symbol": "VOW3.DE",
+    "name": "Volkswagen",
+    "unit": "€",
+    "decimals": 2,
+    "price": 65.239998,
+    "change_1d": 4.62,
+    "change_1w": -0.06,
+    "change_1m": -5.17,
+    "change_ytd": -37.0,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Autos",
+    "score": 3.91,
+    "reasons": [
+     "Kurssprung von +4,6 % an einem Handelstag, etwa 2-mal so stark wie üblich",
+     "In 1 Artikel von heute erwähnt"
+    ],
+    "mentions": 1,
+    "stories": []
+   },
+   {
+    "symbol": "ENR.DE",
+    "name": "Siemens Energy",
+    "unit": "€",
+    "decimals": 2,
+    "price": 112.459999,
+    "change_1d": -4.6,
+    "change_1w": -11.21,
+    "change_1m": -12.54,
+    "change_ytd": -6.59,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Energietechnik",
+    "score": 3.8,
+    "reasons": [
+     "Kursrutsch von −4,6 % an einem Handelstag",
+     "Neues Jahrestief"
+    ],
+    "mentions": 0,
+    "stories": []
+   },
+   {
+    "symbol": "BMW.DE",
+    "name": "BMW",
+    "unit": "€",
+    "decimals": 2,
+    "price": 55.240002,
+    "change_1d": 3.72,
+    "change_1w": 0.44,
+    "change_1m": -2.61,
+    "change_ytd": -40.69,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Autos",
+    "score": 3.7,
+    "reasons": [
+     "Kurssprung von +3,7 % an einem Handelstag, etwa 2-mal so stark wie üblich",
+     "In 1 Artikel von heute erwähnt"
+    ],
+    "mentions": 1,
+    "stories": []
+   }
+  ],
+  "companies": [
+   {
+    "symbol": "AIR.PA",
+    "name": "Airbus",
+    "unit": "€",
+    "decimals": 2,
+    "price": 190.0,
+    "change_1d": -1.88,
+    "change_1w": -3.93,
+    "change_1m": -1.42,
+    "change_ytd": -4.23,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Luftfahrt"
+   },
+   {
+    "symbol": "BABA",
+    "name": "Alibaba",
+    "unit": "$",
+    "decimals": 2,
+    "price": 86.260002,
+    "change_1d": 1.65,
+    "change_1w": 2.24,
+    "change_1m": -13.95,
+    "change_ytd": -41.15,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Internet"
+   },
+   {
+    "symbol": "ALV.DE",
+    "name": "Allianz",
+    "unit": "€",
+    "decimals": 2,
+    "price": 453.5,
+    "change_1d": -0.4,
+    "change_1w": -1.75,
+    "change_1m": 4.3,
+    "change_ytd": 16.13,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Versicherung"
+   },
+   {
+    "symbol": "GOOGL",
+    "name": "Alphabet (Google)",
+    "unit": "$",
+    "decimals": 2,
+    "price": 273.100006,
+    "change_1d": -2.13,
+    "change_1w": -3.31,
+    "change_1m": -14.81,
+    "change_ytd": -12.75,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Internet"
+   },
+   {
+    "symbol": "AMZN",
+    "name": "Amazon",
+    "unit": "$",
+    "decimals": 2,
+    "price": 244.429993,
+    "change_1d": -3.12,
+    "change_1w": -8.71,
+    "change_1m": -3.43,
+    "change_ytd": 5.9,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Handel & Cloud"
+   },
+   {
+    "symbol": "AAPL",
+    "name": "Apple",
+    "unit": "$",
+    "decimals": 2,
+    "price": 355.579987,
+    "change_1d": 0.43,
+    "change_1w": 0.89,
+    "change_1m": 2.44,
+    "change_ytd": 30.8,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Technik"
+   },
+   {
+    "symbol": "ASML.AS",
+    "name": "ASML",
+    "unit": "€",
+    "decimals": 2,
+    "price": 1131.599976,
+    "change_1d": -5.79,
+    "change_1w": -10.25,
+    "change_1m": -23.02,
+    "change_ytd": 22.81,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Halbleiter"
+   },
+   {
+    "symbol": "BA.L",
+    "name": "BAE Systems",
+    "unit": "GBp",
+    "decimals": 2,
+    "price": 1839.0,
+    "change_1d": -0.86,
+    "change_1w": 0.6,
+    "change_1m": -9.72,
+    "change_ytd": 7.29,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Rüstung"
+   },
+   {
+    "symbol": "BAS.DE",
+    "name": "BASF",
+    "unit": "€",
+    "decimals": 2,
+    "price": 49.200001,
+    "change_1d": 0.1,
+    "change_1w": -3.89,
+    "change_1m": -5.6,
+    "change_ytd": 10.74,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Chemie"
+   },
+   {
+    "symbol": "BAYN.DE",
+    "name": "Bayer",
+    "unit": "€",
+    "decimals": 2,
+    "price": 50.68,
+    "change_1d": -2.61,
+    "change_1w": -9.4,
+    "change_1m": 9.82,
+    "change_ytd": 36.94,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Pharma"
+   },
+   {
+    "symbol": "BMW.DE",
+    "name": "BMW",
+    "unit": "€",
+    "decimals": 2,
+    "price": 55.240002,
+    "change_1d": 3.72,
+    "change_1w": 0.44,
+    "change_1m": -2.61,
+    "change_ytd": -40.69,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Autos"
+   },
+   {
+    "symbol": "AVGO",
+    "name": "Broadcom",
+    "unit": "$",
+    "decimals": 2,
+    "price": 300.859985,
+    "change_1d": -0.07,
+    "change_1w": -15.02,
+    "change_1m": -12.11,
+    "change_ytd": -13.07,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Halbleiter"
+   },
+   {
+    "symbol": "1211.HK",
+    "name": "BYD",
+    "unit": "HK$",
+    "decimals": 2,
+    "price": 57.75,
+    "change_1d": 1.49,
+    "change_1w": -7.38,
+    "change_1m": -15.88,
+    "change_ytd": -39.27,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-27",
+    "sector": "Autos"
+   },
+   {
+    "symbol": "DBK.DE",
+    "name": "Deutsche Bank",
+    "unit": "€",
+    "decimals": 2,
+    "price": 29.07,
+    "change_1d": -2.78,
+    "change_1w": -3.08,
+    "change_1m": 0.68,
+    "change_ytd": -12.2,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Banken"
+   },
+   {
+    "symbol": "DTE.DE",
+    "name": "Deutsche Telekom",
+    "unit": "€",
+    "decimals": 2,
+    "price": 26.83,
+    "change_1d": 0.04,
+    "change_1w": 1.9,
+    "change_1m": 6.72,
+    "change_ytd": -3.0,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Telekommunikation"
+   },
+   {
+    "symbol": "DHL.DE",
+    "name": "DHL Group",
+    "unit": "€",
+    "decimals": 2,
+    "price": 56.060001,
+    "change_1d": -0.46,
+    "change_1w": -6.47,
+    "change_1m": -4.69,
+    "change_ytd": 19.97,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Logistik"
+   },
+   {
+    "symbol": "LLY",
+    "name": "Eli Lilly",
+    "unit": "$",
+    "decimals": 2,
+    "price": 1392.219971,
+    "change_1d": -1.09,
+    "change_1w": 0.68,
+    "change_1m": 8.61,
+    "change_ytd": 29.55,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Pharma"
+   },
+   {
+    "symbol": "HAG.DE",
+    "name": "Hensoldt",
+    "unit": "€",
+    "decimals": 2,
+    "price": 77.220001,
+    "change_1d": -0.23,
+    "change_1w": -0.57,
+    "change_1m": -10.44,
+    "change_ytd": 5.2,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Rüstung"
+   },
+   {
+    "symbol": "IFX.DE",
+    "name": "Infineon",
+    "unit": "€",
+    "decimals": 2,
+    "price": 40.895,
+    "change_1d": -6.49,
+    "change_1w": -16.89,
+    "change_1m": -22.24,
+    "change_ytd": 8.39,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Halbleiter"
+   },
+   {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase",
+    "unit": "$",
+    "decimals": 2,
+    "price": 316.73999,
+    "change_1d": -0.11,
+    "change_1w": -2.27,
+    "change_1m": -5.67,
+    "change_ytd": -1.7,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Banken"
+   },
+   {
+    "symbol": "LMT",
+    "name": "Lockheed Martin",
+    "unit": "$",
+    "decimals": 2,
+    "price": 599.23999,
+    "change_1d": 2.15,
+    "change_1w": 3.64,
+    "change_1m": -3.81,
+    "change_ytd": 23.89,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Rüstung"
+   },
+   {
+    "symbol": "MBG.DE",
+    "name": "Mercedes-Benz",
+    "unit": "€",
+    "decimals": 2,
+    "price": 37.540001,
+    "change_1d": 0.48,
+    "change_1w": -3.64,
+    "change_1m": -5.62,
+    "change_ytd": -37.51,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Autos"
+   },
+   {
+    "symbol": "META",
+    "name": "Meta",
+    "unit": "$",
+    "decimals": 2,
+    "price": 609.890015,
+    "change_1d": 3.4,
+    "change_1w": -1.05,
+    "change_1m": -1.66,
+    "change_ytd": -7.61,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Internet"
+   },
+   {
+    "symbol": "MSFT",
+    "name": "Microsoft",
+    "unit": "$",
+    "decimals": 2,
+    "price": 489.929993,
+    "change_1d": -1.25,
+    "change_1w": -3.61,
+    "change_1m": -7.79,
+    "change_ytd": 1.3,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Software"
+   },
+   {
+    "symbol": "MUV2.DE",
+    "name": "Munich Re",
+    "unit": "€",
+    "decimals": 2,
+    "price": 585.0,
+    "change_1d": -0.31,
+    "change_1w": 0.52,
+    "change_1m": 5.63,
+    "change_ytd": 4.06,
+    "trend": "Aufwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Versicherung"
+   },
+   {
+    "symbol": "NOVO-B.CO",
+    "name": "Novo Nordisk",
+    "unit": "DKK",
+    "decimals": 2,
+    "price": 274.299988,
+    "change_1d": -0.13,
+    "change_1w": 1.05,
+    "change_1m": 5.7,
+    "change_ytd": -15.66,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Pharma"
+   },
+   {
+    "symbol": "NVDA",
+    "name": "Nvidia",
+    "unit": "$",
+    "decimals": 2,
+    "price": 149.300003,
+    "change_1d": -3.91,
+    "change_1w": -1.1,
+    "change_1m": -31.49,
+    "change_ytd": -19.95,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Halbleiter"
+   },
+   {
+    "symbol": "PLTR",
+    "name": "Palantir",
+    "unit": "$",
+    "decimals": 2,
+    "price": 163.589996,
+    "change_1d": 1.5,
+    "change_1w": 4.42,
+    "change_1m": -17.68,
+    "change_ytd": -7.97,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Software"
+   },
+   {
+    "symbol": "RHM.DE",
+    "name": "Rheinmetall",
+    "unit": "€",
+    "decimals": 2,
+    "price": 735.799988,
+    "change_1d": 0.18,
+    "change_1w": -1.13,
+    "change_1m": -28.23,
+    "change_ytd": -52.86,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Rüstung"
+   },
+   {
+    "symbol": "SAP.DE",
+    "name": "SAP",
+    "unit": "€",
+    "decimals": 2,
+    "price": 189.820007,
+    "change_1d": -0.14,
+    "change_1w": -2.11,
+    "change_1m": -10.95,
+    "change_ytd": -8.89,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Software"
+   },
+   {
+    "symbol": "SHEL.L",
+    "name": "Shell",
+    "unit": "GBp",
+    "decimals": 2,
+    "price": 3555.5,
+    "change_1d": 0.1,
+    "change_1w": -1.11,
+    "change_1m": -9.47,
+    "change_ytd": 29.76,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Öl & Gas"
+   },
+   {
+    "symbol": "SIE.DE",
+    "name": "Siemens",
+    "unit": "€",
+    "decimals": 2,
+    "price": 245.5,
+    "change_1d": -3.59,
+    "change_1w": -7.71,
+    "change_1m": -7.78,
+    "change_ytd": 2.66,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Industrie"
+   },
+   {
+    "symbol": "ENR.DE",
+    "name": "Siemens Energy",
+    "unit": "€",
+    "decimals": 2,
+    "price": 112.459999,
+    "change_1d": -4.6,
+    "change_1w": -11.21,
+    "change_1m": -12.54,
+    "change_ytd": -6.59,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Energietechnik"
+   },
+   {
+    "symbol": "TSLA",
+    "name": "Tesla",
+    "unit": "$",
+    "decimals": 2,
+    "price": 380.140015,
+    "change_1d": -1.18,
+    "change_1w": -0.93,
+    "change_1m": -6.7,
+    "change_ytd": -15.47,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Autos"
+   },
+   {
+    "symbol": "TSM",
+    "name": "TSMC",
+    "unit": "$",
+    "decimals": 2,
+    "price": 342.339996,
+    "change_1d": -1.96,
+    "change_1w": -5.59,
+    "change_1m": -21.64,
+    "change_ytd": 12.65,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Halbleiter"
+   },
+   {
+    "symbol": "VWS.CO",
+    "name": "Vestas",
+    "unit": "DKK",
+    "decimals": 2,
+    "price": 163.0,
+    "change_1d": -3.92,
+    "change_1w": -10.41,
+    "change_1m": -13.16,
+    "change_ytd": -6.0,
+    "trend": "uneinheitlich",
+    "date": "2026-11-25",
+    "sector": "Windkraft"
+   },
+   {
+    "symbol": "VOW3.DE",
+    "name": "Volkswagen",
+    "unit": "€",
+    "decimals": 2,
+    "price": 65.239998,
+    "change_1d": 4.62,
+    "change_1w": -0.06,
+    "change_1m": -5.17,
+    "change_ytd": -37.0,
+    "trend": "Abwärtstrend",
+    "date": "2026-11-25",
+    "sector": "Autos"
+   }
+  ],
+  "trends": [
+   {
+    "id": "ruestung",
+    "label": "Rüstung & Verteidigung",
+    "mentions": 12,
+    "average": 5.6,
+    "direction": "mehr als üblich",
+    "basket_1w": 0.6,
+    "basket_1m": -13.1,
+    "members": [
+     {
+      "name": "Rheinmetall",
+      "change_1m": -28.23
+     },
+     {
+      "name": "Hensoldt",
+      "change_1m": -10.44
+     },
+     {
+      "name": "BAE Systems",
+      "change_1m": -9.72
+     },
+     {
+      "name": "Lockheed Martin",
+      "change_1m": -3.81
+     }
+    ],
+    "stories": [
+     {
+      "title": "Nordkoreas Kim schwört, mehr Atomwaffen zu bauen, nachdem er die Ouvertüre von Trump ignoriert hat",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
+     },
+     {
+      "title": "Oppositionsunordnung",
+      "url": "https://www.dawn.com/news/2047393/opposition-disarray"
+     }
+    ]
+   },
+   {
+    "id": "ki",
+    "label": "Künstliche Intelligenz",
+    "mentions": 13,
+    "average": 19.0,
+    "direction": "etwa wie üblich",
+    "basket_1w": -3.8,
+    "basket_1m": -16.6,
+    "members": [
+     {
+      "name": "Nvidia",
+      "change_1m": -31.49
+     },
+     {
+      "name": "Microsoft",
+      "change_1m": -7.79
+     },
+     {
+      "name": "Alphabet (Google)",
+      "change_1m": -14.81
+     },
+     {
+      "name": "Broadcom",
+      "change_1m": -12.11
+     },
+     {
+      "name": "TSMC",
+      "change_1m": -21.64
+     },
+     {
+      "name": "Palantir",
+      "change_1m": -17.68
+     },
+     {
+      "name": "SAP",
+      "change_1m": -10.95
+     }
+    ],
+    "stories": [
+     {
+      "title": "Musk verspricht zwei SpaceX-Aktien für jedes US-Kind",
+      "url": "https://www.dailymaverick.co.za/article/2026-11-27-musk-pledges-two-spacex-shares-for-every-us-child-in-18-billion-ai-charm/"
+     },
+     {
+      "title": "Nvidia macht Pause bei Chip-Lieferungen nach Südostasien",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+     }
+    ]
+   },
+   {
+    "id": "chips",
+    "label": "Chips & Halbleiter",
+    "mentions": 2,
+    "average": 2.6,
+    "direction": "etwa wie üblich",
+    "basket_1w": -9.8,
+    "basket_1m": -22.1,
+    "members": [
+     {
+      "name": "Nvidia",
+      "change_1m": -31.49
+     },
+     {
+      "name": "Broadcom",
+      "change_1m": -12.11
+     },
+     {
+      "name": "TSMC",
+      "change_1m": -21.64
+     },
+     {
+      "name": "ASML",
+      "change_1m": -23.02
+     },
+     {
+      "name": "Infineon",
+      "change_1m": -22.24
+     }
+    ],
+    "stories": [
+     {
+      "title": "Nvidia macht Pause bei Chip-Lieferungen nach Südostasien",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+     },
+     {
+      "title": "US-Chip Bordsteine, Destillation Razzia bedrohen chinesische KI-Modellentwicklung, sagen Quellen",
+      "url": "https://www.dailymaverick.co.za/article/2026-11-26-us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say/"
+     }
+    ]
+   },
+   {
+    "id": "zinsen",
+    "label": "Zinsen & Inflation",
+    "mentions": 6,
+    "average": null,
+    "direction": "",
+    "basket_1w": -1.6,
+    "basket_1m": 1.2,
+    "members": [
+     {
+      "name": "Deutsche Bank",
+      "change_1m": 0.68
+     },
+     {
+      "name": "Allianz",
+      "change_1m": 4.3
+     },
+     {
+      "name": "Munich Re",
+      "change_1m": 5.63
+     },
+     {
+      "name": "JPMorgan Chase",
+      "change_1m": -5.67
+     },
+     {
+      "name": "US-Anleihe 10 Jahre (Rendite)",
+      "change_1m": -0.14
+     }
+    ],
+    "stories": [
+     {
+      "title": "Er kennt die EZB genau: Wofür steht Pablo Hernández de Cos?",
+      "url": "https://www.zdfheute.de/wirtschaft/ezb-pablo-hernandez-de-cos-spanien-portraet-100.html"
+     },
+     {
+      "title": "Oppositionsunordnung",
+      "url": "https://www.dawn.com/news/2047216/bilawal-terms-pti-a-political-reality-calls-for-restoring-its-trust-in-the-system"
+     }
+    ]
+   },
+   {
+    "id": "emobil",
+    "label": "Elektroautos & Batterien",
+    "mentions": 4,
+    "average": 4.5,
+    "direction": "etwa wie üblich",
+    "basket_1w": -2.0,
+    "basket_1m": -7.6,
+    "members": [
+     {
+      "name": "Tesla",
+      "change_1m": -6.7
+     },
+     {
+      "name": "BYD",
+      "change_1m": -15.88
+     },
+     {
+      "name": "Volkswagen",
+      "change_1m": -5.17
+     },
+     {
+      "name": "BMW",
+      "change_1m": -2.61
+     }
+    ],
+    "stories": []
+   },
+   {
+    "id": "energie",
+    "label": "Öl",
+    "mentions": 1,
+    "average": 1.3,
+    "direction": "etwa wie üblich",
+    "basket_1w": -0.4,
+    "basket_1m": -14.7,
+    "members": [
+     {
+      "name": "Shell",
+      "change_1m": -9.47
+     },
+     {
+      "name": "Brent-Öl (Barrel)",
+      "change_1m": -20.0
+     }
+    ],
+    "stories": []
+   }
+  ],
+  "failed": []
+ }
+}
